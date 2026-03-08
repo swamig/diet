@@ -24,3 +24,21 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 ## 4. Moringa Powder
 *   **The Mechanism:** Moringa is a potent antimicrobial and nutrient-dense leaf, but it places a mild hormetic stress on liver detox pathways.
 *   **The Rule:** **Cycle 2x weekly maximum** (e.g., Tuesday and Thursday). Do not stack it on the same day as heavy antimicrobial spices (like Clove or high-dose Ajwain) to protect the microbiome baseline.
+
+## 5. Daily Micro-Nutrient Stack
+
+### Omega-3 (Fish Oil/Algae Oil)
+*   **Timing:** Take with your **Main Meal (12:00)**.
+*   **Rationale:** Omega-3s require dietary fats for optimal absorption. Taking them with your main meal (which includes 5g of olive oil and fat-soluble spices like turmeric) ensures maximum bioavailability. This supports the **Omega Balance** (`04-advanced-control/omega-balance.md`) by providing high-quality EPA/DHA to counter any dietary omega-6.
+
+### Vitamin D3 (+ K2)
+*   **Timing:** Take with your **Main Meal (12:00)**.
+*   **Rationale:** Vitamin D is fat-soluble. It must be taken with a meal containing fat (olive oil/tofu/chicken) to be absorbed. 
+
+### Vitamin C
+*   **Timing:** Take with your **Main Meal (12:00)**.
+*   **Rationale:** Vitamin C significantly increases the absorption of **non-heme iron** from your beans and lentils. By taking it with your main meal, you maximize the nutritional value of your legumes.
+
+### Daily Multivitamin
+*   **Timing:** Take with your **Main Meal (12:00)** or **Salad (14:30)**.
+*   **Rationale:** Taking a multi on an empty stomach can cause nausea and reduces the absorption of fat-soluble vitamins (A, E, K). Pairing it with your meal window ensures the minerals and vitamins are processed alongside the whole-food co-factors in your diet.
