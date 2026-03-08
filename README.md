@@ -4,6 +4,14 @@ This is a comprehensive metabolic operations manual designed to optimize physica
 
 It provides structured daily protocols, deep ingredient analysis, and systemic monitoring to help you build a robust, metabolically flexible foundation.
 
+## 🧬 Core Protocol Principles
+
+1. **Metabolic Flexibility:** Efficiently switching between glucose and fat oxidation. *(See: [Foundations](01-foundations/01-metabolic-flexibility.md))*
+2. **Inflammatory Signaling Control:** Mandatory daily stacking of Turmeric + Black Pepper. *(See: [Inflammatory Control](01-foundations/02-inflammatory-control.md))*
+3. **Sulforaphane Optimization:** The "Chop & Rest" rule for all cruciferous vegetables. *(See: [Sulforaphane Protocol](01-foundations/02-inflammatory-control.md#sulforaphane-activation-protocol))*
+4. **Microbiome Hormesis:** Rotational exposure to antimicrobial spices (Cumin, Ajwain, Clove). *(See: [Microbiome Hormesis](01-foundations/03-microbiome-hormesis.md))*
+5. **Resistant Starch Cycling:** The "Cook-and-Chill" method for all legumes and grains. *(See: [Resistant Starch](01-foundations/05-resistant-starch.md))*
+
 ## 🗂️ Navigation
 
 ### 1. [Foundations](01-foundations/)
@@ -12,6 +20,7 @@ Clinical rationale, physiology, and the "why" behind the protocol.
 * [Inflammatory Control](01-foundations/02-inflammatory-control.md)
 * [Microbiome Hormesis](01-foundations/03-microbiome-hormesis.md)
 * [Hydration](01-foundations/04-hydration.md)
+* [Resistant Starch Cycling](01-foundations/05-resistant-starch.md)
 
 ### 2. [Ingredients & Monographs](02-ingredients/)
 Deep dives into the active compounds, stacking logic, and benefits of each key ingredient (e.g., [Turmeric](02-ingredients/turmeric.md), [Black Pepper](02-ingredients/black-pepper.md), [Microgreens](02-ingredients/microgreens.md)).
