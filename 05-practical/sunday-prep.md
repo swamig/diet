@@ -47,6 +47,20 @@ Pre-mix 7 small jars with:
 *   1/2 tsp Cumin
 *   (Black pepper is added fresh).
 
+## Nutritional Enhancement through Proper Prep
+
+Batch prep in this protocol is designed to optimize the bioavailability of key compounds.
+
+### 1. Building Resistant Starch (Lentils & Quinoa)
+To convert simple starches into **Resistant Starch Type 3**:
+*   **The Workflow:** After cooking lentils and quinoa, they must be cooled rapidly (spread on a tray) and then chilled in the fridge for at least 12–24 hours.
+*   **The Benefit:** This process (retrogradation) realigns the starch molecules, lowering the glycemic index and providing a prebiotic fuel source for your gut microbiome.
+*   **Reheating:** Always reheat gently (below 130°F) to preserve this crystalline starch structure.
+
+### 2. Sulforaphane Activation (Broccoli)
+*   **The Workflow:** Broccoli is chopped and allowed to **rest for 30 minutes** before being stored or cooked.
+*   **The Benefit:** Chopping breaks the plant cell walls, allowing the enzyme *myrosinase* to interact with *glucoraphanin* to create **Sulforaphane**. Resting ensures the reaction is complete before heat is applied, as heat destroys the myrosinase enzyme.
+
 ## Storage Logic
 *   **Fridge:** Cooked chicken (4 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
 *   **Freezer:** Extra portions.
