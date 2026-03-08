@@ -24,3 +24,7 @@
     *   *Rationale:* Prevents systemic oxalate and curcumin overload, protecting liver and kidney pathways.
 *   **Moringa Powder (1 tbsp):** Cycled 2x a week (e.g., Tues/Thurs).
     *   *Rationale:* Provides a mild hormetic stress without overwhelming liver detox pathways. Not to be stacked with heavy antimicrobial spices (Clove/Ajwain).
+
+## 4. Micro-Nutrient Optimization
+*   **Omega-3, Vitamin D, Vitamin C, Daily Multi:** Moved strictly to the **Main Meal (12:00)** window.
+    *   *Rationale:* Omega-3 and Vitamin D are fat-soluble and require the dietary fats (olive oil/protein) in the main meal for absorption. Vitamin C is timed to maximize **non-heme iron absorption** from the garbanzo and black beans. Taking the multi with food prevents nausea and improves bioavailability.
