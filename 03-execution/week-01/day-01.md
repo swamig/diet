@@ -6,10 +6,10 @@ Establish anti-inflammatory baseline + vascular support.
 ## Timing Structure
 *   **06:30** – Fasted cardio (20–40 minutes, low intensity)
 *   **07:15** – Ajwain hydration
-*   **12:00** – Break fast (main meal)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
 *   **14:30** – Rotational salad
 *   **16:30** – Resistance training
-*   **17:30** – Post-workout protein
+*   **17:30** – Post-workout protein (Whey + Creatine)
 *   **17:50** – Recovery bowl
 *   **21:00** – Night hydration (Saffron infusion)
 
@@ -24,9 +24,9 @@ Establish anti-inflammatory baseline + vascular support.
 *   Warm water (not boiling)
 *   Steep 10-15 min. Drink 60 min before sleep.
 
-## Main Meal: Anti-Inflammatory Chicken Protocol
+## Main Meal: Anti-Inflammatory Chicken Protocol (12:00)
 **Ingredients:**
-*   170g chicken breast
+*   170g chicken breast (or 1 cup prepped beans)
 *   150g broccoli (chopped, rested 30 min)
 *   90g cooked quinoa
 *   5g olive oil
@@ -37,12 +37,15 @@ Establish anti-inflammatory baseline + vascular support.
 *   0.5g black pepper (1/4 tsp)
 *   Pinch sea salt
 
+**Micro-Nutrient Stack (Take with meal):**
+*   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin.
+
 **Instructions:**
 1.  Rub chicken with spice mix.
 2.  Sear in olive oil (5-6 min/side). Rest 5 min.
 3.  Sauté broccoli 3-4 min. Add mustard powder off heat.
 
-## Salad: Vascular Support Layer
+## Salad: Vascular Support Layer (14:30)
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
@@ -53,11 +56,16 @@ Establish anti-inflammatory baseline + vascular support.
 *   1/2 cup pomegranate seeds (Day 1 nitric support)
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
-## Recovery Bowl
+## Post-Workout Protocol (17:30)
+*   **2 Scoops Whey Isolate** (Unflavored/Vanilla preferred, or Finish-Your-Stash Chocolate)
+*   **5g Creatine**
+*   *(Mix with water)*
+
+## Recovery Bowl (17:50)
 *   200g Greek yogurt
 *   25g casein protein
 *   75g blueberries
-*   1 tbsp cacao nibs
+*   1 tbsp cacao nibs *(NOTE: Skip cacao nibs if you consumed Chocolate Whey at 17:30)*
 
 ## Clinical Rationale
 *   Turmeric establishes NF-κB modulation.
