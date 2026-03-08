@@ -35,6 +35,7 @@ Specific management strategies to control internal biochemical loads.
 * [Heavy Metals](04-advanced-control/heavy-metals.md)
 * [Liver Load](04-advanced-control/liver-load.md)
 * [Omega Balance](04-advanced-control/omega-balance.md)
+* [Supplement Cycling & Management](04-advanced-control/supplement-cycling.md)
 
 ### 5. [Practical Logistics](05-practical/)
 How to execute the protocol efficiently in real life.
