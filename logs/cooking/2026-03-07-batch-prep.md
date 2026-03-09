@@ -30,7 +30,7 @@ After discarding the soak water and rinsing thoroughly, the beans were boiled se
 
 ### 2. The "High-Signaling" Roasting Modification
 A small portion of the chilled garbanzos and black beans (which were already infused with the whole Indian spices during the boil) are reserved for roasting to act as crunchy salad "croutons".
-*   **The Spice & Acid Fix:** Prior to roasting, the cold beans were tossed in 1 tsp Olive Oil, the daily powdered spice stack (1/2 tsp Turmeric, 1/2 tsp Cumin, 1/4 tsp Black Pepper), and 1 tsp Balsamic Vinegar. *Rationale:* The low pH protects the heat-sensitive anthocyanin antioxidants from thermal degradation, while the oil blooms the turmeric.
+*   **The Spice & Acid Fix:** Prior to roasting, the cold beans were sprayed evenly with **Avocado Oil**, tossed with the daily powdered spice stack (1/2 tsp Turmeric, 1/2 tsp Cumin, 1/4 tsp Black Pepper), and 1 tsp Balsamic Vinegar. *Rationale:* Avocado oil has a 520°F smoke point, preventing fat oxidation at 380°F. The low pH protects the heat-sensitive anthocyanin antioxidants, while the avocado oil safely blooms the turmeric.
 *   **The Flash Roast:** Baked at 380°F for exactly 10 minutes. *Rationale:* Taking the beans directly from the 38°F fridge ensures the short bake only crisps the exterior, leaving the core cool enough to preserve the crystalline structure of the Resistant Starch.
 
 ## 3. Menu Adjustments
