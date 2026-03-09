@@ -28,7 +28,12 @@ After discarding the soak water and rinsing thoroughly, the beans were boiled se
 *   **The Execution:** Both pots were brought to a boil, skimmed of foam (saponins/impurities), and simmered on low. **1/2 tsp Unrefined Sea Salt** was added to each pot *only* after the beans were completely tender to prevent tough skins.
 *   **The "Cook-and-Chill" Method:** All beans and the prepped quinoa (3-4 cups dry, thoroughly rinsed, boiled 15 mins) have been moved to the cooling phase on trays to initiate retrogradation (Resistant Starch Type 3 formation).
 
-## 2. Menu Adjustments
+### 2. The "High-Signaling" Roasting Modification
+A small portion of the chilled garbanzos and black beans are reserved for roasting (to act as crunchy salad "croutons").
+*   **The Acid Fix:** Black beans tossed in 1 tsp Balsamic Vinegar prior to roasting. *Rationale:* The low pH protects the heat-sensitive anthocyanin antioxidants from thermal degradation.
+*   **The Flash Roast:** Baked at 380°F for exactly 10 minutes. *Rationale:* Taking the beans directly from the 38°F fridge ensures the short bake only crisps the exterior, leaving the core cool enough to preserve the crystalline structure of the Resistant Starch.
+
+## 3. Menu Adjustments
 *   **Green Beans:** Fermenting in a 2% salt brine for 5-7 days.
 
 ## 3. Supplement Stack Integration ("Finish Your Stash" Protocol)

@@ -17,6 +17,12 @@ To maximize the metabolic benefits of your carbohydrate sources:
 3.  **Chill for 24 Hours:** Store in the refrigerator for at least 12–24 hours before consumption. This cooling window is required for the resistant starch to fully form.
 4.  **Reheat Gently:** When ready to eat, reheat the portion gently (do not exceed 130°F / 55°C). Overheating will "melt" the resistant starch back into easily digestible simple starches.
 
+### Advanced Protocol: "High-Signaling Roasting"
+If a crunchy texture is required (e.g., for salad toppers), baking must be carefully managed to avoid destroying the Resistant Starch and heat-sensitive antioxidants (like Anthocyanins in black beans).
+*   **The Pre-Chill Rule:** Beans must complete the 24-hour chill phase *before* roasting. Do not roast immediately after boiling.
+*   **The Acid Fix:** Toss the cold beans in a small amount of acid (e.g., Balsamic Vinegar or Lemon Juice). Anthocyanins are highly stable in acidic environments, which protects the pigments from thermal degradation in the oven.
+*   **The Flash Roast:** Bake at 380°F (190°C) for **maximum 10–12 minutes**. Because the beans start at fridge temperature (38°F), the short bake time crisp the exterior (creating flavorful melanoidins) without allowing the dense core to reach the 130°F threshold that melts the Resistant Starch.
+
 ## Performance Application
 
 By converting regular starches into resistant starches, you achieve two primary goals:
