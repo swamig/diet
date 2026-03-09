@@ -19,8 +19,9 @@ To maximize the metabolic benefits of your carbohydrate sources:
 
 ### Advanced Protocol: "High-Signaling Roasting"
 If a crunchy texture is required (e.g., for salad toppers), baking must be carefully managed to avoid destroying the Resistant Starch and heat-sensitive antioxidants (like Anthocyanins in black beans).
+*   **The Infusion Boil:** Always boil the beans with whole aromatics (e.g., Ginger, Jeera, Ajwain) to build a deep flavor base. Discard the water and chill.
 *   **The Pre-Chill Rule:** Beans must complete the 24-hour chill phase *before* roasting. Do not roast immediately after boiling.
-*   **The Acid Fix:** Toss the cold beans in a small amount of acid (e.g., Balsamic Vinegar or Lemon Juice). Anthocyanins are highly stable in acidic environments, which protects the pigments from thermal degradation in the oven.
+*   **The Spice & Acid Fix:** Toss the cold beans in 1 tsp Olive Oil, your powdered daily spice stack (Turmeric, Cumin, Black Pepper), and a small amount of acid (e.g., Balsamic Vinegar or Lemon Juice). The acid protects the anthocyanin pigments from thermal degradation, while the oil blooms the spices.
 *   **The Flash Roast:** Bake at 380°F (190°C) for **maximum 10–12 minutes**. Because the beans start at fridge temperature (38°F), the short bake time crisp the exterior (creating flavorful melanoidins) without allowing the dense core to reach the 130°F threshold that melts the Resistant Starch.
 
 ## Performance Application
