@@ -7,11 +7,26 @@
     *   **Garbanzo Beans (2 cups dry):** Soaked with **Bay Leaf**, **Ajwain**, and **Jeera (Cumin)**.
     *   **Black Beans (2 cups dry):** Soaked separately.
     *   *Rationale:* The aromatics (Bay leaf, Ajwain, Jeera) are used in the soak to begin the enzyme breakdown of gas-producing oligosaccharides. Discarding the soak water today (Saturday) removes these leached antinutrients before the final cook.
-*   **Quinoa:** Prepped 3-4 cups dry. 
-    *   *Action:* Thoroughly rinsed (no soak), boiled for 15 mins, rested for 5.
-*   **Salad Dressing (5-Day Batch):** Prepped a master jar with Olive Oil, Balsamic, Tomato Puree, Dijon, Turmeric, and Black Pepper.
-    *   *Rationale:* Pre-mixing the turmeric and black pepper in the oil carrier ensures maximum piperine-driven curcumin absorption throughout the week.
-*   **The "Cook-and-Chill" Method:** All beans and quinoa have been moved to the cooling phase on trays to initiate retrogradation (Resistant Starch Type 3 formation).
+
+### The "High-Signaling" Boiling Protocol
+After discarding the soak water and rinsing thoroughly, the beans were boiled separately with the following "Khada Masala" (Whole Spice) base to build deep, digestive flavor without destroying the volatile compounds of the daily spice stack (Turmeric/Coriander):
+
+*   **Garbanzo Pot (2 cups dry):**
+    *   6-8 cups water.
+    *   1-inch knob Ginger (smashed).
+    *   1.5 tsp Jeera (Cumin) seeds.
+    *   1/4 tsp Ajwain (palm-rubbed).
+    *   3-4 Whole Cloves.
+    *   2-3 Bay Leaves.
+*   **Black Bean Pot (2 cups dry):**
+    *   6-8 cups water.
+    *   1-inch knob Ginger (smashed).
+    *   1.5 tsp Jeera (Cumin) seeds.
+    *   1/2 tsp **Ceylon Cinnamon Powder** (Added in the last 15 minutes of simmering to prevent the powder from burning or turning the water excessively muddy, replacing the whole stick).
+    *   2 Bay Leaves.
+
+*   **The Execution:** Both pots were brought to a boil, skimmed of foam (saponins/impurities), and simmered on low. **1/2 tsp Unrefined Sea Salt** was added to each pot *only* after the beans were completely tender to prevent tough skins.
+*   **The "Cook-and-Chill" Method:** All beans and the prepped quinoa (3-4 cups dry, thoroughly rinsed, boiled 15 mins) have been moved to the cooling phase on trays to initiate retrogradation (Resistant Starch Type 3 formation).
 
 ## 2. Menu Adjustments
 *   **Green Beans:** Fermenting in a 2% salt brine for 5-7 days.
