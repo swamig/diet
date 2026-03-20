@@ -23,9 +23,9 @@ Sulforaphane amplification + nitric preparation.
 *   1/4 tsp Ceylon cinnamon
 *   Warm water. Stir well.
 
-## Main Meal: Chicken (Sulforaphane Priority)
+## Main Meal: Vegan Patties (Sulforaphane Priority)
 **Ingredients:**
-*   170g chicken breast
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rest 30 min)
 *   90g cooked quinoa
 *   5g olive oil
@@ -37,7 +37,7 @@ Sulforaphane amplification + nitric preparation.
 *   **No nigella today (spacing antimicrobial load).**
 
 **Instructions:**
-1.  Rub chicken with spice mix.
+1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
 3.  Sauté rested broccoli 3-4 min, add mustard powder off heat.
 

@@ -17,7 +17,7 @@
 
 | Protein | Target Temp (Internal) | Rest Time | Notes |
 | :--- | :--- | :--- | :--- |
-| **Chicken Breast** | 165°F (74°C) | 5-10 min | Carryover cooking is minimal. Pull at 160°F if wrapped. |
+| **Vegan Patties** | 165°F (74°C) internal (if steaming thick patties) | 10-15 min (Steam) | Sear after steaming for crust. |
 | **Tofu** | Until seared | - | Texture preference. |
 | **Lentils** | Tender | - | Simmer until soft. |
 

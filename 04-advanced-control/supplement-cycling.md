@@ -33,7 +33,7 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 
 ### Vitamin D3 (+ K2)
 *   **Timing:** Take with your **Main Meal (12:00)**.
-*   **Rationale:** Vitamin D is fat-soluble. It must be taken with a meal containing fat (olive oil/tofu/chicken) to be absorbed. 
+*   **Rationale:** Vitamin D is fat-soluble. It must be taken with a meal containing fat (olive oil/tofu/vegan patties) to be absorbed. 
 
 ### Vitamin C
 *   **Timing:** Take with your **Main Meal (12:00)**.

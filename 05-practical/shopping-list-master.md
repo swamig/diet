@@ -7,10 +7,15 @@ These will last months.
 *   Turmeric powder (at least 120g)
 *   Whole black peppercorns (grind fresh)
 *   Cumin seeds (Jeera)
+*   Cumin powder
 *   Coriander powder (Dhania)
 *   Kashmiri Chili powder (mild, for color)
+*   Garam Masala
 *   Nigella seeds (Black Jeera)
 *   Ajwain seeds
+*   Fennel seeds (Saunf)
+*   Hing (Asafoetida)
+*   Black salt (Kala Namak)
 *   Ceylon cinnamon (powder or sticks)
 *   Whole cloves
 *   Dried tulsi (Holy Basil)
@@ -23,6 +28,8 @@ These will last months.
 *   Balsamic vinegar
 *   Dijon Mustard (sugar-free)
 *   Tomato Puree (or finely chopped tomatoes)
+*   Soy Sauce (or Tamari)
+*   Apple cider vinegar (with "the mother")
 *   Raw cacao nibs (250-300g)
 *   Casein protein powder (large tub)
 *   Quinoa (2-2.5 kg dry)
@@ -37,7 +44,9 @@ This must be refreshed weekly to maintain nutrient density.
 
 **Greens & Herbs:**
 *   **Microgreens (4-5 small boxes/week)** - Essential. Do not skip.
-*   **Fresh Cilantro (2-3 large bunches)** - Essential daily garnish.
+*   **Fresh Cilantro (2-3 large bunches)** - Essential daily garnish + patty ingredient.
+*   Fresh Parsley (1 large bunch)
+*   Green Chilies (small bag)
 *   Arugula (2 large boxes)
 *   Kale (1 large bunch)
 *   Watercress (1 bunch)
@@ -50,7 +59,10 @@ This must be refreshed weekly to maintain nutrient density.
 *   Broccoli (1.2-1.5 kg) - Approx 3-4 large heads
 
 **Proteins & Dairy:**
-*   Chicken breast (approx 1 kg/week or buy bulk and freeze)
+*   Pea protein powder
+*   Vital wheat gluten
+*   Nutritional Yeast (large bag)
+*   Chickpeas (canned or dry, ~2 kg)
 *   Tofu (3-4 blocks/week)
 *   Greek yogurt (2-3 large tubs/week)
 
@@ -64,4 +76,3 @@ This must be refreshed weekly to maintain nutrient density.
 ## Freezer Stash (Backup)
 *   Frozen blueberries (2 kg bag)
 *   Frozen pomegranate seeds
-*   Portioned chicken breasts

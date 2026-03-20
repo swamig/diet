@@ -22,9 +22,9 @@ Nitric priming + endothelial adaptation.
 *   1/4 tsp Ceylon cinnamon
 *   Warm water.
 
-## Main Meal: Chicken Baseline
+## Main Meal: Vegan Patties Baseline
 **Ingredients:**
-*   170g chicken breast
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min)
 *   1/2 cup quinoa
 *   1 tsp olive oil
@@ -36,7 +36,7 @@ Nitric priming + endothelial adaptation.
 *   **No nigella. No clove.**
 
 **Instructions:**
-1.  Rub chicken with spice mix.
+1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
 3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 

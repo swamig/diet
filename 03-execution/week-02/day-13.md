@@ -22,9 +22,9 @@ Controlled nitric support + sulfur continuity.
 *   1 tsp dried tulsi
 *   Steep 7 min.
 
-## Main Meal: Chicken + Nigella Return
+## Main Meal: Vegan Patties + Nigella Return
 **Ingredients:**
-*   170g chicken breast
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min)
 *   1/2 cup cooked quinoa
 *   5g olive oil
@@ -36,7 +36,7 @@ Controlled nitric support + sulfur continuity.
 *   **1/4 tsp nigella** (Moderate antimicrobial)
 
 **Instructions:**
-1.  Rub chicken with spice mix/nigella.
+1.  Sear patties with spice mix/nigella.
 2.  Sear 5-6 min/side (165°F).
 3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 

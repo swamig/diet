@@ -23,9 +23,9 @@ Sulfur activation + moderate polyphenol support.
 *   1 tsp dried tulsi
 *   Steep 7 min. Drink warm.
 
-## Main Meal: Chicken Sulfur Emphasis
+## Main Meal: Vegan Patties Sulfur Emphasis
 **Ingredients:**
-*   170g chicken breast
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (chopped, rested 30 min)
 *   90g cooked quinoa
 *   5g olive oil
@@ -37,7 +37,7 @@ Sulfur activation + moderate polyphenol support.
 *   **1 tbsp finely chopped onions** (Added at end of cooking)
 
 **Instructions:**
-1.  Rub chicken with spice mix.
+1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
 3.  Sauté broccoli 3-4 min. Add mustard powder off heat. Fold in raw onions.
 

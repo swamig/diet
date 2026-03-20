@@ -12,10 +12,15 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 3.  Store in airtight container. **Do NOT cook.**
 
 ## Block 2: Protein Batch (25 Min)
-**Chicken (Oven Method):**
-1.  Season 4-5 portions with salt/pepper/olive oil.
-2.  Bake 18-22 min at 400°F.
-3.  Cool, slice, store.
+**Vegan Protein Patties:**
+1.  Mix pea protein, vital wheat gluten, aromatics, and digestion spices.
+2.  Form into patties (about 14 for the week).
+3.  Steam until cooked through, then cool and store. Sear just before eating.
+
+**Chickpeas:**
+1.  Rinse 2-3 cans of chickpeas (or cook from dry).
+2.  Mix with a portion of the digestion spice stack.
+3.  Cool overnight to develop resistant starch. Store in the fridge.
 
 **Tofu:**
 1.  Press water out. Slice into slabs. Store raw in water (change daily).
@@ -62,6 +67,6 @@ To convert simple starches into **Resistant Starch Type 3**:
 *   **The Benefit:** Chopping breaks the plant cell walls, allowing the enzyme *myrosinase* to interact with *glucoraphanin* to create **Sulforaphane**. Resting ensures the reaction is complete before heat is applied, as heat destroys the myrosinase enzyme.
 
 ## Storage Logic
-*   **Fridge:** Cooked chicken (4 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
+*   **Fridge:** Vegan Patties (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
 *   **Freezer:** Extra portions.
 *   **Midweek Reset (Wed):** Chop fresh broccoli, refresh paper towels.

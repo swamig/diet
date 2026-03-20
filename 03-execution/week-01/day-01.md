@@ -24,9 +24,9 @@ Establish anti-inflammatory baseline + vascular support.
 *   Warm water (not boiling)
 *   Steep 10-15 min. Drink 60 min before sleep.
 
-## Main Meal: Anti-Inflammatory Chicken Protocol (12:00)
+## Main Meal: Anti-Inflammatory Vegan Patties Protocol (12:00)
 **Ingredients:**
-*   170g chicken breast (or 1 cup prepped beans)
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (chopped, rested 30 min)
 *   90g cooked quinoa
 *   5g olive oil
@@ -41,7 +41,7 @@ Establish anti-inflammatory baseline + vascular support.
 *   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin.
 
 **Instructions:**
-1.  Rub chicken with spice mix.
+1.  Sear patties with spice mix.
 2.  Sear in olive oil (5-6 min/side). Rest 5 min.
 3.  Sauté broccoli 3-4 min. Add mustard powder off heat.
 

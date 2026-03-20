@@ -11,7 +11,7 @@ Maximize sulforaphane integrity and minimize nutrient degradation.
 *   **Door:** Condiments only
 
 ## Top Shelf (Ready & Daily Access)
-*   **Pre-cooked chicken** (front left)
+*   **Vegan Patties & pre-cooked Chickpeas** (front left)
 *   **Cooked lentils** (front right)
 *   **Cooked quinoa** (center)
 *   **Pre-portioned sauerkraut cups**
@@ -32,7 +32,7 @@ Maximize sulforaphane integrity and minimize nutrient degradation.
 *   **Low Humidity:** Ginger, Lemons, Green onions (wrapped in dry towel).
 
 ## Bottom Shelf (Raw Protein)
-*   Raw chicken (sealed container).
+*   Raw Tofu or fresh patty mix (sealed container).
 *   Tofu (sealed until use, then submerged in water).
 
 ## Door (Do NOT Store Produce Here)
