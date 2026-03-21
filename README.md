@@ -39,10 +39,12 @@ Specific management strategies to control internal biochemical loads.
 
 ### 5. [Practical Logistics](05-practical/)
 How to execute the protocol efficiently in real life.
-* [Sunday Prep (90-Min Batch Prep System)](05-practical/sunday-prep.md)
-* [Master Shopping List](05-practical/shopping-list-master.md)
-* [Fridge Storage Guide](05-practical/fridge-storage.md)
-* [Produce Cleaning](05-practical/produce-cleaning.md)
+*   [Sunday Prep (90-Min Batch Prep System)](05-practical/sunday-prep.md)
+*   ["Cold-Mash" Performance Refried Beans](05-practical/performance-refried-beans.md)
+*   [Vegan Protein Patties & Chickpeas](05-practical/vegan-protein-patties.md)
+*   [Master Shopping List](05-practical/shopping-list-master.md)
+*   [Fridge Storage Guide](05-practical/fridge-storage.md)
+*   [Produce Cleaning](05-practical/produce-cleaning.md)
 
 ### 6. [Monitoring](06-monitoring/)
 Tracking templates to quantify progress.
