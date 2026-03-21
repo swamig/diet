@@ -17,10 +17,11 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 2.  Form into patties (about 14 for the week).
 3.  Steam until cooked through, then cool and store. Sear just before eating.
 
-**Chickpeas:**
-1.  Rinse 2-3 cans of chickpeas (or cook from dry).
-2.  Mix with a portion of the digestion spice stack.
-3.  Cool overnight to develop resistant starch. Store in the fridge.
+**Chickpeas & Beans:**
+1.  Rinse 2-3 cans of chickpeas/black beans (or cook from dry).
+2.  **Flavor Boost:** If cooking from dry, add 1 tsp garlic powder and 1 tsp onion powder to the boiling water.
+3.  Mix with a portion of the digestion spice stack.
+4.  Cool overnight to develop resistant starch. Store in the fridge.
 
 **Tofu:**
 1.  Press water out. Slice into slabs. Store raw in water (change daily).

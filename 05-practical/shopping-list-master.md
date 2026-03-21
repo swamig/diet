@@ -14,6 +14,8 @@ These will last months.
 *   Nigella seeds (Black Jeera)
 *   Ajwain seeds
 *   Fennel seeds (Saunf)
+*   Garlic powder
+*   Onion powder
 *   Hing (Asafoetida)
 *   Black salt (Kala Namak)
 *   Ceylon cinnamon (powder or sticks)
@@ -63,6 +65,7 @@ This must be refreshed weekly to maintain nutrient density.
 *   Vital wheat gluten
 *   Nutritional Yeast (large bag)
 *   Chickpeas (canned or dry, ~2 kg)
+*   Black Beans (canned or dry, ~1 kg)
 *   Tofu (3-4 blocks/week)
 *   Greek yogurt (2-3 large tubs/week)
 

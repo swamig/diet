@@ -45,7 +45,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ## 👨‍🍳 Method (Creates "Chicken" Texture)
 
-1.  **Prep Chickpeas:** Cook, drain, and dry for 10–15 min. Mash until 70% smooth and 30% chunky.
+1.  **Prep Chickpeas:** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas or black beans. Drain and dry for 10–15 min. Mash until 70% smooth and 30% chunky.
 2.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."
 3.  **Build Dough:** Mix all ingredients until a firm dough forms.
 4.  **Knead (CRITICAL):** Knead the dough for 3–5 minutes until it feels elastic and slightly springy.
