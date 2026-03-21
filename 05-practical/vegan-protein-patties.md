@@ -54,7 +54,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 7.  **Create Fibers (Meat Effect):** Flatten the dough, fold it, and repeat 2–3x to build "meat-like" fibers.
 8.  **Shape:** Form into 4 large burger patties.
 9.  **Cook (Optimized):**
-    *   **🥇 Best:** Steam for 15 minutes (easier digestion), then pan-sear with light oil for a crust.
+    *   **🥇 Best:** Steam for 15 minutes (easier digestion), then pan-sear with light oil for a crust. *(Curcumin Activation: The quick pan-sear in oil is critical—it blooms the Turmeric/Haldi and Black Pepper inside the dough, maximizing anti-inflammatory absorption without overheating the resistant starch).*
     *   **🥈 Fast:** Bake at 400°F for 25–30 min, flipping halfway. Finish with a quick sear.
 
 ---
