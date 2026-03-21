@@ -15,16 +15,22 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   Pinch of Hing (Asafoetida).
 *   Salt & Black Pepper to taste.
 
+**🌴 Costa Rican / Mazatlan Flavor Layer:**
+*   1 tbsp finely diced Red Bell Pepper & Onion (Costa Rican *sofrito* base).
+*   ½ tsp Coriander powder & ½ tsp Mexican Oregano.
+*   ¼ tsp Smoked Paprika or mild Chipotle powder (for Mazatlan smoky depth without the fried lard).
+*   Fresh chopped Cilantro (for finishing).
+
 ---
 
 ## 👨‍🍳 Method (The "Low-Heat" Technique)
 
 1.  **Cold Mash:** In a bowl, take your cold beans directly from the fridge. Mash them with a fork or potato masher. 
     *   **Pro-Tip:** Mash 70% for the "refried" creaminess, but keep 30% whole. This preserves some structural fiber and resistant starch integrity.
-2.  **Pan Infusion (3-4 Minutes):** Heat a pan on **low**. Add the bean liquid/water, minced garlic, ginger, and the **Digestion Stack** spices. Stir for 60 seconds until fragrant.
-3.  **The Gentle Fold:** Add the mashed beans and the **Acid Shield** (vinegar). Stir constantly to combine with the aromatics.
+2.  **Pan Infusion (3-4 Minutes):** Heat a pan on **low**. Add the bean liquid/water, minced garlic, ginger, diced bell pepper, and onion. Sauté until soft. Add the **Digestion Stack** spices, coriander, oregano, and smoked paprika. Stir for 60 seconds until fragrant.
+3.  **The Gentle Fold:** Add the mashed beans and the **Acid Shield** (vinegar). Stir constantly to combine with the aromatics and spices.
 4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). If they start to steam heavily or bubble, they are too hot. You want to "warm" them, not "re-cook" them.
-5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. This preserves the delicate polyphenols in the oil and gives the beans a rich, traditional "fried" mouthfeel without the high-heat damage.
+5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro. This preserves the delicate polyphenols in the oil and gives the beans a rich, traditional "fried" mouthfeel without the high-heat damage.
 
 ---
 
