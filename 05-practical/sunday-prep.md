@@ -33,6 +33,13 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 2.  Cook large batch (3-4 cups dry).
 3.  Cool. Portion into 7 containers. Freeze extra.
 
+## Block 3.5: Salad Crouton Roasting (10 Min)
+*(Note: Only do this with beans that have already completed their full 24-hour chill).*
+1.  Take cold chickpeas or black beans directly from the fridge.
+2.  Spray evenly with **Avocado Oil** (handles high heat without oxidizing).
+3.  Toss with Indian spices: **Turmeric (Haldi), Cumin, and Black Pepper**.
+4.  Flash-roast at 380°F for exactly 10-12 minutes to crisp the outside without melting the Resistant Starch inside.
+
 ## Block 4: Salad Infrastructure (20 Min)
 **Do NOT dress salads yet.**
 1.  Wash/spin greens. Store with paper towel.
