@@ -14,6 +14,8 @@ These will last months.
 *   Nigella seeds (Black Jeera)
 *   Ajwain seeds
 *   Fennel seeds (Saunf)
+*   Achiote (Annatto) powder
+*   Mexican Oregano
 *   Garlic powder
 *   Onion powder
 *   Hing (Asafoetida)
