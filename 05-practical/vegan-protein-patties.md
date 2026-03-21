@@ -45,13 +45,15 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ## 👨‍🍳 Method (Creates "Chicken" Texture)
 
-1.  **Prep Chickpeas:** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas or black beans. Drain and dry for 10–15 min. Mash until 70% smooth and 30% chunky.
-2.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."
-3.  **Build Dough:** Mix all ingredients until a firm dough forms.
-4.  **Knead (CRITICAL):** Knead the dough for 3–5 minutes until it feels elastic and slightly springy.
-5.  **Create Fibers (Meat Effect):** Flatten the dough, fold it, and repeat 2–3x to build "meat-like" fibers.
-6.  **Shape:** Form into 4 large burger patties.
-7.  **Cook (Optimized):**
+1.  **Prep Chickpeas (The Double-Chill):** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas. Drain, cool rapidly, and chill in the fridge for 24 hours.
+2.  **The Second Warm (Acid Shield):** Gently warm the chilled chickpeas in a pan (stay under 130°F) with the ½ tsp apple cider vinegar. Remove from heat, cool rapidly, and return to the fridge for a *second* 24-hour chill to maximize Resistant Starch Type 3.
+3.  **Mash:** Take the double-chilled chickpeas, dry for 10–15 min if needed, and mash until 70% smooth and 30% chunky.
+4.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."
+5.  **Build Dough:** Mix all ingredients until a firm dough forms.
+6.  **Knead (CRITICAL):** Knead the dough for 3–5 minutes until it feels elastic and slightly springy.
+7.  **Create Fibers (Meat Effect):** Flatten the dough, fold it, and repeat 2–3x to build "meat-like" fibers.
+8.  **Shape:** Form into 4 large burger patties.
+9.  **Cook (Optimized):**
     *   **🥇 Best:** Steam for 15 minutes (easier digestion), then pan-sear with light oil for a crust.
     *   **🥈 Fast:** Bake at 400°F for 25–30 min, flipping halfway. Finish with a quick sear.
 

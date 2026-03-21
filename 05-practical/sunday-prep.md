@@ -17,11 +17,10 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 2.  Form into patties (about 14 for the week).
 3.  Steam until cooked through, then cool and store. Sear just before eating.
 
-**Chickpeas & Beans:**
-1.  Rinse 2-3 cans of chickpeas/black beans (or cook from dry).
-2.  **Flavor Boost:** If cooking from dry, add 1 tsp garlic powder and 1 tsp onion powder to the boiling water.
-3.  Mix with a portion of the digestion spice stack.
-4.  Cool overnight to develop resistant starch. Store in the fridge.
+**Chickpeas & Beans (Double-Chill Protocol):**
+1.  **First Chill:** Rinse canned beans, or cook from dry. **Flavor Boost:** If cooking from dry, add 1 tsp garlic powder and 1 tsp onion powder to the boiling water. Drain, cool, and chill overnight.
+2.  **The Second Warm:** The next day, gently warm the chilled beans in a pan (under 130°F) with a splash of vinegar (Apple Cider or Balsamic) and a portion of your digestion spice stack.
+3.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours. This maximizes Resistant Starch Type 3 and locks in antioxidants.
 
 **Tofu:**
 1.  Press water out. Slice into slabs. Store raw in water (change daily).
