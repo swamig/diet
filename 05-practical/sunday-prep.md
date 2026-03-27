@@ -54,9 +54,11 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 3.  Portion cacao nibs for assigned days.
 
 ## Block 6: Spice Mix (Optional 5 Min)
-Pre-mix 7 small jars with:
+Pre-mix 7 small jars with the Core Stack:
 *   1/2 tsp Turmeric
 *   1/2 tsp Cumin
+*   1/2 tsp Coriander
+*   1/4 tsp Kashmiri chili powder
 *   (Black pepper is added fresh).
 
 ## Nutritional Enhancement through Proper Prep

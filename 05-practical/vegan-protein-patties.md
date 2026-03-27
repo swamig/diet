@@ -49,13 +49,27 @@ This is the high-performance protein system that replaces meat in the protocol. 
 2.  **The Second Warm (Acid Shield):** Gently warm the chilled chickpeas in a pan (stay under 130°F) with the ½ tsp apple cider vinegar. Remove from heat, cool rapidly, and return to the fridge for a *second* 24-hour chill to maximize Resistant Starch Type 3.
 3.  **Mash:** Take the double-chilled chickpeas, dry for 10–15 min if needed, and mash until 70% smooth and 30% chunky.
 4.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."
-5.  **Build Dough:** Mix all ingredients until a firm dough forms.
-6.  **Knead (CRITICAL):** Knead the dough for 3–5 minutes until it feels elastic and slightly springy.
+5.  **Build Dough:** Mix all ingredients until a firm dough forms. **Mandatory:** Do not skip the 1 tbsp of olive oil; it is required for binding and fat-soluble spice absorption.
+6.  **Knead (CRITICAL):** 
+    *   **Manual:** Knead the dough for 3–5 minutes until it feels elastic and springy.
+    *   **KitchenAid (Elite Hack):** Use a dough hook on **Speed 2 for 3–5 minutes**. Stop as soon as the dough forms a cohesive ball that pulls away from the sides and "bounces back" when poked.
 7.  **Create Fibers (Meat Effect):** Flatten the dough, fold it, and repeat 2–3x to build "meat-like" fibers.
-8.  **Shape:** Form into 4 large burger patties.
+8.  **Shape:** Form into 4 large burger patties (or use an **Idli Tray** for uniform pucks).
 9.  **Cook (Optimized):**
-    *   **🥇 Best:** Steam for 15 minutes (easier digestion), then pan-sear with light oil for a crust. *(Curcumin Activation: The quick pan-sear in oil is critical—it blooms the Turmeric/Haldi and Black Pepper inside the dough, maximizing anti-inflammatory absorption without overheating the resistant starch).*
-    *   **🥈 Fast:** Bake at 400°F for 25–30 min, flipping halfway. Finish with a quick sear.
+    *   **🥇 Best:** Steam for 15 minutes (easier digestion). If using **Idli Trays**, remove from the pot and let cool for 10 minutes before lifting them out of the molds.
+    *   **The Final Sear:** Right before eating, pan-sear with light oil for 2-3 min per side. This blooms the Turmeric/Haldi and Black Pepper for maximum signaling.
+
+---
+
+## 🛠️ Troubleshooting (The "Save Your Batch" Protocol)
+
+### If Patties are Crumbly:
+*   **The Cause:** Under-hydration or insufficient kneading. The Vital Wheat Gluten has not activated.
+*   **The Fix:** Crumble them back into a bowl, add 2 tbsp warm water + 1 tbsp olive oil, and **re-knead for 3-5 minutes** until a cohesive ball forms. Re-steam for 5 minutes.
+
+### If Patties are Too Mushy:
+*   **The Cause:** Excess moisture or trapped steam in the Idli molds.
+*   **The Fix:** Place them in an **Air Fryer at 380°F for 5–8 minutes** (or oven at 400°F for 10 mins). This dry heat evaporates the excess water and tightens the gluten fibers. They will continue to firm up during the 12-hour fridge set.
 
 ---
 
