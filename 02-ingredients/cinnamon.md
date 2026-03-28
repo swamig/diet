@@ -1,6 +1,14 @@
+---
+title: 'Cinnamon (Ceylon) - Glucose Modulation Agent'
+section: 'ingredients'
+type: 'monograph'
+ingredient: 'cinnamon'
+priority: 'rotation'
+---
+
 # Cinnamon (Ceylon) - Glucose Modulation Agent
 
-## Active Compound
+## Active Compounds
 
 *   **Cinnamaldehyde**
 
@@ -19,8 +27,35 @@ Cinnamon influences:
 *   1/4 teaspoon in warm water at night.
 *   **2–3x weekly.**
 
-## Performance Application
+## Protocol Role
 
 *   **On higher carbohydrate days**
 *   **During Week 3 nitric oxide emphasis**
 *   **On cacao stack days to moderate glucose load**
+
+## Stacking Rules
+
+- Use cinnamon as a support spice in targeted contexts rather than a core daily mandate.
+- Keep it inside the flavor and support role described by the protocol.
+
+## Evidence Status
+
+- **General physiology:** The compound and mechanism descriptions on this page are used as directional context for how the ingredient may fit into the protocol.
+- **Protocol-specific rules:** The exact dose, timing, pairings, weekly caps, and "mandatory" language on this page are operating rules specific to this manual.
+
+## Used In
+
+- [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
+- [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
+- [Spice Conversions & Internal Temperatures](../07-appendices/spice-conversions.md)
+
+## Conflicts
+
+- This manual uses cinnamon as a support layer, not as an unlimited sweetness replacement.
+- Keep it within the flavor and support role described here instead of stacking it everywhere by default.
+
+## Related Pages
+
+- [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
+- [Spice Conversions & Internal Temperatures](../07-appendices/spice-conversions.md)
+- [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)

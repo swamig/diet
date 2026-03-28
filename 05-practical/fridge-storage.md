@@ -1,3 +1,10 @@
+---
+title: 'Fridge Layout Optimization'
+section: 'practical'
+type: 'procedure'
+priority: 'high'
+---
+
 # Fridge Layout Optimization
 
 **Objective:**
@@ -45,3 +52,27 @@ Maximize sulforaphane integrity and minimize nutrient degradation.
 2.  Chop fresh broccoli.
 3.  Rotate microgreens to front.
 4.  Check tofu water.
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)
+- [Produce Cleaning Protocol](produce-cleaning.md)
+- [Consolidated Master Shopping List](shopping-list-master.md)
+
+## Conflicts
+
+- Storing produce wet or skipping towel changes creates avoidable spoilage and friction.
+- Using the door for produce or skipping the midweek reset undermines the storage logic here.
+
+## Related Pages
+
+- [Produce Cleaning Protocol](produce-cleaning.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)
+- [High Signaling Container System 🧪](container-system.md)
+- [Consolidated Master Shopping List](shopping-list-master.md)

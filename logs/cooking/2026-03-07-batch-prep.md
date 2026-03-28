@@ -1,4 +1,14 @@
+---
+title: 'Weekend Batch Prep & Protocol Updates Log'
+section: 'logs'
+type: 'cooking-log'
+date: '2026-03-07'
+priority: 'record'
+---
+
 # Weekend Batch Prep & Protocol Updates Log
+
+[Back to Cooking Logs](README.md) | [Back to Logs](../README.md)
 
 **Dates:** 2026-03-06 (Friday) to 2026-03-07 (Saturday)
 
@@ -36,7 +46,7 @@ A small portion of the chilled garbanzos and black beans (which were already inf
 ## 3. Menu Adjustments
 *   **Green Beans:** Fermenting in a 2% salt brine for 5-7 days.
 
-## 3. Supplement Stack Integration ("Finish Your Stash" Protocol)
+## 4. Supplement Stack Integration ("Finish Your Stash" Protocol)
 *   **Chocolate/Vanilla Flavored Whey (2 scoops):** Moved strictly to the 17:30 post-workout window.
     *   *Rationale:* To mitigate the oxalate load from chocolate whey, raw cacao nibs must be skipped in the evening Recovery Bowl on these days. Artificial sweeteners in flavored whey can disrupt microbiome hormesis, so consumption is strictly timed to the post-workout window. Target state is Unflavored Whey.
 *   **Creatine (5g):** Taken daily at 17:30 with the whey.
@@ -46,6 +56,12 @@ A small portion of the chilled garbanzos and black beans (which were already inf
 *   **Moringa Powder (1 tbsp):** Cycled 2x a week (e.g., Tues/Thurs).
     *   *Rationale:* Provides a mild hormetic stress without overwhelming liver detox pathways. Not to be stacked with heavy antimicrobial spices (Clove/Ajwain).
 
-## 4. Micro-Nutrient Optimization
+## 5. Micro-Nutrient Optimization
 *   **Omega-3, Vitamin D, Vitamin C, Daily Multi:** Moved strictly to the **Main Meal (12:00)** window.
     *   *Rationale:* Omega-3 and Vitamin D are fat-soluble and require the dietary fats (olive oil/protein) in the main meal for absorption. Vitamin C is timed to maximize **non-heme iron absorption** from the garbanzo and black beans. Taking the multi with food prevents nausea and improves bioavailability.
+
+## Related Pages
+
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+- [Weekly Prep Checklist](../../05-practical/weekly-prep-checklist.md)
+- [Supplement Cycling & Management](../../04-advanced-control/supplement-cycling.md)

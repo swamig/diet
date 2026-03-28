@@ -1,4 +1,17 @@
+---
+title: 'Week 1 - Day 7: Parasympathetic Emphasis + Reset'
+section: 'execution'
+type: 'day'
+phase: 'week-01'
+week: 1
+day: 7
+goal: 'parasympathetic-emphasis-reset'
+priority: 'active'
+---
+
 # Week 1 - Day 7: Parasympathetic Emphasis + Reset
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-06.md) | [Next Day](../week-02/day-08.md)
 
 ## Objective
 Parasympathetic tone + reset.
@@ -54,6 +67,10 @@ Parasympathetic tone + reset.
 
 **Note:** No pomegranate, walnuts, or pumpkin.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Standard yogurt + casein + blueberries
 *   **No cacao.**
@@ -61,3 +78,29 @@ Parasympathetic tone + reset.
 ## Clinical Rationale
 *   Reduced stimulation to allow nervous system recovery.
 *   Saffron used for mood stabilization and GABAergic support.
+
+## Related Pages
+
+- [Week 1 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track adherence to the anchors and digestive tolerance more than performance numbers this week.
+- Use the [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md) if the plan still feels new or fragile.
+
+## Navigation
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-06.md) | [Next Day](../week-02/day-08.md)

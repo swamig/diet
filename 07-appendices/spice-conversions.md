@@ -1,4 +1,13 @@
+---
+title: 'Spice Conversions & Internal Temperatures'
+section: 'appendices'
+type: 'appendix'
+priority: 'reference'
+---
+
 # Spice Conversions & Internal Temperatures
+
+[Back to Appendices](README.md) | [Back to Manual](../README.md)
 
 ## Spice Conversions
 
@@ -29,3 +38,20 @@
 | **Avocado Oil** | 520°F (270°C) | High Heat Sear, Grilling |
 | **Mustard Oil** | 480°F (250°C) | Tempering, High Heat |
 | **Ghee** | 485°F (250°C) | Tempering, Sauté |
+
+## How to Use This Page
+
+- Use this as a fast lookup page during prep instead of reopening longer recipe documents.
+- Prefer the source recipe when a recipe-specific instruction conflicts with a generic conversion here.
+- Treat these as operator references, not a substitute for the execution-day logic.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](../05-practical/sunday-prep.md)
+- [100% Optimized Indian High-Protein "Chicken" Patties](../05-practical/vegan-protein-patties.md)
+- [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
+
+## Related Pages
+
+- [Ingredient Conflict Matrix](ingredient-conflict-matrix.md)
+- [Daily Timing Cheat Sheet](daily-timing-cheat-sheet.md)

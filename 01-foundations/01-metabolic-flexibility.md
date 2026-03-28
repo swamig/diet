@@ -1,3 +1,10 @@
+---
+title: 'Metabolic Flexibility Architecture'
+section: 'foundations'
+type: 'reference'
+priority: 'core'
+---
+
 # Metabolic Flexibility Architecture
 
 Metabolic flexibility refers to the organism’s ability to efficiently transition between fatty acid oxidation and glucose oxidation in response to environmental input. In practical terms, this is the capacity to:
@@ -38,3 +45,25 @@ This is why:
 *   Protein anchors the feeding window.
 *   Carbohydrates are not consumed in isolation.
 *   The feeding window is not continuous grazing.
+
+## Evidence Status
+
+- **General physiology:** This page uses directional physiology and pathway language as a framing model, not as a diagnosis or guarantee of effect.
+- **Protocol-specific rules:** The exact meal timing, mandatory anchors, rotation logic, and thresholds on this page are operating rules specific to this manual.
+
+## Used In
+
+- [Daily Execution](../03-execution/README.md)
+- [Week 1 Overview](../03-execution/week-01/README.md)
+- [Week 3 Overview](../03-execution/week-03/README.md)
+
+## Conflicts
+
+- All-day grazing or carb-only feeding works against the feeding-window logic on this page.
+- Treating fasted training as a max-output session is outside the intent of this manual.
+
+## Related Pages
+
+- [Circadian Hydration Physiology](04-hydration.md)
+- [Resistant Starch Cycling](05-resistant-starch.md)
+- [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)

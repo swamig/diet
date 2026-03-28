@@ -1,9 +1,22 @@
+---
+title: 'Week 1 - Day 1: Inflammatory Recalibration'
+section: 'execution'
+type: 'day'
+phase: 'week-01'
+week: 1
+day: 1
+goal: 'inflammatory-recalibration'
+priority: 'active'
+---
+
 # Week 1 - Day 1: Inflammatory Recalibration
+
+[Back to Week 1 Overview](README.md) | [Next Day](day-02.md)
 
 ## Objective
 Establish anti-inflammatory baseline + vascular support.
 
-## Timing Structure
+## Timing
 *   **06:30** – Fasted cardio (20–40 minutes, low intensity)
 *   **07:15** – Ajwain hydration
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
@@ -56,7 +69,7 @@ Establish anti-inflammatory baseline + vascular support.
 *   1/2 cup pomegranate seeds (Day 1 nitric support)
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
-## Post-Workout Protocol (17:30)
+## Post-Workout Protocol
 *   **2 Scoops Whey Isolate** (Unflavored/Vanilla preferred, or Finish-Your-Stash Chocolate)
 *   **5g Creatine**
 *   *(Mix with water)*
@@ -71,3 +84,29 @@ Establish anti-inflammatory baseline + vascular support.
 *   Turmeric establishes NF-κB modulation.
 *   Pomegranate enhances nitric oxide signaling.
 *   Calcium pairs with cacao oxalates.
+
+## Related Pages
+
+- [Week 1 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track adherence to the anchors and digestive tolerance more than performance numbers this week.
+- Use the [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md) if the plan still feels new or fragile.
+
+## Navigation
+
+[Back to Week 1 Overview](README.md) | [Next Day](day-02.md)

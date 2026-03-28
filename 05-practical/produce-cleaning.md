@@ -1,3 +1,10 @@
+---
+title: 'Produce Cleaning Protocol'
+section: 'practical'
+type: 'procedure'
+priority: 'supporting'
+---
+
 # Produce Cleaning Protocol
 
 ## Overview
@@ -37,3 +44,25 @@ Moisture causes mold and nutrient breakdown. Spin dry thoroughly. Lay on clean t
 Use **white distilled vinegar** (1 part vinegar : 3 parts water) if microbial reduction is the main concern.
 
 **Note:** Baking soda is more effective for pesticide breakdown. Vinegar is more effective for bacteria.
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)
+
+## Conflicts
+
+- Skipping the dry step creates downstream storage problems even if the wash itself was correct.
+- Using vinegar and baking soda as if they solve the same problem makes the method less precise.
+
+## Related Pages
+
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Consolidated Master Shopping List](shopping-list-master.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)

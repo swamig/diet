@@ -1,4 +1,17 @@
+---
+title: 'Week 4 - Day 24: Moderate Nitric Support'
+section: 'execution'
+type: 'day'
+phase: 'week-04'
+week: 4
+day: 24
+goal: 'moderate-nitric-support'
+priority: 'active'
+---
+
 # Week 4 - Day 24: Moderate Nitric Support
+
+[Back to Week 4 Overview](README.md) | [Previous Day](day-23.md) | [Next Day](day-25.md)
 
 ## Objective
 Moderate nitric support.
@@ -52,6 +65,10 @@ Moderate nitric support.
 *   **1/4 cup pomegranate** (reduced portion)
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl: Cacao (Reduced Dose)
 *   Greek yogurt
 *   Casein
@@ -61,3 +78,29 @@ Moderate nitric support.
 ## Clinical Rationale
 *   Oxalate tapering week.
 *   Reduced stimulation to reset sensitivity.
+
+## Related Pages
+
+- [Week 4 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track sustainability, calmness, and which pieces of the cycle still feel maintainable in Week 4.
+- Use the [End-of-Cycle Review](../../06-monitoring/end-of-cycle-review.md) to decide what should survive beyond the 28-day block.
+
+## Navigation
+
+[Back to Week 4 Overview](README.md) | [Previous Day](day-23.md) | [Next Day](day-25.md)

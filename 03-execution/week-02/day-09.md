@@ -1,4 +1,17 @@
+---
+title: 'Week 2 - Day 9: Controlled Antimicrobial Exposure'
+section: 'execution'
+type: 'day'
+phase: 'week-02'
+week: 2
+day: 9
+goal: 'controlled-antimicrobial-exposure'
+priority: 'active'
+---
+
 # Week 2 - Day 9: Controlled Antimicrobial Exposure
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-08.md) | [Next Day](day-10.md)
 
 ## Objective
 Nigella day - Controlled antimicrobial exposure.
@@ -52,6 +65,10 @@ Nigella day - Controlled antimicrobial exposure.
 
 **Note:** No pomegranate today.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Standard yogurt + casein + blueberries
 *   **No cacao (spacing oxalate).**
@@ -59,3 +76,28 @@ Nigella day - Controlled antimicrobial exposure.
 ## Clinical Rationale
 *   Nigella inhibits microbial biofilm formation.
 *   Cinnamon improves insulin sensitivity post-meal.
+
+## Related Pages
+
+- [Week 2 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+
+## Monitoring Focus
+
+- Track antimicrobial and sulfur tolerance, digestion, and sleep quality more closely in Week 2.
+- Use the [Weekly Review Template](../../06-monitoring/weekly-review.md) to notice whether the extra control work is helping or just creating friction.
+
+## Navigation
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-08.md) | [Next Day](day-10.md)

@@ -1,3 +1,10 @@
+---
+title: 'Resistant Starch Cycling'
+section: 'foundations'
+type: 'reference'
+priority: 'core'
+---
+
 # Resistant Starch Cycling
 
 Cooking and cooling starchy foods (like beans, lentils, and quinoa) fundamentally changes their molecular structure.
@@ -30,3 +37,27 @@ By converting regular starches into resistant starches, you achieve two primary 
 
 *   **Blood Sugar Control:** Resistant starches bypass the small intestine and resist enzymatic breakdown, significantly lowering the glycemic index of the meal.
 *   **Microbiome Support:** Once in the colon, resistant starches act as a powerful prebiotic fiber. They are fermented by beneficial bacteria (like *Bifidobacteria*) to produce Short-Chain Fatty Acids (SCFAs) such as butyrate, which fuel the gut lining and reduce systemic inflammation.
+
+## Evidence Status
+
+- **General physiology:** This page uses directional physiology and pathway language as a framing model, not as a diagnosis or guarantee of effect.
+- **Protocol-specific rules:** The exact meal timing, mandatory anchors, rotation logic, and thresholds on this page are operating rules specific to this manual.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](../05-practical/sunday-prep.md)
+- [High Signaling Container System 🧪](../05-practical/container-system.md)
+- ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
+- [Daily Execution](../03-execution/README.md)
+
+## Conflicts
+
+- Skipping the chill phase or reheating too aggressively works against the starch workflow described here.
+- Holding warm and cold components together in one container makes the protocol harder to preserve in practice.
+
+## Related Pages
+
+- [90-Minute Sunday Batch Prep System](../05-practical/sunday-prep.md)
+- [High Signaling Container System 🧪](../05-practical/container-system.md)
+- ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
+- [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)

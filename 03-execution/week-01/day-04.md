@@ -1,4 +1,17 @@
+---
+title: 'Week 1 - Day 4: Fiber Tolerance + Legume Exposure'
+section: 'execution'
+type: 'day'
+phase: 'week-01'
+week: 1
+day: 4
+goal: 'fiber-tolerance-legume-exposure'
+priority: 'active'
+---
+
 # Week 1 - Day 4: Fiber Tolerance + Legume Exposure
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-03.md) | [Next Day](day-05.md)
 
 ## Objective
 Fiber modulation + legume exposure.
@@ -51,6 +64,10 @@ Fiber modulation + legume exposure.
 
 **Note:** No pomegranate today.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Standard yogurt + casein + blueberries
 *   **No cacao.**
@@ -59,3 +76,28 @@ Fiber modulation + legume exposure.
 *   Increased soluble fiber
 *   SCFA production emphasis
 *   Clove used as periodic antimicrobial reset
+
+## Related Pages
+
+- [Week 1 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+
+## Monitoring Focus
+
+- Track adherence to the anchors and digestive tolerance more than performance numbers this week.
+- Use the [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md) if the plan still feels new or fragile.
+
+## Navigation
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-03.md) | [Next Day](day-05.md)

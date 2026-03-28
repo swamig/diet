@@ -1,4 +1,17 @@
+---
+title: 'Week 4 - Day 28: Parasympathetic Reset + Cycle Completion'
+section: 'execution'
+type: 'day'
+phase: 'week-04'
+week: 4
+day: 28
+goal: 'parasympathetic-reset-cycle-completion'
+priority: 'active'
+---
+
 # Week 4 - Day 28: Parasympathetic Reset + Cycle Completion
+
+[Back to Week 4 Overview](README.md) | [Previous Day](day-27.md)
 
 ## Objective
 Parasympathetic reset + cycle completion.
@@ -53,6 +66,10 @@ Parasympathetic reset + cycle completion.
 
 **Note:** No pomegranate. No walnuts. No pumpkin.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Standard yogurt + casein + blueberries
 *   **No cacao.**
@@ -60,3 +77,29 @@ Parasympathetic reset + cycle completion.
 ## Clinical Rationale
 *   Parasympathetic tone emphasis via Saffron.
 *   Reduced stimulation to reset taste receptors and tolerance.
+
+## Related Pages
+
+- [Week 4 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track sustainability, calmness, and which pieces of the cycle still feel maintainable in Week 4.
+- Use the [End-of-Cycle Review](../../06-monitoring/end-of-cycle-review.md) to decide what should survive beyond the 28-day block.
+
+## Navigation
+
+[Back to Week 4 Overview](README.md) | [Previous Day](day-27.md)

@@ -1,4 +1,17 @@
+---
+title: 'Week 2 - Day 14: End-of-Week Nitric + Vascular Emphasis'
+section: 'execution'
+type: 'day'
+phase: 'week-02'
+week: 2
+day: 14
+goal: 'end-of-week-nitric-vascular-emphasis'
+priority: 'active'
+---
+
 # Week 2 - Day 14: End-of-Week Nitric + Vascular Emphasis
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-13.md) | [Next Day](../week-03/day-15.md)
 
 ## Objective
 End-of-week nitric + vascular emphasis.
@@ -52,6 +65,10 @@ End-of-week nitric + vascular emphasis.
 *   **1/2 cup pomegranate seeds**
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl: Cacao Day
 *   Greek yogurt
 *   Casein
@@ -61,3 +78,29 @@ End-of-week nitric + vascular emphasis.
 ## Clinical Rationale
 *   Pomegranate enhances endothelial nitric oxide availability.
 *   Cacao re-introduced on non-antimicrobial day.
+
+## Related Pages
+
+- [Week 2 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track antimicrobial and sulfur tolerance, digestion, and sleep quality more closely in Week 2.
+- Use the [Weekly Review Template](../../06-monitoring/weekly-review.md) to notice whether the extra control work is helping or just creating friction.
+
+## Navigation
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-13.md) | [Next Day](../week-03/day-15.md)

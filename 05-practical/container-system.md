@@ -1,8 +1,15 @@
+---
+title: 'High Signaling Container System 🧪'
+section: 'practical'
+type: 'procedure'
+priority: 'high'
+---
+
 # High Signaling Container System 🧪
 
 To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant Starch Type 3, and Oxalate Binding), a multi-container system is required to keep thermal and chemical components separate.
 
-## 📐 The Shopping List (7-Day Cycle)
+## Shopping List
 
 | Category | Size (Cups) | Size (Ounces) | Quantity | Purpose |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,7 +18,7 @@ To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant S
 | **Recovery** | 1-Cup Round | 8 oz | 14 | 7x Thawed blueberries, 7x Dry Casein powder. |
 | **Bulk Prep** | 11-Cup Rect. | 88 oz | 1 | Rapid cooling for "Double-Chill" protocol on Sundays. |
 
-## 🧠 Protocol Rationale
+## Why This Works
 
 ### 1. Thermal Separation (Cold vs. Warm)
 *   **The Goal:** Protect **Sulforaphane** in raw broccoli and **Resistant Starch Type 3** in grains.
@@ -28,7 +35,7 @@ To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant S
     *   **Thawed Berries (8 oz):** Follows the "Thawed Blueberry" mandate for easier mixing.
     *   **Assembly:** Combine with **Greek Yogurt** fresh at the time of eating to ensure the calcium binds to the oxalates in the berries/cacao before absorption.
 
-## 🌶️ The 7-Day "Core Stack" Spice Jars
+## Spice Jar Workflow
 
 To maintain high signaling potency while removing daily friction, you will prep **7 small glass jars** (1-Cup Pyrex or 4oz Mason Jars) on Sunday.
 
@@ -49,8 +56,32 @@ Each evening, take one jar and:
 2.  **Add daily rotators** (e.g., Nigella, Rosemary) if the protocol calls for it.
 3.  **Bloom in fat:** Rub onto raw tofu or sear with protein patties in olive/avocado oil. Heat activates the compounds.
 
-## 🧺 Quick Buy Reference
+## Quick Buy Reference
 *   **7x** 56 oz Pyrex (Large)
 *   **7x** 16 oz Pyrex (Small/Medium)
 *   **14x** 8 oz Pyrex (Mini) — *7 for berries, 7 for spices*
 *   **1x** 88 oz Pyrex (Extra Large/Flat)
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Daily Execution](../03-execution/README.md)
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Week 1 Overview](../03-execution/week-01/README.md)
+
+## Conflicts
+
+- Mixing warm and cold layers in one container removes the separation this page is designed to protect.
+- Pre-grinding black pepper into weekly jars works against the freshness logic used here.
+
+## Related Pages
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
+- [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)

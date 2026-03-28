@@ -1,3 +1,10 @@
+---
+title: 'Consolidated Master Shopping List'
+section: 'practical'
+type: 'procedure'
+priority: 'high'
+---
+
 # Consolidated Master Shopping List
 
 ## Buy Once (Non-Perishables)
@@ -81,3 +88,27 @@ This must be refreshed weekly to maintain nutrient density.
 ## Freezer Stash (Backup)
 *   Frozen blueberries (2 kg bag)
 *   Frozen pomegranate seeds
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [Weekly Prep Checklist](weekly-prep-checklist.md)
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Substitutions Guide](substitutions-guide.md)
+- [Daily Execution](../03-execution/README.md)
+
+## Conflicts
+
+- Overbuying perishables without a storage plan creates waste and usually lowers adherence midweek.
+- Forgetting daily anchors at the shopping stage forces reactive substitutions later.
+
+## Related Pages
+
+- [Substitutions Guide](substitutions-guide.md)
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)

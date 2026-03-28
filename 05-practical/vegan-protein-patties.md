@@ -1,8 +1,15 @@
+---
+title: '100% Optimized Indian High-Protein "Chicken" Patties'
+section: 'practical'
+type: 'procedure'
+priority: 'supporting'
+---
+
 # 100% Optimized Indian High-Protein "Chicken" Patties
 
 This is the high-performance protein system that replaces meat in the protocol. It is engineered for a "chicken-like" texture, high protein (30g per meal), and maximum digestive efficiency to prevent bloating and support workout performance.
 
-## 🧾 Ingredients (1 batch = 4 large patties)
+## Inputs
 
 **🫘 Protein Base (Balanced for Digestion + Texture):**
 *   1 cup cooked chickpeas (from dry, slightly firm - cooled 24h for resistant starch)
@@ -43,7 +50,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ---
 
-## 👨‍🍳 Method (Creates "Chicken" Texture)
+## Procedure
 
 1.  **Prep Chickpeas (The Double-Chill):** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas. Drain, cool rapidly, and chill in the fridge for 24 hours.
 2.  **The Second Warm (Acid Shield):** Gently warm the chilled chickpeas in a pan (stay under 130°F) with the ½ tsp apple cider vinegar. Remove from heat, cool rapidly, and return to the fridge for a *second* 24-hour chill to maximize Resistant Starch Type 3.
@@ -61,7 +68,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ---
 
-## 🛠️ Troubleshooting (The "Save Your Batch" Protocol)
+## Troubleshooting
 
 ### If Patties are Crumbly:
 *   **The Cause:** Under-hydration or insufficient kneading. The Vital Wheat Gluten has not activated.
@@ -73,19 +80,43 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ---
 
-## ❄️ Carb Optimization (Performance + Gut)
+## Performance Notes
 *   **The Workflow:** After cooking, cool for 20–30 min, then refrigerate for 8–12 hours.
 *   **The Benefit:** This creates **Resistant Starch**, leading to smoother energy and better digestion.
 *   **Reheat:** Use a pan or air fryer. Avoid long microwave sessions to preserve the texture.
 
-## 🕒 Performance Timing (Your Routine)
+## Timing
 *   **Pre-Workout Meal:** 2 patties (approx. 30g protein), 60–90 min before workout.
 *   **Post-Workout:** Fast protein shake (as per existing protocol).
 
-## 🧠 Anti-Bloat + Absorption Stack
+## Operator Notes
 *   **With Meal:** Drink water with a pinch of salt and lemon.
 *   **If Needed:** Drink warm ginger water after the meal.
 
-## 📦 Weekly Prep System
+## Storage and Prep
 *   Make 2–3 batches during Sunday Prep.
 *   **Storage:** Fridge (3–4 days), Freezer (2–3 weeks, freeze individually).
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Week 1 Overview](../03-execution/week-01/README.md)
+- [Week 3 Overview](../03-execution/week-03/README.md)
+- [Substitutions Guide](substitutions-guide.md)
+
+## Conflicts
+
+- Under-kneading and over-hydration are the fastest ways to lose the texture this page is targeting.
+- Treating the patties as a no-prep weeknight recipe rather than a batch item usually adds friction.
+
+## Related Pages
+
+- [90-Minute Sunday Batch Prep System](sunday-prep.md)
+- [Substitutions Guide](substitutions-guide.md)
+- [High Signaling Container System 🧪](container-system.md)
+- [Cumin (Jeera) - Digestive and Iron Support Layer](../02-ingredients/cumin.md)

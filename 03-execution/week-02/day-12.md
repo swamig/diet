@@ -1,4 +1,17 @@
+---
+title: 'Week 2 - Day 12: Moderate Antimicrobial (Clove Day)'
+section: 'execution'
+type: 'day'
+phase: 'week-02'
+week: 2
+day: 12
+goal: 'moderate-antimicrobial-clove-day'
+priority: 'active'
+---
+
 # Week 2 - Day 12: Moderate Antimicrobial (Clove Day)
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-11.md) | [Next Day](day-13.md)
 
 ## Objective
 Moderate antimicrobial (Clove Day).
@@ -51,6 +64,10 @@ Moderate antimicrobial (Clove Day).
 
 **Note:** No pomegranate today.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
@@ -60,3 +77,28 @@ Moderate antimicrobial (Clove Day).
 ## Clinical Rationale
 *   Clove provides potent antimicrobial modulation.
 *   Spacing ensures no other heavy polyphenol/antimicrobial load.
+
+## Related Pages
+
+- [Week 2 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+
+## Monitoring Focus
+
+- Track antimicrobial and sulfur tolerance, digestion, and sleep quality more closely in Week 2.
+- Use the [Weekly Review Template](../../06-monitoring/weekly-review.md) to notice whether the extra control work is helping or just creating friction.
+
+## Navigation
+
+[Back to Week 2 Overview](README.md) | [Previous Day](day-11.md) | [Next Day](day-13.md)

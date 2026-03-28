@@ -1,19 +1,33 @@
+---
+title: 'Eating Logs'
+section: 'logs'
+type: 'eating-guide'
+priority: 'reference'
+---
+
 # Eating Logs
 
-## 2026-03-07 (Day 1: Inflammatory Recalibration)
+[Back to Logs](../README.md) | [Back to Manual](../../README.md)
 
-**Meal 1 (12:00 PM): Modified Break-Fast**
-*   **Ingredients:** 3 Eggs, 3 tbsp Greek Yogurt base, 1 slice Dave's 21-Grain Bread, White Cheddar, Bell Pepper cubes, Curry Leaves (5), Mustard Seeds, Black Pepper, Sea Salt.
-*   **Ferment:** 1 serving Kimchi.
-*   **Supplements Taken:** Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin.
-*   **Notes:** High protein and probiotic density (Kimchi + Yogurt). Fulfilled daily ferment requirement early.
-*   **Protocol Gap:** Missed mandatory 150g Broccoli (Sulforaphane) and the "Core Spice Stack" (Turmeric, Cumin, Coriander).
-*   **Recovery Plan:** Will add 1/2 tsp Turmeric and 150g rested Broccoli to the 14:30 Salad window to realign inflammatory signaling.
+Use one file per day to record what was actually eaten, what was skipped or substituted, and what adjustments were made afterward.
 
----
-**Format Example (Older entries go below)**
-**Date:** YYYY-MM-DD
-**Meal 1:**
-- Time:
-- Ingredients:
-- Notes:
+## Current Entries
+
+- [2026-03-07 Day 1 Log](2026-03-07-day-01.md)
+
+## Template
+
+- [Eating Log Template](template.md)
+
+## Good Things to Track
+
+- Actual meal times rather than planned meal times.
+- Exact substitutions or missing ingredients.
+- Supplements taken with each meal window.
+- Digestion notes, cravings, training effects, and recovery corrections.
+
+## Related Pages
+
+- [Eating Log Template](template.md)
+- [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)

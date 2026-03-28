@@ -1,4 +1,17 @@
+---
+title: 'Week 1 - Day 5: Nitric Oxide Emphasis'
+section: 'execution'
+type: 'day'
+phase: 'week-01'
+week: 1
+day: 5
+goal: 'nitric-oxide-emphasis'
+priority: 'active'
+---
+
 # Week 1 - Day 5: Nitric Oxide Emphasis
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-04.md) | [Next Day](day-06.md)
 
 ## Objective
 Nitric oxide emphasis.
@@ -53,6 +66,10 @@ Nitric oxide emphasis.
 *   **1/2 cup pomegranate seeds**
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
@@ -62,3 +79,28 @@ Nitric oxide emphasis.
 ## Clinical Rationale
 *   Pomegranate and rosemary stack enhances NO availability and cognitive support.
 *   Pumpkin seeds provide zinc for recovery.
+
+## Related Pages
+
+- [Week 1 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+- Keep saffron in the pulsed microdose role used by the protocol.
+
+## Monitoring Focus
+
+- Track adherence to the anchors and digestive tolerance more than performance numbers this week.
+- Use the [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md) if the plan still feels new or fragile.
+
+## Navigation
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-04.md) | [Next Day](day-06.md)

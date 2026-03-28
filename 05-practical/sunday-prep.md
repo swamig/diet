@@ -1,3 +1,10 @@
+---
+title: '90-Minute Sunday Batch Prep System'
+section: 'practical'
+type: 'procedure'
+priority: 'high'
+---
+
 # 90-Minute Sunday Batch Prep System
 
 **Purpose:**
@@ -79,3 +86,27 @@ To convert simple starches into **Resistant Starch Type 3**:
 *   **Fridge:** Vegan Patties (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
 *   **Freezer:** Extra portions.
 *   **Midweek Reset (Wed):** Chop fresh broccoli, refresh paper towels.
+
+## Evidence Status
+
+- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
+- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
+
+## Used In
+
+- [Daily Execution](../03-execution/README.md)
+- [Week 1 Overview](../03-execution/week-01/README.md)
+- [Week 2 Overview](../03-execution/week-02/README.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)
+
+## Conflicts
+
+- Skipping broccoli rest or the chill workflow breaks the exact prep logic this page is meant to operationalize.
+- Adding too much complexity to one prep session usually increases friction rather than improving execution.
+
+## Related Pages
+
+- [High Signaling Container System 🧪](container-system.md)
+- [Fridge Layout Optimization](fridge-storage.md)
+- [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
+- [Weekly Prep Checklist](weekly-prep-checklist.md)

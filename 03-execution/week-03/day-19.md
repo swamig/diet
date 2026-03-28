@@ -1,4 +1,17 @@
+---
+title: 'Week 3 - Day 19: Mitochondrial + Moderate Nitric Support'
+section: 'execution'
+type: 'day'
+phase: 'week-03'
+week: 3
+day: 19
+goal: 'mitochondrial-moderate-nitric-support'
+priority: 'active'
+---
+
 # Week 3 - Day 19: Mitochondrial + Moderate Nitric Support
+
+[Back to Week 3 Overview](README.md) | [Previous Day](day-18.md) | [Next Day](day-20.md)
 
 ## Objective
 Mitochondrial + moderate nitric support.
@@ -52,6 +65,10 @@ Mitochondrial + moderate nitric support.
 
 **Note:** No pomegranate today.
 
+## Post-Workout Protocol
+
+- Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
+
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
@@ -61,3 +78,28 @@ Mitochondrial + moderate nitric support.
 ## Clinical Rationale
 *   Mitochondrial signaling enhanced via nigella.
 *   Cacao re-introduced for endothelial maintenance.
+
+## Related Pages
+
+- [Week 3 Overview](README.md)
+- [Weekly Review Template](../../06-monitoring/weekly-review.md)
+- [Cacao - Vascular Polyphenol Layer](../../02-ingredients/cacao.md)
+- [Oxalate Physiology and Mineral Pairing](../../04-advanced-control/oxalate-management.md)
+- [90-Minute Sunday Batch Prep System](../../05-practical/sunday-prep.md)
+
+## Conflict Checks
+
+- [Ingredient Conflict Matrix](../../07-appendices/ingredient-conflict-matrix.md)
+- Keep the broccoli chop-and-rest workflow intact before heat.
+- Keep cacao and chocolate-whey spacing aligned on this day.
+- Keep antimicrobial pulses isolated rather than stacking them casually.
+- Reheat chilled starch and legumes gently so the prep logic still holds.
+
+## Monitoring Focus
+
+- Track vascular response, training quality, and recovery signals more than ingredient novelty in Week 3.
+- Use the [Symptom & Training Scorecard](../../06-monitoring/symptom-training-scorecard.md) to compare nitric-support days versus reset days.
+
+## Navigation
+
+[Back to Week 3 Overview](README.md) | [Previous Day](day-18.md) | [Next Day](day-20.md)
