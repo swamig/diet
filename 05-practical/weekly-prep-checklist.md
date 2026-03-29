@@ -32,6 +32,7 @@ Use this as the operator checklist that sits beside [Sunday Prep](sunday-prep.md
 - [ ] Wash and dry greens.
 - [ ] Portion ferments, seeds, and recovery ingredients.
 - [ ] Set up spice jars if using the jar workflow.
+- [ ] Whisk and store **Dressing Master Batch** (Olive Oil/Balsamic/Puree/Dijon).
 
 ## Storage Reset
 

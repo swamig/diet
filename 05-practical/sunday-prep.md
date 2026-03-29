@@ -55,18 +55,45 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 4.  Portion sauerkraut into small cups.
 5.  **Microgreens stay in original box.**
 
-## Block 5: Recovery Bowl Setup (10 Min)
-1.  Portion 7 scoops casein into small jars.
-2.  Keep yogurt/blueberries separate.
-3.  Portion cacao nibs for assigned days.
-
-## Block 6: Spice Mix (Optional 5 Min)
+## Block 5: Spice Mix (Optional 5 Min)
 Pre-mix 7 small jars with the Core Stack:
 *   1/2 tsp Turmeric
 *   1/2 tsp Cumin
 *   1/2 tsp Coriander
 *   1/4 tsp Kashmiri chili powder
 *   (Black pepper is added fresh).
+
+## Block 6: Dressing Master Batch (5 Min)
+**Goal:** Remove daily measuring friction for the liquid dressing base.
+
+**7-Day Master Recipe (In a Glass Mason Jar):**
+1.  **14 tbsp Olive Oil** (Just under 1 cup).
+2.  **7 tbsp Balsamic Vinegar** (Just under 1/2 cup).
+3.  **7 tbsp Tomato Puree** (Just under 1/2 cup).
+4.  **7 tsp Dijon Mustard** (Sugar-free).
+
+**The Bioavailability Mandate:**
+*   **DO NOT** add Turmeric or Black Pepper to this master jar.
+*   **Storage:** Whisk or shake vigorously until fully emulsified. Store in the fridge for up to 7 days.
+*   **Daily Use:** Pour ~4 tbsp (1/4 cup) from the jar each day. Sprinkle the **pinch of Turmeric** and **1/4 tsp fresh Black Pepper** directly on top of the poured dressing before tossing.
+
+## Block 7: Seed Rotation & Recovery (5 Min)
+**Goal:** Prepare the 5-day seed rotation for the Salad Layer and pre-portion the Recovery Bowls.
+
+**The Rule:** All seeds (Sesame, Pumpkin, Walnut, Chia) go into the **14:30 Salad**, never the shake or recovery bowl.
+
+**1. The 5-Day Seed Rotation (Prep in 5 dry mini-containers):**
+*   **Day 1:** 1 tbsp Sesame (Mineral Density)
+*   **Day 2:** 1 tbsp Dry Chia Seeds (Mucilage/Digestive Lining)
+*   **Day 3:** 1 tbsp Walnuts (Vascular Peak)
+*   **Day 4:** 1 tbsp Dry Chia Seeds (Mucilage/Digestive Lining)
+*   **Day 5:** 1 tbsp Pumpkin Seeds (Zinc/Recovery)
+*   *Chia Activation:* The night before Day 2 and Day 4, add 3 tbsp of water to the chia container to form a gel. Toss this gel directly into the salad.
+
+**2. The Recovery Bowl Setup (5-Day):**
+*   **Blueberries:** Portion 75g (Total: 375g for 5 days) of frozen blueberries into 5 separate 8 oz containers. Store in the fridge to thaw.
+*   **Casein:** Portion 1 scoop into 5 separate dry jars.
+*   (Combine with Greek Yogurt fresh at the time of eating to manage oxalate binding).
 
 ## Nutritional Enhancement through Proper Prep
 

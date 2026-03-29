@@ -15,6 +15,7 @@ To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant S
 | :--- | :--- | :--- | :--- | :--- |
 | **Cold Base** | 7-Cup Round | 56 oz | 7 | Daily salad, raw broccoli, and greens + paper towel. |
 | **Warm Fuel** | 2-Cup Round | 16 oz | 7 | Daily quinoa, lentils, and 2 protein patties. |
+| **Dressing Jar** | 16-24 oz Glass | - | 1 | Master "Wet Base" batch for 7 days (Cold). |
 | **Recovery** | 1-Cup Round | 8 oz | 14 | 7x Thawed blueberries, 7x Dry Casein powder. |
 | **Bulk Prep** | 11-Cup Rect. | 88 oz | 1 | Rapid cooling for "Double-Chill" protocol on Sundays. |
 
@@ -34,6 +35,12 @@ To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant S
     *   **Dry Casein (8 oz):** Prevents the protein from becoming a dense "brick" in the fridge.
     *   **Thawed Berries (8 oz):** Follows the "Thawed Blueberry" mandate for easier mixing.
     *   **Assembly:** Combine with **Greek Yogurt** fresh at the time of eating to ensure the calcium binds to the oxalates in the berries/cacao before absorption.
+
+### 4. Salad Dressing Activation Strategy
+*   **The Goal:** Maximize Curcumin bioavailability.
+*   **The Action:** 
+    *   **The Wet Base:** Keep a pre-batched jar of Olive Oil, Balsamic, Tomato Puree, and Dijon in the fridge. 
+    *   **The Activation:** At 14:30, pour 4 tbsp (~1/4 cup) of the wet base onto your greens. Sprinkle the **Turmeric** and **Freshly Ground Black Pepper** directly onto the liquid dressing *before* tossing. This ensures the piperine and curcumin are suspended in the fats for optimal delivery.
 
 ## Spice Jar Workflow
 
