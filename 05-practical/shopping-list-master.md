@@ -18,6 +18,7 @@ These will last months.
 *   **1x Large Mason Jar (16-32 oz)** (For the 7-Day Liquid Dressing Master Batch)
 
 **Spices (Buy Full Jars):**
+*   Aamla Powder (Indian Gooseberry)
 *   Turmeric powder (at least 120g)
 *   Whole black peppercorns (grind fresh)
 *   Cumin seeds (Jeera)
@@ -46,10 +47,10 @@ These will last months.
 **Pantry:**
 *   Extra virgin olive oil (750ml)
 *   Balsamic vinegar
+*   Apple cider vinegar (with "the mother")
 *   Dijon Mustard (sugar-free)
 *   Tomato Puree (or finely chopped tomatoes)
 *   Soy Sauce (or Tamari)
-*   Apple cider vinegar (with "the mother")
 *   Raw cacao nibs (250-300g)
 *   Casein protein powder (large tub)
 *   Quinoa (2-2.5 kg dry)

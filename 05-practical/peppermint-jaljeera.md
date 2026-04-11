@@ -17,8 +17,11 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 *   **1/4 - 1/2 Fresh Thai Bird’s Eye Chili** (or 1/2 Serrano if lower heat is needed)
 *   **1/2 tsp Roasted Cumin Powder (Jeera)**
 *   **1/4 tsp Black Salt (Kala Namak)**
-*   **Optional:** 1/4 tsp Chaat Masala (Provides *Amchur*/dried mango powder, which is hyper-dense in Vitamin C and Mangiferin, boosting antioxidant capacity and lowering pH to assist non-heme iron absorption).
-*   **1/2 Lemon** (Juiced)
+*   **The Vitamin C / Iron Anchor (Choose One):** 
+    *   **1/2 tsp Aamla Powder (Indian Gooseberry):** The elite choice. Massive Vitamin C load that chemically forces non-heme iron absorption while acting as an Ayurvedic *Pitta* (heat) buffer.
+    *   **1/4 tsp Chaat Masala:** (Amchur/dried mango powder).
+    *   **1/2 Lemon (Juiced)**
+*   **The Glycemic Anchor:** **1 tbsp Apple Cider Vinegar (Raw)**. (Acetic acid blunts the glucose spike from your midday quinoa/legumes).
 *   **Optional:** 1/2 clove garlic (Crushed and rested 10 min - for maximum raw Allicin signaling)
 *   **1 - 1.5 cups Cold Water**
 
