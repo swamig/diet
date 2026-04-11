@@ -94,6 +94,7 @@ Shopping, prep, storage, recipes, and execution infrastructure.
 - ["Cold-Mash" Performance Refried Beans](05-practical/performance-refried-beans.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](05-practical/vegan-protein-patties.md)
 - [High-Signaling Peppermint Jaljeera](05-practical/peppermint-jaljeera.md)
+- [Functional Indian Formats (Chutneys, Podis, Lentil Balls)](05-practical/functional-indian-formats.md)
 - [Thermal Hormesis (Sauna & Cold Plunge)](05-practical/thermal-hormesis.md)
 - [Beginner Yoga Sequences](05-practical/yoga-routines.md)
 
