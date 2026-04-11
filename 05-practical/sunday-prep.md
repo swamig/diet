@@ -60,7 +60,12 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 
 **1. Spice Jars:** Pre-mix 7 small jars with the Core Stack (Turmeric, Cumin, Coriander, Kashmiri chili).
 
-**2. Menthol Synergy Muddle (With Oxidation Lock):**
+**2. Morning Activation Packs:**
+*   Pre-portion 7 tiny containers/packs for your 07:15 morning hydration.
+*   Add the dry seeds (Ajwain/Jeera/Clove/Cardamom) and/or **1 tsp Matcha powder** as per the weekly rotation.
+*   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
+
+**3. Menthol Synergy Muddle (With Oxidation Lock):**
 *   Muddle 45 fresh **Mentha arvensis** leaves + 1.5 **Thai Bird’s Eye Chilies**.
 *   **The Lock:** Add 1 tsp Olive Oil + 1 tbsp Lemon Juice while muddling to trap the volatile oils and stop enzymatic browning. Do NOT add salt.
 *   Divide into two mini jars (one for Mon-Wed, one for Thu-Sat).
