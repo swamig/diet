@@ -9,6 +9,13 @@ priority: 'high'
 
 To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant Starch Type 3, and Oxalate Binding), a multi-container system is required to keep thermal and chemical components separate.
 
+## The Glass Mandate (Endocrine & Volatile Oil Protection)
+**This protocol strictly mandates the use of Glass containers (e.g., Pyrex or Mason Jars) for all food and spice storage.** 
+Do not use plastic Tupperware. The biochemical rationale is threefold:
+1.  **Endocrine Disruption:** You are eating 2x a week Tofu to *protect* your hormonal profile. Storing food in plastic (especially if slightly warm) leaches microplastics and xenoestrogens (BPA/BPS/Phthalates) into the food, which act as endocrine disruptors and completely sabotage the protocol's hormonal goals.
+2.  **Acidic Leaching:** The protocol uses high-acid liquids (Lemon juice, Apple Cider Vinegar, Balsamic) to protect antioxidants and activate Agni. Acids degrade plastic rapidly, pulling chemical plasticizers directly into your dressing and Jaljeera base.
+3.  **Volatile Oil Absorption:** Plastic is highly porous. The volatile oils in your spices (Menthol, Cuminaldehyde, Eugenol) and the organosulfur compounds in your garlic will permanently absorb into plastic walls, stealing the signaling potency from your food and making the containers smell forever. Glass is non-porous and creates a perfect biological lock.
+
 ## Shopping List
 
 | Category | Size (Cups) | Size (Ounces) | Quantity | Purpose |

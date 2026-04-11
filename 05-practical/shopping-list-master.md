@@ -10,6 +10,13 @@ priority: 'high'
 ## Buy Once (Non-Perishables)
 These will last months.
 
+**The Glass System (Mandatory):**
+*   **7x Large Glass Food Storage Containers** (e.g., 56 oz Pyrex)
+*   **7x Medium Glass Food Storage Containers** (e.g., 16 oz Pyrex)
+*   **14x Mini Glass Food Storage Containers** (e.g., 8 oz Pyrex)
+*   **Mini Glass Jars (4-8 oz)** (Must have airtight lids for the Menthol Muddle and Spice batching)
+*   **1x Large Mason Jar (16-32 oz)** (For the 7-Day Liquid Dressing Master Batch)
+
 **Spices (Buy Full Jars):**
 *   Turmeric powder (at least 120g)
 *   Whole black peppercorns (grind fresh)
