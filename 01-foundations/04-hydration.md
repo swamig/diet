@@ -11,24 +11,41 @@ Hydration in this protocol is not neutral. It is divided into:
 
 ## Daytime Hydration (Sympathetic Alignment)
 
-*   **Ajwain**
+*   **Ajwain (Carom)**
 *   **Jeera (Cumin)**
 *   **Ginger**
-*   **Clove (limited)**
-*   **Mint**
+*   **Ceremonial Matcha / Green Tea** (Optional - See Tannin Rule)
 
-These support digestion, circulation, and metabolic readiness.
+**The "Warm Start" Rule:** Morning hydration (07:15) MUST be consumed warm to hot. Warm water acts as a vasodilator, stimulating peristalsis and prepping the gut for the 12:00 feeding window. Cold water constricts the digestive channels and is prohibited before 10:00.
+
+**The Tannin Deadline (10:00):** Matcha and Green Tea provide powerful mitochondrial signaling (EGCG), but their catechins and tannins aggressively block non-heme iron absorption. All caffeinated or high-tannin teas must be finished by 10:00 AM (2 hours before the main meal) to ensure the iron in your daily legumes is bioavailable.
 
 ## Night Hydration (Parasympathetic Alignment)
 
+*   **Ashwagandha** (The Cortisol Buffer - Cycle 2-3x weekly max)
 *   **Saffron**
 *   **Tulsi (Holy Basil)**
-*   **Cinnamon**
-*   **Warm mineral water**
+*   **Cinnamon & Cardamom** (Flavor/Glucose stabilizers)
+*   **Alkaline Water (pH 8+)** (The "Net 8" Night Anchor)
+
+**The "Net 8" Execution Rules:** 
+Do not pre-batch night infusions. Alkaline water loses its pH when exposed to air, and warm water is required for vasodilation before sleep. Make them fresh nightly based on the day's rotation:
+1.  **Ashwagandha (High Stress):** Intensely bitter. Requires masking. Mix powder into warm alkaline water + Ceylon Cinnamon + Cardamom + a splash of unsweetened almond milk. (No sugar).
+2.  **Tulsi (Moderate Stress):** Peppery and aromatic. No masking needed. Steep dried leaves in warm alkaline water. (Optional: add a pinch of cinnamon).
+3.  **Saffron (Low Stress/Reset):** Delicate and floral. **Zero masking.** Steep threads in pure warm alkaline water only. Do not add spices or milk, as they will obliterate the fragile neuro-modulatory compounds (safranal).
 
 These support nervous system downregulation, glucose stability, and recovery.
 
 Hydration timing is therefore a signaling tool, not merely fluid replacement.
+
+## Water pH and Digestion (The Alkaline Rule)
+
+The protocol views high stomach acid (low pH) as mandatory for breaking down heavy plant proteins and extracting minerals. **Alkaline water (pH 8-9+) neutralizes acid.** Therefore, its use must be strictly timed to avoid sabotaging digestion.
+
+*   **The Meal Blockade (11:00 to 13:30):** Do **NOT** drink alkaline water within 60 minutes before, during, or 60 minutes after your main meal. Flooding the stomach with a high-pH base will dilute gastric acid, causing legumes and protein patties to ferment in the gut (bloating/Ama) rather than digest.
+*   **The Acid/Iron Conflict:** Do not use alkaline water to make your Peppermint Jaljeera or morning infusions. The alkaline base will neutralize the acids (lemon/vinegar) required for mineral absorption and Agni stimulation.
+*   **The "Net 8" Night Anchor (21:00):** To safely achieve an alkaline systemic state ("net 8"), brew your night infusion (Ashwagandha/Tulsi) using alkaline water (pH 8+). Because the 17:50 recovery bowl digestion is mostly complete, the alkaline water acts as a parasympathetic counterweight to the day's metabolic acidity without disrupting the midday Agni.
+*   **Other Approved Windows:** Alkaline water is also permitted during 06:30 fasted cardio or 16:30 resistance training.
 
 ## Evidence Status
 

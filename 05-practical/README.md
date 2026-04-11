@@ -26,6 +26,8 @@ This section translates the protocol into kitchen operations. Read this before t
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [High-Signaling Peppermint Jaljeera](peppermint-jaljeera.md)
+- [Thermal Hormesis (Sauna & Cold Plunge)](thermal-hormesis.md)
+- [Beginner Yoga Sequences (Active vs. Restorative)](yoga-routines.md)
 - [Troubleshooting Guide](troubleshooting-guide.md)
 
 ## Use This Section To Reduce Friction

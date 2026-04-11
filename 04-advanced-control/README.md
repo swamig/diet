@@ -20,6 +20,7 @@ Use this section when the base protocol is not enough and you need tighter contr
 - [Oxalate Physiology and Mineral Pairing](oxalate-management.md)
 - [Sulfur Cycle Optimization](sulfur-management.md)
 - [Supplement Cycling & Management](supplement-cycling.md)
+- [Advanced Training & Thermal Hormesis Integration](training-hormesis-integration.md)
 
 ## Typical Questions This Section Answers
 

@@ -16,8 +16,10 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | Time | Action | Default Components | Notes |
 | :--- | :--- | :--- | :--- |
 | **06:30** | Fasted cardio | 20-40 minutes, low intensity | The goal is signaling, not output. |
-| **07:15** | Morning hydration | Ajwain water or jeera water | Choice depends on the day plan. |
-| **12:00** | Main meal / break fast | Protein + broccoli + chilled starch + core spice stack | Primary supplement window. |
+| **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha | Must be WARM. |
+| **10:00** | Tannin Deadline | Stop all tea/caffeine | Protects 12:00 iron absorption. |
+| **12:00** | Main meal / break fast | Protein + broccoli + starch + spice stack + Jaljeera | Primary supplement window. |
+
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens + cilantro | Rotators vary by day. |
 | **16:30** | Resistance training | Standard training slot | Use the day page if the day has special emphasis. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
@@ -41,6 +43,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 
 | Option | Common Use |
 | :--- | :--- |
+| **Ashwagandha + Alkaline Water** | High-cortisol days or Tofu-pulse days to anchor "Net 8" recovery |
 | **Tulsi infusion** | Lower-stimulation recovery nights |
 | **Saffron infusion** | Parasympathetic emphasis and end-of-day downshift |
 

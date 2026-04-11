@@ -93,6 +93,9 @@ Shopping, prep, storage, recipes, and execution infrastructure.
 - [Troubleshooting Guide](05-practical/troubleshooting-guide.md)
 - ["Cold-Mash" Performance Refried Beans](05-practical/performance-refried-beans.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](05-practical/vegan-protein-patties.md)
+- [High-Signaling Peppermint Jaljeera](05-practical/peppermint-jaljeera.md)
+- [Thermal Hormesis (Sauna & Cold Plunge)](05-practical/thermal-hormesis.md)
+- [Beginner Yoga Sequences](05-practical/yoga-routines.md)
 
 ### 6. Monitoring
 Measurement and review templates to quantify the protocol.
@@ -119,6 +122,7 @@ Fast reference tables and reusable lookup material.
 - [Section Guide](07-appendices/README.md)
 - [Daily Timing Cheat Sheet](07-appendices/daily-timing-cheat-sheet.md)
 - [Ingredient Conflict Matrix](07-appendices/ingredient-conflict-matrix.md)
+- [Master Citations & Scientific Rationale](07-appendices/master-citations.md)
 - [Spice Conversions & Internal Temperatures](07-appendices/spice-conversions.md)
 
 ---

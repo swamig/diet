@@ -32,7 +32,13 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 *   **The Mechanism:** This manual treats moringa as a nutrient-dense rotator rather than a daily baseline ingredient.
 *   **The Rule:** **Cycle 2x weekly maximum** (e.g., Tuesday and Thursday). Do not stack it on the same day as the heavier antimicrobial-spice days; this is a conservative protocol rule to keep the week easier to interpret.
 
-## 5. Daily Micro-Nutrient Stack
+## 5. Ashwagandha (The "Net 8" Night Anchor)
+*   **The Mechanism:** Ashwagandha is an adaptogen that modulates the HPA axis to lower cortisol. In this protocol, it acts as the parasympathetic ("alkalizing") counterweight to the metabolic intensity of the midday Habanero/Garlic pulse.
+*   **The Rule (Rotation):** **Cycle 2-3x weekly maximum.** Do NOT take Ashwagandha daily. Chronic daily use leads to receptor down-regulation and potential emotional blunting. Reserve it for high-stress or high-training days. Alternate with Tulsi or Saffron on other nights.
+*   **Timing:** **21:00 (Night Infusion Window).** 
+*   **The Execution:** Mix the powder or extract into warm **Alkaline Water (pH 8+)**. Because the stomach is mostly empty at this time, the alkaline water and the herbal alkaloids create a systemic "Net 8" cooling state right before sleep without disrupting the midday digestive acids.
+
+## 6. Daily Micro-Nutrient Stack
 
 ### Omega-3 (Fish Oil/Algae Oil)
 *   **Timing:** Take with your **Main Meal (12:00)**.

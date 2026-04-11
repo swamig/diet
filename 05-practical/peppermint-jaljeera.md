@@ -37,6 +37,13 @@ To reduce daily friction while maintaining the "Mechanical Release" rule without
 3.  **Hydrate:** Pour in the cold water and stir aggressively to integrate the oils. Let it rest for 2 minutes to infuse.
 4.  **Execution (The Tofu Spike):** Drink alongside your 12:00 meal. On **Tofu Rotation Days**, sear your tofu with extra Thai chilies in olive oil. The combined effect of the Jaljeera chili + Tofu chili + Menthol creates the weekly "High TRP Activation" protocol spike.
 
+## The "Sauna Mineral Reload" Variation
+
+If you are using **Thermal Hormesis (Sauna)**, your body will rapidly deplete sodium and trace minerals through sweat. The Jaljeera serves as an elite, food-based isotonic hydration matrix, but you must remove the heat signaling.
+
+*   **The Adjustment:** Exclude the Thai Chili/Habanero entirely.
+*   **The Execution:** Muddle just the *Mentha arvensis*, add the Lemon, Black Salt, and Roasted Cumin, and hydrate with water. Drink this immediately after exiting the sauna to replenish electrolytes while the menthol provides a deep, internal cooling sensation.
+
 ## Scaling & Batching
 *   You can pre-muddle a 3-day supply of the peppermint/chili paste and store it in a tiny airtight glass jar in the fridge. 
 *   Do not pre-mix with water or lemon juice, as the menthol volatile oils will degrade and oxidize over a multi-day period in liquid.
