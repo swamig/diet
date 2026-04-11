@@ -34,7 +34,12 @@ Here is exactly how to integrate Blueprint elements into this protocol's biologi
 *   **The Integration:** Drink Green Giant during the **14:30 Salad Layer**. 
 *   **The Protocol Fix:** On days you drink Green Giant, you are on a **"Cacao Day."** You must strictly skip any raw cacao nibs in your evening recovery bowl. Do not stack them.
 
-## 5. Longevity Supplements (NMN, NR, Spermidine)
+## 5. Blueprint Longevity Mix ("The Pink Powder")
+*   **The Conflict:** Blueprint's Longevity Mix (Blood Orange) contains Ashwagandha (typically KSM-66) and L-Theanine. Bryan drinks this in the morning. In our protocol, Ashwagandha is strictly a **21:00 Night Anchor**, rotated 2-3x weekly to buffer cortisol *after* the day's stress. Taking it in the morning violates our "cortisol paradox" rule, risking daytime parasympathetic lethargy and long-term HPA axis burnout.
+*   **The Integration:** Move the Longevity Mix entirely to the **21:00 Night Infusion** window.
+*   **The Protocol Fix:** On your designated High-Stress/Tofu Pulse days, use the "Pink Powder" instead of raw Ashwagandha root in your "Net 8" Alkaline Water. Do not take it every day; rotate it with Tulsi and Saffron nights to preserve receptor sensitivity.
+
+## 6. Longevity Supplements (NMN, NR, Spermidine)
 *   **The Conflict:** Taking a massive handful of isolated molecules on an empty stomach triggers rapid Phase I liver detoxification, which can cause nausea and flush the compounds before they are utilized.
 *   **The Integration:** Take the Blueprint Longevity stack strictly at **12:00** alongside your Omega-3s, Vitamin D, and Main Meal. The fats and fiber in the meal slow gastric emptying, providing a steady, manageable absorption curve for the liver.
 
