@@ -17,7 +17,7 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 *   **1/4 - 1/2 Fresh Thai Bird’s Eye Chili** (or 1/2 Serrano if lower heat is needed)
 *   **1/2 tsp Roasted Cumin Powder (Jeera)**
 *   **1/4 tsp Black Salt (Kala Namak)**
-*   **Optional:** 1/4 tsp Chaat Masala (adds amchur/tartness without breaking the protocol)
+*   **Optional:** 1/4 tsp Chaat Masala (Provides *Amchur*/dried mango powder, which is hyper-dense in Vitamin C and Mangiferin, boosting antioxidant capacity and lowering pH to assist non-heme iron absorption).
 *   **1/2 Lemon** (Juiced)
 *   **Optional:** 1/2 clove garlic (Crushed and rested 10 min - for maximum raw Allicin signaling)
 *   **1 - 1.5 cups Cold Water**

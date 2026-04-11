@@ -56,6 +56,8 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 5.  **Microgreens stay in original box.**
 
 ## Block 5: Spice Mix & Functional Pastes (10 Min)
+**Goal:** Prevent volatile oil degradation. Pre-ground commercial spices lose their signaling potency quickly. By batching these freshly each week, you guarantee therapeutic thresholds.
+
 **1. Spice Jars:** Pre-mix 7 small jars with the Core Stack (Turmeric, Cumin, Coriander, Kashmiri chili).
 
 **2. Menthol Synergy Muddle (With Oxidation Lock):**
