@@ -24,6 +24,7 @@ These will last months.
 *   Cumin seeds (Jeera)
 *   Cumin powder
 *   Coriander powder (Dhania)
+*   Whole Methi (Fenugreek) seeds
 *   Kashmiri Chili powder (mild, for color)
 *   Garam Masala
 *   Nigella seeds (Black Jeera)

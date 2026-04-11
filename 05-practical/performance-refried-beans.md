@@ -17,8 +17,9 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   2-3 tbsp bean cooking liquid (aquafaba) or water (for creaminess).
 
 **🌱 Digestion Stack (The Anti-Gas Layer):**
+*   **¼ tsp Whole Methi (Fenugreek) seeds** (The Glycemic Anchor - must be toasted/bloomed).
 *   ¼ tsp Ajwain (crushed).
-*   ½ tsp Cumin seeds (toasted).
+*   ½ tsp Cumin seeds.
 *   Pinch of Hing (Asafoetida).
 *   Salt & Black Pepper to taste.
 
@@ -35,8 +36,9 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 
 1.  **Cold Mash:** In a bowl, take your cold beans directly from the fridge. Mash them with a fork or potato masher. 
     *   **Pro-Tip:** Mash 70% for the "refried" creaminess, but keep 30% whole. This preserves some structural fiber and resistant starch integrity.
-2.  **Pan Infusion (3-4 Minutes):** Heat a pan on **low**. Add the bean liquid/water, minced garlic, ginger, diced bell pepper, and onion. Sauté until soft. Add the **Achiote**, **Digestion Stack** spices, coriander, oregano, and smoked paprika. Stir for 60 seconds until fragrant. Achiote is fat-soluble and will turn the oil a deep red color as it "blooms."
-3.  **The Gentle Fold:** Add the mashed beans and the **Acid Shield** (vinegar). Stir constantly to combine with the aromatics and spices.
+2.  **The Dry Bloom (1-2 Minutes):** Heat a pan on **medium-low**. Add the **Methi seeds** and **Cumin seeds** to the dry pan. Toast them for 30-60 seconds until fragrant and the Methi turns slightly golden (this neutralizes its bitterness and activates the insulin-sensitizing compounds).
+3.  **Pan Infusion (3-4 Minutes):** Add a tiny splash of water (or bean liquid) to stop the toasting. Add the minced garlic, ginger, diced bell pepper, and onion. Sauté until soft. Add the **Achiote**, remaining **Digestion Stack** spices (Ajwain/Hing), coriander, oregano, and smoked paprika. Stir for 60 seconds. Achiote is fat-soluble and will turn the base a deep red color.
+4.  **The Gentle Fold:** Add the mashed beans and the **Acid Shield** (vinegar). Stir constantly to combine with the aromatics and spices.
 4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). If they start to steam heavily or bubble, they are too hot. You want to "warm" them, not "re-cook" them.
 5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro. This preserves the delicate polyphenols in the oil and gives the beans a rich, traditional "fried" mouthfeel without the high-heat damage.
 
