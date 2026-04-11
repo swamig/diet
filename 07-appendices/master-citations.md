@@ -85,6 +85,17 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Default Mode Network Interruption (Mantra):** Brewer, J. A., et al., 2011, *PNAS*. Demonstrates that focal anchors actively quiet the DMN, reducing psychological rumination.
 *   **Post-Exercise HRV Recovery:** Stanley, J., et al., 2013, *Sports Medicine*. "The Effect of Post-Exercise Recovery on Heart Rate Variability."
 
+## 13. Metabolic Oncology & Chemoprevention
+*   **Nrf2 & Cancer Prevention (Sulforaphane):** Dinkova-Kostova, A. T., et al., 2012, *Trends in Molecular Medicine*. "The role of Nrf2 in the chemopreventive effects of dietary phytochemicals." Validates the protocol's use of sulforaphane as a primary lever for preventing DNA damage.
+*   **PFAS & Endocrine Disruption (Hardware):** Sunderland et al., 2019, *Journal of Exposure Science & Environmental Epidemiology*. "A review of the pathways of human exposure to poly- and perfluoroalkyl substances (PFASs)." Justifies the protocol's ban on non-stick cookware and plastic containers.
+*   **Pesticide Mitigation (Baking Soda):** Yang, T., et al., 2017, *J. Agric. Food Chem*. "Effectiveness of Commercial and Homemade Washing Agents in Removing Pesticide Residues." Found that 12-15 minutes in a Sodium Bicarbonate solution removed pesticides more effectively than standard washing.
+
+## 14. Time-Restricted Feeding (TRF) & Growth Factors
+The 6-hour feeding window (18:6 fast) is used to modulate anabolic signaling and cellular cleanup.
+*   **IGF-1 Suppression (Cancer Signaling):** Fontana, L., et al., 2016, *Aging Cell*. "Long-term effects of calorie or protein restriction on serum IGF-1 and IGFBP-3 levels in humans." Establishes that fasting and protein-timing modulate Insulin-like Growth Factor 1 (IGF-1), a primary driver of cancer cell proliferation. Lowering IGF-1 through TRF creates a metabolic environment less conducive to tumorigenesis.
+*   **Autophagy Induction (Cellular Cleanup):** Bagherniya, M., et al., 2018, *Ageing Research Reviews*. "The effect of fasting or restriction of calories on autophagy induction." Proves that fasting intervals beyond 16 hours trigger autophagy—the lysosomal degradation of damaged organelles and misfolded proteins—essential for preventing neurodegeneration and oncogenic mutations.
+*   **Metabolic Switch (AMPK/mTOR):** de Cabo & Mattson, 2019, *New England Journal of Medicine*. "Effects of Intermittent Fasting on Health, Aging, and Disease." Validates the transition from glucose-based to ketone-based metabolism during the protocol's 18-hour fast, upregulating stress resistance and antioxidant defense systems.
+
 ## Evidence Status
 *   **General physiology:** This document uses peer-reviewed literature to justify the *directional* use of dietary compounds. 
 *   **Protocol-specific rules:** The exact doses, meal timings, container systems, and thermal sequences built around these mechanisms are operational rules specific to this manual.

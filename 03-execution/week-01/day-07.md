@@ -19,7 +19,7 @@ Parasympathetic tone + reset.
 ## Timing
 *   **06:30** – Rest / Light Walk
 *   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
-*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Batch Meal Prep / Rest
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))

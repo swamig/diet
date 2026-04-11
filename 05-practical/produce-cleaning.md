@@ -1,68 +1,31 @@
 ---
-title: 'Produce Cleaning Protocol'
+title: 'Produce Cleaning & Pesticide Mitigation'
 section: 'practical'
 type: 'procedure'
 priority: 'supporting'
 ---
 
-# Produce Cleaning Protocol
+# Produce Cleaning & Pesticide Mitigation
 
-## Overview
-Cleaning protocols are designed to minimize pesticide residues and microbial load without compromising nutrient density.
+The protocol requires high volumes of greens and crucifers. To maximize the biological benefit while minimizing the toxic load, the following oncology-grade cleaning standards are mandatory.
 
-## Essential Tools
-*   Large bowl or clean sink
-*   Cold water
-*   Salad spinner
-*   Clean kitchen towel
-*   **Baking soda (Recommended)**
-*   **White vinegar (Optional for bacteria)**
+## 1. The Organic Priority
+Purchase **Certified Organic** for the "Dirty Dozen" (Kale, Arugula, Spinach, Blueberries). Organic sourcing reduces the intake of synthetic organophosphates, which disrupt the gut microbiome and endocrine signaling.
 
-## Gold Standard Method (Leafy Greens)
+## 2. The Alkaline Produce Wash (Baking Soda Method)
+Even organic produce can contain soil-based contaminants or pesticide drift. The Baking Soda wash is peer-reviewed to remove up to 96% of certain pesticides.
 
-### Step 1: Soak + Agitate (5 Min)
-1.  Fill bowl with cold water.
-2.  Add **1 teaspoon baking soda per 4 cups water**.
-3.  Submerge greens fully.
-4.  Swish aggressively with hands for 20-30 seconds.
-5.  Let sit 2-3 minutes.
-6.  Lift greens out (don't pour water out over them — dirt settles at bottom).
-
-### Step 2: Final Rinse
-1.  Rinse under running water while gently separating leaves.
-
-### Step 3: DRY COMPLETELY (Crucial)
-Moisture causes mold and nutrient breakdown. Spin dry thoroughly. Lay on clean towel for 5-10 minutes if needed.
-
-## Broccoli
-1.  Cut into florets.
-2.  Soak in cold water with baking soda (5 min).
-3.  Swish vigorously.
-4.  Rinse under running water.
-
-## Vinegar Protocol (Optional)
-Use **white distilled vinegar** (1 part vinegar : 3 parts water) if microbial reduction is the main concern.
-
-**Note:** Baking soda is more effective for pesticide breakdown. Vinegar is more effective for bacteria.
+**Protocol:**
+1.  **The Soak:** Fill a glass bowl or stainless sink with cold water. Add **1 tablespoon of Baking Soda (Sodium Bicarbonate) per gallon of water**.
+2.  **The Time:** Submerge produce for **12-15 minutes**. 
+3.  **The Acid Rinse:** For hearty greens (Kale) and non-organic fruit, follow with a quick splash of **Vinegar** in fresh water to neutralize any remaining residues and microbial load.
+4.  **The Dry (Mandatory):** Spin dry or pat with paper towels. Storing produce wet causes rapid oxidation and nutrient loss.
 
 ## Evidence Status
-
-- **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
-- **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
-
-## Used In
-
-- [90-Minute Sunday Batch Prep System](sunday-prep.md)
-- [Fridge Layout Optimization](fridge-storage.md)
-- [Weekly Prep Checklist](weekly-prep-checklist.md)
-
-## Conflicts
-
-- Skipping the dry step creates downstream storage problems even if the wash itself was correct.
-- Using vinegar and baking soda as if they solve the same problem makes the method less precise.
+*   **Pesticide Removal:** Yang et al., 2017, *Journal of Agricultural and Food Chemistry*. "Effectiveness of Commercial and Homemade Washing Agents in Removing Pesticide Residues on and in Apples." Proves Sodium Bicarbonate (Baking Soda) is significantly more effective than plain water or bleach at removing surface and sub-surface pesticides [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
+*   **Carcinogenic Cookware:** Lim et al., 2017, *Environmental Science and Pollution Research*. Documents the leaching of perfluorinated compounds from traditional non-stick surfaces into food matrices.
 
 ## Related Pages
-
 - [Fridge Layout Optimization](fridge-storage.md)
 - [Consolidated Master Shopping List](shopping-list-master.md)
-- [Weekly Prep Checklist](weekly-prep-checklist.md)
+- [High Signaling Container System](container-system.md)

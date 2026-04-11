@@ -16,7 +16,8 @@ Metabolic flexibility refers to the organism’s ability to efficiently transiti
 
 The 6-hour feeding window utilized in this protocol is not arbitrary. It is designed to:
 
-*   Allow sufficient fasting duration (approximately 18 hours) to promote AMPK activation.
+*   Allow sufficient fasting duration (approximately 18 hours) to promote **AMPK activation** and **Autophagy** [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
+*   Suppress circulating **IGF-1** (Insulin-like Growth Factor 1) to create a chemopreventive metabolic state [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
 *   Reduce persistent mTOR stimulation.
 *   Enhance insulin sensitivity before the first feeding.
 *   Create predictable anabolic signaling during resistance training.
