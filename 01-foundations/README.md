@@ -18,6 +18,7 @@ Read this section first. These pages explain why the protocol exists, what rules
 3. [Gut Microbiome Diversification](03-microbiome-hormesis.md)
 4. [Circadian Hydration Physiology](04-hydration.md)
 5. [Resistant Starch Cycling](05-resistant-starch.md)
+6. [Ayurvedic Alignment & Doshic Balance](06-ayurvedic-alignment.md)
 
 ## Use This Section To Answer
 

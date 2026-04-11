@@ -50,6 +50,7 @@ Clinical rationale, physiology, and protocol rules.
 - [Microbiome Hormesis](01-foundations/03-microbiome-hormesis.md)
 - [Hydration](01-foundations/04-hydration.md)
 - [Resistant Starch Cycling](01-foundations/05-resistant-starch.md)
+- [Ayurvedic Alignment & Doshic Balance](01-foundations/06-ayurvedic-alignment.md)
 
 ### 2. Ingredients & Monographs
 Reference pages for daily anchors, rotational spices, and support ingredients.
