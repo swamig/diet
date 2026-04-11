@@ -17,25 +17,27 @@ priority: 'active'
 Mitochondrial support + controlled nitric.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Ajwain water
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Tulsi infusion
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Tofu Day High Capsaicin Pulse + Micro-Nutrients)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Ashwagandha 'Net 8')
 
 ## Hydration
 **Morning: Ajwain Water**
 *   1/4 tsp ajwain
 *   Simmer 2 min, steep 10 min.
 
-**Night: Tulsi Infusion**
-*   1 tsp dried tulsi
-*   Steep 7 min.
+**Night: Ashwagandha (Tasty Net 8)**
+*   1/2 tsp Ashwagandha root powder
+*   1/4 tsp Ceylon Cinnamon + pinch Cardamom
+*   1 cup warm Alkaline Water (pH 8+) + splash almond milk.
 
-## Main Meal: Vegan Patties + Nigella (Final Controlled Exposure)
+## Main Meal: Tofu (High Capsaicin Pulse)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min)

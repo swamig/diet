@@ -17,14 +17,15 @@ priority: 'active'
 Parasympathetic tone + reset.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Saffron (morning light infusion)
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Saffron infusion
+*   **06:30** – Rest / Light Walk
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **14:30** – Rotational salad
+*   **16:30** – Batch Meal Prep / Rest
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Rest / Optional Sauna
+*   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
 **Morning: Saffron Infusion**
@@ -32,10 +33,10 @@ Parasympathetic tone + reset.
 *   Warm water (80-90°C)
 *   Steep 10-15 min.
 
-**Night: Saffron Infusion**
-*   5 saffron threads
-*   Warm water (80-90°C)
-*   Steep 10-15 min.
+**Night: Tulsi Infusion**
+*   1 tsp dried tulsi
+*   Warm water (pH 8+ Optional)
+*   Steep 10 mins. Drink warm 60 min before sleep.
 
 ## Main Meal: Tofu Baseline (Low Spice Load)
 **Ingredients:**

@@ -17,14 +17,15 @@ priority: 'active'
 Nitric oxide reinforcement + endothelial signaling.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Ginger + Lemon hydration
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Saffron infusion
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Saffron infusion)
 
 ## Hydration
 **Morning: Ginger + Lemon**
@@ -33,8 +34,8 @@ Nitric oxide reinforcement + endothelial signaling.
 
 **Night: Saffron Infusion**
 *   5 saffron threads
-*   Warm water (80-90°C)
-*   Steep 12 min.
+*   Warm Alkaline Water (pH 8+) ONLY. (No masking).
+*   Steep 10-15 min. Drink 60 min before sleep.
 
 ## Main Meal: Vegan Patties (Baseline Anti-Inflammatory)
 **Ingredients:**

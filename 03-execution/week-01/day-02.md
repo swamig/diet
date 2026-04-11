@@ -17,14 +17,15 @@ priority: 'active'
 Digestive support + microbiome stabilization.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Jeera water
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Tulsi infusion
+*   **06:30** – VO2 Max Nordic 4x4
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients)
+*   **14:30** – Rotational salad
+*   **16:30** – Active Recovery / Mobility
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Sauna (Method A) + Sauna Mineral Reload Jaljeera
+*   **21:00** – Night hydration (Ashwagandha 'Net 8')
 
 ## Hydration
 **Morning: Jeera Water**
@@ -32,9 +33,10 @@ Digestive support + microbiome stabilization.
 *   1 cup water
 *   Boil 5 min, strain.
 
-**Night: Tulsi Infusion**
-*   1 tsp dried tulsi
-*   Steep 7 min. Drink warm.
+**Night: Ashwagandha (Tasty Net 8)**
+*   1/2 tsp Ashwagandha root powder
+*   1/4 tsp Ceylon Cinnamon + pinch Cardamom
+*   1 cup warm Alkaline Water (pH 8+) + splash almond milk.
 
 ## Main Meal: Tofu Anti-Inflammatory Protocol
 **Ingredients:**

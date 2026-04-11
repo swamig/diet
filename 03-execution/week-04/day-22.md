@@ -17,14 +17,15 @@ priority: 'active'
 Bitter activation + low oxalate day.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Ajwain water
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Tulsi infusion
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
 **Morning: Ajwain Water**
@@ -33,7 +34,8 @@ Bitter activation + low oxalate day.
 
 **Night: Tulsi Infusion**
 *   1 tsp dried tulsi
-*   Steep 7 min.
+*   Warm water (pH 8+ Optional)
+*   Steep 10 mins. Drink warm 60 min before sleep.
 
 ## Main Meal: Vegan Patties (Low Oxalate Emphasis)
 **Ingredients:**

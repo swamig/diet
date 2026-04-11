@@ -17,14 +17,15 @@ priority: 'active'
 Controlled antimicrobial + mineral density.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Clove infusion
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Cinnamon water
+*   **06:30** – VO2 Max Nordic 4x4
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients)
+*   **14:30** – Rotational salad
+*   **16:30** – Active Recovery / Mobility
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Sauna (Method A) + Sauna Mineral Reload Jaljeera
+*   **21:00** – Night hydration (Ashwagandha 'Net 8')
 
 ## Hydration
 **Morning: Clove Infusion**

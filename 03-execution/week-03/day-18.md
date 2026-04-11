@@ -17,14 +17,15 @@ priority: 'active'
 Fiber modulation + reduced polyphenol load.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Clove infusion
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Mineral water
+*   **06:30** – Fasted Cardio + Restorative Yoga
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **14:30** – Rotational salad
+*   **16:30** – Active Recovery / Mobility
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Sauna
+*   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
 **Morning: Clove Infusion**

@@ -17,14 +17,15 @@ priority: 'active'
 Moderate antimicrobial (Clove Day).
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Clove infusion
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Mineral water
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Tofu Day High Capsaicin Pulse + Micro-Nutrients)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Ashwagandha 'Net 8')
 
 ## Hydration
 **Morning: Clove Infusion**
@@ -34,7 +35,7 @@ Moderate antimicrobial (Clove Day).
 **Night: Mineral Water**
 *   Warm water + pinch sea salt.
 
-## Main Meal: Tofu (Low Polyphenol Day)
+## Main Meal: Tofu (High Capsaicin Pulse)
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
 *   150g broccoli (rested 30 min)

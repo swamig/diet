@@ -17,14 +17,15 @@ priority: 'active'
 Establish anti-inflammatory baseline + vascular support.
 
 ## Timing
-*   **06:30** – Fasted cardio (20–40 minutes, low intensity)
-*   **07:15** – Ajwain hydration
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
 *   **14:30** – Rotational salad
-*   **16:30** – Resistance training
+*   **16:30** – Heavy Lift
 *   **17:30** – Post-workout protein (Whey + Creatine)
 *   **17:50** – Recovery bowl
-*   **21:00** – Night hydration (Saffron infusion)
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
 **Morning: Ajwain Water**
@@ -32,10 +33,10 @@ Establish anti-inflammatory baseline + vascular support.
 *   1 cup water
 *   Simmer 2 min, steep 10 min. Drink warm.
 
-**Night: Saffron Infusion**
-*   5 saffron threads
-*   Warm water (not boiling)
-*   Steep 10-15 min. Drink 60 min before sleep.
+**Night: Tulsi Infusion**
+*   1 tsp dried tulsi
+*   Warm water (pH 8+ Optional)
+*   Steep 10 mins. Drink warm 60 min before sleep.
 
 ## Main Meal: Anti-Inflammatory Vegan Patties Protocol (12:00)
 **Ingredients:**

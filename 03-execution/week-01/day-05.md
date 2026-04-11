@@ -17,14 +17,15 @@ priority: 'active'
 Nitric oxide emphasis.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Mint + Cucumber hydration
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Saffron infusion
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Tofu Day High Capsaicin Pulse + Micro-Nutrients)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Ashwagandha 'Net 8')
 
 ## Hydration
 **Morning: Mint + Cucumber**
@@ -32,12 +33,12 @@ Nitric oxide emphasis.
 *   4 cucumber slices
 *   Steep 10 min.
 
-**Night: Saffron Infusion**
-*   5 saffron threads
-*   Warm water (80-90°C)
-*   Steep 12-15 min.
+**Night: Ashwagandha (Tasty Net 8)**
+*   1/2 tsp Ashwagandha root powder
+*   1/4 tsp Ceylon Cinnamon + pinch Cardamom
+*   1 cup warm Alkaline Water (pH 8+) + splash almond milk.
 
-## Main Meal: Tofu + Pomegranate/Rosemary Stack
+## Main Meal: Tofu (High Capsaicin Pulse)
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
 *   150g broccoli (rested 30 min)

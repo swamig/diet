@@ -17,14 +17,15 @@ priority: 'active'
 Sulforaphane amplification + nitric preparation.
 
 ## Timing
-*   **06:30** – Fasted cardio
-*   **07:15** – Ginger + lemon hydration
-*   **12:00** – Break fast
-*   **14:30** – Salad
-*   **16:30** – Resistance
-*   **17:30** – Protein
-*   **17:50** – Recovery
-*   **21:00** – Cinnamon night infusion
+*   **06:30** – Cold Plunge (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
+*   **14:30** – Rotational salad
+*   **16:30** – Heavy Lift
+*   **17:30** – Post-workout protein (Whey + Creatine)
+*   **17:50** – Recovery bowl
+*   **18:30** – Optional Evening Walk
+*   **21:00** – Night hydration (Saffron infusion)
 
 ## Hydration
 **Morning: Ginger + Lemon**
@@ -32,9 +33,10 @@ Sulforaphane amplification + nitric preparation.
 *   1 cup hot water
 *   Steep 10 min, add lemon juice.
 
-**Night: Cinnamon Infusion**
-*   1/4 tsp Ceylon cinnamon
-*   Warm water. Stir well.
+**Night: Saffron Infusion**
+*   5 saffron threads
+*   Warm Alkaline Water (pH 8+) ONLY. (No masking).
+*   Steep 10-15 min. Drink 60 min before sleep.
 
 ## Main Meal: Vegan Patties (Sulforaphane Priority)
 **Ingredients:**
