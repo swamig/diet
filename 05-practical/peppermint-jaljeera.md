@@ -1,5 +1,5 @@
 ---
-title: 'High-Signaling Peppermint Jaljeera'
+title: 'High-Signaling Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin)'
 section: 'practical'
 type: 'procedure'
 priority: 'supporting'
@@ -22,7 +22,7 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
     *   **1/4 tsp Chaat Masala:** (Amchur/dried mango powder).
     *   **1/2 Lemon (Juiced)**
 *   **The Glycemic Anchor:** **1 tbsp Apple Cider Vinegar (Raw)**. (Acetic acid blunts the glucose spike from your midday quinoa/legumes).
-*   **Optional:** 1/2 clove garlic (Crushed and rested 10 min - for maximum raw Allicin signaling)
+*   **Optional:** 1/2 clove garlic (Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) - for maximum raw Allicin signaling)
 *   **1 - 1.5 cups Cold Water**
 
 ## Sunday Prep / Batching Strategy
@@ -40,7 +40,7 @@ To reduce daily friction while maintaining the "Mechanical Release" rule without
 3.  **Hydrate:** Pour in the cold water and stir aggressively to integrate the oils. Let it rest for 2 minutes to infuse.
 4.  **Execution (The Tofu Spike):** Drink alongside your 12:00 meal. On **Tofu Rotation Days**, sear your tofu with extra Thai chilies in olive oil. The combined effect of the Jaljeera chili + Tofu chili + Menthol creates the weekly "High TRP Activation" protocol spike.
 
-## The "Sauna Mineral Reload" Variation
+## The "Sauna [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) Mineral Reload" Variation
 
 If you are using **Thermal Hormesis (Sauna)**, your body will rapidly deplete sodium and trace minerals through sweat. The Jaljeera serves as an elite, food-based isotonic hydration matrix, but you must remove the heat signaling.
 

@@ -17,15 +17,15 @@ priority: 'active'
 Nigella day - Controlled antimicrobial exposure.
 
 ## Timing
-*   **06:30** – VO2 Max Nordic 4x4
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **06:30** – VO2 Max Nordic 4x4 [9](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients)
-*   **14:30** – Rotational salad
+*   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility
-*   **17:30** – Post-workout protein (Whey + Creatine)
-*   **17:50** – Recovery bowl
-*   **18:30** – Sauna (Method A) + Sauna Mineral Reload Jaljeera
-*   **21:00** – Night hydration (Ashwagandha 'Net 8')
+*   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   **18:30** – Sauna [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A) + Sauna Mineral Reload Jaljeera
+*   **21:00** – Night hydration (Ashwagandha [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) 'Net 8')
 
 ## Hydration
 **Morning: Jeera Water**
@@ -39,7 +39,7 @@ Nigella day - Controlled antimicrobial exposure.
 ## Main Meal: Tofu + Nigella Stack
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
-*   150g broccoli (rested 30 min)
+*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   90g cooked quinoa
 *   5g olive oil
 *   1/2 tsp turmeric

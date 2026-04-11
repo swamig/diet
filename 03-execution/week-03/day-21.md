@@ -18,13 +18,13 @@ Parasympathetic emphasis + low stimulation reset.
 
 ## Timing
 *   **06:30** – Rest / Light Walk
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
-*   **14:30** – Rotational salad
+*   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Batch Meal Prep / Rest
-*   **17:30** – Post-workout protein (Whey + Creatine)
-*   **17:50** – Recovery bowl
-*   **18:30** – Rest / Optional Sauna
+*   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   **18:30** – Rest / Optional Sauna [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration)
 *   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
@@ -37,10 +37,10 @@ Parasympathetic emphasis + low stimulation reset.
 *   Warm water (pH 8+ Optional)
 *   Steep 10 mins. Drink warm 60 min before sleep.
 
-## Main Meal: Vegan Patties Baseline (Low Spice Load)
+## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Baseline (Low Spice Load)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min)
+*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   1/2 cup quinoa
 *   1 tsp olive oil
 *   1/2 tsp turmeric

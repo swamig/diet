@@ -1,5 +1,5 @@
 ---
-title: 'Thermal Hormesis (Sauna & Cold Plunge)'
+title: 'Thermal Hormesis (Sauna [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) & Cold Plunge [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration))'
 section: 'practical'
 type: 'procedure'
 priority: 'high'
@@ -26,7 +26,7 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 *   **Duration:** 15-20 minutes.
 *   **Temperature:** 175°F - 195°F (80°C - 90°C).
 *   **Mechanism:** Mimics cardiovascular exercise (elevates heart rate) and triggers Growth Hormone release. Exiting the sauna induces a natural drop in core body temperature, which signals the brain to prepare for deep sleep.
-*   **The Reload:** The sauna severely depletes sodium and trace minerals. Drink the **Sauna Mineral Reload Variation** of the Peppermint Jaljeera (no chili, just mint, lemon, black salt, and roasted cumin) immediately after exiting.
+*   **The Reload:** The sauna severely depletes sodium and trace minerals. Drink the **Sauna Mineral Reload Variation** of the Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) (no chili, just mint, lemon, black salt, and roasted cumin) immediately after exiting.
 
 ---
 
@@ -60,5 +60,5 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 
 ## Related Pages
 - [Advanced Training & Thermal Hormesis Integration](../04-advanced-control/training-hormesis-integration.md)
-- [Beginner Yoga Sequences (The Hanuman Dand Finisher)](yoga-routines.md)
+- [Beginner Yoga Sequences (The Hanuman Dand [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher)](yoga-routines.md)
 - [Peppermint Jaljeera (Sauna Mineral Reload)](peppermint-jaljeera.md)

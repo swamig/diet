@@ -23,7 +23,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 *   1–2 green chilies
 
 **🧄 Aromatics (Gut + Flavor):**
-*   3–4 cloves garlic (**CRITICAL:** Crushed and rested 10 min before mixing)
+*   3–4 cloves garlic (**CRITICAL:** Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) before mixing)
 *   1 tsp fresh ginger
 
 **🌱 Digestive Seed System (CRITICAL):**
@@ -52,7 +52,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ## Procedure
 
-1.  **Prep Chickpeas (The Double-Chill):** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas. Drain, cool rapidly, and chill in the fridge for 24 hours.
+1.  **Prep Chickpeas (The Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)):** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas. Drain, cool rapidly, and chill in the fridge for 24 hours.
 2.  **The Second Warm (Acid Shield):** Gently warm the chilled chickpeas in a pan (stay under 130°F) with the ½ tsp apple cider vinegar. Remove from heat, cool rapidly, and return to the fridge for a *second* 24-hour chill to maximize Resistant Starch Type 3.
 3.  **Mash:** Take the double-chilled chickpeas, dry for 10–15 min if needed, and mash until 70% smooth and 30% chunky.
 4.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."

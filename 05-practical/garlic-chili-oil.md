@@ -22,7 +22,7 @@ This is the engineered "Fresh Pulse" for **Tofu Day.** By blooming the garlic an
 3.  **00:11 - The Bloom:** Turn the heat to low. Let the oil slowly warm up until the garlic starts to barely sizzle. Continue for **5 minutes** on low heat. This "blooms" the capsaicin and sulfur into the fat.
 4.  **00:16 - The Sear:** Turn the heat to medium-high. Once shimmering, add your tofu. 
 5.  **00:25 - The Plating & Garnish:** Remove the tofu from the heat. Immediately tear 5-6 fresh **Mentha arvensis** leaves over the hot tofu. The residual heat will release the menthol aroma without destroying the compound.
-6.  **00:26 - Completion:** Serve immediately alongside your **Peppermint Jaljeera** for the ultimate TRP cross-talk spike.
+6.  **00:26 - Completion:** Serve immediately alongside your **Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin)** for the ultimate TRP cross-talk spike.
 
 ## Benefits of the Fresh Method
 *   **Maximum Potency:** Volatile oils are at 100% strength.

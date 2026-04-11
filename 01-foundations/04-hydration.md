@@ -14,7 +14,7 @@ Hydration in this protocol is not neutral. It is divided into:
 *   **Ajwain (Carom)**
 *   **Jeera (Cumin)**
 *   **Ginger**
-*   **Ceremonial Matcha / Green Tea** (Optional - See Tannin Rule)
+*   **Ceremonial Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) / Green Tea** (Optional - See Tannin Rule)
 
 **The "Warm Start" Rule:** Morning hydration (07:15) MUST be consumed warm to hot. Warm water acts as a vasodilator, stimulating peristalsis and prepping the gut for the 12:00 feeding window. Cold water constricts the digestive channels and is prohibited before 10:00.
 
@@ -22,7 +22,7 @@ Hydration in this protocol is not neutral. It is divided into:
 
 ## Night Hydration (Parasympathetic Alignment)
 
-*   **Ashwagandha** (The Cortisol Buffer - Cycle 2-3x weekly max)
+*   **Ashwagandha [5](../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha)** (The Cortisol Buffer - Cycle 2-3x weekly max)
 *   **Saffron**
 *   **Tulsi (Holy Basil)**
 *   **Cinnamon & Cardamom** (Flavor/Glucose stabilizers)
@@ -43,7 +43,7 @@ Hydration timing is therefore a signaling tool, not merely fluid replacement.
 The protocol views high stomach acid (low pH) as mandatory for breaking down heavy plant proteins and extracting minerals. **Alkaline water (pH 8-9+) neutralizes acid.** Therefore, its use must be strictly timed to avoid sabotaging digestion.
 
 *   **The Meal Blockade (11:00 to 13:30):** Do **NOT** drink alkaline water within 60 minutes before, during, or 60 minutes after your main meal. Flooding the stomach with a high-pH base will dilute gastric acid, causing legumes and protein patties to ferment in the gut (bloating/Ama) rather than digest.
-*   **The Acid/Iron Conflict:** Do not use alkaline water to make your Peppermint Jaljeera or morning infusions. The alkaline base will neutralize the acids (lemon/vinegar) required for mineral absorption and Agni stimulation.
+*   **The Acid/Iron Conflict:** Do not use alkaline water to make your Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) or morning infusions. The alkaline base will neutralize the acids (lemon/vinegar) required for mineral absorption and Agni stimulation.
 *   **The "Net 8" Night Anchor (21:00):** To safely achieve an alkaline systemic state ("net 8"), brew your night infusion (Ashwagandha/Tulsi) using alkaline water (pH 8+). Because the 17:50 recovery bowl digestion is mostly complete, the alkaline water acts as a parasympathetic counterweight to the day's metabolic acidity without disrupting the midday Agni.
 *   **Other Approved Windows:** Alkaline water is also permitted during 06:30 fasted cardio or 16:30 resistance training.
 

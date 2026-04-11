@@ -12,7 +12,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 ## Inputs
 *   1.5 cups pre-cooked, 24h-chilled Black Beans or Chickpeas.
 *   1 tbsp Extra Virgin Olive Oil (EVOO) - *Added at the end.*
-*   1 tsp fresh garlic (**Crushed and rested 10 min**) & 1/2 tsp fresh ginger.
+*   1 tsp fresh garlic (**Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule)**) & 1/2 tsp fresh ginger.
 *   1 tsp Apple Cider Vinegar or Balsamic Vinegar (The "Acid Shield").
 *   2-3 tbsp bean cooking liquid (aquafaba) or water (for creaminess).
 
@@ -48,7 +48,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   **Maximum Bioavailability:** The raw EVOO and black pepper at the end maximize the absorption of the fat-soluble compounds in your spices.
 
 ## Storage and Prep
-Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill" boost**, which will further increase the resistant starch content.
+Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" boost**, which will further increase the resistant starch content.
 
 ## Evidence Status
 

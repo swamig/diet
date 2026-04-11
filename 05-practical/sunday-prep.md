@@ -24,7 +24,7 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 2.  Mix pea protein, vital wheat gluten, rested garlic, ginger, and digestion spices.
 3.  Form into patties (about 14 for the week).
 
-**Chickpeas & Beans (Double-Chill Protocol):**
+**Chickpeas & Beans (Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) Protocol):**
 1.  **First Chill:** Rinse canned beans, or cook from dry. Drain, cool, and chill overnight.
 2.  **The Second Warm (Allicin Pulse):** The next day, gently warm the chilled beans in a pan (under 130°F). Fold in **fresh crushed and rested garlic** (1 clove per cup of beans) along with a splash of vinegar and digestion spices. 
 3.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours.
@@ -62,7 +62,7 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 
 **2. Morning Activation Packs:**
 *   Pre-portion 7 tiny containers/packs for your 07:15 morning hydration.
-*   Add the dry seeds (Ajwain/Jeera/Clove/Cardamom) and/or **1 tsp Matcha powder** as per the weekly rotation.
+*   Add the dry seeds (Ajwain/Jeera/Clove/Cardamom) and/or **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder** as per the weekly rotation.
 *   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
 
 **3. Menthol Synergy Muddle (With Oxidation Lock):**
@@ -117,7 +117,7 @@ To convert simple starches into **Resistant Starch Type 3**:
 *   **The Benefit:** Chopping breaks the plant cell walls, allowing the enzyme *myrosinase* to interact with *glucoraphanin* to create **Sulforaphane**. Resting ensures the reaction is complete before heat is applied, as heat destroys the myrosinase enzyme.
 
 ## Storage Logic
-*   **Fridge:** Vegan Patties (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
+*   **Fridge:** Vegan Patties [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
 *   **Freezer:** Extra portions.
 *   **Midweek Reset (Wed):** Chop fresh broccoli, refresh paper towels.
 

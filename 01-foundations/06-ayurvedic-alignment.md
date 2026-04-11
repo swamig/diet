@@ -22,7 +22,7 @@ The **Menthol + Capsaicin** stack is a modern version of Doshic balancing.
 
 *   **Pitta (Heating):** Chilies and Garlic are intensely *Ushna* (Heating). Used alone, they can aggravate *Pitta*, leading to systemic "burn" (inflammation).
 *   **Sheeta (Cooling):** Mentha arvensis and Cilantro are intensely *Sheeta* (Cooling). 
-*   **The Synergy:** Consuming them together in the **Peppermint Jaljeera** creates a balanced signal. You get the metabolic stimulation of the heat (Capsaicin) without the inflammatory side effects, maintaining a state of **Sama** (equilibrium).
+*   **The Synergy:** Consuming them together in the **Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin)** creates a balanced signal. You get the metabolic stimulation of the heat (Capsaicin) without the inflammatory side effects, maintaining a state of **Sama** (equilibrium).
 
 ## 3. Shodhana (Circadian Cleansing)
 

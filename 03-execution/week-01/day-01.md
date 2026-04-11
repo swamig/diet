@@ -17,13 +17,13 @@ priority: 'active'
 Establish anti-inflammatory baseline + vascular support.
 
 ## Timing
-*   **06:30** – Cold Plunge (Method A)
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **06:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
-*   **14:30** – Rotational salad
+*   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Heavy Lift
-*   **17:30** – Post-workout protein (Whey + Creatine)
-*   **17:50** – Recovery bowl
+*   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
 *   **18:30** – Optional Evening Walk
 *   **21:00** – Night hydration (Tulsi infusion)
 
@@ -38,10 +38,10 @@ Establish anti-inflammatory baseline + vascular support.
 *   Warm water (pH 8+ Optional)
 *   Steep 10 mins. Drink warm 60 min before sleep.
 
-## Main Meal: Anti-Inflammatory Vegan Patties Protocol (12:00)
+## Main Meal: Anti-Inflammatory Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Protocol (12:00)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (chopped, rested 30 min)
+*   150g broccoli (chopped, rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   90g cooked quinoa
 *   5g olive oil
 *   1.5g turmeric (1/2 tsp)

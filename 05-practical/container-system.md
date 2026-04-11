@@ -24,7 +24,7 @@ Do not use plastic Tupperware. The biochemical rationale is threefold:
 | **Warm Fuel** | 2-Cup Round | 16 oz | 7 | Daily quinoa, lentils, and 2 protein patties. |
 | **Dressing Jar** | 16-24 oz Glass | - | 1 | Master "Wet Base" batch for 7 days (Cold). |
 | **Recovery** | 1-Cup Round | 8 oz | 14 | 7x Thawed blueberries, 7x Dry Casein powder. |
-| **Bulk Prep** | 11-Cup Rect. | 88 oz | 1 | Rapid cooling for "Double-Chill" protocol on Sundays. |
+| **Bulk Prep** | 11-Cup Rect. | 88 oz | 1 | Rapid cooling for "Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" protocol on Sundays. |
 
 ## Why This Works
 

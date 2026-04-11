@@ -17,7 +17,7 @@ Use this page when the protocol breaks in practice. The goal is to recover the s
 | :--- | :--- | :--- |
 | **Bloating after legumes** | Chill time, portion size, digestion spices, speed of eating | Reduce portion for 2-3 days, keep legumes chilled, use cumin/ajwain/ginger, and rebuild gradually. |
 | **Ferments feel irritating** | Serving size, empty-stomach use, stacking with heavy antimicrobial days | Reduce to 1 tbsp temporarily and keep with the salad instead of solo use. |
-| **Recovery bowl feels too heavy** | Total dairy load, timing, flavored whey + cacao stacking | Reduce cacao days, shift bowl timing slightly later, or simplify to yogurt + berries. |
+| **Recovery bowl [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) feels too heavy** | Total dairy load, timing, flavored whey + cacao stacking | Reduce cacao days, shift bowl timing slightly later, or simplify to yogurt + berries. |
 
 ## Prep and Storage Issues
 

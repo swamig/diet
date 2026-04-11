@@ -18,7 +18,7 @@ Maximize sulforaphane integrity and minimize nutrient degradation.
 *   **Door:** Condiments only
 
 ## Top Shelf (Ready & Daily Access)
-*   **Vegan Patties & pre-cooked Chickpeas** (front left)
+*   **Vegan Patties [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) & pre-cooked Chickpeas** (front left)
 *   **Cooked lentils** (front right)
 *   **Cooked quinoa** (center)
 *   **Pre-portioned sauerkraut cups**

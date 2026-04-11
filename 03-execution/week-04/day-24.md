@@ -17,13 +17,13 @@ priority: 'active'
 Moderate nitric support.
 
 ## Timing
-*   **06:30** – Cold Plunge (Method A)
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha)
+*   **06:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
+*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack)
-*   **14:30** – Rotational salad
+*   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Heavy Lift
-*   **17:30** – Post-workout protein (Whey + Creatine)
-*   **17:50** – Recovery bowl
+*   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
 *   **18:30** – Optional Evening Walk
 *   **21:00** – Night hydration (Saffron infusion)
 
@@ -37,10 +37,10 @@ Moderate nitric support.
 *   Warm Alkaline Water (pH 8+) ONLY. (No masking).
 *   Steep 10-15 min. Drink 60 min before sleep.
 
-## Main Meal: Vegan Patties Baseline
+## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Baseline
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min)
+*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   1/2 cup quinoa
 *   1 tsp olive oil
 *   1/2 tsp turmeric

@@ -16,7 +16,7 @@ To understand why yoga is required in an elite lifting program, you must underst
 *   **Yoga (Parasympathetic):** Yoga uses slow, controlled exhalations and inversions (like Downward Dog) to stimulate baroreceptors in the neck and chest. This sends a signal through the Vagus nerve to release acetylcholine, which immediately slows the heart rate and signals the adrenal glands to halt cortisol production. Yoga is the "off switch" to the lifting "on switch."
 
 ## 1. Active Morning Routine (15-20 Min)
-**Protocol Use:** Use this to replace 06:30 Fasted Cardio on days you want low-impact, continuous movement to generate heat and wake up the sympathetic nervous system without spiking cortisol. 
+**Protocol Use:** Use this to replace 06:30 Fasted Cardio [9](../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit) on days you want low-impact, continuous movement to generate heat and wake up the sympathetic nervous system without spiking cortisol. 
 **Breath:** "Ujjayi" breath (inhale and exhale deeply through the nose, creating a slight restriction in the back of the throat). Sync every movement with a breath.
 
 **The Sequence:**
@@ -33,7 +33,7 @@ To understand why yoga is required in an elite lifting program, you must underst
     *   *Exhale:* Push back to Downward Facing Dog. Take 3 breaths, then step to the top of the mat and repeat.
 6.  **Warrior II (1 min per side):** From Down Dog, step right foot forward between hands. Spin left heel flat. Rise up, arms parallel to the floor, gazing over the right fingertips. Bend deeply into the right knee. Switch sides.
 
-### The Hanuman Dand Finisher (The Ultimate Primer)
+### The Hanuman Dand [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher (The Ultimate Primer)
 *   **The Execution (3 sets of 10):** From Downward Dog, dive the chest low to the ground (swooping forward), pushing up into Upward Dog (spinal extension). Immediately push the hips back to Downward Dog (spinal flexion). 
 *   **The Mechanism:** This multi-planar movement floods the upper body with blood and generates massive internal heat (*Agni*). Because the exertion is perfectly rhythm-linked to your breath, it acts as a "Vascular Pump" without frying the Central Nervous System (CNS) or spiking cortisol the way a barbell press would. It is the perfect bridge between rest and work.
 
@@ -64,7 +64,7 @@ To fix this, the physical postures (*Asana*) must be paired with the cognitive f
 *   **The Perspective Shift (*Lila*):** Shaivism views the universe as a divine play (*Lila*). By shifting your perspective from "fighting the world" to "witnessing the play," you create cognitive distance between yourself and your stressors. 
 *   **Mantra as a Tool:** A mantra (literally: "instrument of the mind") is not a religious chant; it is a focal anchor. When the Default Mode Network (DMN) in your brain starts ruminating on anxiety, silently repeating a resonance (like *So Hum* - "I am That") interrupts the neural loop. 
 
-**The Protocol Integration:** During your Restorative Yoga and 21:00 Night Infusion, practice *Vimarsha* (reflective awareness). Witness your thoughts without engaging them. This is the ultimate "top-down" mechanism for lowering cortisol, perfectly complementing the "bottom-up" biochemical control of the diet.
+**The Protocol Integration:** During your Restorative Yoga [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) and 21:00 Night Infusion, practice *Vimarsha* (reflective awareness). Witness your thoughts without engaging them. This is the ultimate "top-down" mechanism for lowering cortisol, perfectly complementing the "bottom-up" biochemical control of the diet.
 
 ## Related Pages
 - [Advanced Training & Thermal Hormesis Integration](../04-advanced-control/training-hormesis-integration.md)
