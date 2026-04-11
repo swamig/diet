@@ -50,6 +50,13 @@ Sulforaphane influences:
 
 Overcooking destroys enzymatic activity and negates this pathway.
 
+## TRP Synergy & Allicin Signaling
+
+The protocol includes two additional biological levers for inflammation control:
+
+1.  **TRP Receptor Cross-Talk:** Consuming high-menthol mint (*Mentha arvensis*) alongside capsaicin (chili) forces a receptor interaction that modulates systemic inflammation. This requires a strict 5-10 minute consumption window. See [Peppermint & Capsaicin](../02-ingredients/peppermint-chili.md).
+2.  **The Allicin Rule:** Garlic must be crushed and rested for 10 minutes to activate its anti-inflammatory organosulfur compounds. Jarred garlic is prohibited. See [Garlic Monograph](../02-ingredients/garlic.md).
+
 ## Evidence Status
 
 - **General physiology:** This page uses directional physiology and pathway language as a framing model, not as a diagnosis or guarantee of effect.

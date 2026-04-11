@@ -15,6 +15,7 @@ This section is a reference library, not required front-to-back reading. Start w
 
 - [Turmeric](turmeric.md)
 - [Black Pepper](black-pepper.md)
+- [Garlic](garlic.md)
 - [Microgreens](microgreens.md)
 - [Cilantro](cilantro.md)
 - [Fermented Vegetables](ferments.md)
@@ -27,6 +28,7 @@ This section is a reference library, not required front-to-back reading. Start w
 - [Nigella](nigella.md)
 - [Clove](clove.md)
 - [Cinnamon](cinnamon.md)
+- [Peppermint & Capsaicin (TRP Synergy)](peppermint-chili.md)
 
 ## Vascular, Recovery, and Support Ingredients
 

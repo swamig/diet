@@ -1,0 +1,51 @@
+---
+title: 'High-Signaling Peppermint Jaljeera'
+section: 'practical'
+type: 'procedure'
+priority: 'supporting'
+---
+
+# High-Signaling Peppermint Jaljeera (Dairy-Free)
+
+This is the engineered delivery system for the Menthol + Capsaicin synergy. 
+
+Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed specifically to be consumed alongside the 12:00 main meal. By eliminating dairy, it avoids the calcium-induced blockade of non-heme iron absorption from your daily legumes/starch.
+
+## Ingredients (1 Serving)
+
+*   **10-15 Fresh Mentha arvensis leaves** (Primary Elite Source)
+*   **1/4 - 1/2 Fresh Thai Bird’s Eye Chili** (or 1/2 Serrano if lower heat is needed)
+*   **1/2 tsp Roasted Cumin Powder (Jeera)**
+*   **1/4 tsp Black Salt (Kala Namak)**
+*   **Optional:** 1/4 tsp Chaat Masala (adds amchur/tartness without breaking the protocol)
+*   **1/2 Lemon** (Juiced)
+*   **Optional:** 1/2 clove garlic (Crushed and rested 10 min - for maximum raw Allicin signaling)
+*   **1 - 1.5 cups Cold Water**
+
+## Sunday Prep / Batching Strategy
+
+To reduce daily friction while maintaining the "Mechanical Release" rule without losing potency to oxidation:
+
+1.  **3-Day Muddle:** Muddle a 3-day supply of the peppermint leaves and fresh chili in advance. 
+2.  **The Oil & Acid Lock:** You MUST add a small squeeze of lemon juice and 1/2 tsp of olive/avocado oil into the mortar while muddling. The acid stops the mint from turning black (enzymatic browning), and the fat traps the volatile menthol and capsaicin so they don't evaporate.
+3.  **No Salt Rule:** Do NOT add the black salt, cumin, or chaat masala to this paste. Salt causes osmosis, which will bleed water from the leaves and ruin the paste. Add salts *fresh* to the glass daily.
+4.  **Storage:** Store the locked paste in a **mini airtight glass jar (8 oz)** in the fridge. 
+5.  **Midweek Reset:** Re-muddle a fresh batch on Wednesday night for the rest of the week.
+
+1.  **The Muddle (CRITICAL):** Place the peppermint leaves, green chili, and ginger (if using) into a mortar and pestle. Crush them vigorously. You must rupture the plant cell walls to release the volatile menthol oils and capsaicin. *(Or use 1 scoop of your Sunday pre-muddle).*
+2.  **The Base:** Transfer the crushed paste to a glass. Add the roasted cumin powder, black salt, chaat masala (if using), and lemon juice.
+3.  **Hydrate:** Pour in the cold water and stir aggressively to integrate the oils. Let it rest for 2 minutes to infuse.
+4.  **Execution (The Tofu Spike):** Drink alongside your 12:00 meal. On **Tofu Rotation Days**, sear your tofu with extra Thai chilies in olive oil. The combined effect of the Jaljeera chili + Tofu chili + Menthol creates the weekly "High TRP Activation" protocol spike.
+
+## Scaling & Batching
+*   You can pre-muddle a 3-day supply of the peppermint/chili paste and store it in a tiny airtight glass jar in the fridge. 
+*   Do not pre-mix with water or lemon juice, as the menthol volatile oils will degrade and oxidize over a multi-day period in liquid.
+
+## Used In
+
+- [Peppermint & Capsaicin (TRP Synergy)](../02-ingredients/peppermint-chili.md)
+- [Week 1 Overview](../03-execution/week-01/README.md) (Midday hydration)
+
+## Conflicts
+
+- Consuming this on an empty stomach first thing in the morning may cause harsh gastric irritation due to the raw chili and menthol concentration. Keep it anchored to a meal.

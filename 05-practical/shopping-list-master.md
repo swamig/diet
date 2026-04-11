@@ -64,7 +64,12 @@ This must be refreshed weekly to maintain nutrient density.
 *   Romaine (1 head)
 *   Green onions (2 bunches)
 *   Fresh Ginger root
+*   Fresh Garlic (2-3 large bulbs OR 1 bag pre-peeled whole cloves)
 *   Lemons (4-5)
+
+**Functional Herbs (Menthol Synergy):**
+*   **Mentha arvensis (Indian Menthol Mint)** - Primary Elite Source.
+*   Peppermint (Mentha piperita) - Backup Source.
 
 **Cruciferous:**
 *   Broccoli (1.2-1.5 kg) - Approx 3-4 large heads

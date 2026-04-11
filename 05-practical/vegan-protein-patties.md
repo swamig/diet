@@ -23,7 +23,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 *   1–2 green chilies
 
 **🧄 Aromatics (Gut + Flavor):**
-*   3–4 cloves garlic
+*   3–4 cloves garlic (**CRITICAL:** Crushed and rested 10 min before mixing)
 *   1 tsp fresh ginger
 
 **🌱 Digestive Seed System (CRITICAL):**

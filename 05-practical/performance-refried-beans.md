@@ -12,7 +12,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 ## Inputs
 *   1.5 cups pre-cooked, 24h-chilled Black Beans or Chickpeas.
 *   1 tbsp Extra Virgin Olive Oil (EVOO) - *Added at the end.*
-*   1 tsp minced garlic & 1/2 tsp minced fresh ginger.
+*   1 tsp fresh garlic (**Crushed and rested 10 min**) & 1/2 tsp fresh ginger.
 *   1 tsp Apple Cider Vinegar or Balsamic Vinegar (The "Acid Shield").
 *   2-3 tbsp bean cooking liquid (aquafaba) or water (for creaminess).
 

@@ -20,14 +20,14 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 
 ## Block 2: Protein Batch (25 Min)
 **Vegan Protein Patties:**
-1.  Mix pea protein, vital wheat gluten, aromatics, and digestion spices.
-2.  Form into patties (about 14 for the week).
-3.  Steam until cooked through, then cool and store. Sear just before eating.
+1.  **Activate Garlic:** Crush 10-12 cloves of garlic and let rest for 10 minutes (Allicin activation).
+2.  Mix pea protein, vital wheat gluten, rested garlic, ginger, and digestion spices.
+3.  Form into patties (about 14 for the week).
 
 **Chickpeas & Beans (Double-Chill Protocol):**
-1.  **First Chill:** Rinse canned beans, or cook from dry. **Flavor Boost:** If cooking from dry, add 1 tsp garlic powder and 1 tsp onion powder to the boiling water. Drain, cool, and chill overnight.
-2.  **The Second Warm:** The next day, gently warm the chilled beans in a pan (under 130°F) with a splash of vinegar (Apple Cider or Balsamic) and a portion of your digestion spice stack.
-3.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours. This maximizes Resistant Starch Type 3 and locks in antioxidants.
+1.  **First Chill:** Rinse canned beans, or cook from dry. Drain, cool, and chill overnight.
+2.  **The Second Warm (Allicin Pulse):** The next day, gently warm the chilled beans in a pan (under 130°F). Fold in **fresh crushed and rested garlic** (1 clove per cup of beans) along with a splash of vinegar and digestion spices. 
+3.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours.
 
 **Tofu:**
 1.  Press water out. Slice into slabs. Store raw in water (change daily).
@@ -55,13 +55,13 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 4.  Portion sauerkraut into small cups.
 5.  **Microgreens stay in original box.**
 
-## Block 5: Spice Mix (Optional 5 Min)
-Pre-mix 7 small jars with the Core Stack:
-*   1/2 tsp Turmeric
-*   1/2 tsp Cumin
-*   1/2 tsp Coriander
-*   1/4 tsp Kashmiri chili powder
-*   (Black pepper is added fresh).
+## Block 5: Spice Mix & Functional Pastes (10 Min)
+**1. Spice Jars:** Pre-mix 7 small jars with the Core Stack (Turmeric, Cumin, Coriander, Kashmiri chili).
+
+**2. Menthol Synergy Muddle (With Oxidation Lock):**
+*   Muddle 45 fresh **Mentha arvensis** leaves + 1.5 **Thai Bird’s Eye Chilies**.
+*   **The Lock:** Add 1 tsp Olive Oil + 1 tbsp Lemon Juice while muddling to trap the volatile oils and stop enzymatic browning. Do NOT add salt.
+*   Divide into two mini jars (one for Mon-Wed, one for Thu-Sat).
 
 ## Block 6: Dressing Master Batch (5 Min)
 **Goal:** Remove daily measuring friction for the liquid dressing base.

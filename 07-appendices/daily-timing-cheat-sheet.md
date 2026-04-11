@@ -26,7 +26,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 
 ## Default Anchors
 
-- **Main meal:** Turmeric + black pepper, broccoli, and a defined protein source.
+- **Main meal:** Turmeric + black pepper, broccoli, rested garlic, and Peppermint Jaljeera.
 - **Salad:** Microgreens and cilantro are daily anchors.
 - **Recovery:** Keep the whey window and bowl window separate.
 

@@ -35,6 +35,12 @@ Use this page when the protocol breaks in practice. The goal is to recover the s
 | **Cravings at night** | Too little protein, too little total volume, inconsistent salad layer | Tighten the main meal and recovery bowl before changing the whole protocol. |
 | **Too much friction to keep logging** | Entry size too large, no template nearby | Use the short templates in [Logs](../logs/README.md) and record only what changed or broke. |
 
+## Ingredient Sourcing Issues
+
+| Problem | First Things to Check | Practical Fix |
+| :--- | :--- | :--- |
+| **Store is out of Greek Yogurt** | Need high-calcium, thick base for the Recovery Bowl | Buy regular plain yogurt. Line a strainer with a coffee filter/cheesecloth, place over a bowl, pour yogurt in, and let it drain in the fridge for 4–8 hours. The liquid whey drains out, leaving thick Greek yogurt behind. |
+
 ## When to Simplify Instead of Optimize
 
 - Use tofu instead of patties if prep bandwidth is low.
