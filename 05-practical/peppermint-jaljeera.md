@@ -22,6 +22,7 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
     *   **1/4 tsp Chaat Masala:** (Amchur/dried mango powder).
     *   **1/2 Lemon (Juiced)**
 *   **The Glycemic Anchor:** **1 tbsp Apple Cider Vinegar (Raw)**. (Acetic acid blunts the glucose spike from your midday quinoa/legumes).
+*   **The NF-κB Blockade:** **1/3 "Thumb" of Fresh Ginger** (Crushed. This fulfills 1/3 of the Daily Thumb mandate for pro-kinetic and anti-inflammatory signaling).
 *   **Optional:** 1/2 clove garlic (Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) - for maximum raw Allicin signaling)
 *   **1 - 1.5 cups Cold Water**
 
@@ -29,7 +30,7 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 
 To reduce daily friction while maintaining the "Mechanical Release" rule without losing potency to oxidation:
 
-1.  **3-Day Muddle:** Muddle a 3-day supply of the peppermint leaves and fresh chili in advance. 
+1.  **3-Day Muddle:** Muddle a 3-day supply of the peppermint leaves, fresh chili, and ginger in advance. 
 2.  **The Oil & Acid Lock:** You MUST add a small squeeze of lemon juice and 1/2 tsp of olive/avocado oil into the mortar while muddling. The acid stops the mint from turning black (enzymatic browning), and the fat traps the volatile menthol and capsaicin so they don't evaporate.
 3.  **No Salt Rule:** Do NOT add the black salt, cumin, or chaat masala to this paste. Salt causes osmosis, which will bleed water from the leaves and ruin the paste. Add salts *fresh* to the glass daily.
 4.  **Storage:** Store the locked paste in a **mini airtight glass jar (8 oz)** in the fridge. 

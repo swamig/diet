@@ -66,7 +66,7 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 *   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
 
 **3. Menthol Synergy Muddle (With Oxidation Lock):**
-*   Muddle 45 fresh **Mentha arvensis** leaves + 1.5 **Thai Bird’s Eye Chilies**.
+*   Muddle 45 fresh **Mentha arvensis** leaves + 1.5 **Thai Bird’s Eye Chilies** + **1 Thumb of Fresh Ginger** (sliced/crushed).
 *   **The Lock:** Add 1 tsp Olive Oil + 1 tbsp Lemon Juice while muddling to trap the volatile oils and stop enzymatic browning. Do NOT add salt.
 *   Divide into two mini jars (one for Mon-Wed, one for Thu-Sat).
 
