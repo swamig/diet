@@ -70,6 +70,13 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 *   **The Lock:** Add 1 tsp Olive Oil + 1 tbsp Lemon Juice while muddling to trap the volatile oils and stop enzymatic browning. Do NOT add salt.
 *   Divide into two mini jars (one for Mon-Wed, one for Thu-Sat).
 
+## Block 5b: Podis & Chutneys (15 Min)
+**Goal:** Execute the 7-day and 3-day batching rules for traditional functional formats.
+
+*   **7-Day Podi Batch:** Dry roast seeds/spices for your chosen Podi (e.g., Moringa/Flax or Sesame/Curry Leaf). Grind and store in mini glass jars.
+*   **7-Day Imlee Paste:** Boil and strain tamarind pulp if using. Store in glass jar.
+*   **3-Day Fresh Chutney Batch:** Blend Coconut/Curry Leaf OR Mint/Cilantro (using Lemon Acid Lock). Store in airtight glass containers for Mon-Wed consumption. **(Requires Wednesday Midweek Re-blend).**
+
 ## Block 6: Dressing Master Batch (5 Min)
 **Goal:** Remove daily measuring friction for the liquid dressing base.
 

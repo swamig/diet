@@ -76,6 +76,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Carbazole Alkaloids (Curry Leaves):** Balakrishnan et al., 2020, *Journal of Ethnopharmacology*. "Antioxidant, anti-diabetic and anti-inflammatory properties of Murraya koenigii." Validates the potent glycemic-lowering and vascular-protecting effects of curry leaves in the coconut chutney matrix.
 *   **Medium-Chain Triglycerides (Coconut):** St-Onge et al., 2008, *Obesity Research*. "Medium-chain triglycerides increase energy expenditure and decrease adiposity." Proves that MCTs (found abundantly in fresh coconut chutney) bypass standard lipid metabolism, providing immediate ketone energy and elevating daily thermogenesis.
 *   **Acetic Acid (Apple Cider Vinegar):** Johnston et al., 2004, *Diabetes Care*. Improves insulin sensitivity to high-carbohydrate meals.
+*   **Lignans & SHBG Modulation (Flaxseed):** Adlercreutz, H., 2007, *Journal of Steroid Biochemistry and Molecular Biology*. "Lignans and human health." Validates that plant lignans (like those from roasted flaxseed in the Hormonal Buffer Podi) stimulate the hepatic synthesis of Sex Hormone-Binding Globulin (SHBG), which provides a natural buffer against rapid spikes and dips in circulating testosterone and estrogen.
 
 ## 11. Operational Mechanisms (Bio-Enhancement & Degradation)
 *   **The Menthol Hierarchy (*Mentha arvensis*):** Brahroui et al., 2016, *Journal of Essential Oil Bearing Plants*. Yields 70-80% menthol concentration.
