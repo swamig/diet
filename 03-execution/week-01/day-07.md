@@ -38,9 +38,9 @@ Parasympathetic tone + reset.
 *   Warm water (pH 8+ Optional)
 *   Steep 10 mins. Drink warm 60 min before sleep.
 
-## Main Meal: Tofu Baseline (Low Spice Load)
+## Main Meal: Vegan Patties
 **Ingredients:**
-*   200g firm tofu (pressed 15 min)
+*   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min)
 *   90g cooked quinoa
 *   5g olive oil
@@ -52,7 +52,7 @@ Parasympathetic tone + reset.
 *   **No nigella, no clove.**
 
 **Instructions:**
-1.  Rub tofu with spice mix.
+1.  Sear patties.
 2.  Sear 3-4 min/side.
 3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 

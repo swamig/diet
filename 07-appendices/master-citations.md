@@ -44,7 +44,11 @@ The timing of morning tea and midday vitamin C directly impacts oxygen delivery 
 The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Retrogradation:** Birt et al., 2013, *Advances in Nutrition*. "Resistant Starch: Promise for Improving Human Health." Details how cooking and cooling starches (like potatoes, rice, and legumes) forces the amylose and amylopectin chains to realign into crystalline structures (RS Type 3) that resist digestion in the small intestine, acting as a prebiotic for butyrate-producing colon bacteria.
 
-## 8. Antioxidants & Polyphenols (The Chemical Anchors)
+## 8. Protein Architecture & The Soy Ceiling
+The protocol relies on plant-based protein structures but enforces strict ceilings on specific phytonutrients to prevent hormonal feedback loops during heavy lifting blocks.
+*   **The Tofu Ceiling (Isoflavones):** Chavarro, J. E., et al., 2008, *Human Reproduction*. "Soy food and isoflavone intake in relation to semen quality parameters among men." Establishes an association between high-dose soy intake and shifts in hormonal signaling/androgen sensitivity. The protocol caps Tofu/Soy consumption at **2x per week** to prevent phytoestrogen accumulation.
+
+## 9. Antioxidants & Polyphenols (The Chemical Anchors)
 This protocol uses specific plant compounds to modulate oxidation and inflammation.
 *   **EGCG (Matcha/Green Tea):** Chacko et al., 2010, *Chinese Medicine*. "Beneficial effects of green tea: A literature review." Details how EGCG supports mitochondrial function and fat oxidation.
 *   **Anthocyanins (Blueberries):** Krikorian et al., 2010, *Journal of Agricultural and Food Chemistry*. "Blueberry supplementation improves memory in older adults." Demonstrates how these pigments cross the blood-brain barrier for neuroprotection.
