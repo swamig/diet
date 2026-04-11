@@ -44,6 +44,16 @@ The timing of morning tea and midday vitamin C directly impacts oxygen delivery 
 The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Retrogradation:** Birt et al., 2013, *Advances in Nutrition*. "Resistant Starch: Promise for Improving Human Health." Details how cooking and cooling starches (like potatoes, rice, and legumes) forces the amylose and amylopectin chains to realign into crystalline structures (RS Type 3) that resist digestion in the small intestine, acting as a prebiotic for butyrate-producing colon bacteria.
 
+## 8. Antioxidants & Polyphenols (The Chemical Anchors)
+This protocol uses specific plant compounds to modulate oxidation and inflammation.
+*   **EGCG (Matcha/Green Tea):** Chacko et al., 2010, *Chinese Medicine*. "Beneficial effects of green tea: A literature review." Details how EGCG supports mitochondrial function and fat oxidation.
+*   **Anthocyanins (Blueberries):** Krikorian et al., 2010, *Journal of Agricultural and Food Chemistry*. "Blueberry supplementation improves memory in older adults." Demonstrates how these pigments cross the blood-brain barrier for neuroprotection.
+*   **Carnosic & Rosmarinic Acid (Rosemary):** Birtić et al., 2015, *Phytochemistry*. "Carnosic acid." Highlights its unique ability to scavenge free radicals in a "cascade" effect without becoming a pro-oxidant itself.
+*   **Tocotrienols (Achiote/Annatto):** Aggarwal et al., 2010, *Biochemical Pharmacology*. "Tocotrienols, the vitamin E of the 21st century." Shows their superior efficacy compared to standard tocopherols in modulating NF-κB and cholesterol.
+*   **Crocin & Safranal (Saffron):** Bukhari et al., 2018, *Journal of Pharmacy and Bioallied Sciences*. "A comprehensive review on the pharmacotherapeutics of saffron." Validates its use as a neuro-modulator and parasympathetic anchor.
+*   **Eugenol (Clove/Tulsi):** Cortés-Rojas et al., 2014, *Asian Pacific Journal of Tropical Biomedicine*. "Clove (Syzygium aromaticum): a precious spice." Details its powerful antimicrobial and analgesic properties.
+*   **Quercetin & Flavanols (Cacao):** Corti et al., 2009, *Circulation*. "Cocoa and cardiovascular health." Explains the nitric oxide (NO) boosting mechanisms that support the protocol's vascular layer.
+
 ## Evidence Status
 *   **General physiology:** This document uses peer-reviewed literature to justify the *directional* use of dietary compounds. 
 *   **Protocol-specific rules:** The exact doses, meal timings, container systems, and thermal sequences built around these mechanisms are operational rules specific to this manual.
