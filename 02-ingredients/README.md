@@ -28,6 +28,7 @@ This section is a reference library, not required front-to-back reading. Start w
 - [Nigella](nigella.md)
 - [Clove](clove.md)
 - [Cinnamon](cinnamon.md)
+- [Cardamom (1,8-Cineole / Flavor Stabilizer)](cardamom.md)
 - [Peppermint & Capsaicin (TRP Synergy)](peppermint-chili.md)
 
 ## Vascular, Recovery, and Support Ingredients

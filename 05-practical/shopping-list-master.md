@@ -20,6 +20,8 @@ These will last months.
 *   Garam Masala
 *   Nigella seeds (Black Jeera)
 *   Ajwain seeds
+*   Whole Cloves
+*   Cardamom (ground or whole pods)
 *   Fennel seeds (Saunf)
 *   Achiote (Annatto) powder
 *   Mexican Oregano

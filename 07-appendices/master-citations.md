@@ -52,10 +52,15 @@ The protocol relies on plant-based protein structures but enforces strict ceilin
 This protocol uses specific plant compounds to modulate oxidation and inflammation.
 *   **EGCG (Matcha/Green Tea):** Chacko et al., 2010, *Chinese Medicine*. "Beneficial effects of green tea: A literature review." Details how EGCG supports mitochondrial function and fat oxidation.
 *   **Anthocyanins (Blueberries):** Krikorian et al., 2010, *Journal of Agricultural and Food Chemistry*. "Blueberry supplementation improves memory in older adults." Demonstrates how these pigments cross the blood-brain barrier for neuroprotection.
+*   **Cinnamaldehyde (Cinnamon):** Rao, P. V., & Gan, S. H., 2014, *Evidence-Based Complementary and Alternative Medicine*. "Cinnamon: A Multifaceted Medicinal Plant." Demonstrates potent radical scavenging, antimicrobial effects, and blood glucose stabilization.
+*   **1,8-Cineole & Terpinyl Acetate (Cardamom):** Yashin et al., 2017, *Antioxidants*. "Antioxidant and Antimicrobial Activity of Essential Oil and Extracts of Elettaria cardamomum." Highlights its capacity to prevent lipid peroxidation and act as a gastroprotective antispasmodic.
+*   **Cuminaldehyde (Cumin):** Mnif & Aiyelaagbe, 2015, *Chemistry & Biodiversity*. "Cumin: Chemistry, Technology and Bioactivity." Documents its use in quenching reactive oxygen species (ROS) and stimulating the secretion of pancreatic enzymes.
+*   **Thymol (Ajwain):** Bairwa et al., 2012, *Pharmacognosy Reviews*. "Trachyspermum ammi." Validates its potent antioxidant and antispasmodic (carminative) effects for gut health and digestion.
+*   **Thymoquinone (Nigella Sativa):** Ahmad et al., 2013, *Asian Pacific Journal of Tropical Biomedicine*. "A review on therapeutic potential of Nigella sativa." Details its hepatoprotective nature and extreme antioxidant capacity.
 *   **Carnosic & Rosmarinic Acid (Rosemary):** Birtić et al., 2015, *Phytochemistry*. "Carnosic acid." Highlights its unique ability to scavenge free radicals in a "cascade" effect without becoming a pro-oxidant itself.
 *   **Tocotrienols (Achiote/Annatto):** Aggarwal et al., 2010, *Biochemical Pharmacology*. "Tocotrienols, the vitamin E of the 21st century." Shows their superior efficacy compared to standard tocopherols in modulating NF-κB and cholesterol.
 *   **Crocin & Safranal (Saffron):** Bukhari et al., 2018, *Journal of Pharmacy and Bioallied Sciences*. "A comprehensive review on the pharmacotherapeutics of saffron." Validates its use as a neuro-modulator and parasympathetic anchor.
-*   **Eugenol (Clove/Tulsi):** Cortés-Rojas et al., 2014, *Asian Pacific Journal of Tropical Biomedicine*. "Clove (Syzygium aromaticum): a precious spice." Details its powerful antimicrobial and analgesic properties.
+*   **Eugenol (Clove/Tulsi):** Cortés-Rojas et al., 2014, *Asian Pacific Journal of Tropical Biomedicine*. "Clove (Syzygium aromaticum): a precious spice." Details its powerful antimicrobial, analgesic, and antioxidant properties.
 *   **Quercetin & Flavanols (Cacao):** Corti et al., 2009, *Circulation*. "Cocoa and cardiovascular health." Explains the nitric oxide (NO) boosting mechanisms that support the protocol's vascular layer.
 
 ## Evidence Status
