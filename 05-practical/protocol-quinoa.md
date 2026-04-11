@@ -14,13 +14,14 @@ Quinoa is utilized in this protocol not as a standard grain, but as a fiber-dens
 *   **2 cups Dry Quinoa** (Tri-color or white).
 *   **4 cups Water** (or mineral-rich Aquafaba).
 *   **1 tsp Sea Salt.**
-*   **The Agni Booster:** 1 tsp whole Cumin seeds + 1 tsp Turmeric (added during the boil).
+*   **The "Mexican Rice" Veggie Base:** 1/2 cup green peas (frozen or fresh) + 1/2 cup finely diced carrots/bell peppers.
+*   **The Tocotrienol Booster:** 1 tsp **Achiote (Annatto) powder** + 1 tsp whole Cumin seeds + 1/2 tsp Garlic powder (added during the boil).
 
 ## The Double-Chill Protocol (Mandatory)
 
 1.  **The Rinse:** Rinse dry quinoa in a fine-mesh strainer for 60 seconds to remove saponins.
-2.  **The Boil:** Bring water, salt, and spices to a boil. Add quinoa, reduce to low, and simmer covered for 15-18 minutes until water is absorbed.
-3.  **The First Chill:** Spread the hot quinoa onto a flat stainless steel baking sheet. Place in the fridge immediately. Rapid cooling is required to initiate **Retrogradation** (the formation of RS3 crystalline structures).
+2.  **The Boil:** Bring water, salt, Achiote, and spices to a boil. Add quinoa and the veggie base (peas/carrots). Reduce to low, and simmer covered for 15-18 minutes until water is absorbed. The Achiote will stain the quinoa a vibrant red-orange.
+3.  **The First Chill:** Spread the hot "Mexican" quinoa onto a flat stainless steel baking sheet. Place in the fridge immediately. Rapid cooling is required to initiate **Retrogradation** (the formation of RS3 crystalline structures).
 4.  **The 24h Lock:** Store the cooled quinoa in a large glass container for **at least 24 hours** before the first serving.
 
 ## Execution (The 12:00 Meal)
@@ -29,7 +30,7 @@ Quinoa is utilized in this protocol not as a standard grain, but as a fiber-dens
     *   *Baseline:* 1/2 cup (cooked) per day.
     *   *VO2 Max 4x4 Days:* 3/4 cup (cooked) to replenish glycogen [[9]](../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit).
 *   **The 130°F Thermal Ceiling:** To preserve the RS3 structure, never reheat quinoa in a microwave or high-heat pan. Reheat gently in a pan on low heat until just warm to the touch (approx. 130°F).
-*   **Lemon-Cumin Style:** Before serving, fold in a squeeze of fresh lemon and a drizzle of Blueprint EVOO to "bloom" the turmeric.
+*   **The Fat Bloom:** Before serving, fold in a squeeze of fresh lime juice and a drizzle of Blueprint EVOO or Avocado Oil. Achiote is fat-soluble; the oil ensures maximum absorption of the tocotrienols.
 
 ## Related Pages
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)

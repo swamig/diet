@@ -110,6 +110,7 @@ This must be refreshed weekly to maintain nutrient density.
 ## Freezer Stash (Backup)
 *   Frozen blueberries (2 kg bag)
 *   Frozen pomegranate seeds
+*   Frozen Papaya chunks (For the 13:00 Proteolytic Enzyme pulse)
 
 ## Evidence Status
 

@@ -19,7 +19,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. |
 | **10:00** | Tannin Deadline | Stop all tea/caffeine | Protects 12:00 iron absorption. |
 | **12:00** | Main meal / break fast | Protein + broccoli + starch + spice stack + Jaljeera | Primary supplement window. |
-
+| **13:00** | Proteolytic Enzyme Pulse | Papaya (1/2 cup) | Optional: The Papain enzyme cleaves heavy plant proteins. Must be eaten *after* the heavy 12:00 meal so fiber blunts the fructose spike. |
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens + cilantro | Rotators vary by day. |
 | **16:30** | Resistance training | Standard training slot | Use the day page if the day has special emphasis. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
