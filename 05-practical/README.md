@@ -23,10 +23,13 @@ This section translates the protocol into kitchen operations. Read this before t
 
 ## Core Recipes and Components
 
+- [The Protocol Quinoa Rice (RS3 Anchor)](protocol-quinoa.md)
+- [The Daily Salad Layer (Vascular & Gut Anchor)](daily-salad-layer.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
+- ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](garlic-chili-oil.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [High-Signaling Peppermint Jaljeera](peppermint-jaljeera.md)
-- [Functional Indian Formats (Chutneys, Podis, Lentil Balls)](functional-indian-formats.md)
+- [Functional Indian Formats (Chutneys, Podis, Toum)](functional-indian-formats.md)
 - [Thermal Hormesis (Sauna [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) & Cold Plunge [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration))](thermal-hormesis.md)
 - [Beginner Yoga Sequences (Active vs. Restorative)](yoga-routines.md)
 - [Troubleshooting Guide](troubleshooting-guide.md)

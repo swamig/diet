@@ -100,7 +100,18 @@ Shopping, prep, storage, recipes, and execution infrastructure.
 - [Thermal Hormesis (Sauna & Cold Plunge)](05-practical/thermal-hormesis.md)
 - [Beginner Yoga Sequences](05-practical/yoga-routines.md)
 
-### 6. Monitoring
+### 6. Functional Recipes
+High-signaling nutritional structures tailored for this protocol.
+
+- [The Protocol Quinoa Rice (RS3 Anchor)](05-practical/protocol-quinoa.md)
+- [The Daily Salad Layer (Vascular & Gut Anchor)](05-practical/daily-salad-layer.md)
+- [100% Optimized Indian Protein Patties](05-practical/vegan-protein-patties.md)
+- ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](05-practical/garlic-chili-oil.md)
+- ["Cold-Mash" Performance Refried Beans](05-practical/performance-refried-beans.md)
+- [High-Signaling Peppermint Jaljeera (The Glycemic Anchor)](05-practical/peppermint-jaljeera.md)
+- [Functional Indian Formats (Chutneys, Podis, Toum)](05-practical/functional-indian-formats.md)
+
+### 7. Monitoring
 Measurement and review templates to quantify the protocol.
 
 - [Section Guide](06-monitoring/README.md)
