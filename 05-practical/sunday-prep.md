@@ -25,10 +25,10 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 3.  Form into patties (about 14 for the week).
 
 **Chickpeas & Beans (Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) Protocol):**
-1.  **First Chill:** Rinse canned beans, or cook from dry. Drain, cool, and chill overnight.
-2.  **The Second Warm (Allicin Pulse):** The next day, gently warm the chilled beans in a pan (under 130°F). Fold in **fresh crushed and rested garlic** (1 clove per cup of beans) along with a splash of vinegar and digestion spices. 
-3.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours.
-
+1.  **First Chill:** Rinse canned beans, or cook from dry. **Crucial:** If cooking from dry, reserve 1/2 cup of the boiling liquid (**Aquafaba**) when draining. Chill the beans overnight.
+2.  **Aquafaba Storage:** Store the cold Aquafaba in a mini glass jar. Use 2 tbsp as the emulsifier for your Toum, and the rest to hydrate your Vegan Protein Patty dough.
+3.  **The Second Warm (Allicin Pulse):** The next day, gently warm the chilled beans in a pan (under 130°F). Fold in **fresh crushed and rested garlic** (1 clove per cup of beans) along with a splash of vinegar and digestion spices. 
+4.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours.
 **Tofu:**
 1.  Press water out. Slice into slabs. Store raw in water (change daily).
 

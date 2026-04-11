@@ -23,7 +23,16 @@ Chutneys are utilized to deliver heat-sensitive enzymes (like allicin and myrosi
         *   *CRITICAL RULE:* Traditional Imlee chutney is 50% sugar/jaggery. This will cause a massive insulin spike. You MUST make this sugar-free (use the natural tartness, balanced only with Ceylon Cinnamon or Stevia).
     *   **The Vitamin C "Thokku" (Aamla & Raw Turmeric Relish):** Grated fresh Aamla and raw turmeric root, tempered in mustard oil with mustard seeds. An elite, hyper-dense antioxidant hit that completely bypasses the thermal degradation of boiling.
 
-## 2. Therapeutic Podis / Gunpowders (Dry Matrix)
+## 2. High-Signaling Emulsions (Toum / Garlic Paste)
+Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed as the ultimate raw **Allicin** delivery vehicle.
+
+*   **Protocol Rules:**
+    *   **The 10-Minute Rest:** You must peel and smash the garlic cloves, then let them rest for 10 minutes *before* blending to ensure the alliinase enzyme creates the allicin.
+    *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO.
+    *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge over 3 days.
+*   **Execution:** Use as a massive flavor and fat anchor for your 12:00 Vegan Patties or Tofu.
+
+## 3. Therapeutic Podis / Gunpowders (Dry Matrix)
 Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolidating daily seed requirements (Sesame, Nigella) and adding texture.
 
 *   **Protocol Rules:**
@@ -40,6 +49,7 @@ Forming your daily legumes into balls or patties provides culinary variety, but 
     *   **The Anti-Fry Mandate:** Deep-frying creates Advanced Glycation End-products (AGEs) and introduces oxidized lipids. Lentil balls must be **Baked, Air-Fried, or Steamed** (e.g., Gujarati *Muthia* or South Indian *Idli* methods).
     *   **The Double-Chill Protocol:** To function as a microbiome anchor, the cooked lentil balls must be rapidly cooled and stored in the fridge for 12-24 hours to form **Resistant Starch Type 3 (RS3)**. Reheat gently (below 130°F) when serving.
     *   **Ginger Integration:** Always grate fresh ginger into the lentil batter to act as a gastric pro-kinetic, preventing the dense fiber from causing upper GI bloat.
+    *   **Aquafaba Binding:** When boiling the lentils/chickpeas, save the cooking liquid (Aquafaba). Use this mineral-rich water to hydrate and bind the dough of your lentil balls/wadis rather than using tap water.
 
 ---
 
