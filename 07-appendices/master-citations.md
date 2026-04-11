@@ -73,6 +73,10 @@ This protocol uses specific plant compounds to modulate oxidation and inflammati
 
 *   **The Glass Mandate (Endocrine Disruption in Plastics):** The protocol strictly prohibits plastic food storage to protect hormonal signaling. *Halden, R. U. (2010).* "Plastics and health risks." *Annual Review of Public Health*. Details how chemical plasticizers (like BPA and phthalates) leach into food—especially in the presence of acidic liquids (like the Jaljeera and Dressing Base) or heat—acting as xenoestrogens that disrupt the endocrine system and interfere with androgenic adaptation. Glass provides a bio-inert, non-porous alternative.
 
+## 11. Autonomic Nervous System & Mind Tuning
+*   **Vagal Tone & Parasympathetic Activation (Yoga):** Pascoe, M. C., et al., 2017, *Psychoneuroendocrinology*. "Yoga, mindfulness-based stress reduction and stress-related physiological measures: A meta-analysis." Validates that yoga and slow rhythmic breathing directly stimulate the Vagus nerve, releasing acetylcholine to reduce evening cortisol and blood pressure, supporting the 21:00 restorative yoga protocol.
+*   **Default Mode Network Interruption (Mantra):** Brewer, J. A., et al., 2011, *PNAS*. "Meditation experience is associated with differences in default mode network activity and connectivity." Demonstrates that utilizing cognitive focal anchors (like Mantra in Kashmir Shaivism) actively quiets the Default Mode Network (DMN), the neural circuit responsible for psychological rumination and stress generation, providing a "top-down" mechanism for lowering systemic cortisol.
+
 ## Evidence Status
 *   **General physiology:** This document uses peer-reviewed literature to justify the *directional* use of dietary compounds. 
 *   **Protocol-specific rules:** The exact doses, meal timings, container systems, and thermal sequences built around these mechanisms are operational rules specific to this manual.
