@@ -29,8 +29,9 @@ Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed 
 *   **Protocol Rules:**
     *   **The 10-Minute Rest:** You must peel and smash the garlic cloves, then let them rest for 10 minutes *before* blending to ensure the alliinase enzyme creates the allicin.
     *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO.
-    *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge over 3 days.
-*   **Execution:** Use as a massive flavor and fat anchor for your 12:00 Vegan Patties or Tofu.
+    *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge.
+    *   **Shelf Life (7-Day Strict):** While traditional Toum lasts for months, adding Aquafaba introduces proteins and starches that bacteria can feed on. Store in an airtight glass jar in the fridge and discard any remainder after **7 days**.
+*   **Execution (The Lipid Substitution Rule):** Toum is 80% oil. If you use 2 tbsp of Toum as a flavor anchor for your 12:00 Vegan Patties, you must **halve the oil** in your 14:30 Salad Dressing (use 1 tbsp EVOO instead of 2), or dry-sear your patties. Treat Toum as a fat *replacement*, not an addition, to prevent excessive caloric load and sluggish gastric emptying.
 
 ## 3. Therapeutic Podis / Gunpowders (Dry Matrix)
 Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolidating daily seed requirements (Sesame, Nigella) and adding texture.
