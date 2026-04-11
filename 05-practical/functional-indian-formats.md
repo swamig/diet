@@ -16,9 +16,11 @@ Chutneys are utilized to deliver heat-sensitive enzymes (like allicin and myrosi
     *   **Zero Sugar/Jaggery:** To protect the midday insulin curve, sweeten only with Ceylon Cinnamon or Cardamom if necessary.
     *   **The Dairy Blockade:** Do not use yogurt bases if consuming the chutney with your 12:00 legumes, as calcium blocks non-heme iron absorption. Use Lemon, Aamla, or Apple Cider Vinegar for acidity.
     *   **Batch Timing:** Make fresh during Sunday Prep and Wednesday Midweek Reset to prevent volatile oil oxidation.
-*   **Elite Combinations:**
-    *   *The Chelation Chutney:* Cilantro + Mint + Aamla + Raw Garlic (rested 10 mins) + Green Chili + Lemon.
-    *   *The Myrosinase Mustard:* Mustard seed powder + Apple Cider Vinegar + Turmeric (Use as a topping for cooked broccoli).
+*   **Elite Chutney Protocols:**
+    *   **The TRP Chelation Blend (Mint + Chili + Coriander):** The ultimate multi-pathway vector. *Mint* provides menthol (TRPM8), *Chili* provides capsaicin (TRPV1), and *Coriander/Cilantro* provides heavy metal chelation. Blend with lemon and black salt.
+    *   **The MCT & Vascular Matrix (Coconut + Curry Leaf):** Fresh coconut provides Medium Chain Triglycerides (MCTs), a rapid ketone energy source that perfectly "blooms" fat-soluble spices. *Curry leaves* provide profound antioxidant and blood-glucose lowering properties. 
+    *   **The Enteric Binder (Imlee / Tamarind Chutney):** Tamarind pulp is uniquely rich in pectin, mucilage, and tartaric acid. The mucilage acts as a physical "sweep" in the GI tract, trapping heavy metals, oxidized lipids, and physical particulates (like microplastics) to excrete them before they cross the gut barrier. Furthermore, the tartaric acid massively spikes the iron absorption from your 12:00 chickpeas. 
+        *   *CRITICAL RULE:* Traditional Imlee chutney is 50% sugar/jaggery. This will cause a massive insulin spike. You MUST make this sugar-free (use the natural tartness, balanced only with Ceylon Cinnamon or Stevia).
 
 ## 2. Therapeutic Podis / Gunpowders (Dry Matrix)
 Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolidating daily seed requirements (Sesame, Nigella) and adding texture.

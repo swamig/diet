@@ -72,6 +72,9 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Thymoquinone (Nigella Sativa):** Ahmad et al., 2013, *Asian Pacific Journal of Tropical Biomedicine*. Hepatoprotective and extreme antioxidant capacity.
 *   **Tocotrienols (Achiote):** Aggarwal et al., 2010, *Biochemical Pharmacology*. Superiority over tocopherols for NF-κB modulation.
 *   **Emblicanins & Vitamin C (Aamla):** Antony et al., 2008, *Indian Journal of Clinical Biochemistry*. Supreme antioxidant source.
+*   **Tartaric Acid, Mucilage & Toxin Chelation (Tamarind / Imlee):** Khandare, A. L., et al., 2002, *European Journal of Clinical Nutrition*. "Effect of tamarind ingestion on fluoride excretion in humans." Demonstrates that the mucilage and organic acids in tamarind actively bind to and excrete inorganic physical toxins and heavy metals from the body, supporting its use as an "enteric binder" for microplastics and pollutants.
+*   **Carbazole Alkaloids (Curry Leaves):** Balakrishnan et al., 2020, *Journal of Ethnopharmacology*. "Antioxidant, anti-diabetic and anti-inflammatory properties of Murraya koenigii." Validates the potent glycemic-lowering and vascular-protecting effects of curry leaves in the coconut chutney matrix.
+*   **Medium-Chain Triglycerides (Coconut):** St-Onge et al., 2008, *Obesity Research*. "Medium-chain triglycerides increase energy expenditure and decrease adiposity." Proves that MCTs (found abundantly in fresh coconut chutney) bypass standard lipid metabolism, providing immediate ketone energy and elevating daily thermogenesis.
 *   **Acetic Acid (Apple Cider Vinegar):** Johnston et al., 2004, *Diabetes Care*. Improves insulin sensitivity to high-carbohydrate meals.
 
 ## 11. Operational Mechanisms (Bio-Enhancement & Degradation)

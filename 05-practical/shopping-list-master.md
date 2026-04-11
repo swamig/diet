@@ -67,6 +67,7 @@ This must be refreshed weekly to maintain nutrient density.
 *   **Microgreens (4-5 small boxes/week)** - Essential. Do not skip.
 *   **Fresh Cilantro (2-3 large bunches)** - Essential daily garnish + patty ingredient.
 *   Fresh Parsley (1 large bunch)
+*   Fresh Curry Leaves (1 large bunch for Coconut Chutney)
 *   Green Chilies (small bag)
 *   Arugula (2 large boxes)
 *   Kale (1 large bunch)
@@ -76,10 +77,15 @@ This must be refreshed weekly to maintain nutrient density.
 *   Fresh Ginger root
 *   Fresh Garlic (2-3 large bulbs OR 1 bag pre-peeled whole cloves)
 *   Lemons (4-5)
+*   Fresh Coconut (grated or chunks, unsweetened)
 
 **Functional Herbs (Menthol Synergy):**
 *   **Mentha arvensis (Indian Menthol Mint)** - Primary Elite Source.
 *   Peppermint (Mentha piperita) - Backup Source.
+
+**Pantry Additions:**
+*   Tamarind Block (Imlee) or Sugar-Free Paste (For microplastic/heavy metal binding)
+
 
 **Cruciferous:**
 *   Broccoli (1.2-1.5 kg) - Approx 3-4 large heads
