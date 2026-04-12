@@ -20,21 +20,21 @@ To understand why yoga is required in an elite lifting program, you must underst
 **Breath:** "Ujjayi" breath (inhale and exhale deeply through the nose, creating a slight restriction in the back of the throat). Sync every movement with a breath.
 
 **The Sequence:**
-1.  **Child’s Pose (1 min):** Start on knees, sit back on heels, stretch arms forward. Deep breaths into the lower back.
-2.  **Cat-Cow (10 reps):** Move to all fours. *Inhale:* Drop the belly, lift chest and tailbone (Cow). *Exhale:* Round the spine, tuck the chin (Cat).
-3.  **Downward Facing Dog (1 min):** From all fours, tuck toes, lift hips up and back. Pedal out the feet to stretch the calves.
-4.  **Ragdoll Fold (1 min):** Walk feet to the top of the mat. Bend knees deeply, let the torso hang heavy over the thighs. Grab opposite elbows and sway slightly.
-5.  **Sun Salutation A (Repeat 3-5 times):**
+1.  **Child’s Pose (1 min):** Start on knees, sit back on heels, stretch arms forward. Deep breaths into the lower back. *(Ref: [Child's Pose Tutorial](https://www.youtube.com/watch?v=eqVMmMaEIhM))*
+2.  **Cat-Cow (10 reps):** Move to all fours. *Inhale:* Drop the belly, lift chest and tailbone (Cow). *Exhale:* Round the spine, tuck the chin (Cat). *(Ref: [Cat-Cow Stretch](https://www.youtube.com/watch?v=KQqwQA1E-lQ))*
+3.  **Downward Facing Dog (1 min):** From all fours, tuck toes, lift hips up and back. Pedal out the feet to stretch the calves. *(Ref: [Downward Dog Alignment](https://www.youtube.com/watch?v=j97SSGsnCAQ))*
+4.  **Ragdoll Fold (1 min):** Walk feet to the top of the mat. Bend knees deeply, let the torso hang heavy over the thighs. Grab opposite elbows and sway slightly. *(Ref: [Ragdoll Fold Mod](https://www.youtube.com/watch?v=P21rS0WvB1w))*
+5.  **Sun Salutation A (Repeat 3-5 times):** *(Ref: [Surya Namaskar A Flow](https://www.youtube.com/watch?v=x0XqBqI-FmI))*
     *   *Inhale:* Stand tall, reach arms overhead (Mountain Pose).
     *   *Exhale:* Swan dive forward (Forward Fold).
     *   *Inhale:* Hands to shins, flat back (Halfway Lift).
     *   *Exhale:* Plant hands, step back to Plank. Lower down to the belly.
     *   *Inhale:* Lift chest slightly using back muscles (Cobra) or straighten arms (Upward Dog).
     *   *Exhale:* Push back to Downward Facing Dog. Take 3 breaths, then step to the top of the mat and repeat.
-6.  **Warrior II (1 min per side):** From Down Dog, step right foot forward between hands. Spin left heel flat. Rise up, arms parallel to the floor, gazing over the right fingertips. Bend deeply into the right knee. Switch sides.
+6.  **Warrior II (1 min per side):** From Down Dog, step right foot forward between hands. Spin left heel flat. Rise up, arms parallel to the floor, gazing over the right fingertips. Bend deeply into the right knee. Switch sides. *(Ref: [Warrior II Breakdown](https://www.youtube.com/watch?v=4EjB7PjKQvY))*
 
 ### The Hanuman Dand [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher (The Ultimate Primer)
-*   **The Execution (3 sets of 10):** From Downward Dog, dive the chest low to the ground (swooping forward), pushing up into Upward Dog (spinal extension). Immediately push the hips back to Downward Dog (spinal flexion). 
+*   **The Execution (3 sets of 10):** From Downward Dog, dive the chest low to the ground (swooping forward), pushing up into Upward Dog (spinal extension). Immediately push the hips back to Downward Dog (spinal flexion). *(Ref: [Hanuman Dand / Hindu Pushup Guide](https://www.youtube.com/watch?v=1W1aZInB8B4))*
 *   **The Mechanism:** This multi-planar movement floods the upper body with blood and generates massive internal heat (*Agni*). Because the exertion is perfectly rhythm-linked to your breath, it acts as a "Vascular Pump" without frying the Central Nervous System (CNS) or spiking cortisol the way a barbell press would. It is the perfect bridge between rest and work.
 
 7.  **Savasana (2 mins):** Lie flat on your back, palms facing up, close your eyes. Let your breathing return to normal.
@@ -46,11 +46,11 @@ To understand why yoga is required in an elite lifting program, you must underst
 **Breath:** Deep, slow belly breathing. Exhalations should be twice as long as inhalations (e.g., inhale for 4 seconds, exhale for 8 seconds) to force a parasympathetic response.
 
 **The Sequence:**
-1.  **Supported Child’s Pose (3-4 mins):** Place a pillow or folded blanket between your knees. Sit back and fold your torso entirely over the pillow. Turn your head to one side (switch sides halfway). Let the prop hold your weight entirely.
-2.  **Supine Spinal Twist (2 mins per side):** Lie on your back. Pull your right knee into your chest, then guide it across your body to the left floor. Extend your right arm out to the side and gaze right. Breathe deeply into the twisting side of your ribcage. Switch sides.
-3.  **Reclined Bound Angle / Supta Baddha Konasana (3-4 mins):** Lie on your back. Bring the soles of your feet together and let your knees fall open wide (like a diamond). Place pillows under each knee if the stretch is too intense. Place one hand on your heart and one on your belly. Feel the breath move.
-4.  **Legs Up The Wall / Viparita Karani (5 mins):** *The ultimate parasympathetic hack.* Scoot your hips as close to a wall as possible and extend your legs straight up the wall. Lie flat on your back. This reverses blood flow, heavily stimulating the vagus nerve to drop your heart rate and cortisol levels.
-5.  **Savasana (3 mins):** Lie flat, completely still. Sip your night infusion immediately after.
+1.  **Supported Child’s Pose (3-4 mins):** Place a pillow or folded blanket between your knees. Sit back and fold your torso entirely over the pillow. Turn your head to one side (switch sides halfway). Let the prop hold your weight entirely. *(Ref: [Supported Child's Pose](https://www.youtube.com/watch?v=FqE8XpQ7R3w))*
+2.  **Supine Spinal Twist (2 mins per side):** Lie on your back. Pull your right knee into your chest, then guide it across your body to the left floor. Extend your right arm out to the side and gaze right. Breathe deeply into the twisting side of your ribcage. Switch sides. *(Ref: [Supine Twist](https://www.youtube.com/watch?v=TjB_J5PmsUo))*
+3.  **Reclined Bound Angle / Supta Baddha Konasana (3-4 mins):** Lie on your back. Bring the soles of your feet together and let your knees fall open wide (like a diamond). Place pillows under each knee if the stretch is too intense. Place one hand on your heart and one on your belly. Feel the breath move. *(Ref: [Reclined Bound Angle](https://www.youtube.com/watch?v=r2w_nL-S0Lw))*
+4.  **Legs Up The Wall / Viparita Karani (5 mins):** *The ultimate parasympathetic hack.* Scoot your hips as close to a wall as possible and extend your legs straight up the wall. Lie flat on your back. This reverses blood flow, heavily stimulating the vagus nerve to drop your heart rate and cortisol levels. *(Ref: [Legs Up The Wall Guide](https://www.youtube.com/watch?v=XhB-K8O4H8Y))*
+5.  **Savasana (3 mins):** Lie flat, completely still. Sip your night infusion immediately after. *(Ref: [Savasana Deep Relaxation](https://www.youtube.com/watch?v=1bMvz1Wq_fA))*
 
 ---
 
