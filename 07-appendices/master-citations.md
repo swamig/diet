@@ -45,6 +45,7 @@ The timing of morning tea and midday vitamin C directly impacts oxygen delivery 
 The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Retrogradation:** Birt et al., 2013, *Advances in Nutrition*. "Resistant Starch: Promise for Improving Human Health." Details how cooking and cooling starches (like potatoes, rice, and legumes) forces the amylose and amylopectin chains to realign into crystalline structures (RS Type 3) that resist digestion in the small intestine, acting as a prebiotic for butyrate-producing colon bacteria.
 *   **Dietary Fiber & Metabolic Health:** Lattimer, J. M., & Haub, M. D., 2010, *Nutrients*. "Effects of Dietary Fiber and Its Components on Metabolic Health." Documents the role of the protocol's legume-heavy base in improving insulin sensitivity and gut hormone signaling.
+*   **Fermented Foods & Immune Status (Sauerkraut/Kimchi):** Wastyk, H. C., et al., 2021, *Cell*. "Gut-microbiota-targeted diets modulate human immune status." A landmark Stanford study proving that a diet high in fermented foods (like the raw sauerkraut in the 14:30 salad) steadily increases microbiome diversity and significantly decreases systemic inflammatory markers, outperforming high-fiber diets alone.
 
 ## 8. Protein Architecture, Muscle Protein Synthesis (MPS) & The Soy Ceiling
 *   **The Tofu Ceiling (Isoflavones):** Chavarro, J. E., et al., 2008, *Human Reproduction*. "Soy food and isoflavone intake in relation to semen quality parameters among men." Establishes an association between high-dose soy intake and shifts in hormonal signaling/androgen sensitivity. The protocol caps Tofu/Soy consumption at **2x per week** to prevent phytoestrogen accumulation.
@@ -53,6 +54,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Slow-Kinetics Overnight Recovery (Casein):** Trommelen, J., & van Loon, L. J., 2016, *Nutrients*. "Pre-Sleep Protein Ingestion to Improve the Skeletal Muscle Adaptive Response to Exercise Training." Casein maximizes net protein balance during sleep.
 *   **Creatine Safety & Efficacy:** Kreider, R. B., et al., 2017, *JISSN*. ISSN position stand on creatine supplementation.
 *   **Resistance Training & Cortisol Signaling:** Crewther, B. T., et al., 2011, *Sports Medicine*. "Two Customary Resistance Training Protocols... Effects on Muscle Damage and Cortisol." Validates that acute mechanical tension triggers the HPA axis to release cortisol for glucose mobilization and energy homeostasis.
+*   **Zinc & Androgen Recovery (Pumpkin Seeds):** Prasad, A. S., et al., 1996, *Nutrition*. "Zinc status and serum testosterone levels of healthy adults." Validates the protocol's use of Pumpkin Seeds (highly dense in bioavailable zinc and magnesium) to support testosterone production and CNS recovery after heavy lifting.
 
 ## 9. Metabolic Flexibility, VO2 Max & HIIT
 *   **Fasted Fat Oxidation:** Vieira, A. F., et al., 2016, *British Journal of Nutrition*. "Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism."
@@ -66,6 +68,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **EGCG (Matcha):** Chacko et al., 2010, *Chinese Medicine*. "Beneficial effects of green tea: A literature review."
 *   **Anthocyanin Neuroprotection:** Johnson, S. A., et al., 2011, *Nutrition Reviews*. "Anthocyanins: Update on their existence and health benefits." Confirms blueberries support neurocognitive function and modulate oxidative stress.
 *   **Dietary Nitrates & Vasodilation (Watercress/Arugula):** Lidder, S., & Webb, A. J., 2013, *British Journal of Clinical Pharmacology*. Validates the 14:30 Salad Layer for boosting nitric oxide (NO) for endothelial health.
+*   **Alpha-Linolenic Acid & Vascular Health (Walnuts):** Ros, E., et al., 2004, *Circulation*. "A walnut diet improves endothelial function in hypercholesterolemic subjects." Proves that walnuts (the only tree nut significantly high in plant Omega-3/ALA) actively restore endothelial function and elasticity.
 *   **Magnesium & Exercise Performance:** Nielsen, F. H., & Lukaski, H. C., 2006, *Magnesium Research*. Justifies the mineral profile of the Jaljeera for muscle function.
 *   **Cinnamaldehyde (Cinnamon):** Rao & Gan, 2014, *Evidence-Based Complementary and Alternative Medicine*. Radical scavenging and glucose stabilization.
 *   **Cardamom Antioxidant Activity:** Yashin et al., 2017, *Antioxidants*. Prevention of lipid peroxidation.
@@ -89,6 +92,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **The Menthol Hierarchy (*Mentha arvensis*):** Brahroui et al., 2016, *Journal of Essential Oil Bearing Plants*. Yields 70-80% menthol concentration.
 *   **Terpene-Assisted Curcumin Absorption:** Shen et al., 2011, *International Journal of Pharmaceutics*. Menthol acts as a mucosal penetration enhancer.
 *   **Volatile Oil Preservation (The Weekly Crush Rule):** Peter, K. V. (2006), *Handbook of Herbs and Spices*. Oxidation mechanics of crushed cellular matrices.
+*   **Mucilage Gel & Glucose Blunting (Chia Seeds):** Vuksan, V., et al., 2007, *Diabetes Care*. "Supplementation of conventional therapy with the novel grain Salba (Salvia hispanica L.) improves major and emerging cardiovascular risk factors." Demonstrates that hydrated chia seeds form a viscous mucilage that coats the intestinal lining, physically slowing glucose absorption and blunting post-meal insulin spikes.
 *   **Proteolytic Efficacy (Papain):** Muss, C., et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation (Caricol®) in digestive disorders." Demonstrates that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract. This validates the use of the 13:00 Papaya pulse to mechanically cleave the heavy plant proteins from the 12:00 meal.
 *   **The Glass Mandate:** Halden, R. U. (2010). "Plastics and health risks." Endocrine disruption from chemical plasticizers.
 

@@ -21,13 +21,14 @@ These two components must appear in every salad without exception:
 *   **Fresh Cilantro (1/4 cup):** Primary chelator for heavy metal management.
 
 ## 3. The Functional Fat & Seed Matrix
-Add the "1-1-1" daily seed dose for omega balance and hormonal buffering:
-*   **1 tbsp Walnuts:** Alpha-linolenic acid (ALA).
-*   **1 tbsp Pumpkin Seeds:** Zinc and Magnesium for physical recovery [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
-*   **1 tbsp Roasted Sesame Seeds or Flaxseeds:** Lignans for hormonal buffering [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+Add the "1-1-1" daily seed dose for omega balance, vascular elasticity, and hormonal buffering:
+*   **1 tbsp Walnuts:** Highly dense in Alpha-linolenic acid (ALA). Actively restores endothelial function and arterial elasticity [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+*   **1 tbsp Pumpkin Seeds:** Dense source of bioavailable Zinc and Magnesium. Crucial for testosterone production and central nervous system (CNS) recovery after heavy mechanical lifting [[8]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
+*   **1 tbsp Roasted Sesame Seeds or Flaxseeds:** Provide lignans which stimulate SHBG (Sex Hormone-Binding Globulin) for hormonal buffering [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+*   **1 tbsp Chia Seeds (Activated):** When soaked overnight, the seeds form a viscous mucilage. Consuming this gel in the salad physically coats the intestinal lining, blunting post-meal insulin spikes and protecting the gut barrier [[11]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 
 ## 4. The Probiotic Anchor
-*   **1/4 cup Sauerkraut or Kimchi:** Must be raw/unpasteurized to provide live bacterial cultures for the microbiome.
+*   **1/4 cup Sauerkraut or Kimchi:** Must be raw/unpasteurized. Provides live bacterial cultures. Consistently eating high volumes of fermented foods steadily increases microbiome diversity and aggressively decreases systemic inflammatory markers, outperforming high-fiber diets alone [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## 5. Assembly & Dressing
 1.  Place dry greens in your **56 oz Glass Container**.
