@@ -129,6 +129,7 @@ Measurement and review templates to quantify the protocol.
 ### 7. Logs
 Daily and weekly operating records for what happened in practice.
 
+- [Protocol Changelog & Version History](CHANGELOG.md)
 - [Logs Overview](logs/README.md)
 - [Eating Logs](logs/eating/README.md)
 - [Eating Log Template](logs/eating/template.md)
