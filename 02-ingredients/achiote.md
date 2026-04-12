@@ -11,22 +11,20 @@ priority: 'rotation'
 Achiote (Annatto) is a vibrant, deep-red spice derived from the seeds of the *Bixa orellana* tree. It is a staple in Central and South American cooking (like Costa Rican *Gallo Pinto* and Yucatecan *Cochinita Pibil*).
 
 ## Active Compounds
-*   **Tocotrienols:** A powerful, rare form of Vitamin E (up to 40-50x more potent than standard tocopherols) that supports cardiovascular health and reduces systemic inflammation.
+*   **Tocotrienols:** A rare, hyper-potent form of Vitamin E. Unlike standard tocopherols found in most supplements, tocotrienols have unsaturated side chains that allow them to penetrate cell membranes rapidly. They are **40-50x more potent** at neutralizing lipid peroxidation and act as elite inhibitors of the NF-κB inflammatory pathway [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Carotenoids (Bixin & Norbixin):** Provide the deep red color and act as potent antioxidants that protect cellular membranes from oxidative stress.
-*   **Antimicrobial Properties:** Traditionally used to support gut health and inhibit the growth of certain harmful bacteria.
 
 ## Protocol Role
-*   **Lipid Protection:** The high tocotrienol content helps protect the Extra Virgin Olive Oil (EVOO) in your recipes from oxidation, even at low heat.
-*   **Recovery:** Acts as a systemic anti-inflammatory to support faster tissue recovery after high-intensity training.
+*   **The NF-κB Blockade:** Alongside Curcumin and 6-Gingerol, Tocotrienols form the third pillar of the protocol's defense against chronic inflammation and tumor promotion.
+*   **Lipid Protection:** The high tocotrienol content helps protect your cooking oils (Avocado/EVOO) from oxidation during the "Sofrito Toast" phase of cooking.
 
 ## Culinary Integration
-*   **The "Oil Bloom":** Achiote is fat-soluble. To unlock its full color and flavor, it should be briefly bloomed in oil (like your avocado or olive oil) at the start of cooking.
-*   **Flavor Profile:** Earthy, musky, and slightly peppery with a hint of bitterness. It provides a "meaty" depth to vegan dishes without the need for animal fats.
+*   **The "Oil Bloom":** Achiote is strictly fat-soluble. To unlock its full color, flavor, and antioxidant capacity, it must be bloomed in oil at the start of cooking.
+*   **Flavor Profile:** Earthy, musky, and slightly peppery. It provides a savory depth to plant-based dishes without the need for animal fats.
 
 ## Stacking Rules
 
-- Use achiote as an occasional flavor-and-color rotator rather than a required daily spice.
-- Bloom it briefly in fat when the recipe calls for it.
+- Bloom it briefly in fat when the recipe calls for it. Do not boil it in water without a lipid matrix present, or the tocotrienols will not be absorbed.
 
 ## Evidence Status
 
@@ -35,17 +33,17 @@ Achiote (Annatto) is a vibrant, deep-red spice derived from the seeds of the *Bi
 
 ## Used In
 
+- [The Protocol Quinoa Rice (Mexican Style)](../05-practical/protocol-quinoa.md)
 - ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
 - [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
 - [Daily Execution](../03-execution/README.md)
 
 ## Conflicts
 
-- This manual treats achiote as a rotator, not as a daily required anchor.
-- Bloom it briefly in fat; prolonged high heat works against the way it is used here.
+- Boiling achiote in water without a fat source (Avocado oil/EVOO) prevents the absorption of the fat-soluble tocotrienols, rendering the spice biologically useless.
 
 ## Related Pages
 
+- [The Protocol Quinoa Rice (Mexican Style)](../05-practical/protocol-quinoa.md)
 - ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
-- [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
-- [90-Minute Sunday Batch Prep System](../05-practical/sunday-prep.md)
+- [Master Citations (Tocotrienols)](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
