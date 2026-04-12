@@ -54,7 +54,18 @@ To understand why yoga is required in an elite lifting program, you must underst
 
 ---
 
-## 3. Tuning the Mind (Shaiva Tantra Philosophy)
+## 3. Post-Lift / Deep Stretching Sequence (10-15 Min)
+**Protocol Use:** Heavy lifting and 4x4 intervals create massive tissue shortening and fascial binding. Use this sequence immediately post-workout or on active recovery days to restore mobility and joint health. Hold each pose statically to force Golgi tendon organs to relax the muscle fibers.
+
+**The Sequence:**
+1.  **Lizard Lunge (2 mins per side):** Step right foot outside your right hand. Drop the left knee to the floor. Keep arms straight or drop to forearms. Targets deep hip flexors. *(Ref: [Lizard Pose](https://www.youtube.com/watch?v=kRtyzXWIfk4))*
+2.  **Half Pigeon (2 mins per side):** From Downward Dog, bring your right knee behind your right wrist. Extend left leg straight back. Fold torso over the front leg. Unlocks the piriformis and glutes. *(Ref: [Half Pigeon Tutorial](https://www.youtube.com/watch?v=0_zPHEuO0Y4))*
+3.  **Thread the Needle (1 min per side):** From all fours, slide your right arm under your left, dropping your right shoulder and ear to the mat. Stretches the rear delts and thoracic spine. *(Ref: [Thread the Needle](https://www.youtube.com/watch?v=F0O5B1uS3F8))*
+4.  **Seated Forward Fold (2 mins):** Sit with legs straight out. Inhale, lengthen spine; exhale, fold forward over the legs. Rest hands wherever they land. Stretches the entire posterior chain (calves, hamstrings, lower back). *(Ref: [Seated Forward Fold](https://www.youtube.com/watch?v=g7qL2oicGE4))*
+
+---
+
+## 4. Tuning the Mind (Shaiva Tantra Philosophy)
 
 You cannot out-supplement or out-train a mind that is constantly signaling danger. Chronic psychological stress creates chronic physiological cortisol.
 
@@ -62,9 +73,16 @@ To fix this, the physical postures (*Asana*) must be paired with the cognitive f
 
 *   **The Root of Stress (*Klesha*):** Shaivism teaches that psychological stress does not come from the external world; it comes from your mind's resistance to "what is." When you fight reality, the amygdala fires, triggering the HPA axis. 
 *   **The Perspective Shift (*Lila*):** Shaivism views the universe as a divine play (*Lila*). By shifting your perspective from "fighting the world" to "witnessing the play," you create cognitive distance between yourself and your stressors. 
-*   **Mantra as a Tool:** A mantra (literally: "instrument of the mind") is not a religious chant; it is a focal anchor. When the Default Mode Network (DMN) in your brain starts ruminating on anxiety, silently repeating a resonance (like *So Hum* - "I am That") interrupts the neural loop. 
+*   **Mantra as a Tool:** A mantra (literally: "instrument of the mind") is not a religious chant; it is a focal anchor. When the Default Mode Network (DMN) in your brain starts ruminating on anxiety, silently repeating a resonance interrupts the neural loop [[12]](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning). 
 
-**The Protocol Integration:** During your Restorative Yoga [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) and 21:00 Night Infusion, practice *Vimarsha* (reflective awareness). Witness your thoughts without engaging them. This is the ultimate "top-down" mechanism for lowering cortisol, perfectly complementing the "bottom-up" biochemical control of the diet.
+### The Protocol Integration (How to execute)
+During your Restorative Yoga and your 21:00 Night Infusion, deploy the **"So Hum" (I am That) Protocol**:
+
+1.  **The Anchor:** Lie in Savasana or sit quietly with your Night Infusion. 
+2.  **The Breath:** Begin 4-8 breathing (Inhale 4 seconds, Exhale 8 seconds).
+3.  **The Resonance:** As you inhale, mentally sound the syllable **"So"**. As you exhale, mentally sound the long syllable **"Hummm"**.
+4.  **The Vimarsha (Witnessing):** When thoughts of work, stress, or anxiety arise, do not fight them. Practice *Vimarsha* (reflective awareness). Simply label the thought ("thinking"), and immediately return your mental sound to *So Hum*. 
+5.  **The Biological Result:** By giving the brain a rhythmic task (the mantra) tied to a parasympathetic trigger (the slow exhale), you mechanically shut down the amygdala's threat-response and lower systemic cortisol [[12]](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning).
 
 ## Related Pages
 - [Advanced Training & Thermal Hormesis Integration](../04-advanced-control/training-hormesis-integration.md)

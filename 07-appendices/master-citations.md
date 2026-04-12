@@ -91,6 +91,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 ## 12. Autonomic Nervous System & Mind Tuning
 *   **Vagal Tone & Parasympathetic Activation (Yoga):** Pascoe, M. C., et al., 2017, *Psychoneuroendocrinology*. Meta-analysis validating that yoga and slow breathing directly stimulate the Vagus nerve.
 *   **Default Mode Network Interruption (Mantra):** Brewer, J. A., et al., 2011, *PNAS*. Demonstrates that focal anchors actively quiet the DMN, reducing psychological rumination.
+*   **Mindfulness & Cortisol Reduction (Vimarsha/Witnessing):** Creswell, J. D., et al., 2014, *Psychoneuroendocrinology*. "Brief mindfulness meditation training alters psychological and neuroendocrine responses to social evaluative stress." Validates that non-judgmental awareness practices (like Vimarsha) significantly blunt the cortisol spike in response to psychological stressors, providing the biological mechanism for the "So Hum" protocol.
 *   **Post-Exercise HRV Recovery:** Stanley, J., et al., 2013, *Sports Medicine*. "The Effect of Post-Exercise Recovery on Heart Rate Variability."
 
 ## 13. Metabolic Oncology & Chemoprevention
