@@ -63,9 +63,20 @@ To understand why yoga is required in an elite lifting program, you must underst
 3.  **Thread the Needle (1 min per side):** From all fours, slide your right arm under your left, dropping your right shoulder and ear to the mat. Stretches the rear delts and thoracic spine. *(Ref: [Thread the Needle](https://www.youtube.com/watch?v=F0O5B1uS3F8))*
 4.  **Seated Forward Fold (2 mins):** Sit with legs straight out. Inhale, lengthen spine; exhale, fold forward over the legs. Rest hands wherever they land. Stretches the entire posterior chain (calves, hamstrings, lower back). *(Ref: [Seated Forward Fold](https://www.youtube.com/watch?v=g7qL2oicGE4))*
 
+## 4. Targeted Lifting Pairings (Structural Balance)
+
+To maximize the benefits of the **Legs/Push/Pull** split, use these specific pose-pairings immediately after your lift or during your 21:00 window to counteract mechanical shortening.
+
+| Workout Day | Primary Mechanical Stress | Targeted Yoga Response | Key Pose |
+| :--- | :--- | :--- | :--- |
+| **Monday: HEAVY LEGS** | Tight Hip Flexors / Glute Fatigue | Deep Hip Opening | **Half Pigeon [12]** |
+| **Tuesday: PUSH DAY** | Internal Shoulder Rotation / Tight Pecs | Heart/Chest Opening | **Cobra / Upward Dog [12]** |
+| **Wednesday: PULL DAY** | Thoracic Compression / Bicep Tension | Thoracic Rotation | **Thread the Needle [12]** |
+| **Friday: FULL ROTATOR** | Systemic CNS Load | Full Body Decompression | **Legs Up The Wall [12]** |
+
 ---
 
-## 4. Tuning the Mind (Shaiva Tantra Philosophy)
+## 5. Tuning the Mind (Shaiva Tantra Philosophy)
 
 You cannot out-supplement or out-train a mind that is constantly signaling danger. Chronic psychological stress creates chronic physiological cortisol.
 
