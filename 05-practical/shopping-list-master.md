@@ -52,6 +52,7 @@ These will last months.
 *   Dijon Mustard (sugar-free)
 *   Tomato Paste (Elite source of cis-lycopene) or Tomato Puree
 *   Soy Sauce (or Tamari)
+*   Pure Madagascar Vanilla Extract (For "phantom sweetness" and neuro-calming)
 *   Raw cacao nibs (250-300g)
 *   Casein protein powder (large tub)
 *   Quinoa (2-2.5 kg dry)

@@ -23,7 +23,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens + cilantro | Rotators vary by day. |
 | **16:30** | Resistance training | Standard training slot | Use the day page if the day has special emphasis. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
-| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Greek yogurt + casein + blueberries | Cacao is optional and spaced deliberately. |
+| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Greek yogurt + casein + blueberries + pure vanilla extract | Cacao is optional and spaced deliberately. |
 | **21:00** | Night infusion | Tulsi or saffron | Depends on the day plan. |
 
 ## Default Anchors

@@ -71,6 +71,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Cuminaldehyde (Cumin):** Mnif & Aiyelaagbe, 2015, *Chemistry & Biodiversity*. ROS quenching.
 *   **Thymol (Ajwain):** Bairwa et al., 2012, *Pharmacognosy Reviews*. Validates carminative and antioxidant effects.
 *   **Thymoquinone (Nigella Sativa):** Ahmad et al., 2013, *Asian Pacific Journal of Tropical Biomedicine*. Hepatoprotective and extreme antioxidant capacity.
+*   **Vanillin (Madagascar Vanilla Extract):** Tai, A., et al., 2011, *Journal of Agricultural and Food Chemistry*. "Antioxidant activity of vanillin." Demonstrates that pure vanillin is a potent free radical scavenger and neuro-modulator. In the protocol, its olfactory properties induce a parasympathetic state while providing "phantom sweetness" without an insulin spike.
 *   **Tocotrienols (Achiote):** Aggarwal et al., 2010, *Biochemical Pharmacology*. Superiority over tocopherols for NF-κB modulation.
 *   **Emblicanins & Vitamin C (Aamla):** Antony et al., 2008, *Indian Journal of Clinical Biochemistry*. Supreme antioxidant source.
 *   **Tartaric Acid, Mucilage & Toxin Chelation (Tamarind / Imlee):** Khandare, A. L., et al., 2002, *European Journal of Clinical Nutrition*. "Effect of tamarind ingestion on fluoride excretion in humans." Demonstrates that the mucilage and organic acids in tamarind actively bind to and excrete inorganic physical toxins and heavy metals from the body, supporting its use as an "enteric binder" for microplastics and pollutants.

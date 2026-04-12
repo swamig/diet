@@ -25,12 +25,12 @@ Hydration in this protocol is not neutral. It is divided into:
 *   **Ashwagandha [5](../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha)** (The Cortisol Buffer - Cycle 2-3x weekly max)
 *   **Saffron**
 *   **Tulsi (Holy Basil)**
-*   **Cinnamon & Cardamom** (Flavor/Glucose stabilizers)
+*   **Cinnamon, Cardamom & Pure Vanilla** (Flavor/Glucose stabilizers)
 *   **Alkaline Water (pH 8+)** (The "Net 8" Night Anchor)
 
 **The "Net 8" Execution Rules:** 
 Do not pre-batch night infusions. Alkaline water loses its pH when exposed to air, and warm water is required for vasodilation before sleep. Make them fresh nightly based on the day's rotation:
-1.  **Ashwagandha (High Stress):** Intensely bitter. Requires masking. Mix powder into warm alkaline water + Ceylon Cinnamon + Cardamom + a splash of unsweetened almond milk. (No sugar).
+1.  **Ashwagandha (High Stress):** Intensely bitter. Requires masking. Mix powder into warm alkaline water + Ceylon Cinnamon + Cardamom + **1/4 tsp Pure Madagascar Vanilla Extract** + a splash of unsweetened almond milk. (No sugar). The vanillin provides "phantom sweetness" and neuro-calming olfactory signals without spiking insulin.
 2.  **Tulsi (Moderate Stress):** Peppery and aromatic. No masking needed. Steep dried leaves in warm alkaline water. (Optional: add a pinch of cinnamon).
 3.  **Saffron (Low Stress/Reset):** Delicate and floral. **Zero masking.** Steep threads in pure warm alkaline water only. Do not add spices or milk, as they will obliterate the fragile neuro-modulatory compounds (safranal).
 
