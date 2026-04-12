@@ -32,7 +32,7 @@ This section translates the protocol into kitchen operations. Read this before t
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [High-Signaling Peppermint Jaljeera](peppermint-jaljeera.md)
 - [Functional Indian Formats (Chutneys, Podis, Toum)](functional-indian-formats.md)
-- [Thermal Hormesis (Sauna [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) & Cold Plunge [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration))](thermal-hormesis.md)
+- [Thermal Hormesis (Sauna & Cold Plunge)](thermal-hormesis.md)
 - [Beginner Yoga Sequences (Active vs. Restorative)](yoga-routines.md)
 - [Troubleshooting Guide](troubleshooting-guide.md)
 

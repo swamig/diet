@@ -52,6 +52,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Fast-Kinetics Post-Workout (Whey Isolate):** Tang, J. E., et al., 2009, *Journal of Applied Physiology*. "Ingestion of whey hydrolysate, casein, or soy protein isolate." Validates that the rapid digestion kinetics of whey isolate trigger a higher acute spike in MPS immediately post-workout.
 *   **Slow-Kinetics Overnight Recovery (Casein):** Trommelen, J., & van Loon, L. J., 2016, *Nutrients*. "Pre-Sleep Protein Ingestion to Improve the Skeletal Muscle Adaptive Response to Exercise Training." Casein maximizes net protein balance during sleep.
 *   **Creatine Safety & Efficacy:** Kreider, R. B., et al., 2017, *JISSN*. ISSN position stand on creatine supplementation.
+*   **Resistance Training & Cortisol Signaling:** Crewther, B. T., et al., 2011, *Sports Medicine*. "Two Customary Resistance Training Protocols... Effects on Muscle Damage and Cortisol." Validates that acute mechanical tension triggers the HPA axis to release cortisol for glucose mobilization and energy homeostasis.
 
 ## 9. Metabolic Flexibility, VO2 Max & HIIT
 *   **Fasted Fat Oxidation:** Vieira, A. F., et al., 2016, *British Journal of Nutrition*. "Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism."
