@@ -80,7 +80,7 @@ Into *each* of the 7 small jars, measure the following:
 **2. Morning Activation Packs:**
 Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each* pack, add:
 *   **The Base:** 1/2 tsp whole Jeera (Cumin) seeds OR 1/4 tsp Ajwain seeds (depending on your weekly rotation).
-*   **The Rotator (Optional):** 1 whole Clove OR 1 crushed Cardamom pod.
+*   **The Rotator (Optional):** 1 whole Clove, 1 crushed Cardamom pod, or **1 whole Star Anise** (Antiviral Pulse).
 *   **The Matcha (Optional):** **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder**.
 *   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
 
