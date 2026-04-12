@@ -34,6 +34,8 @@ This section is a reference library, not required front-to-back reading. Start w
 ## Vascular, Recovery, and Support Ingredients
 
 - [Cacao](cacao.md)
+- [Tomatoes (Lycopene Signaling)](tomatoes.md)
+- [Purple Sweet Potato (Anthocyanin Starch)](purple-sweet-potato.md)
 - [Rosemary](rosemary.md)
 - [Saffron](saffron.md)
 - [Achiote](achiote.md)

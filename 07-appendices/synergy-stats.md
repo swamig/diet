@@ -21,6 +21,7 @@ This protocol is not based on "eating healthy"; it is based on **signaling ampli
 | **Phytonutrients** | **Microgreens vs. Mature** | **4x - 40x** | Higher concentration of vitamins and enzymes per gram [[10]](master-citations.md#10-antioxidants-polyphenols--vascular-signaling). |
 | **Metabolic** | **RS3 (Double-Chill)** | **~40% Reduction** | Lower glycemic index and post-meal insulin response [[7]](master-citations.md#7-gut-microbiome--resistant-starch-type-3). |
 | **Mineral** | **Iron + Vitamin C** | **2x - 3x** | Massive boost in non-heme iron absorption from legumes [[6]](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule). |
+| **Vascular** | **Cooked Tomatoes** | **+300% (4x)** | 1 tablespoon of Paste vs 1 fresh tomato provides 4x the lycopene density. |
 
 ## 1. The Curcumin/Piperine 20x Multiplier
 Without Piperine (Black Pepper), Curcumin is rapidly metabolized and excreted by the liver. Piperine inhibits the UGT enzyme, allowing the curcumin to enter the bloodstream. This is the protocol’s most basic "Multiplier."
