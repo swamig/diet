@@ -126,11 +126,13 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
 
 **1. The 5-Day Seed Rotation (Prep in 5 dry mini-containers):**
 *   **Day 1:** 1 tbsp Sesame (Mineral Density)
-*   **Day 2:** 1 tbsp Basil Seeds / Sabja (Mucilage/Digestive Lining)
+*   **Day 2:** 1 tbsp Basil Seeds / Sabja (The Cooling & Iron Anchor)
 *   **Day 3:** 1 tbsp Walnuts (Vascular Peak)
-*   **Day 4:** 1 tbsp Basil Seeds / Sabja (Mucilage/Digestive Lining)
+*   **Day 4:** 1 tbsp Chia Seeds (The Omega/ALA Anchor)
 *   **Day 5:** 1 tbsp Pumpkin Seeds (Zinc/Recovery)
-*   *Sabja Activation:* Just 5 minutes before eating your salad on Day 2 and Day 4, add 1/4 cup of water to the basil seeds. They will instantly swell into a thick gel. Toss this gel directly into the salad to coat the digestive tract.
+*   **The Activation Rules (Crucial):**
+    *   *Chia Seeds (Day 4):* The night before, add 3 tbsp of water to the container. They take 8 hours to fully hydrate into a digestible gel.
+    *   *Basil Seeds (Day 2):* Just 5 minutes before eating your salad, add 1/4 cup of water. They will instantly swell. Toss the gel directly into the salad.
 
 **2. The Recovery Bowl Setup (5-Day):**
 *   **Blueberries:** Portion 75g (Total: 375g for 5 days) of frozen blueberries into 5 separate 8 oz containers. Store in the fridge to thaw.
