@@ -16,6 +16,7 @@ Appendices are fast reference pages. They should answer practical lookup questio
 - [Daily Timing Cheat Sheet](daily-timing-cheat-sheet.md)
 - [Ingredient Conflict Matrix](ingredient-conflict-matrix.md)
 - [Master Citations & Scientific Rationale](master-citations.md)
+- [Synergy Multipliers & Signaling Power-Ups](synergy-stats.md)
 - [Source Style Guide](source-style-guide.md)
 - [Spice Conversions & Internal Temperatures](spice-conversions.md)
 

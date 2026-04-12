@@ -137,6 +137,7 @@ Fast reference tables and reusable lookup material.
 - [Daily Timing Cheat Sheet](07-appendices/daily-timing-cheat-sheet.md)
 - [Ingredient Conflict Matrix](07-appendices/ingredient-conflict-matrix.md)
 - [Master Citations & Scientific Rationale](07-appendices/master-citations.md)
+- [Synergy Multipliers & Signaling Power-Ups](07-appendices/synergy-stats.md)
 - [Spice Conversions & Internal Temperatures](07-appendices/spice-conversions.md)
 
 ---
