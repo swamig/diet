@@ -50,7 +50,7 @@ These will last months.
 *   Balsamic vinegar
 *   Apple cider vinegar (with "the mother")
 *   Dijon Mustard (sugar-free)
-*   Tomato Puree (or finely chopped tomatoes)
+*   Tomato Paste (Elite source of cis-lycopene) or Tomato Puree
 *   Soy Sauce (or Tamari)
 *   Raw cacao nibs (250-300g)
 *   Casein protein powder (large tub)

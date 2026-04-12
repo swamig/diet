@@ -13,7 +13,7 @@ Quinoa is utilized in this protocol not as a standard grain, but as a fiber-dens
 
 *   **2 cups Dry Quinoa** (Tri-color or white).
 *   **4 cups Water** (or mineral-rich Aquafaba).
-*   **The Lycopene Sofrito Base:** 1 cup pureed tomatoes (or tomato sauce) + 1/2 white onion (finely diced) + 2 cloves garlic (minced and rested 10 min).
+*   **The Lycopene Sofrito Base:** 1 cup pureed tomatoes OR **3 tbsp Tomato Paste** thinned with a splash of water (Paste is the elite, hyper-concentrated source of cis-lycopene) + 1/2 white onion (finely diced) + 2 cloves garlic (minced and rested 10 min).
 *   **The Veggie Mix:** 1/2 cup green peas (frozen or fresh) + 1/2 cup finely diced carrots.
 *   **The Tocotrienol Booster:** 1 tsp **Achiote (Annatto) powder** + 1 tsp whole Cumin seeds.
 *   **The Floral Heat:** 1 whole Serrano or Jalapeño chili (Do NOT chop it. Leave it whole).
