@@ -86,6 +86,8 @@ Shopping, prep, storage, recipes, and execution infrastructure.
 
 - [Section Guide](05-practical/README.md)
 - [Master Shopping List](05-practical/shopping-list-master.md)
+- [Friday Evening: The Anti-Phytic Soak](05-practical/friday-prep.md)
+- [Saturday: The Initial Cook & First Chill](05-practical/saturday-prep.md)
 - [Substitutions Guide](05-practical/substitutions-guide.md)
 - [90-Minute Sunday Batch Prep System](05-practical/sunday-prep.md)
 - [Weekly Prep Checklist](05-practical/weekly-prep-checklist.md)

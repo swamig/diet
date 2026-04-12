@@ -14,12 +14,14 @@ This section translates the protocol into kitchen operations. Read this before t
 ## Setup Order
 
 1. [Consolidated Master Shopping List](shopping-list-master.md)
-2. [Substitutions Guide](substitutions-guide.md)
-3. [High Signaling Container System](container-system.md)
+2. [Friday Evening: The Anti-Phytic Soak](friday-prep.md)
+3. [Saturday: The Initial Cook & First Chill](saturday-prep.md)
 4. [90-Minute Sunday Batch Prep System](sunday-prep.md)
 5. [Weekly Prep Checklist](weekly-prep-checklist.md)
-6. [Fridge Layout Optimization](fridge-storage.md)
-7. [Produce Cleaning Protocol](produce-cleaning.md)
+6. [Substitutions Guide](substitutions-guide.md)
+7. [High Signaling Container System](container-system.md)
+8. [Fridge Layout Optimization](fridge-storage.md)
+9. [Produce Cleaning & Pesticide Mitigation](produce-cleaning.md)
 
 ## Core Recipes and Components
 
