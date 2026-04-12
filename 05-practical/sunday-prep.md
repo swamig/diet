@@ -126,11 +126,11 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
 
 **1. The 5-Day Seed Rotation (Prep in 5 dry mini-containers):**
 *   **Day 1:** 1 tbsp Sesame (Mineral Density)
-*   **Day 2:** 1 tbsp Dry Chia Seeds (Mucilage/Digestive Lining)
+*   **Day 2:** 1 tbsp Basil Seeds / Sabja (Mucilage/Digestive Lining)
 *   **Day 3:** 1 tbsp Walnuts (Vascular Peak)
-*   **Day 4:** 1 tbsp Dry Chia Seeds (Mucilage/Digestive Lining)
+*   **Day 4:** 1 tbsp Basil Seeds / Sabja (Mucilage/Digestive Lining)
 *   **Day 5:** 1 tbsp Pumpkin Seeds (Zinc/Recovery)
-*   *Chia Activation:* The night before Day 2 and Day 4, add 3 tbsp of water to the chia container to form a gel. Toss this gel directly into the salad.
+*   *Sabja Activation:* Just 5 minutes before eating your salad on Day 2 and Day 4, add 1/4 cup of water to the basil seeds. They will instantly swell into a thick gel. Toss this gel directly into the salad to coat the digestive tract.
 
 **2. The Recovery Bowl Setup (5-Day):**
 *   **Blueberries:** Portion 75g (Total: 375g for 5 days) of frozen blueberries into 5 separate 8 oz containers. Store in the fridge to thaw.

@@ -59,8 +59,7 @@ These will last months.
 *   Lentils (1.5 kg dry)
 *   Pumpkin seeds
 *   Sesame seeds
-*   Walnuts
-*   Chia seeds
+*   Basil Seeds (Sabja) or Chia Seeds
 
 ## Buy Weekly (Fresh Produce)
 This must be refreshed weekly to maintain nutrient density.
