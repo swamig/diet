@@ -31,6 +31,22 @@ If a crunchy texture is required (e.g., for salad toppers), baking must be caref
 *   **The Spice & Acid Fix:** Spray the cold beans evenly with **Avocado Oil** (superior to olive oil here due to its high 520°F smoke point), toss with your powdered daily spice stack (Turmeric, Cumin, Black Pepper), and a small amount of acid (e.g., Balsamic Vinegar or Lemon Juice). The acid protects the anthocyanin pigments from thermal degradation, while the avocado oil safely blooms the spices without oxidizing in the oven.
 *   **The Flash Roast:** Bake at 380°F (190°C) for **maximum 10–12 minutes**. Because the beans start at fridge temperature (38°F), the short bake time crisp the exterior (creating flavorful melanoidins) without allowing the dense core to reach the 130°F threshold that melts the Resistant Starch.
 
+## The 130°F Thermal Ceiling (Preserving the Signal)
+
+RS Type 3 is physically fragile. While the crystalline starch structures are created in the cold, they are rapidly "melted" back into simple, high-glycemic starches when exposed to high heat.
+
+*   **The Rule:** Once a starch has been chilled to form RS3, it must **NEVER** be exposed to temperatures above **130°F (55°C)** again.
+*   **Prohibited Methods:** Re-steaming, microwaving on high, or boiling-hot pans.
+*   **Approved Method:** Gentle warming only. Reheat in a skillet on low heat until "warm to the touch" but never steaming or bubbling.
+
+## The Elite Double-Chill Protocol
+
+To achieve the absolute lowest glycemic index and maximal prebiotic yield, the protocol utilizes a second cooling cycle:
+1.  **Cycle 1:** Cook -> Rapid Chill (24h).
+2.  **Activation:** Rewarm gently (<130°F) to fold in **Allicin (Garlic)** and **Vinegar** (e.g., performing the Refried Bean mash).
+3.  **Cycle 2:** Rapid Chill again (24h).
+4.  **Result:** The second cooling phase reinforces the crystalline starch matrix, creating an elite delivery system for the gut bacteria *Akkermansia*.
+
 ## Performance Application
 
 By converting regular starches into resistant starches, you achieve two primary goals:

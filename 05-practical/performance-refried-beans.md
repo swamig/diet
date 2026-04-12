@@ -42,6 +42,9 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). If they start to steam heavily or bubble, they are too hot. You want to "warm" them, not "re-cook" them.
 5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro. This preserves the delicate polyphenols in the oil and gives the beans a rich, traditional "fried" mouthfeel without the high-heat damage.
 
+## Execution (Eat Immediately)
+Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire storage tub), this specific recipe is your **plated meal**. Because you started with beans that were already chilled for 24 hours (locking in the RS3), you can eat this immediately after the 130°F warm-up. You do not need to wait another day.
+
 ---
 
 ## Why This Works

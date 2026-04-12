@@ -22,6 +22,7 @@ This protocol is not based on "eating healthy"; it is based on **signaling ampli
 | **Metabolic** | **RS3 (Double-Chill)** | **~40% Reduction** | Lower glycemic index and post-meal insulin response [[7]](master-citations.md#7-gut-microbiome--resistant-starch-type-3). |
 | **Mineral** | **Iron + Vitamin C** | **2x - 3x** | Massive boost in non-heme iron absorption from legumes [[6]](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule). |
 | **Vascular** | **Cooked Tomatoes** | **+300% (4x)** | 1 tablespoon of Paste vs 1 fresh tomato provides 4x the lycopene density [[10]](master-citations.md#10-antioxidants-polyphenols--vascular-signaling). |
+| **Metabolic** | **Multi-Cycle RS3** | **+20-30%** | Repeated heating/cooling cycles increase the density of the RS3 crystalline matrix. |
 
 ## 1. The Curcumin/Piperine 20x Multiplier
 Without Piperine (Black Pepper), Curcumin is rapidly metabolized and excreted by the liver. Piperine inhibits the UGT enzyme, allowing the curcumin to enter the bloodstream. This is the protocol’s most basic "Multiplier."
@@ -37,6 +38,9 @@ Raw tomatoes contain *trans-lycopene*, which the human gut struggles to absorb. 
 
 ## 5. The Iron-Reduction Anchor
 Legumes (Chickpeas/Lentils) are packed with iron, but it is "non-heme" iron, meaning it is locked in a state (Fe3+) your body cannot easily absorb. Consuming extreme doses of Vitamin C (Aamla powder / Lemon juice) alongside the meal chemically reduces the iron to its bioavailable state (Fe2+), multiplying absorption by **2x to 3x**.
+
+## 6. The Multi-Cycle Starch Hack (The "Seed Crystal" Effect)
+While a single cook-and-chill cycle creates a baseline level of Resistant Starch Type 3 (RS3), repeated cycles of heating and cooling (e.g., boiling -> chilling -> steaming -> chilling) progressively increase the RS3 yield. Each cooling phase creates "seed crystals" that allow the starch molecules to align into even denser, more heat-resistant structures during subsequent retrogradation cycles. This is why the protocol mandates a 24h chill for chickpeas *before* building the Vegan Patties.
 
 ## Related Pages
 - [Master Citations & Scientific Rationale](master-citations.md)

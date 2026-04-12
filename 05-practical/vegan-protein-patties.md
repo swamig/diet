@@ -50,21 +50,27 @@ This is the high-performance protein system that replaces meat in the protocol. 
 
 ---
 
-## Procedure
+## Procedure & The RS3 Cycle
 
-1.  **Prep Chickpeas (The Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)):** Cook from dry (or use canned). **Flavor Boost:** Add 1 tsp garlic powder and 1 tsp onion powder to the boiling water when cooking chickpeas. Drain, cool rapidly, and chill in the fridge for 24 hours.
-2.  **The Second Warm (Acid Shield):** Gently warm the chilled chickpeas in a pan (stay under 130°F) with the ½ tsp apple cider vinegar. Remove from heat, cool rapidly, and return to the fridge for a *second* 24-hour chill to maximize Resistant Starch Type 3.
-3.  **Mash:** Take the double-chilled chickpeas, dry for 10–15 min if needed, and mash until 70% smooth and 30% chunky.
-4.  **Activate Seeds:** Dry roast cumin and ajwain for 30–60 seconds, then crush all seeds in the "Digestive Seed System."
-5.  **Build Dough:** Mix all ingredients until a firm dough forms. **Mandatory:** Do not skip the 1 tbsp of olive oil; it is required for binding and fat-soluble spice absorption.
-6.  **Knead (CRITICAL):** 
-    *   **Manual:** Knead the dough for 3–5 minutes until it feels elastic and springy.
-    *   **KitchenAid (Elite Hack):** Use a dough hook on **Speed 2 for 3–5 minutes**. Stop as soon as the dough forms a cohesive ball that pulls away from the sides and "bounces back" when poked.
-7.  **Create Fibers (Meat Effect):** Flatten the dough, fold it, and repeat 2–3x to build "meat-like" fibers.
-8.  **Shape:** Form into 4 large burger patties (or use an **Idli Tray** for uniform pucks).
-9.  **Cook (Optimized):**
-    *   **🥇 Best:** Steam for 15 minutes (easier digestion). If using **Idli Trays**, remove from the pot and let cool for 10 minutes before lifting them out of the molds.
-    *   **The Final Sear:** Right before eating, pan-sear with light oil for 2-3 min per side. This blooms the Turmeric/Haldi and Black Pepper for maximum signaling.
+To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starch Type 3 (RS3), you must manage the thermal phases correctly.
+
+1.  **The Base:** Start with 1 cup of chickpeas that have been cooked and chilled in the fridge overnight.
+2.  **The Mash:** Mash the cold chickpeas until 70% smooth and 30% chunky.
+3.  **Activate Seeds:** Dry roast the cumin and ajwain for 30–60 seconds to release their volatile oils, then lightly crush them.
+4.  **Build Dough:** Combine the mashed chickpeas, pea protein, vital wheat gluten, rested garlic, ginger, herbs, spices, and wet ingredients. **Mandatory:** Do not skip the 1 tbsp of olive oil; it is required to bind the fat-soluble spices (turmeric/chili).
+5.  **Knead (CRITICAL):** 
+    *   **Manual:** Knead the dough aggressively for 3–5 minutes.
+    *   **KitchenAid (Elite Hack):** Use a dough hook on **Speed 2 for 3–5 minutes**. Stop when the dough forms a cohesive, elastic ball that "bounces back" when poked.
+6.  **Create Fibers:** Flatten the dough, fold it over itself, and flatten again. Repeat 2–3x to build "meat-like" muscular striations.
+7.  **Shape:** Form into 4 large burger patties.
+8.  **The Steam (The RS3 Melt):** Steam the patties for 15 minutes. *Biochemical Note:* Hitting 160°F+ is required to activate and set the wheat gluten, giving the patty its structural "chew." This heat will temporarily melt the resistant starch in the chickpeas back into simple starch.
+9.  **The Post-Cook Chill (RS3 Re-formation):** Remove the steamed patties and let them cool for 20 minutes. **Place them in an airtight glass container in the fridge for 12-24 hours.** *Biochemical Note:* This is where the magic happens. The starches will retrograde *again*, locking into an even tighter, more dense RS3 crystalline matrix than before.
+
+## Execution (The Daily Meal)
+
+When you are ready to eat the patties at 12:00, you must protect the RS3 you built in the fridge.
+*   **The Searing Rule:** Do not microwave the patty for 3 minutes. Heat a pan with a tiny drizzle of avocado oil. **Quickly sear the patty for 60-90 seconds per side.** 
+*   **The Result:** The outside gets crispy and warm, but the dense core remains below the **130°F Thermal Ceiling**, fully preserving the prebiotic resistant starch.
 
 ---
 
