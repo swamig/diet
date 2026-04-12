@@ -32,6 +32,12 @@ The most profound synergy in the manual. Activating the heat receptor (TRPV1) an
 ## 3. The RS3 "Flatline"
 By preparing your Quinoa and Beans with the **Double-Chill protocol**, you are physically changing the molecular structure of the starch. Instead of being a rapid glucose spike, it becomes a "slow-release" prebiotic fiber, allowing you to sustain training intensity without the "crash" of standard high-carb diets.
 
+## 4. The Lycopene "Sofrito" Conversion
+Raw tomatoes contain *trans-lycopene*, which the human gut struggles to absorb. By cooking tomato paste in avocado oil (the "Sofrito Toast"), the heat structurally bends the molecule into *cis-lycopene*, and the fat acts as a carrier vehicle. This protocol step yields **300% more bioavailable lycopene** than eating a raw tomato.
+
+## 5. The Iron-Reduction Anchor
+Legumes (Chickpeas/Lentils) are packed with iron, but it is "non-heme" iron, meaning it is locked in a state (Fe3+) your body cannot easily absorb. Consuming extreme doses of Vitamin C (Aamla powder / Lemon juice) alongside the meal chemically reduces the iron to its bioavailable state (Fe2+), multiplying absorption by **2x to 3x**.
+
 ## Related Pages
 - [Master Citations & Scientific Rationale](master-citations.md)
 - [Daily Timing Cheat Sheet](daily-timing-cheat-sheet.md)
