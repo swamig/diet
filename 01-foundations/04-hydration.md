@@ -18,6 +18,11 @@ Hydration in this protocol is not neutral. It is divided into:
 
 **The "Warm Start" Rule:** Morning hydration (07:15) MUST be consumed warm to hot. Warm water acts as a vasodilator, stimulating peristalsis and prepping the gut for the 12:00 feeding window. Cold water constricts the digestive channels and is prohibited before 10:00.
 
+**The Fasted Cardio Sequencing Rule (06:30 vs 07:15):**
+You must perform your 06:30 Fasted Cardio (or VO2 Max intervals) **before** drinking Matcha. 
+1.  **Gastric & Autonomic Protection:** Consuming high-tannin, caffeinated Matcha on an empty, moving stomach during intense exercise frequently causes severe nausea and artificially spikes heart rate, ruining Zone 2 or VO2 Max metrics.
+2.  **The AMPK "Afterburn" Multiplier:** Fasted exercise depletes liver glycogen and activates AMPK (the fat-oxidation master switch). Consuming the Matcha at 07:15, *immediately after* the workout concludes, introduces a massive dose of EGCG (catechins). The EGCG acts as a biological multiplier, sustaining the elevated rate of lipid oxidation for hours into the recovery window [[9]](../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit).
+
 **The Tannin Deadline (10:00):** Matcha and Green Tea provide powerful mitochondrial signaling (EGCG), but their catechins and tannins aggressively block non-heme iron absorption. All caffeinated or high-tannin teas must be finished by 10:00 AM (2 hours before the main meal) to ensure the iron in your daily legumes is bioavailable.
 
 ## Night Hydration (Parasympathetic Alignment)
