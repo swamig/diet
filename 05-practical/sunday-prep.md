@@ -8,7 +8,21 @@ priority: 'high'
 # 90-Minute Sunday Batch Prep System
 
 **Purpose:**
-Batch prep is not about cooking everything. It is about removing friction from daily assembly.
+Batch prep is not about cooking everything. It is about removing friction from daily assembly and maximizing the biochemical yield of Resistant Starch Type 3.
+
+## The Elite 72-Hour Weekend Timeline (The RS3 Gold Standard)
+
+For maximum metabolic efficiency and Resistant Starch Type 3 formation, follow this 3-day sequence:
+
+*   **Friday Evening (The Soak):** Wash and soak your beans and chickpeas in filtered water with a pinch of salt. 
+    *   *Signaling Goal:* Neutralizes phytic acid and reduces cooking time.
+*   **Saturday (The Initial Cook & First Chill):** Boil your beans/chickpeas (approx 90 mins). 
+    *   *Action:* Drain (reserve 1/2 cup **Aquafaba**) and spread on a tray to cool rapidly. 
+    *   *First Chill:* Refrigerate for 24 hours. This locks in the initial RS3 crystalline matrix.
+*   **Sunday (The Second Warm & Second Chill):** Perform the **Double-Chill Activation**.
+    *   *Action:* Perform **Block 2** and **Block 5b** (Refried Bean prep and Tarka activation). Gently warm the cold beans to 130°F to fold in your rested garlic, vinegar, and Methi seeds.
+    *   *Second Chill:* Return to the fridge for another 24 hours. 
+*   **Monday 12:00 (Ready for Service):** The legumes have now reached peak RS3 density and are ready for daily gentle reheating.
 
 ## Block 0: Setup (5 Min)
 Clear counters. Layout containers. Preheat oven to 400°F (if baking).
