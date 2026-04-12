@@ -45,6 +45,7 @@ Use [Source Style Guide](07-appendices/source-style-guide.md) when adding new ex
 Clinical rationale, physiology, and protocol rules.
 
 - [Section Guide](01-foundations/README.md)
+- [Biological Objectives & Outcome Map](01-foundations/00-biological-objectives.md)
 - [Metabolic Flexibility](01-foundations/01-metabolic-flexibility.md)
 - [Inflammatory Control](01-foundations/02-inflammatory-control.md)
 - [Microbiome Hormesis](01-foundations/03-microbiome-hormesis.md)

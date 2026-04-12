@@ -13,12 +13,13 @@ Read this section first. These pages explain why the protocol exists, what rules
 
 ## Recommended Reading Order
 
-1. [Metabolic Flexibility](01-metabolic-flexibility.md)
-2. [Inflammatory Control](02-inflammatory-control.md)
-3. [Gut Microbiome Diversification](03-microbiome-hormesis.md)
-4. [Circadian Hydration Physiology](04-hydration.md)
-5. [Resistant Starch Cycling](05-resistant-starch.md)
-6. [Ayurvedic Alignment & Doshic Balance](06-ayurvedic-alignment.md)
+1. [Biological Objectives & Outcome Map](00-biological-objectives.md)
+2. [Metabolic Flexibility](01-metabolic-flexibility.md)
+3. [Inflammatory Control](02-inflammatory-control.md)
+4. [Gut Microbiome Diversification](03-microbiome-hormesis.md)
+5. [Circadian Hydration Physiology](04-hydration.md)
+6. [Resistant Starch Cycling](05-resistant-starch.md)
+7. [Ayurvedic Alignment & Doshic Balance](06-ayurvedic-alignment.md)
 
 ## Use This Section To Answer
 
