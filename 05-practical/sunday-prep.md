@@ -90,11 +90,20 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
 *   Divide into two mini jars (one for Mon-Wed, one for Thu-Sat).
 
 ## Block 5b: Podis & Chutneys (15 Min)
-**Goal:** Execute the 7-day and 3-day batching rules for traditional functional formats.
+**Goal:** Execute the 7-day and 3-day batching rules for traditional functional formats. Choose ONE Podi and ONE Chutney per week to avoid overwhelming the palate.
 
-*   **7-Day Podi Batch:** Dry roast seeds/spices for your chosen Podi (e.g., Moringa/Flax or Sesame/Curry Leaf). Grind and store in mini glass jars.
-*   **7-Day Imlee Paste:** Boil and strain tamarind pulp if using. Store in glass jar.
-*   **3-Day Fresh Chutney Batch:** Blend Coconut/Curry Leaf OR Mint/Cilantro (using Lemon Acid Lock). Store in airtight glass containers for Mon-Wed consumption. **(Requires Wednesday Midweek Re-blend).**
+*   **7-Day Podi Batch (Choose One to dry roast & grind):** 
+    *   *Hormonal Buffer Podi:* 7 tbsp Flaxseeds (dry roasted) + 2 tbsp Moringa powder + 1 tsp Cumin + 1 dried red chili + pinch of sea salt.
+    *   *Vascular Podi:* 7 tbsp Sesame Seeds (roasted) + 1 cup fresh Curry Leaves (roasted until crisp) + 1 tsp Cumin + 2 dried red chilies + 1/2 tsp Black Salt.
+    *   *Storage:* Grind and store in a mini airtight glass jar.
+*   **7-Day Imlee (Tamarind) Paste:** 
+    *   *The Mix:* Soak 1/2 cup seedless Tamarind block in 1.5 cups boiling water for 10 minutes. Mash and strain the pulp. 
+    *   *The Flavor:* Stir in 1/2 tsp roasted Cumin powder and a pinch of Black Salt. (Zero Sugar). 
+    *   *Storage:* Store in a glass jar in the fridge.
+*   **3-Day Fresh Chutney Batch (Choose One for Mon-Wed):** 
+    *   *MCT Matrix:* Blend 1/2 cup fresh grated Coconut + 1/4 cup fresh Curry Leaves + 1 Green Chili + 1/2 tsp Cumin + 1 tbsp Lemon Juice (Acid Lock) + splash of water/Aquafaba.
+    *   *TRP Chelation:* Blend 1 cup fresh Cilantro + 1/2 cup fresh Mint + 1-2 Thai Chilies + 2 tbsp Lemon Juice (CRITICAL Acid Lock) + 1/2 tsp Black Salt. 
+    *   *Storage:* Store in an airtight glass container. **(Requires Wednesday Midweek Re-blend).**
 
 ## Block 6: Dressing Master Batch (5 Min)
 **Goal:** Remove daily measuring friction for the liquid dressing base.
