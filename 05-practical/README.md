@@ -23,6 +23,7 @@ This section translates the protocol into kitchen operations. Read this before t
 
 ## Core Recipes and Components
 
+- [The Protocol Broccoli (Sulforaphane Engine)](protocol-broccoli.md)
 - [The Protocol Quinoa Rice (RS3 Anchor)](protocol-quinoa.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](daily-salad-layer.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
