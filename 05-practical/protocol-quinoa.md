@@ -13,16 +13,20 @@ Quinoa is utilized in this protocol not as a standard grain, but as a fiber-dens
 
 *   **2 cups Dry Quinoa** (Tri-color or white).
 *   **4 cups Water** (or mineral-rich Aquafaba).
-*   **1 tsp Sea Salt.**
-*   **The "Mexican Rice" Veggie Base:** 1/2 cup green peas (frozen or fresh) + 1/2 cup finely diced carrots/bell peppers.
-*   **The Tocotrienol Booster:** 1 tsp **Achiote (Annatto) powder** + 1 tsp whole Cumin seeds + 1/2 tsp Garlic powder (added during the boil).
+*   **The Lycopene Sofrito Base:** 1 cup pureed tomatoes (or tomato sauce) + 1/2 white onion (finely diced) + 2 cloves garlic (minced and rested 10 min).
+*   **The Veggie Mix:** 1/2 cup green peas (frozen or fresh) + 1/2 cup finely diced carrots.
+*   **The Tocotrienol Booster:** 1 tsp **Achiote (Annatto) powder** + 1 tsp whole Cumin seeds.
+*   **The Floral Heat:** 1 whole Serrano or Jalapeño chili (Do NOT chop it. Leave it whole).
+*   **1 tsp Sea Salt** & **1 tbsp Avocado Oil.**
 
 ## The Double-Chill Protocol (Mandatory)
 
 1.  **The Rinse:** Rinse dry quinoa in a fine-mesh strainer for 60 seconds to remove saponins.
-2.  **The Boil:** Bring water, salt, Achiote, and spices to a boil. Add quinoa and the veggie base (peas/carrots). Reduce to low, and simmer covered for 15-18 minutes until water is absorbed. The Achiote will stain the quinoa a vibrant red-orange.
-3.  **The First Chill:** Spread the hot "Mexican" quinoa onto a flat stainless steel baking sheet. Place in the fridge immediately. Rapid cooling is required to initiate **Retrogradation** (the formation of RS3 crystalline structures).
-4.  **The 24h Lock:** Store the cooled quinoa in a large glass container for **at least 24 hours** before the first serving.
+2.  **The Sofrito Toast:** Heat 1 tbsp of Avocado Oil in a large pot on medium heat. Add the diced onion and rested garlic. Sauté for 2 minutes until translucent. Add the rinsed quinoa and cumin seeds. Toast for 3 minutes, stirring frequently, until the quinoa smells nutty.
+3.  **The Lycopene Reduction:** Pour in the pureed tomatoes and Achiote powder. Stir continuously for 2 minutes until the tomato reduces slightly and deepens in color (this maximizes the bioavailability of the cis-lycopene).
+4.  **The Boil:** Add the water, salt, carrots, peas, and drop in the **whole Serrano chili**. Bring to a boil, reduce heat to low, cover, and simmer for 15-18 minutes until the liquid is absorbed. Remove the whole chili and discard (it has imparted its floral oils without excessive capsaicin heat). 
+5.  **The First Chill:** Spread the hot "Mexican" quinoa onto a flat stainless steel baking sheet. Place in the fridge immediately. Rapid cooling is required to initiate **Retrogradation** (the formation of RS3 crystalline structures).
+6.  **The 24h Lock:** Store the cooled quinoa in a large glass container for **at least 24 hours** before the first serving.
 
 ## Execution (The 12:00 Meal)
 
