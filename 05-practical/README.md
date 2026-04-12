@@ -27,6 +27,7 @@ This section translates the protocol into kitchen operations. Read this before t
 - [The Protocol Quinoa Rice (RS3 Anchor)](protocol-quinoa.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](daily-salad-layer.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
+- [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](lauki-reset.md)
 - ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](garlic-chili-oil.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [High-Signaling Peppermint Jaljeera](peppermint-jaljeera.md)

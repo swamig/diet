@@ -15,7 +15,7 @@ Use this page when the protocol breaks in practice. The goal is to recover the s
 
 | Problem | First Things to Check | Practical Fix |
 | :--- | :--- | :--- |
-| **Bloating after legumes** | Chill time, portion size, digestion spices, speed of eating | Reduce portion for 2-3 days, keep legumes chilled, use cumin/ajwain/ginger, and rebuild gradually. |
+| **Bloating after legumes** | Chill time, portion size, digestion spices, speed of eating | Reduce portion for 2-3 days, keep legumes chilled, use cumin/ajwain/ginger. If severe, deploy the **[Lauki Gut-Reset Protocol](lauki-reset.md)** for 24 hours to give the GI tract a complete mechanical break. |
 | **Ferments feel irritating** | Serving size, empty-stomach use, stacking with heavy antimicrobial days | Reduce to 1 tbsp temporarily and keep with the salad instead of solo use. |
 | **Recovery bowl [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) feels too heavy** | Total dairy load, timing, flavored whey + cacao stacking | Reduce cacao days, shift bowl timing slightly later, or simplify to yogurt + berries. |
 
