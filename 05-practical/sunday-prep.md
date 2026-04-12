@@ -69,11 +69,19 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 ## Block 5: Spice Mix & Functional Pastes (10 Min)
 **Goal:** Prevent volatile oil degradation. Pre-ground commercial spices lose their signaling potency quickly. By batching these freshly each week, you guarantee therapeutic thresholds.
 
-**1. Spice Jars:** Pre-mix 7 small jars with the Core Stack (Turmeric, Cumin, Coriander, Kashmiri chili).
+**1. The 7 Daily Spice Jars (The Core Stack):**
+Into *each* of the 7 small jars, measure the following:
+*   **1/2 tsp Turmeric powder** (The NF-κB anchor)
+*   **1/2 tsp Cumin powder** (The Digestive anchor)
+*   **1/2 tsp Coriander powder** (The Cooling anchor)
+*   **1/4 tsp Kashmiri Chili powder** (The Antioxidant/Color anchor)
+*   *(Note: Black pepper is deliberately excluded here. It must be ground fresh directly onto your food/salad daily to preserve volatile piperine).*
 
 **2. Morning Activation Packs:**
-*   Pre-portion 7 tiny containers/packs for your 07:15 morning hydration.
-*   Add the dry seeds (Ajwain/Jeera/Clove/Cardamom) and/or **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder** as per the weekly rotation.
+Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each* pack, add:
+*   **The Base:** 1/2 tsp whole Jeera (Cumin) seeds OR 1/4 tsp Ajwain seeds (depending on your weekly rotation).
+*   **The Rotator (Optional):** 1 whole Clove OR 1 crushed Cardamom pod.
+*   **The Matcha (Optional):** **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder**.
 *   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
 
 **3. Menthol Synergy Muddle (With Oxidation Lock):**
