@@ -86,6 +86,7 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **The Menthol Hierarchy (*Mentha arvensis*):** Brahroui et al., 2016, *Journal of Essential Oil Bearing Plants*. Yields 70-80% menthol concentration.
 *   **Terpene-Assisted Curcumin Absorption:** Shen et al., 2011, *International Journal of Pharmaceutics*. Menthol acts as a mucosal penetration enhancer.
 *   **Volatile Oil Preservation (The Weekly Crush Rule):** Peter, K. V. (2006), *Handbook of Herbs and Spices*. Oxidation mechanics of crushed cellular matrices.
+*   **Proteolytic Efficacy (Papain):** Muss, C., et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation (Caricol®) in digestive disorders." Demonstrates that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract. This validates the use of the 13:00 Papaya pulse to mechanically cleave the heavy plant proteins from the 12:00 meal.
 *   **The Glass Mandate:** Halden, R. U. (2010). "Plastics and health risks." Endocrine disruption from chemical plasticizers.
 
 ## 12. Autonomic Nervous System & Mind Tuning

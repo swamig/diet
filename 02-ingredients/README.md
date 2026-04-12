@@ -36,6 +36,7 @@ This section is a reference library, not required front-to-back reading. Start w
 - [Cacao](cacao.md)
 - [Tomatoes (Lycopene Signaling)](tomatoes.md)
 - [Purple Sweet Potato (Anthocyanin Starch)](purple-sweet-potato.md)
+- [Papaya (Papain & Proteolytic Cleavage)](papaya.md)
 - [Lauki / Bottle Gourd (The Gut Reset)](lauki.md)
 - [Rosemary](rosemary.md)
 - [Saffron](saffron.md)
