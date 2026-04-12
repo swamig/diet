@@ -101,9 +101,9 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
     *   *The Flavor:* Stir in 1/2 tsp roasted Cumin powder and a pinch of Black Salt. (Zero Sugar). 
     *   *Storage:* Store in a glass jar in the fridge.
 *   **3-Day Fresh Chutney Batch (Choose One for Mon-Wed):** 
-    *   *MCT Matrix:* Blend 1/2 cup fresh grated Coconut + 1/4 cup fresh Curry Leaves + 1 Green Chili + 1/2 tsp Cumin + 1 tbsp Lemon Juice (Acid Lock) + splash of water/Aquafaba.
-    *   *TRP Chelation:* Blend 1 cup fresh Cilantro + 1/2 cup fresh Mint + 1-2 Thai Chilies + 2 tbsp Lemon Juice (CRITICAL Acid Lock) + 1/2 tsp Black Salt. 
-    *   *Storage:* Store in an airtight glass container. **(Requires Wednesday Midweek Re-blend).**
+    *   *MCT Matrix (High Volume):* Blend **2 cups** fresh grated Coconut + **1 cup** fresh Curry Leaves + **3-4** Green Chilies + **1 tbsp** Cumin + **1 inch** fresh Ginger + **3 tbsp** Lemon Juice (Acid Lock) + 1/4 cup water/Aquafaba + 1 tsp salt.
+    *   *TRP Chelation (High Volume):* Blend **4 cups** packed Cilantro + **2 cups** packed Mint + **4-5** Thai Chilies + **4 cloves** rested Garlic + **1 inch** fresh Ginger + **4 tbsp** Lemon Juice (CRITICAL Acid Lock) + **1 tsp** Black Salt + **1 tsp** Roasted Cumin.
+    *   *Storage:* Store in a large airtight glass container. **(Requires Wednesday Midweek Re-blend).**
 
 ## Block 6: Dressing Master Batch (5 Min)
 **Goal:** Remove daily measuring friction for the liquid dressing base.
