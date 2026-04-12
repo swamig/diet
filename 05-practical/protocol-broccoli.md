@@ -21,10 +21,9 @@ To extract the active compound (**Sulforaphane**), you must follow a strict thre
 ## Phase 1: The Enzymatic Clock (Chop & Rest)
 Sulforaphane does not exist in whole broccoli. It is formed when the precursor (*glucoraphanin*) mixes with the enzyme (*myrosinase*). This only happens when the plant cells are ruptured.
 1.  **The Chop:** Finely chop the 150g of broccoli florets. The smaller the cut, the more cellular damage, and the higher the sulforaphane yield.
-2.  **The 30-Minute Rest (Mandatory):** Leave the chopped broccoli exposed to the air on the cutting board for **exactly 30 minutes**. 
-    *   *Why:* The enzymatic conversion takes time. If you apply heat before 30 minutes, you destroy the myrosinase enzyme before it can finish creating the sulforaphane [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
-    *   *Workflow Hack:* Do this during Sunday Prep for the first 3 days of the week, storing the pre-rested florets in glass.
-
+2.  **The 30-Minute Rest (Mandatory - ROOM TEMP):** Leave the chopped broccoli exposed to the air on the cutting board at **room temperature** for **exactly 30 minutes**. 
+    *   *Why (CRITICAL):* Cold temperatures (fridge) drastically slow down the enzymatic reaction. Resting in the fridge will fail to reach peak sulforaphane yield within the 30-minute window [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
+    *   *Workflow Hack:* Chop, let sit on the counter for 30 mins, and **only then** move to glass storage in the fridge. 
 ## Phase 2: The Thermal Ceiling (The Quick Sauté)
 Once the 30-minute rest is complete, the sulforaphane is formed and is relatively heat-stable, but prolonged heat will still degrade it.
 1.  **The Heat:** Heat 1 tsp of oil in a skillet over medium heat.
