@@ -16,9 +16,12 @@ Historically, the protocol required chopping 150g of mature broccoli, resting it
 *   **1 Cup Fresh Broccoli Microgreens** (Must be specifically Broccoli or Radish, not a generic "mild mix").
 *   **1/2 tsp Mustard Seed Powder** (Optional Exogenous Enzyme Booster).
 
-## The 50x Multiplier (Why Microgreens?)
+## The 50x Multiplier (Microgreens vs. Sprouts)
 Sulforaphane does not exist intact in the plant. It is formed when the precursor (*glucoraphanin*) mixes with the enzyme (*myrosinase*). 
-1.  **Density:** 3-day-old broccoli microgreens contain 10 to 100 times higher levels of glucoraphanin than mature broccoli florets.
+
+1.  **Sprouts vs. Microgreens:** 
+    *   **Broccoli Sprouts (3-5 days old):** Grown in water (jars). They contain the absolute highest yield of glucoraphanin (~73mg per ounce) but carry a high risk of bacterial/mold growth if not managed perfectly.
+    *   **Broccoli Microgreens (10-14 days old):** Grown in soil or mats. They yield slightly less (~35mg per ounce) but are significantly safer, easier to grow/source, and provide the exact 50x multiplier over mature broccoli required by the protocol.
 2.  **Enzyme Preservation:** Because you consume microgreens completely raw in your 14:30 Salad Layer, the *myrosinase* enzyme is 100% intact. There is no risk of a "Thermal Ceiling" destroying the enzyme during cooking.
 
 ## Precision Dosing (The Nrf2 Ladder)
@@ -39,11 +42,12 @@ This protocol does not use multi-month "detox" blocks. Instead, it utilizes a da
 *   **Weekly Rhythm:** Week 2 is designated as the **Sulfur-Detox Peak**, where higher sulfur amino acids are paired with the Nrf2 signal to clear accumulated cellular debris from the month.
 
 ## Execution (The Salad Drop)
-*   **Timing:** 14:30 Salad Window.
+*   **Timing (Antioxidant Pre-Conditioning):** You eat the microgreens at **14:30**, but lift weights at **16:30**. Why? Sulforaphane peaks in the bloodstream ~2 hours after ingestion. By eating it at 14:30, you *pre-load* the cells, ensuring your Nrf2 protective genes are actively pumping out glutathione exactly when the oxidative stress of the workout hits.
 *   **Daily Dose:** 
     *   **Rest / Cardio Days:** 1/4 Cup.
     *   **Heavy Lift / VO2 Max Days:** 1/2 Cup.
 *   **Action:** Simply place the raw Broccoli Microgreens on top of your daily greens. Do NOT cook.
+*   **The Dijon Mustard Hack:** The `Master Dressing` recipe in your Sunday Prep automatically includes **Dijon Mustard**. Dijon is made from mustard seeds, which contain highly resilient myrosinase. The dressing acts as an exogenous "insurance policy" to maximize conversion in the gut [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
 ## Related Pages
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)

@@ -14,6 +14,7 @@ Appendices are fast reference pages. They should answer practical lookup questio
 ## Current Reference Pages
 
 - [Daily Timing Cheat Sheet](daily-timing-cheat-sheet.md)
+- [Biochemical Dosing & Macro Calculators](dosing-calculators.md)
 - [Ingredient Conflict Matrix](ingredient-conflict-matrix.md)
 - [Master Citations & Scientific Rationale](master-citations.md)
 - [Synergy Multipliers & Signaling Power-Ups](synergy-stats.md)
