@@ -5,7 +5,14 @@ type: 'guide'
 priority: 'entrypoint'
 ---
 
-# High Signaling Performance Manual 🌿 (Clinical + Performance + Full Biochemical Edition)
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1200&q=80" alt="High Signaling Performance Diet" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+  
+  # High Signaling Performance Manual 🌿 <br> *(Clinical + Performance + Full Biochemical Edition)*
+  *An elite-level, anti-inflammatory nutritional system engineered for autonomic recovery, vascular elasticity, and metabolic flexibility.*
+</div>
+
+<br>
 
 This repository is a metabolic operations manual organized around one question: how do you make the protocol easy to understand, execute, and review without losing the biochemical logic underneath it?
 
