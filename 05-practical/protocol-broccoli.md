@@ -43,10 +43,10 @@ This protocol does not use multi-month "detox" blocks. Instead, it utilizes a da
 
 ## Execution (The Salad Drop)
 *   **Timing (Antioxidant Pre-Conditioning):** You eat the microgreens at **14:30**, but lift weights at **16:30**. Why? Sulforaphane peaks in the bloodstream ~2 hours after ingestion. By eating it at 14:30, you *pre-load* the cells, ensuring your Nrf2 protective genes are actively pumping out glutathione exactly when the oxidative stress of the workout hits.
-*   **Daily Dose:** 
-    *   **Rest / Cardio Days:** 1/4 Cup.
-    *   **Heavy Lift / VO2 Max Days:** 1/2 Cup.
-*   **Action:** Simply place the raw Broccoli Microgreens on top of your daily greens. Do NOT cook.
+*   **Daily Dose (Standard Microgreens):** 1/4 Cup (Rest/Cardio), 1/2 Cup (Lift/4x4).
+*   **Daily Dose (Elite Sprout Alternative):** 2 tbsp (Rest/Cardio), 1/4 Cup (Lift/4x4). *Note: Sprouts are ~2x as concentrated as microgreens.*
+*   **The Sprout Freezing Hack (3x Potency):** If using sprouts, place them in the freezer for 24 hours before use. The ice crystals will rupture the cell walls (lysis), mixing the enzymes and precursors perfectly as they thaw in your salad, increasing the sulforaphane yield by **300%**.
+*   **Action:** Simply place the raw Broccoli Microgreens or thawed sprouts on top of your daily greens. Do NOT cook.
 *   **The Dijon Mustard Hack:** The `Master Dressing` recipe in your Sunday Prep automatically includes **Dijon Mustard**. Dijon is made from mustard seeds, which contain highly resilient myrosinase. The dressing acts as an exogenous "insurance policy" to maximize conversion in the gut [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
 ## Related Pages
