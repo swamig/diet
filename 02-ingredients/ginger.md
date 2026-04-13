@@ -27,6 +27,13 @@ To hit your "Daily Thumb" quota, distribute fresh ginger across these specific p
 
 *Note: Powdered ginger contains a different primary compound (shogaol) which is more pungent but lacks the specific volatile profile of fresh 6-gingerol. Always prioritize fresh ginger root.*
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Peppermint Jaljeera (The Muddle)](../05-practical/peppermint-jaljeera.md)
+- [Vegan Protein Patties (Dough Base)](../05-practical/vegan-protein-patties.md)
+- [Coconut Chutney (MCT Matrix)](../05-practical/sunday-prep.md#2-mct-matrix-scaled-3-day-coconut-chutney)
+
 ## Related Pages
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)
 - [Metabolic Oncology & Chemoprevention](../04-advanced-control/oncology-chemoprevention.md)

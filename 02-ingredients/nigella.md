@@ -58,6 +58,11 @@ Nigella is:
 - Do not stack nigella at high frequency with clove or ajwain inside this protocol.
 - Treating nigella as a daily background spice works against the intended rotational use.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Vegan Protein Patties (Spice Sear Variant)](../05-practical/vegan-protein-patties.md)
+
 ## Related Pages
 
 - [Ajwain (Carom Seed) - Digestive Activation Agent](ajwain.md)

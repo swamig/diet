@@ -55,6 +55,12 @@ Black pepper:
 - Keep black pepper paired with turmeric in the core stack rather than treating it as a free dose escalator.
 - Pre-grinding it into weekly jars works against the freshness strategy used in this manual.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Vegan Protein Patties (Spice Sear)](../05-practical/vegan-protein-patties.md)
+- [Master Dressing (Sunday Prep)](../05-practical/sunday-prep.md#block-6-dressing-master-batch-5-min)
+
 ## Related Pages
 
 - [Turmeric (Foundational Anti-Inflammatory Anchor)](turmeric.md)

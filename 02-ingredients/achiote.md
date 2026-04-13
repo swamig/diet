@@ -42,6 +42,11 @@ Achiote (Annatto) is a vibrant, deep-red spice derived from the seeds of the *Bi
 
 - Boiling achiote in water without a fat source (Avocado oil/EVOO) prevents the absorption of the fat-soluble tocotrienols, rendering the spice biologically useless.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Protocol Quinoa (RS3 Anchor)](../05-practical/protocol-quinoa.md)
+
 ## Related Pages
 
 - [The Protocol Quinoa Rice (Mexican Style)](../05-practical/protocol-quinoa.md)

@@ -28,6 +28,13 @@ Allicin is not present in a whole clove of garlic. It is created when the precur
 *   **Prep:** Use a garlic press or a knife to "smash" the clove first. 
 *   **Timing:** Smash at the start of your 12:00 meal prep so the 10-minute rest is complete by the time the pan is hot.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Vegan Protein Patties (Dough Base)](../05-practical/vegan-protein-patties.md)
+- [Protocol Chickpeas (RS3 Matrix)](../05-practical/protocol-chickpeas.md)
+- [Toum (Raw Garlic Emulsion)](../05-practical/functional-indian-formats.md#2-high-signaling-emulsions-toum--garlic-paste)
+
 ## Related Pages
 
 - [Peppermint & Capsaicin (TRP Synergy)](peppermint-chili.md)

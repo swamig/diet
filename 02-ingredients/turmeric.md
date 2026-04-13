@@ -72,6 +72,13 @@ Turmeric is:
 - Keep turmeric paired with black pepper inside this manual’s core stack.
 - Do not stack it blindly with Mud Water or treat higher doses as automatically better.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Vegan Protein Patties (Spice Sear)](../05-practical/vegan-protein-patties.md)
+- [Master Dressing (Sunday Prep)](../05-practical/sunday-prep.md#block-6-dressing-master-batch-5-min)
+- [Protocol Quinoa (Sofrito Base)](../05-practical/protocol-quinoa.md)
+
 ## Related Pages
 
 - [Black Pepper (Bioavailability Amplifier)](black-pepper.md)

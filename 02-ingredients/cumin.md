@@ -59,6 +59,13 @@ Cumin:
 - Whole-seed hydration use and powdered meal use serve different roles in this manual.
 - Do not confuse cumin’s daily digestive-support role with the stronger antimicrobial pulse used elsewhere.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Protocol Quinoa (Sofrito Base)](../05-practical/protocol-quinoa.md)
+- [Vegan Protein Patties (Spice Sear)](../05-practical/vegan-protein-patties.md)
+- [Imlee (Tamarind) Chutney](../05-practical/sunday-prep.md#1-7-day-imlee-tamarind-paste-concentrate-version)
+
 ## Related Pages
 
 - [Ajwain (Carom Seed) - Digestive Activation Agent](ajwain.md)

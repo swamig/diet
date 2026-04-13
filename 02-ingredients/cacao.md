@@ -61,6 +61,11 @@ Cacao:
 - Do not combine cacao nibs with chocolate whey on the same day in this protocol.
 - Daily cacao use or removing the dairy / calcium context works against the intended spacing logic.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [17:50 Recovery Bowl](../03-execution/week-01/day-01.md#recovery-bowl)
+
 ## Related Pages
 
 - [Oxalate Physiology and Mineral Pairing](../04-advanced-control/oxalate-management.md)

@@ -50,6 +50,11 @@ Not stacked with heavy antimicrobial days.
 - Dropping ferments on antimicrobial-leaning weeks removes the stabilizing layer that balances the protocol.
 - Increasing the serving too aggressively can create the same friction this page is supposed to reduce.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [14:30 Salad Layer (Microbiome Anchor)](../05-practical/daily-salad-layer.md)
+
 ## Related Pages
 
 - [Gut Microbiome Diversification](../01-foundations/03-microbiome-hormesis.md)

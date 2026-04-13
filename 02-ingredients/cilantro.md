@@ -55,6 +55,12 @@ Cilantro:
 - Treating cilantro as optional garnish weakens one of the daily anchor layers used across the cycle.
 - Poor storage makes this ingredient feel harder to keep than it needs to be.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [14:30 Salad Layer (Chelation Anchor)](../05-practical/daily-salad-layer.md)
+- [Performance Refried Beans](../05-practical/performance-refried-beans.md)
+
 ## Related Pages
 
 - [Heavy Metal Mitigation (Cacao)](../04-advanced-control/heavy-metals.md)

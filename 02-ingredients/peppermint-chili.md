@@ -45,3 +45,8 @@ Most culinary mint (Indian *Pudina* or Western Spearmint) is *Mentha spicata*, w
 
 - **Calcium/Iron Blockade:** Do not consume menthol via a dairy medium (Chaas/Yogurt) during the 12:00 main meal, as the calcium will block non-heme iron absorption from legumes. Use water-based delivery (Jaljeera) instead.
 - **Spearmint Substitution:** Substituting regular pudina removes the menthol, breaking the biological mechanism.
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Peppermint Jaljeera (The Muddle)](../05-practical/peppermint-jaljeera.md)
+- [Coconut Chutney (MCT Matrix)](../05-practical/sunday-prep.md#2-mct-matrix-scaled-3-day-coconut-chutney)

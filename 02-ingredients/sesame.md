@@ -55,6 +55,12 @@ Sesame:
 - Use sesame as part of the mineral / texture layer instead of assuming any seed is identical in every context.
 - On higher-oxalate days, keep the broader mineral-balance logic in view rather than treating sesame as decoration.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [14:30 Salad Layer (Seed Rotation)](../05-practical/daily-salad-layer.md#explicit-weekly-rotation-table)
+- [The Vascular Podi (Gunpowder)](../05-practical/functional-indian-formats.md#3-therapeutic-podis--gunpowders-dry-matrix)
+
 ## Related Pages
 
 - [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)

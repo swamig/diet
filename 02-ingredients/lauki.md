@@ -29,6 +29,11 @@ When using Lauki as a reset, you must strip away all aggressive signaling.
 ## ⚠️ The Toxicity Warning (Crucial)
 *   **The Bitter Rule:** *Never consume Lauki that tastes extremely bitter.* Bitter bottle gourd contains highly toxic **cucurbitacins** which can cause severe upper GI bleeding and toxicity. Always slice a tiny piece and taste it raw before cooking. If it is bitter, throw the entire vegetable away immediately.
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [The Lauki Gut-Reset Protocol](../05-practical/lauki-reset.md)
+
 ## Related Pages
 - [The Lauki Gut-Reset Protocol](../05-practical/lauki-reset.md)
 - [Troubleshooting Guide](../05-practical/troubleshooting-guide.md)

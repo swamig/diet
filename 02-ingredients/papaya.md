@@ -28,6 +28,11 @@ Papaya contains natural sugars (fructose). If consumed incorrectly, it will trig
 ## Evidence Status
 *   **Proteolytic Efficacy:** Muss et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation in digestive disorders." Clinical studies demonstrate that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract [[12]](../07-appendices/master-citations.md#12-operational-mechanisms-bio-enhancement--degradation).
 
+
+## Culinary Integration (Recipes)
+This ingredient is functionally integrated into the following protocol meals:
+- [Daily Timing Cheat Sheet (13:00 Enzyme Pulse)](../07-appendices/daily-timing-cheat-sheet.md)
+
 ## Related Pages
 - [Daily Timing Cheat Sheet](../07-appendices/daily-timing-cheat-sheet.md)
 - [Troubleshooting Guide (Bloating)](../05-practical/troubleshooting-guide.md)
