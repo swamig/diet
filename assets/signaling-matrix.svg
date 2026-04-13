@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Hexagon -->
+  <path d="M100 10L177.942 55V145L100 190L22.0577 145V55L100 10Z" stroke="#4ADE80" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Mortar & Pestle -->
+  <path d="M60 110C60 132.091 77.9086 150 100 150C122.091 150 140 132.091 140 110V100H60V110Z" fill="#4ADE80" fill-opacity="0.2" stroke="#4ADE80" stroke-width="3"/>
+  <path d="M120 70L90 110" stroke="#4ADE80" stroke-width="6" stroke-linecap="round"/>
+  <!-- Signaling Pulse -->
+  <path d="M40 100H65L75 85L85 115L95 100H160" stroke="#4ADE80" stroke-width="2" stroke-dasharray="4 4"/>
+</svg>

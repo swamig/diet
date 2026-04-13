@@ -10,6 +10,25 @@ priority: 'entrypoint'
   
   # High Signaling Performance Manual 🌿 <br> *(Clinical + Performance + Full Biochemical Edition)*
   *An elite-level, anti-inflammatory nutritional system engineered for autonomic recovery, vascular elasticity, and metabolic flexibility.*
+
+  <br>
+
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="assets/signaling-matrix.svg" width="100px"/><br/>
+        <sub><b>Biochemical Signaling</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="assets/vascular-leaf.svg" width="100px"/><br/>
+        <sub><b>Antioxidant Power</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="assets/double-chill.svg" width="100px"/><br/>
+        <sub><b>Metabolic Flexibility</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
