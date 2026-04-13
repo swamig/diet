@@ -14,7 +14,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   1 tbsp Extra Virgin Olive Oil (EVOO) - *Added at the end.*
 *   1 tsp fresh garlic (**Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule)**) & 1/2 tsp fresh ginger.
 *   1 tsp Apple Cider Vinegar or Balsamic Vinegar (The "Acid Shield").
-*   2-3 tbsp bean cooking liquid (aquafaba) or water (for creaminess).
+*   **1/4 cup Reserved Aquafaba** (Added during mashing for restaurant-level creaminess).
 
 **🌱 Digestion Stack (The Anti-Gas Layer):**
 *   **¼ tsp Whole Methi (Fenugreek) seeds** (The Glycemic Anchor - must be toasted/bloomed).
@@ -23,25 +23,25 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   Pinch of Hing (Asafoetida).
 *   Salt & Black Pepper to taste.
 
-**🌴 Costa Rican / Mazatlan Flavor Layer:**
-*   1 tbsp finely diced Red Bell Pepper & Onion (Costa Rican *sofrito* base).
-*   ½ tsp Achiote (Annatto) powder (The "Tocotrienol Booster" - for deep red color and cardiometabolic health).
+**🔥 Spice System (The Sweet & Smoky Finish):**
+*   1 tbsp finely diced Red Bell Pepper & Onion (Walmart mix).
+*   ½ tsp Achiote (Annatto) powder (The "Tocotrienol Booster").
 *   ½ tsp Coriander powder & ½ tsp Mexican Oregano.
-*   ¼ tsp Smoked Paprika or mild Chipotle powder (for Mazatlan smoky depth without the fried lard).
-*   Fresh chopped Cilantro (for finishing).
+*   **1/8 tsp Ceylon Cinnamon** (The "Phantom Sweetness" Hack - mimics traditional piloncillo without the sugar).
+*   ¼ tsp Smoked Paprika or mild Chipotle powder.
+*   Fresh chopped Cilantro & Cilantro Stems (for finishing).
 
 ---
 
 ## Procedure
 
-1.  **Cold Mash:** In a bowl, take your cold beans directly from the fridge. Mash them with a fork or potato masher. 
-    *   **Pro-Tip:** Mash 70% for the "refried" creaminess, but keep 30% whole. This preserves some structural fiber and resistant starch integrity.
-2.  **The Dry Bloom (1-2 Minutes):** Heat a pan on **medium-low**. Add the **Methi seeds** and **Cumin seeds** to the dry pan. Toast them for 30-60 seconds until fragrant and the Methi turns slightly golden (this neutralizes its bitterness and activates the insulin-sensitizing compounds).
-3.  **The Aromatic Buffer:** Add a tiny splash of water (or bean liquid) to stop the toasting. Add the minced garlic, ginger, diced bell pepper, and onion. Sauté until soft. The water content in these aromatics drops the temperature of the pan, creating a safe "buffer zone" for the powdered spices.
-4.  **The Flash Bloom (Powders):** Add the **Achiote**, remaining **Digestion Stack** spices (Ajwain/Hing), coriander, oregano, and smoked paprika. Stir continuously for **10-20 seconds maximum**. Powders burn instantly. The fat will immediately extract the fat-soluble compounds (turning the base a deep red color). 
-5.  **The Gentle Fold:** Immediately add the mashed beans and the **Acid Shield** (vinegar) to stop the spices from roasting. Stir constantly to combine.
-4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). If they start to steam heavily or bubble, they are too hot. You want to "warm" them, not "re-cook" them.
-5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro. This preserves the delicate polyphenols in the oil and gives the beans a rich, traditional "fried" mouthfeel without the high-heat damage.
+1.  **Cold Mash:** In a bowl, take your cold beans directly from the fridge. Mash them with a fork or potato masher. Add the **1/4 cup of Aquafaba** during this step and mash until **90% smooth**. The more you rupture the skins, the creamier the final result.
+2.  **The Dry Bloom (1-2 Minutes):** Heat a pan on **medium-low**. Add the **Methi seeds** and **Cumin seeds** to the dry pan. Toast them for 30-60 seconds until fragrant.
+3.  **The Aromatic Buffer (The Sweetness Phase):** Add a tiny splash of water (or bean liquid). Add the minced garlic, ginger, diced bell pepper, and onion. **Sauté for 6 minutes** (longer time allows onions to caramelize and release natural sugars). The water content in these aromatics drops the temperature of the pan, creating a safe "buffer zone" for the powdered spices.
+4.  **The Flash Bloom (Powders):** Add the **Achiote**, remaining **Digestion Stack** spices, cinnamon, and smoked paprika. Stir continuously for **10-20 seconds maximum**. Powders burn instantly. The fat will immediately extract the fat-soluble compounds (turning the base a deep red color). 
+5.  **The Gentle Fold:** Immediately add the mashed creamy beans and the **Acid Shield** (vinegar) to stop the spices from roasting. Stir constantly to combine.
+4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). Stop as soon as you see steam. Do not let it bubble or boil.
+5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro and stems.
 
 ## Execution (Eat Immediately)
 Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire storage tub), this specific recipe is your **plated meal**. Because you started with beans that were already chilled for 24 hours (locking in the RS3), you can eat this immediately after the 130°F warm-up. You do not need to wait another day.
@@ -57,25 +57,10 @@ Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire sto
 Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" boost**, which will further increase the resistant starch content.
 
 ## Evidence Status
-
 - **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
 - **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
 
-## Used In
-
-- [90-Minute Sunday Batch Prep System](sunday-prep.md)
-- [Week 1 Overview](../03-execution/week-01/README.md)
-- [Week 2 Overview](../03-execution/week-02/README.md)
-- [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
-
-## Conflicts
-
-- Heating the beans above the stated threshold breaks the low-heat logic used on this page.
-- Turning this back into a high-heat fry largely defeats why this recipe exists in the protocol.
-
 ## Related Pages
-
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Achiote (Annatto)](../02-ingredients/achiote.md)
 - [90-Minute Sunday Batch Prep System](sunday-prep.md)
-- [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)

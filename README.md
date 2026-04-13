@@ -108,6 +108,7 @@ High-signaling nutritional structures tailored for this protocol.
 
 - [The Protocol Broccoli (Sulforaphane Engine)](05-practical/protocol-broccoli.md)
 - [The Protocol Quinoa Rice (Mexican Style RS3 Anchor)](05-practical/protocol-quinoa.md)
+- [The Protocol Chickpeas (RS3 Matrix Anchor)](05-practical/protocol-chickpeas.md)
 - [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](05-practical/lauki-reset.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](05-practical/daily-salad-layer.md)
 - [100% Optimized Indian Protein Patties](05-practical/vegan-protein-patties.md)

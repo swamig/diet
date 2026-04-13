@@ -27,6 +27,7 @@ This section translates the protocol into kitchen operations. Read this before t
 
 - [The Protocol Broccoli (Sulforaphane Engine)](protocol-broccoli.md)
 - [The Protocol Quinoa Rice (RS3 Anchor)](protocol-quinoa.md)
+- [The Protocol Chickpeas (RS3 Matrix Anchor)](protocol-chickpeas.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](daily-salad-layer.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
 - [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](lauki-reset.md)
