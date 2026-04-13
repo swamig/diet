@@ -20,7 +20,7 @@ Parasympathetic tone + reset.
 *   **Day Type:** **Cardio-Only Rest** (Lower metabolic demand allows for digestive rest).
 *   **Macro Execution:**
     *   **Quinoa (12:00):** 1/4 cup cooked (Low starch/High fiber focus).
-    *   **Broccoli Microgreens (14:30):** 1/4 cup (Clinical baseline Nrf2 dose).
+    *   **Broccoli Microgreens/Sprouts (14:30):** 1/4 cup Microgreens OR 2 tbsp Sprouts (Clinical baseline Nrf2 dose).
     *   **Dressing (14:30):** 2 tbsp (Reduced fat load).
     *   **Casein (17:50):** Skip (Yogurt/Fruit only to prioritize overnight autophagy).
 

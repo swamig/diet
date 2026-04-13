@@ -11,6 +11,7 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-04-13 14:05** | [a2439fc](https://github.com/swamig/diet/commit/a2439fce1e9633c9708335ed5c455e9178b96c6b) | docs(broccoli): add sprout alternative dosing and the freezing hack
 - **2026-04-13 13:39** | [527ee07](https://github.com/swamig/diet/commit/527ee0707fa2098428520a6088c9d43bb10dcd13) | docs: add biochemical dosing calculators and antioxidant pre-conditioning logic
 - **2026-04-13 13:21** | [ed1f5c9](https://github.com/swamig/diet/commit/ed1f5c9f33c12291b5dfb5a7502b7d7b41b88cd3) | docs: integrate precision dosing and Nrf2 ladder updates
 - **2026-04-13 13:19** | [1bc234b](https://github.com/swamig/diet/commit/1bc234bb1808c093425073b06742487d9b9120b8) | docs: upgrade sulforaphane engine from mature broccoli to broccoli microgreens

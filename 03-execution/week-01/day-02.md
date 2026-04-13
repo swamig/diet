@@ -20,7 +20,7 @@ Digestive support + microbiome stabilization.
 *   **Day Type:** **VO2 Max 4x4** (High glycolytic demand requires starch up-regulation).
 *   **Macro Execution:**
     *   **Quinoa (12:00):** 3/4 cup cooked (+50% starch pulse).
-    *   **Broccoli Microgreens (14:30):** 1/2 cup (Performance Nrf2 dose).
+    *   **Broccoli Microgreens/Sprouts (14:30):** 1/2 cup Microgreens OR 1/4 cup Sprouts (Performance Nrf2 dose).
     *   **Dressing (14:30):** 4 tbsp (Standard baseline).
     *   **Casein (17:50):** 1 scoop (Required for glycogen recovery).
 

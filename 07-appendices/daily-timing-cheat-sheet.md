@@ -34,11 +34,13 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 
 ## Macro Adjustments by Day Type
 
-| Day Type | Quinoa (12:00) | Casein (17:50) | Salad Dressing (14:30) | Broccoli Microgreens | Notes |
+| Day Type | Quinoa (12:00) | Casein (17:50) | Salad Dressing (14:30) | Microgreens / Sprouts | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Heavy Lift** | 1/2 Cup | 1 Scoop | 4 tbsp | 1/2 Cup | High recovery demand for Nrf2 signals. |
-| **VO2 Max 4x4** | 3/4 Cup | 1 Scoop | 4 tbsp | 1/2 Cup | +50% Quinoa and high-dose antioxidants. |
-| **Cardio / Rest** | 1/4 Cup | Skip Casein | 2-4 tbsp | 1/4 Cup | Clinical baseline for DNA protection. |
+| **Heavy Lift** | 1/2 Cup | 1 Scoop | 4 tbsp | 1/2 Cup OR 1/4 Cup | High recovery demand for Nrf2 signals. |
+| **VO2 Max 4x4** | 3/4 Cup | 1 Scoop | 4 tbsp | 1/2 Cup OR 1/4 Cup | +50% Quinoa and high-dose antioxidants. |
+| **Cardio / Rest** | 1/4 Cup | Skip Casein | 2-4 tbsp | 1/4 Cup OR 2 tbsp | Clinical baseline for DNA protection. |
+
+> *Note: If using sprouts instead of microgreens, you must use the [Freeze-Thaw Method](../05-practical/protocol-broccoli.md#the-sprout-freezing-hack-3x-potency) to rupture the cell walls and maximize sulforaphane yield.*
 
 ## Common Morning Hydration Options
 

@@ -42,11 +42,11 @@
 ---
 
 ## 4. The Vegetable Station (Sulforaphane & RS3)
-*Total needed: **1-2 boxes Broccoli Microgreens, 3 lbs Chickpeas/Beans (dry)***
+*Total needed: **1-2 boxes Broccoli Microgreens OR 1 box Sprouts, 3 lbs Chickpeas/Beans (dry)***
 
 | Task | Ingredient | Amount | Preparation |
 | :--- | :--- | :--- | :--- |
-| **Salad Layer** | Broccoli Microgreens | 1/4 to 1/2 cup daily | **Raw**. 1/4 cup (Rest/Cardio), 1/2 cup (Lift/4x4). |
+| **Salad Layer** | Microgreens / Sprouts | 1/4-1/2c (Micro) OR 2tbsp-1/4c (Sprouts) | **Microgreens:** Raw. **Sprouts:** [Freeze-Thaw](protocol-broccoli.md#the-sprout-freezing-hack-3x-potency). |
 | **Quinoa Sofrito** | Carrots/Peas | 1/2 cup each | Finely diced for the quinoa base. |
 | **Tamarind** | Imlee Paste | 1/2 cup | Whisked with water and spices (Sunday only). |
 
