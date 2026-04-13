@@ -41,6 +41,7 @@ Use this at the end of each week to convert daily notes into decisions before th
 - **Resistance performance:**
 - **Afternoon energy:**
 - **Hunger / cravings:**
+- **Rest Day Macro Deficit Response (e.g., Waking up hungry after casein/quinoa cuts?):**
 
 ### Recovery
 
