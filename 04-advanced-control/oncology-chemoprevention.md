@@ -12,7 +12,9 @@ This protocol is engineered as a comprehensive chemopreventive system. While no 
 ## 1. Nrf2 Activation (The Sulforaphane Engine)
 *   **The Mechanism:** Cancer initiation often begins with Reactive Oxygen Species (ROS) causing DNA damage. Sulforaphane is the most potent naturally occurring inducer of the Nrf2 pathway.
 *   **The Protocol:** Nrf2 acts as a cellular "thermostat" for oxidative stress. When activated, it translocates to the nucleus and turns on over 200 antioxidant and Phase II detoxification genes. 
-*   **Execution:** The non-negotiable **"Chop-and-Rest Rule"** (30 minutes) for broccoli ensures the enzyme *myrosinase* converts glucoraphanin into bioavailable sulforaphane.
+*   **Execution (The 50x Multiplier):** The protocol strictly utilizes **Broccoli Microgreens or Sprouts** rather than mature broccoli. Three-day-old sprouts contain up to 50x the glucoraphanin (sulforaphane precursor) of mature plants. 
+    *   **The Raw Mandate:** By eating microgreens completely raw in the 14:30 Salad Layer, the *myrosinase* enzyme remains 100% intact, guaranteeing maximum conversion without the thermal destruction associated with cooking.
+    *   **The Lysis Hack (300% Boost):** If using sprouts, the protocol utilizes a 24-hour **Freeze-Thaw method**. The ice crystals physically rupture the cell walls (lysis), mixing the precursors instantly upon thawing and increasing the sulforaphane yield by 3x compared to chewing alone.
 
 ## 2. NF-κB Inhibition (The Inflammatory Blockade)
 *   **The Mechanism:** Chronic inflammation is the "paving stone" for cancer, providing the cytokines necessary for tumor angiogenesis (blood vessel growth) and metastasis.
