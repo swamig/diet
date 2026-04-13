@@ -30,19 +30,24 @@ The primary defense against Phase I intermediate accumulation is the upregulatio
 
 ## Protocol Spacing
 
-This protocol spaces high-intensity compounds across a 7-day cycle:
-*   **Clove** (Week 2, controlled days)
-*   **Ajwain** (Morning hydration, not night)
-*   **Nigella** (3x per week max)
-*   **Cacao** (2-3x per week)
-*   **Saffron** (Microdosed)
+This protocol spaces high-intensity compounds across a 7-day cycle to prevent hepatic "signaling bottlenecks":
+*   **[Clove](../02-ingredients/clove.md)** (Week 2, controlled days)
+*   **[Ajwain](../02-ingredients/ajwain.md)** (Morning hydration, not night)
+*   **[Nigella](../02-ingredients/nigella.md)** (3x per week max)
+*   **[Cacao](../02-ingredients/cacao.md)** (2-3x per week)
+*   **[Saffron](../02-ingredients/saffron.md)** (Microdosed)
 
 **No single day contains all high-intensity compounds.**
 
 The result:
 *   Sustained hormetic signaling
 *   Reduced detox bottleneck risk
-*   Lower gastrointestinal disruption
+*   Lower gastrointestinal disruption [[12]](../07-appendices/master-citations.md#12-operational-mechanisms-bio-enhancement--degradation)
+
+## Strategic Mitigation
+
+*   **[The Lauki Reset](../05-practical/lauki-reset.md):** On days where liver or GI load feels high, the protocol replaces heavy protein/starches with light Bottle Gourd stew.
+*   **Chelation Anchor:** Daily **[Cilantro](../02-ingredients/cilantro.md)** assist the liver in managing heavy metal mobilization [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 
 ## Evidence Status
 

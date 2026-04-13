@@ -7,19 +7,18 @@ priority: 'reference'
 
 # Oxalate Physiology and Mineral Pairing
 
-## The Protocol
-This protocol does not eliminate oxalates. It **controls** them.
+This manual acknowledges the hormetic benefit of plant compounds while actively managing the potential renal and metabolic load of oxalates.
 
 ## Control Mechanisms
 
-1.  **Rotation:** High-oxalate foods (spinach, beets, cacao) are not stacked on the same day.
-2.  **Calcium Pairing:** Greek yogurt in the recovery bowl is used as a food-calcium anchor; dietary calcium can bind oxalate in the digestive tract and reduce absorption.
-3.  **Hydration:** 2.5–3 liters of fluid daily reduces urinary concentration.
-4.  **Green Rotation:** Spinach is excluded; kale and arugula are rotated to prevent cumulative load.
+1.  **The Calcium Shield:** The protocol utilizes the **[17:50 Recovery Bowl](../03-execution/week-01/day-01.md#recovery-bowl)** as a primary mineral anchor. Consuming food-based calcium (Greek Yogurt) alongside high-oxalate pulses (Cacao) allows calcium to bind oxalates in the GI tract before they can reach the kidneys.
+2.  **Low-Oxalate Green Rotation:** High-oxalate spinach is strictly excluded. The manual rotates **Arugula** and **Kale** in the **[Salad Layer](../05-practical/daily-salad-layer.md)** to provide fiber and sulforaphane with a lower aggregate oxalate load.
+3.  **Hydration (The Clearance Vector):** Maintaining **[Circadian Hydration](../01-foundations/04-hydration.md)** (2.5L+ daily) ensures sufficient urinary volume to keep minerals in solution, preventing crystallization.
+4.  **Cacao Pulsing:** Consuming **[Cacao](../02-ingredients/cacao.md)** is limited to 2–3x per week and is NEVER stacked with other high-oxalate seeds like Sesame or Chia on the same day.
 
-## Stacking Rules
-*   **Cacao** is intentionally limited to 2–3 high-dose exposures per week.
-*   **Sesame**, **Chia**, and **Cacao** are not assigned on the same day.
+## Stacking Rules (Conflict Mitigation)
+*   **The No-Stack Rule:** Sesame, Chia, and Cacao are not assigned on the same day to prevent cumulative oxalate pressure.
+*   **Recovery Precision:** Cacao must be consumed *inside* the dairy/yogurt context to maintain the binding ratio.
 
 ## Evidence Status
 

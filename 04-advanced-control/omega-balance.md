@@ -7,19 +7,20 @@ priority: 'reference'
 
 # Omega Load Balancing
 
-Fat quality affects inflammatory tone.
+Fat quality is a primary driver of systemic inflammatory tone. This manual focuses on optimizing the Omega-3 to Omega-6 ratio to promote vascular elasticity.
 
-## Protocol Rotation
+## The "1-1-1" Protocol Rotation
+To prevent chronic overexposure to a single fatty acid profile while hitting clinical ALA (Alpha-Linolenic Acid) targets, you must rotate your lipid anchors according to the **[14:30 Salad Window](../05-practical/daily-salad-layer.md#explicit-weekly-rotation-table)**:
 
-1.  **Sesame** (Moderate omega-6, high mineral)
-2.  **Pumpkin** (High zinc)
-3.  **Walnut** (Omega-3 ALA)
-4.  **Chia** (Omega-3 ALA)
+1.  **[Sesame](../02-ingredients/sesame.md)** (Moderate omega-6, elite calcium/mineral density).
+2.  **[Pumpkin Seeds](../02-ingredients/pumpkin-seeds.md)** (High zinc and magnesium).
+3.  **[Walnuts](../02-ingredients/walnuts.md)** (High-potency ALA Omega-3).
+4.  **[Chia Seeds](../02-ingredients/chia.md)** (Elite-level ALA Omega-3 + mucilage).
 
-Rotation prevents chronic overexposure to a single fatty acid profile.
-
-Olive oil (monounsaturated fat) remains the primary culinary fat.
-No seed oil cooking is permitted.
+## The Lipid Anchors
+*   **Primary Culinary Fat:** **[Extra Virgin Olive Oil (EVOO)](../05-practical/sunday-prep.md#block-6-dressing-master-batch-5-min)** (Blueprint Hybrid) remains the non-negotiable anchor for its monounsaturated fats and polyphenol count.
+*   **The Seed Oil Proscription:** No industrial seed oils (Soy, Canola, Corn) are permitted. These are high in oxidized Omega-6s which degrade vascular integrity [[1]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
+*   **MCT Matrix:** **[Coconut Chutney](../05-practical/sunday-prep.md#2-mct-matrix-scaled-3-day-coconut-chutney)** provides immediate metabolic fuel without triggering standard lipid-storage pathways.
 
 ## Evidence Status
 
