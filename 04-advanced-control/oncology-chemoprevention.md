@@ -22,17 +22,25 @@ This protocol is engineered as a comprehensive chemopreventive system. While no 
     *   **[Curcumin (Turmeric)](../02-ingredients/turmeric.md)** + **[Black Pepper](../02-ingredients/black-pepper.md)** (Mandatory pairing for 2000% bioavailability).
     *   **[6-Gingerol (Fresh Ginger)](../02-ingredients/ginger.md)**: The "Daily Thumb" mandate in the 12:00 Jaljeera.
     *   **[Tocotrienols (Achiote/Annatto)](../02-ingredients/achiote.md)**: Mixed into the **[Double-Chill Quinoa](../05-practical/protocol-quinoa.md)**.
+*   **Neurogenic Inflammation (TRP Cross-Talk):** The mandatory 12:00 **[Peppermint Jaljeera](../05-practical/peppermint-jaljeera.md)** forces the simultaneous activation of TRPM8 (mint) and TRPV1 (chili) receptors. This cross-talk fundamentally blunts systemic neurogenic inflammation, cutting off the cytokine supply to pre-cancerous cells [[1]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
 
-## 3. IGF-1 Suppression (The 18:6 Feeding Window)
+## 3. Anti-Angiogenic Synergy (The Polyphenol Matrix)
+*   **The Mechanism:** For a microscopic tumor to grow larger than 2mm, it must hijack the body's blood supply (angiogenesis) to feed itself. Specific dietary polyphenols disrupt this process, starving nascent tumors while inducing apoptosis (programmed cell death) in mutated cells.
+*   **The Protocol:** The **[17:50 Recovery Bowl](../03-execution/week-01/day-01.md#recovery-bowl)** is engineered as a daily, high-density anti-angiogenic pulse:
+    *   **[Blueberries](../03-execution/week-01/day-01.md#recovery-bowl):** Provide a massive dose of anthocyanins, which are documented to inhibit tumor angiogenesis and prevent DNA damage [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+    *   **[Cacao Nibs](../02-ingredients/cacao.md):** Rich in epicatechins that neutralize free radicals before they can cause oxidative mutagenesis.
+    *   **Pure Vanilla Extract:** Contains *vanillin*, a highly potent anti-mutagenic and anti-carcinogenic compound that acts synergistically with cacao flavanols to suppress oxidative cell damage.
+
+## 4. IGF-1 Suppression (The 18:6 Feeding Window)
 *   **The Mechanism:** Insulin-like Growth Factor 1 (IGF-1) is a primary proliferative signal for many cancer cell lines [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors). 
 *   **The Protocol:** The manual uses an **[18:6 Fasting Window](../01-foundations/01-metabolic-flexibility.md)** to keep insulin and IGF-1 suppressed. 
 *   **Autophagy:** Triggers macroautophagy to degrade damaged organelles before they can mutate into oncogenes.
 
-## 4. Psychoneuroimmunology (Stress & Immune Surveillance)
+## 5. Psychoneuroimmunology (Stress & Immune Surveillance)
 *   **The Mechanism:** Chronic stress causes sustained cortisol release, which paralyzes NK cells and Cytotoxic T lymphocytes, allowing tumors to evade detection [[12]](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning).
 *   **The Protocol:** Deploys **[Restorative Yoga](../05-practical/yoga-routines.md)**, Shaiva Tantra cognitive anchors, and **[Ashwagandha](../02-ingredients/ashwagandha.md)** at 21:00 to enforce a deep parasympathetic state.
 
-## 5. Endocrine Disruption (The Hardware Mandate)
+## 6. Endocrine Disruption (The Hardware Mandate)
 *   **The Mechanism:** Plasticizers (BPA/Phthalates) and PFAS found in non-stick surfaces act as xenoestrogens, promoting estrogen-driven cancers.
 *   **The Protocol:** Strictly enforces **[100% Glass Storage](../05-practical/container-system.md)** and **[Stainless/Ceramic Cookware](../05-practical/container-system.md#material-standards)**.
 *   **Pesticide Mitigation:** The 12-minute **[Baking Soda Soak](../05-practical/produce-cleaning.md)** removes organophosphates from produce.
