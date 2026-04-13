@@ -63,6 +63,17 @@ The protocol relies on a strict Omega-3 to Omega-6 ratio to lower systemic infla
 *   **Daily Minimum ALA (Alpha-Linolenic Acid):** 1.6g for men, 1.1g for women.
 *   **Protocol Fulfillment:** 1 tbsp of Chia seeds (2.5g ALA), 1 tbsp of Flaxseeds (2.4g ALA), or 1 tbsp of Walnuts (2.5g ALA) easily maxes out this daily clinical requirement. This is why the "1-1-1" daily seed rotation is non-negotiable.
 
+## 5. The Prebiotic Fiber Calculator (RS3 & Insoluble)
+Fiber is not treated as empty bulk; it is the structural fuel for microbiome diversity and the "Glucose Shield" that blunts insulin spikes.
+
+*   **Clinical Target (All Adults):** 30g to 45g of total daily fiber [[7]](master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **The Protocol Breakdown (Heavy Lift Day Example):**
+    *   *Legumes (1/2 cup Chickpeas + Patties):* ~14g Fiber (High Resistant Starch Type 3).
+    *   *Starch (1/2 cup Quinoa):* ~3g Fiber.
+    *   *Functional Additions (1 cup Microgreens + 2 cups Greens + Blueberries):* ~8g Fiber.
+    *   *Lipid Matrix (1 tbsp Chia/Flax/Sesame):* ~3-5g Fiber.
+    *   **Total:** ~30g Daily Fiber (Effortlessly hits the ceiling without causing GI distress).
+
 ## Related Pages
 - [Master Citations](master-citations.md)
 - [Liver Load & Detox Pathways](../04-advanced-control/liver-load.md)
