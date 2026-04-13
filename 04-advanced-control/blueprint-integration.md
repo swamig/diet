@@ -15,7 +15,9 @@ Here is exactly how to integrate Blueprint elements into this protocol's biologi
 
 ## 1. Extra Virgin Olive Oil ("Snake Oil")
 *   **The Fit:** Perfect integration. 
-*   **The Execution:** Use Blueprint EVOO (high polyphenol content) exclusively for your **7-Day Dressing Master Batch** and to bloom your spices/chilies during the **Tofu Day High Pulse**. The high polyphenol count synergizes perfectly with the capsaicin and curcumin absorption strategies.
+*   **The "Shot" Conflict:** Bryan Johnson recommends a daily 2-tbsp "shot" of Snake Oil. In this protocol, we prioritize **Lipid-Bonding**.
+*   **The Execution:** Instead of an isolated shot, use **2 tbsp of Snake Oil** as the fat base for your **14:30 Salad Layer**.
+*   **The Rationale:** Taking the oil with the salad ensures it acts as the carrier solvent for the fat-soluble vitamins (A, E, K), carotenoids, and the **Turmeric/Curcumin** in the dressing. This maximizes the biological utility of the expensive polyphenols while preventing the "gut-lag" caused by over-stacking liquid fats. 
 
 ## 2. Super Veggie
 *   **The Conflict:** Blueprint's Super Veggie boils/steams the broccoli. In our manual, this destroys the *myrosinase* enzyme and prevents Sulforaphane formation. It also lacks the specific Turmeric/Black Pepper ratios required by our inflammatory control baseline.
