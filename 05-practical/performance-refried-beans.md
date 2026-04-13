@@ -27,9 +27,11 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   1 tbsp finely diced Red Bell Pepper & Onion (Walmart mix).
 *   ½ tsp Achiote (Annatto) powder (The "Tocotrienol Booster").
 *   ½ tsp Coriander powder & ½ tsp Mexican Oregano.
+*   **1/2 tsp Chaat Masala** (The Iron-Absorbing Acid: Amchur/mango powder provides massive Vitamin C to extract the non-heme iron from the beans).
 *   **1/8 tsp Ceylon Cinnamon** (The "Phantom Sweetness" Hack - mimics traditional piloncillo without the sugar).
 *   ¼ tsp Smoked Paprika or mild Chipotle powder.
 *   Fresh chopped Cilantro & Cilantro Stems (for finishing).
+*   *Optional Finisher:* A raw pinch of **Black Salt (Kala Namak)** sprinkled on top *after* cooking (Do not cook black salt, as the heat degrades its sulfurous trace minerals into a harsh smell).
 
 ---
 
@@ -38,10 +40,10 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 1.  **Cold Mash:** In a bowl, take your cold beans directly from the fridge. Mash them with a fork or potato masher. Add the **1/4 cup of Aquafaba** during this step and mash until **90% smooth**. The more you rupture the skins, the creamier the final result.
 2.  **The Dry Bloom (1-2 Minutes):** Heat a pan on **medium-low**. Add the **Methi seeds** and **Cumin seeds** to the dry pan. Toast them for 30-60 seconds until fragrant.
 3.  **The Aromatic Buffer (The Sweetness Phase):** Add a tiny splash of water (or bean liquid). Add the minced garlic, ginger, diced bell pepper, and onion. **Sauté for 6 minutes** (longer time allows onions to caramelize and release natural sugars). The water content in these aromatics drops the temperature of the pan, creating a safe "buffer zone" for the powdered spices.
-4.  **The Flash Bloom (Powders):** Add the **Achiote**, remaining **Digestion Stack** spices, cinnamon, and smoked paprika. Stir continuously for **10-20 seconds maximum**. Powders burn instantly. The fat will immediately extract the fat-soluble compounds (turning the base a deep red color). 
+4.  **The Flash Bloom (Powders):** Add the **Achiote**, remaining **Digestion Stack** spices, cinnamon, **Chaat Masala**, and smoked paprika. Stir continuously for **10-20 seconds maximum**. Powders burn instantly. The fat will immediately extract the fat-soluble compounds (turning the base a deep red color). 
 5.  **The Gentle Fold:** Immediately add the mashed creamy beans and the **Acid Shield** (vinegar) to stop the spices from roasting. Stir constantly to combine.
-4.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). Stop as soon as you see steam. Do not let it bubble or boil.
-5.  **Finish with Raw Fat:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Fold in the fresh cilantro and stems.
+6.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). Stop as soon as you see steam. Do not let it bubble or boil.
+7.  **Finish with Raw Fat & Mineral Lock:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Sprinkle your raw pinch of **Black Salt** and fold in the fresh cilantro and stems.
 
 ## Execution (Eat Immediately)
 Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire storage tub), this specific recipe is your **plated meal**. Because you started with beans that were already chilled for 24 hours (locking in the RS3), you can eat this immediately after the 130°F warm-up. You do not need to wait another day.
