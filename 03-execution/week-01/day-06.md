@@ -56,7 +56,7 @@ Metabolic balance + controlled antimicrobial.
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
-*   90g cooked quinoa
+*   45g cooked quinoa (1/4 cup)
 *   5g olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
@@ -78,7 +78,7 @@ Metabolic balance + controlled antimicrobial.
 *   **1/2 cup microgreens**
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
-*   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
+*   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
 **Note:** No pomegranate today.
 
@@ -88,7 +88,6 @@ Metabolic balance + controlled antimicrobial.
 
 ## Recovery Bowl
 *   Greek yogurt
-*   Casein
 *   Blueberries
 *   **1 tbsp cacao nibs** (Metabolic signaling)
 

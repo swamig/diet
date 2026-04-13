@@ -56,7 +56,7 @@ Nitric Peak.
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
 *   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
-*   1/2 cup quinoa
+*   45g cooked quinoa (1/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
@@ -79,7 +79,7 @@ Nitric Peak.
 *   **Generous handful fresh cilantro** (Daily Essential)
 *   2 tbsp green onions
 *   **1/2 cup pomegranate seeds**
-*   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
+*   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
 ## Post-Workout Protocol
 
@@ -87,7 +87,6 @@ Nitric Peak.
 
 ## Recovery Bowl: Cacao Day
 *   Greek yogurt
-*   Casein
 *   Blueberries
 *   **1 tbsp cacao nibs**
 

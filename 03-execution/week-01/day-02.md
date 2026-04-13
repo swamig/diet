@@ -57,7 +57,7 @@ Digestive support + microbiome stabilization.
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
 *   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
-*   90g cooked quinoa
+*   135g cooked quinoa (3/4 cup)
 *   5g olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin

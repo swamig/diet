@@ -54,7 +54,7 @@ Fiber modulation + reduced polyphenol load.
 **Ingredients:**
 *   200g cooked lentils
 *   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
-*   1/2 cup cooked quinoa
+*   45g cooked quinoa (1/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
@@ -76,7 +76,7 @@ Fiber modulation + reduced polyphenol load.
 *   **1/2 cup microgreens**
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
-*   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
+*   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
 
 **Note:** No pomegranate today.
 
@@ -85,7 +85,7 @@ Fiber modulation + reduced polyphenol load.
 - Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
 
 ## Recovery Bowl
-*   Standard yogurt + casein + blueberries
+*   Standard yogurt + blueberries
 *   **No cacao.**
 
 ## Clinical Rationale

@@ -55,7 +55,7 @@ Controlled antimicrobial + mineral density.
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
 *   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
-*   1/2 cup quinoa
+*   135g cooked quinoa (3/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
