@@ -16,6 +16,21 @@ priority: 'active'
 ## Objective
 Mitochondrial modulation + sulfur continuation.
 
+## Day Type & Macro Adjustments
+*   **Day Type:** **VO2 Max 4x4** (High glycolytic demand requires starch up-regulation).
+*   **Macro Execution:**
+    *   **Quinoa (12:00):** 3/4 cup cooked (+50% starch pulse).
+    *   **Dressing (14:30):** 4 tbsp (Standard baseline).
+    *   **Casein (17:50):** 1 scoop (Required for glycogen recovery).
+
+## Macros & Calorie Math (Estimated)
+| Meal Window | Calories | Protein | Fat | Carbs |
+| :--- | :--- | :--- | :--- | :--- |
+| **12:00 Main Meal** | ~850 kcal | 49g | 28g | 68g |
+| **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
+| **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
+| **DAILY TOTAL** | **1,950 kcal** | **146g** | **66g** | **118g** |
+
 ## Timing
 *   **06:30** – VO2 Max Nordic 4x4 [9](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit)
 *   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))

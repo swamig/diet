@@ -16,6 +16,21 @@ priority: 'active'
 ## Objective
 Moderate nitric support.
 
+## Day Type & Macro Adjustments
+*   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
+*   **Macro Execution:**
+    *   **Quinoa (12:00):** 1/2 cup cooked (Standard baseline).
+    *   **Dressing (14:30):** 4 tbsp (Standard baseline).
+    *   **Casein (17:50):** 1 scoop (Required for overnight muscle repair).
+
+## Macros & Calorie Math (Estimated)
+| Meal Window | Calories | Protein | Fat | Carbs |
+| :--- | :--- | :--- | :--- | :--- |
+| **12:00 Main Meal** | ~800 kcal | 47g | 28g | 59g |
+| **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
+| **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
+| **DAILY TOTAL** | **1,900 kcal** | **144g** | **66g** | **109g** |
+
 ## Timing
 *   **06:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
 *   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
