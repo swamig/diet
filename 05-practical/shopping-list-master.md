@@ -46,7 +46,9 @@ These will last months.
 *   Unrefined Sea Salt
 
 **Pantry:**
-*   Extra virgin olive oil (750ml)
+*   **The EVOO "Split-Sourcing" Strategy:**
+    *   *The Bulk Matrix:* **Terra Delyssa** (or single-origin Tunisian EVOO, 750ml). Use this for the high-volume 7-Day Salad Dressing batch. It provides solid, affordable polyphenol density.
+    *   *The Elite Finish:* **Bryan Johnson's "Snake Oil"** (or 500+ mg/kg high-polyphenol EVOO). Use strictly as a 1 tsp raw finishing drizzle over warm meals to maximize *Oleocanthal* (anti-inflammatory) signaling without burning cash.
 *   Balsamic vinegar
 *   Apple cider vinegar (with "the mother")
 *   Dijon Mustard (sugar-free)
