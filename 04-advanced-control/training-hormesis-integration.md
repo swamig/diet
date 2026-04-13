@@ -29,7 +29,13 @@ The Norwegian 4x4 is a high-potency metabolic tool. To prevent Overtraining Synd
 *   **Diet Adjustment (Protein Precision):** No changes to the main food volumes, but **strict adherence to the 17:30 Whey + Creatine window** is mandatory. The heavy lifting creates mechanical muscle damage; the fast-absorbing whey isolate immediately halts muscle breakdown.
 *   **The Cold Plunge Rule (CRITICAL):** Do **NOT** cold plunge immediately after heavy lifting. Cold water immersion blunts the acute inflammatory response required for muscle hypertrophy. Separate your cold plunge from your lifting by at least 6 hours (e.g., cold plunge at 06:30, lift at 16:30).
 
-## 3. Thermal Hormesis (Sauna, Cold Plunge & Contrast)
+## 3. Rest Days (Cardio-Only / Non-Lifting Days)
+When omitting mechanical tension (resistance training) and focusing solely on Zone 2 fasted cardio, total daily energy expenditure (TDEE) and muscle damage are significantly lower. Adjust your macros to maintain the fat-loss deficit while honoring metabolic flexibility.
+*   **Diet Adjustment (Protein Precision):** Reduce the 17:30 Recovery Bowl by **removing the 1 scoop of Casein protein**. Casein is intended for overnight muscle repair; it is unnecessary without the mechanical damage of lifting. Keep the whey isolate and yogurt intact to protect existing mass. (Saves ~120 kcal).
+*   **Diet Adjustment (Starch Down-Regulation):** Reduce the 12:00 Quinoa portion from **1/2 cup to 1/4 cup**. Without heavy lifting, muscle glycogen is not depleted, so the carbohydrate requirement is halved. Do NOT reduce the 1/2 cup Chickpeas; they must remain to provide the RS3 microbiome anchor. (Saves ~55 kcal).
+*   **The Lipid Lever (Optional):** If a deeper deficit is required to match the lower burn rate, reduce the 14:30 Salad Master Dressing from 4 tbsp to 2 tbsp. (Saves ~140 kcal).
+
+## 4. Thermal Hormesis (Sauna, Cold Plunge & Contrast)
 Temperature is a biological lever used to force vascular and autonomic adaptations. Choose the method that fits your daily schedule and recovery needs:
 
 ### Method A: Daily Autonomic Maintenance (1 Cycle - Isolated)

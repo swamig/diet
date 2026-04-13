@@ -114,6 +114,11 @@ The 6-hour feeding window (18:6 fast) is used to modulate anabolic signaling and
 *   **Autophagy Induction (Cellular Cleanup):** Bagherniya, M., et al., 2018, *Ageing Research Reviews*. "The effect of fasting or restriction of calories on autophagy induction." Proves that fasting intervals beyond 16 hours trigger autophagy—the lysosomal degradation of damaged organelles and misfolded proteins—essential for preventing neurodegeneration and oncogenic mutations.
 *   **Metabolic Switch (AMPK/mTOR):** de Cabo & Mattson, 2019, *New England Journal of Medicine*. "Effects of Intermittent Fasting on Health, Aging, and Disease." Validates the transition from glucose-based to ketone-based metabolism during the protocol's 18-hour fast, upregulating stress resistance and antioxidant defense systems.
 
+## 15. Energy Expenditure & Caloric Partitioning
+The protocol utilizes calculated deficits and high-protein partitioning to ensure fat loss without sacrificing lean mass.
+*   **Basal Metabolic Rate (BMR) Calculation:** Mifflin, M. D., St Jeor, S. T., et al., 1990, *The American Journal of Clinical Nutrition*. "A new predictive equation for resting energy expenditure in healthy individuals." Validates the Mifflin-St Jeor equation as the most accurate modern standard for calculating baseline BMR before applying activity multipliers (TDEE).
+*   **Protein Sparing in Caloric Deficits:** Helms, E. R., Zinn, C., et al., 2014, *International Journal of Sport Nutrition and Exercise Metabolism*. "A systematic review of dietary protein during caloric restriction in resistance trained lean athletes." Proves that during a caloric deficit, high protein intake (2.3–3.1 g/kg of fat-free mass) is required to prevent the catabolism of lean muscle tissue, validating the protocol's ~160g+ daily protein baseline despite a 500 kcal deficit.
+
 ## Evidence Status
 *   **General physiology:** This document uses peer-reviewed literature to justify the *directional* use of dietary compounds. 
 *   **Protocol-specific rules:** The exact doses, meal timings, container systems, and thermal sequences built around these mechanisms are operational rules specific to this manual.

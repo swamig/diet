@@ -36,10 +36,10 @@ This is the high-performance protein system that replaces meat in the protocol. 
 *   1 tsp cumin powder
 *   1 tsp coriander powder
 *   ¼ tsp turmeric
-*   ½ tsp garam masala
+*   ½ tsp garam masala (or DIY Warm Spice Builder)
 *   ½ tsp black pepper
 *   ½ tsp red chili powder
-*   Salt (to taste)
+*   **1/2 to 3/4 tsp Sea Salt** (Adjust based on how salty your canned/boiled chickpeas are)
 
 **⚡ Umami + Absorption:**
 *   1–2 tsp soy sauce

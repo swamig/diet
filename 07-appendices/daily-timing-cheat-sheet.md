@@ -32,6 +32,14 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 - **Salad:** Microgreens and cilantro are daily anchors.
 - **Recovery:** Keep the whey window and bowl window separate.
 
+## Macro Adjustments by Day Type
+
+| Day Type | Quinoa (12:00) | Casein (17:50) | Salad Dressing (14:30) | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Heavy Lift** | 1/2 Cup | 1 Scoop | 4 tbsp | Standard muscle preservation & recovery baseline. |
+| **VO2 Max 4x4** | 3/4 Cup | 1 Scoop | 4 tbsp | +50% Quinoa to replenish severe glycogen depletion. |
+| **Cardio / Rest** | 1/4 Cup | Skip Casein | 2-4 tbsp | Reduce carbs/protein load. Drop dressing to 2 tbsp if a deeper calorie deficit is desired. |
+
 ## Common Morning Hydration Options
 
 | Option | Common Use |

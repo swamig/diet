@@ -38,7 +38,9 @@ Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolid
 
 *   **Protocol Rules:**
     *   **The Weekly Crush Rule:** Once seeds and spices are pulverized, their lipid membranes rupture and oxidize. Do NOT make large multi-month batches. Grind a 7-day supply during Sunday Prep to maintain therapeutic signaling thresholds.
-    *   **Fat Activation:** Podis contain highly lipophilic compounds (capsaicin from dry chilies, curcumin from turmeric). Always consume with a drizzle of Blueprint EVOO or Avocado oil to ensure bioavailability.
+    *   **The Standard Dose:** **1 tablespoon (1 tbsp)** per day. This ensures you meet your daily primary seed requirement (Flax or Sesame) for mineral/hormonal signaling.
+    *   **The 12:00 Window:** Consume exclusively during the 12:00 Main Meal. Sprinkle heavily over your cooked **Quinoa** or legumes.
+    *   **Mandatory Lipid Activation:** You **MUST** drizzle 1 tsp of Extra Virgin Olive Oil (EVOO) or Avocado Oil directly over the Podi after sprinkling. Podis contain lipophilic compounds (capsaicin, curcumin) that require a fat medium for bioavailability.
 *   **Elite Combinations:**
     *   *The Vascular Podi:* Roasted Sesame Seeds + Curry Leaves + Dried Red Chili + Cumin + Black Salt (Kala Namak).
     *   *The Hormonal Buffer Podi (Moringa & Flaxseed):* Roasted flaxseeds provide lignans (which increase SHBG to buffer excess estrogen/androgen fluctuations, synergizing with the Tofu ceiling). Blended with Moringa powder (minerals) and dried garlic.

@@ -96,12 +96,12 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
     *   *Hormonal Buffer Podi:* 7 tbsp Flaxseeds (dry roasted) + 2 tbsp Moringa powder + 1 tsp Cumin + 1 dried red chili + pinch of sea salt.
     *   *Vascular Podi:* 7 tbsp Sesame Seeds (roasted) + 1 cup fresh Curry Leaves (roasted until crisp) + 1 tsp Cumin + 2 dried red chilies + 1/2 tsp Black Salt.
     *   *Storage:* Grind and store in a mini airtight glass jar.
-*   **7-Day Imlee (Tamarind) Paste:** 
-    *   *The Mix:* Soak 1/2 cup seedless Tamarind block in 1.5 cups boiling water for 10 minutes. Mash and strain the pulp. 
-    *   *The Flavor:* Stir in 1/2 tsp roasted Cumin powder and a pinch of Black Salt. (Zero Sugar). 
+*   **7-Day Imlee (Tamarind) Paste (Concentrate Version):** 
+    *   *The Mix:* Whisk 3-4 tbsp of Tamarind Concentrate into 1/2 cup of warm water until smooth (syrup consistency). If extremely tart, add 1 tsp Apple Cider Vinegar. 
+    *   *The Flavor:* Stir in 1/2 tsp roasted Cumin powder and a pinch of Black Salt (Kala Namak). (Zero Sugar). 
     *   *Storage:* Store in a glass jar in the fridge.
 *   **3-Day Fresh Chutney Batch (Choose One for Mon-Wed):** 
-    *   *MCT Matrix (High Volume):* Blend **2 cups** fresh grated Coconut + **1 cup** fresh Curry Leaves + **3-4** Green Chilies + **1 tbsp** Cumin + **1 inch** fresh Ginger + **3 tbsp** Lemon Juice (Acid Lock) + 1/4 cup water/Aquafaba + 1 tsp salt.
+    *   *MCT Matrix (Scaled 3-Day Batch):* Blend **1/3 cup** fresh grated Coconut + **2 tbsp** fresh Curry Leaves + **1** Green Chili + **1/2 tsp** Cumin + **1/4 inch** fresh Ginger + **1 tbsp** Lemon Juice (Acid Lock) + splash of water/Aquafaba + pinch of salt. Eat 1-2 tbsp per meal as a fat replacement.
     *   *TRP Chelation (High Volume):* Blend **4 cups** packed Cilantro + **2 cups** packed Mint + **4-5** Thai Chilies + **4 cloves** rested Garlic + **1 inch** fresh Ginger + **4 tbsp** Lemon Juice (CRITICAL Acid Lock) + **1 tsp** Black Salt + **1 tsp** Roasted Cumin.
     *   *Storage:* Store in a large airtight glass container. **(Requires Wednesday Midweek Re-blend).**
 

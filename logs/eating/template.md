@@ -11,6 +11,8 @@ priority: 'utility'
 
 **Date:** YYYY-MM-DD
 **Day / Phase:** Week X - Day Y
+**Day Type:** [Heavy Lift / VO2 Max 4x4 / Cardio-Only Rest]
+**Macro Adjustments Applied:** [e.g., Kept Casein, 1/2 cup Quinoa, 4 tbsp Dressing]
 
 ## Meal 1
 

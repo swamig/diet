@@ -16,6 +16,13 @@ priority: 'active'
 ## Objective
 Establish anti-inflammatory baseline + vascular support.
 
+## Day Type & Macro Adjustments
+*   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
+*   **Macro Execution:**
+    *   **Quinoa (12:00):** 1/2 cup cooked (Standard baseline).
+    *   **Dressing (14:30):** 4 tbsp (Standard baseline).
+    *   **Casein (17:50):** 1 scoop (Required for overnight muscle repair).
+
 ## Timing
 *   **06:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
 *   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
