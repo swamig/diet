@@ -57,7 +57,6 @@ Cilantro:
 
 ## Related Pages
 
-- [Microgreens (Phytonutrient Amplification Layer)](microgreens.md)
 - [Heavy Metal Mitigation (Cacao)](../04-advanced-control/heavy-metals.md)
 - [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
 - [Fridge Layout Optimization](../05-practical/fridge-storage.md)

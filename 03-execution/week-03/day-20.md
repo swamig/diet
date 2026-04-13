@@ -55,7 +55,6 @@ Nitric Peak.
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   45g cooked quinoa (1/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
@@ -68,14 +67,13 @@ Nitric Peak.
 **Instructions:**
 1.  Sear patties.
 2.  Sear 3-4 min/side.
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad: Full Nitric Layer
 **Ingredients:**
 *   2 cups watercress
 *   2 tbsp sauerkraut
 *   1 tbsp pumpkin seeds
-*   **3/4 cup microgreens** (Daily Essential)
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro** (Daily Essential)
 *   2 tbsp green onions
 *   **1/2 cup pomegranate seeds**

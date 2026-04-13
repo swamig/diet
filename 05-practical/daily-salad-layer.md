@@ -17,7 +17,7 @@ We rotate bitter greens to expose the microbiome to different alkaloids and maxi
 
 ## 2. The Daily Anchors (Mandatory - Do Not Rotate)
 These two components must appear in every salad without exception:
-*   **Microgreens (1/2 cup):** Concentrated sulforaphane and enzyme potential [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
+*   **Broccoli Microgreens (1 cup):** Concentrated sulforaphane and enzyme potential (The Sulforaphane Engine) [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
 *   **Fresh Cilantro (1/4 cup):** Primary chelator for heavy metal management.
 
 ## 3. The Functional Fat & Seed Matrix

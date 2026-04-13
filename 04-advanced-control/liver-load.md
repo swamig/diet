@@ -25,7 +25,7 @@ The primary defense against Phase I intermediate accumulation is the upregulatio
 *   **The Vector:** **Sulforaphane**, derived from cruciferous vegetables (Broccoli) and microgreens.
 *   **The Mechanism:** Sulforaphane is the most potent naturally occurring inducer of Phase II detoxification enzymes. It binds to Keap1, allowing Nrf2 to enter the nucleus and turn on over 200 protective genes [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
 *   **The Enzymatic Lock (CRITICAL):** Sulforaphane does *not* exist in intact broccoli. It is formed only when the precursor (*glucoraphanin*) comes into contact with the enzyme (*myrosinase*). Heat destroys myrosinase.
-    *   **The "Chop & Rest" Rule:** Broccoli must be chopped and left at **room temperature for 30 minutes** before cooking. This allows the myrosinase enzyme sufficient time to convert the glucoraphanin into heat-stable sulforaphane [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
+    *   **The Raw Microgreen Rule:** The protocol uses 1 cup of raw Broccoli Microgreens in the 14:30 salad. Because they are eaten raw, the myrosinase enzyme is preserved 100%, and no chopping/resting is required [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
     *   **The Mustard Hack:** Adding 1/2 tsp of mustard seed powder (which contains highly resilient myrosinase) off-heat provides exogenous enzyme support to maximize conversion in the gut [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
 ## Protocol Spacing

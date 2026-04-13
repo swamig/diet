@@ -56,7 +56,6 @@ Sulfur activation + moderate polyphenol support.
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Sulfur Emphasis
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (chopped, rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   90g cooked quinoa
 *   5g olive oil
 *   1/2 tsp turmeric
@@ -69,14 +68,13 @@ Sulfur activation + moderate polyphenol support.
 **Instructions:**
 1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
-3.  Sauté broccoli 3-4 min. Add mustard powder off heat. Fold in raw onions.
 
 ## Salad
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
 *   1 tbsp pumpkin seeds
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

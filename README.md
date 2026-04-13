@@ -85,7 +85,6 @@ Reference pages for daily anchors, rotational spices, and support ingredients.
 - [Section Guide](02-ingredients/README.md)
 - [Turmeric](02-ingredients/turmeric.md)
 - [Black Pepper](02-ingredients/black-pepper.md)
-- [Microgreens](02-ingredients/microgreens.md)
 - [Ferments](02-ingredients/ferments.md)
 
 ### 3. Daily Execution (Weeks 1-4)

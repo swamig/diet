@@ -25,8 +25,8 @@ For maximum metabolic efficiency and Resistant Starch Type 3 formation, follow t
 Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 
 ## Block 1: Crucifer Prep (15 Min)
-1.  Chop **7 portions of broccoli** (~150g each).
-2.  Let rest for 30 minutes (non-negotiable for sulforaphane).
+1.  Portion **7 cups of Broccoli Microgreens** for the daily salads.
+2.  Keep dry in the original container with a paper towel.
 3.  Store in airtight container. **Do NOT cook.**
 
 ## Block 2: Protein Batch (25 Min)
@@ -152,13 +152,13 @@ To convert simple starches into **Resistant Starch Type 3**:
 *   **Reheating:** Always reheat gently (below 130°F) to preserve this crystalline starch structure.
 
 ### 2. Sulforaphane Activation (Broccoli)
-*   **The Workflow:** Broccoli is chopped and allowed to **rest for 30 minutes** before being stored or cooked.
-*   **The Benefit:** Chopping breaks the plant cell walls, allowing the enzyme *myrosinase* to interact with *glucoraphanin* to create **Sulforaphane**. Resting ensures the reaction is complete before heat is applied, as heat destroys the myrosinase enzyme.
+*   **The Workflow:** Mature broccoli is replaced with **Broccoli Microgreens**.
+*   **The Benefit:** Microgreens contain up to 50x the glucoraphanin of mature broccoli. Because they are eaten raw in the salad, the myrosinase enzyme remains 100% intact, requiring no chopping, resting, or heat management.
 
 ## Storage Logic
 *   **Fridge:** Vegan Patties [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
 *   **Freezer:** Extra portions.
-*   **Midweek Reset (Wed):** Chop fresh broccoli, refresh paper towels.
+*   **Midweek Reset (Wed):** Refresh paper towels in microgreen and leafy green containers.
 
 ## Evidence Status
 

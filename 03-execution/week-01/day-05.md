@@ -56,7 +56,6 @@ Nitric oxide emphasis.
 ## Main Meal: Tofu (High Capsaicin Pulse)
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   90g cooked quinoa
 *   5g olive oil
 *   1/2 tsp turmeric
@@ -69,14 +68,13 @@ Nitric oxide emphasis.
 **Instructions:**
 1.  Rub tofu with spice mix.
 2.  Sear 3-4 min/side.
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad: Nitric Layer
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
 *   1 tbsp pumpkin seeds
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   **1/2 cup pomegranate seeds**

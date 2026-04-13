@@ -54,7 +54,6 @@ Nigella day - Controlled antimicrobial exposure.
 ## Main Meal: Tofu + Nigella Stack
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   135g cooked quinoa (3/4 cup)
 *   5g olive oil
 *   1/2 tsp turmeric
@@ -67,14 +66,13 @@ Nigella day - Controlled antimicrobial exposure.
 **Instructions:**
 1.  Rub tofu with spice mix/nigella.
 2.  Sear 3-4 min/side.
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad
 **Ingredients:**
 *   2 cups kale (massaged 60 sec)
 *   2 tbsp sauerkraut
 *   1 tbsp walnuts
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

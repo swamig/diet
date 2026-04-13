@@ -55,7 +55,6 @@ Mitochondrial support + controlled nitric.
 ## Main Meal: Tofu (High Capsaicin Pulse)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   1/2 cup quinoa
 *   1 tsp olive oil
 *   1/2 tsp turmeric
@@ -68,14 +67,13 @@ Mitochondrial support + controlled nitric.
 **Instructions:**
 1.  Sear patties with spice mix/nigella.
 2.  Sear 5-6 min/side (165°F).
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

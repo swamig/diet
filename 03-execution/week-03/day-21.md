@@ -55,7 +55,6 @@ Parasympathetic emphasis + low stimulation reset.
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Baseline (Low Spice Load)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   45g cooked quinoa (1/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
@@ -68,14 +67,13 @@ Parasympathetic emphasis + low stimulation reset.
 **Instructions:**
 1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad: Reset Stack
 **Ingredients:**
 *   2 cups kale
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

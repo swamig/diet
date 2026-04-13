@@ -54,7 +54,6 @@ Nitric priming + endothelial adaptation.
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Baseline
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   1/2 cup quinoa
 *   1 tsp olive oil
 *   1/2 tsp turmeric
@@ -67,14 +66,13 @@ Nitric priming + endothelial adaptation.
 **Instructions:**
 1.  Sear patties with spice mix.
 2.  Sear 5-6 min/side (165°F).
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad: Nitric Emphasis Day
 **Ingredients:**
 *   2 cups watercress
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **3/4 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   **1/2 cup pomegranate seeds**

@@ -16,7 +16,6 @@ This section is a reference library, not required front-to-back reading. Start w
 - [Turmeric](turmeric.md)
 - [Black Pepper](black-pepper.md)
 - [Garlic](garlic.md)
-- [Microgreens](microgreens.md)
 - [Cilantro](cilantro.md)
 - [Fermented Vegetables](ferments.md)
 - [Sesame Seed](sesame.md)

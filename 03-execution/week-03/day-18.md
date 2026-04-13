@@ -53,7 +53,6 @@ Fiber modulation + reduced polyphenol load.
 ## Main Meal: Lentil Rotation
 **Ingredients:**
 *   200g cooked lentils
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   45g cooked quinoa (1/4 cup)
 *   1 tsp olive oil
 *   1/2 tsp turmeric
@@ -66,14 +65,13 @@ Fiber modulation + reduced polyphenol load.
 **Instructions:**
 1.  Warm lentils gently.
 2.  Add spices after warming to preserve volatile compounds.
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad
 **Ingredients:**
 *   2 cups romaine
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

@@ -79,7 +79,7 @@ The protocol includes two additional biological levers for inflammation control:
 ## Conflicts
 
 - Separating turmeric from black pepper breaks the core anti-inflammatory stack used in this manual.
-- Cooking broccoli immediately after chopping works against the sulforaphane workflow described here.
+- Cooking mature broccoli destroys myrosinase; microgreens bypass this entirely.
 - Overcooking crucifers undermines the short-cook rule used throughout the protocol.
 
 ## Related Pages

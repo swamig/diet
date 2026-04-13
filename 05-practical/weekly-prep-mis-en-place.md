@@ -42,11 +42,11 @@
 ---
 
 ## 4. The Vegetable Station (Sulforaphane & RS3)
-*Total needed: **2-3 large heads Broccoli, 3 lbs Chickpeas/Beans (dry)***
+*Total needed: **4-5 boxes Broccoli Microgreens, 3 lbs Chickpeas/Beans (dry)***
 
 | Task | Ingredient | Amount | Preparation |
 | :--- | :--- | :--- | :--- |
-| **Main Meal** | Broccoli | 150g daily | **Chopped and rested 30 mins** before storage. |
+| **Salad Layer** | Broccoli Microgreens | 1 cup daily | **Raw**. Keep in original container with paper towel. |
 | **Quinoa Sofrito** | Carrots/Peas | 1/2 cup each | Finely diced for the quinoa base. |
 | **Tamarind** | Imlee Paste | 1/2 cup | Whisked with water and spices (Sunday only). |
 

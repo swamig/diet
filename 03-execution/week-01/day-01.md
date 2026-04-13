@@ -56,7 +56,6 @@ Establish anti-inflammatory baseline + vascular support.
 ## Main Meal: Anti-Inflammatory Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Protocol (12:00)
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (chopped, rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   90g cooked quinoa
 *   5g olive oil
 *   1.5g turmeric (1/2 tsp)
@@ -72,14 +71,13 @@ Establish anti-inflammatory baseline + vascular support.
 **Instructions:**
 1.  Sear patties with spice mix.
 2.  Sear in olive oil (5-6 min/side). Rest 5 min.
-3.  Sauté broccoli 3-4 min. Add mustard powder off heat.
 
 ## Salad: Vascular Support Layer (14:30)
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
 *   1 tbsp sesame seeds
-*   **1/2 cup microgreens** (Daily Essential)
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro** (Daily Essential)
 *   2 tbsp green onions
 *   1/2 cup pomegranate seeds (Day 1 nitric support)

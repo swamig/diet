@@ -55,7 +55,6 @@ Metabolic balance + controlled antimicrobial.
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) + Nigella Stack
 **Ingredients:**
 *   2 Vegan Protein Patties + 1/2 cup Chickpeas
-*   150g broccoli (rested 30 min [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control))
 *   45g cooked quinoa (1/4 cup)
 *   5g olive oil
 *   1/2 tsp turmeric
@@ -68,14 +67,13 @@ Metabolic balance + controlled antimicrobial.
 **Instructions:**
 1.  Sear patties with spice mix/nigella.
 2.  Sear 5-6 min/side (165°F).
-3.  Sauté broccoli 3-4 min, add mustard powder off heat.
 
 ## Salad: Walnut Stack
 **Ingredients:**
 *   2 cups watercress
 *   2 tbsp sauerkraut
 *   1 tbsp walnuts
-*   **1/2 cup microgreens**
+*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing (2 tbsp): Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper
