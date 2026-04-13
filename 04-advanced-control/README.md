@@ -14,13 +14,16 @@ Use this section when the base protocol is not enough and you need tighter contr
 ## Topics
 
 - [Antimicrobial Stacking Framework](antimicrobial-stacking.md)
-- [Heavy Metal Mitigation (Cacao)](heavy-metals.md)
+- [Blueprint Product Integration (Bryan Johnson)](blueprint-integration.md)
+- [Circadian Sleep Architecture & Autonomic Tone](sleep-architecture.md)
+- [Glycemic Dynamics & Carbohydrate Sequencing](glycemic-sequencing.md)
+- [Heavy Metal Mitigation](heavy-metals.md)
 - [Liver Load Spacing and Detox Pathways](liver-load.md)
+- [Metabolic Oncology & Chemoprevention](oncology-chemoprevention.md)
 - [Omega Load Balancing](omega-balance.md)
 - [Oxalate Physiology and Mineral Pairing](oxalate-management.md)
 - [Sulfur Cycle Optimization](sulfur-management.md)
 - [Supplement Cycling & Management](supplement-cycling.md)
-- [Blueprint Product Integration (Bryan Johnson)](blueprint-integration.md)
 - [Advanced Training & Thermal Hormesis Integration](training-hormesis-integration.md)
 
 ## Typical Questions This Section Answers
