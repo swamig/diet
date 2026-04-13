@@ -11,6 +11,16 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-04-13 00:00** | [a4e4570](https://github.com/swamig/diet/commit/a4e4570d31f432b36290cee5e0259c2c8a1d5523) | feat: batch update all execution files with Day Type and Macro Math
+- **2026-04-12 23:52** | [50c83bd](https://github.com/swamig/diet/commit/50c83bda302759d85b7db9acde5e7b16112a1b3d) | feat: implement macro adjustments, update recipes, and add weekly prep guide
+- **2026-04-12 21:07** | [943fc30](https://github.com/swamig/diet/commit/943fc305f5a1e1b4f2ed86f03bee6ee8051763e6) | docs: formalize the 'Elite Hybrid' EVOO dressing option
+- **2026-04-12 21:06** | [9dd7708](https://github.com/swamig/diet/commit/9dd770816cf54a71f830842bbcfdbf1efd3970eb) | docs(practical): integrate Chaat Masala as an Iron Booster for the Refried Beans
+- **2026-04-12 21:04** | [839b053](https://github.com/swamig/diet/commit/839b0538f99032fa99e126c63e050f19328ae6dd) | docs: optimize Blueprint Snake Oil integration for lipid-bonding efficacy
+- **2026-04-12 21:02** | [03b98a9](https://github.com/swamig/diet/commit/03b98a9036bbd473f8d48318f6648a936ddbc35d) | docs(shopping): formalize the EVOO Split-Sourcing Strategy
+- **2026-04-12 20:17** | [d146e66](https://github.com/swamig/diet/commit/d146e667cea280494b0351e8b664e4c2d3b94dd0) | docs: formalize The Protocol Chickpeas (RS3 Matrix Anchor)
+- **2026-04-12 13:42** | [41d22b4](https://github.com/swamig/diet/commit/41d22b491cb0abdcb7f337a10ca7cba11ef90007) | docs(practical): enforce 'No-Seed Shake Rule' and formalize Weekly Seed Rotation
+- **2026-04-12 13:42** | [f0481aa](https://github.com/swamig/diet/commit/f0481aa03f4599526237f073337df30ead8ab142) | docs(practical): formalize the 'Mucilage Alternator' for Basil and Chia seeds
+- **2026-04-12 13:40** | [5cce0c6](https://github.com/swamig/diet/commit/5cce0c66c5b39aed1fab4144e4b58b37d1306c4a) | docs(practical): elevate Basil Seeds (Sabja) as the elite mucilage and glycemic anchor
 - **2026-04-11 21:29** | [16bb9d5](https://github.com/swamig/diet/commit/16bb9d50194ade0dae87f11f702db1dd0ca28699) | docs(practical): create dedicated Friday and Saturday prep pages
 - **2026-04-11 21:26** | [8a3533f](https://github.com/swamig/diet/commit/8a3533fa4252a73c69ee7d4e8c3fba9d5e461d62) | docs: formalize the Elite 72-Hour Weekend Batch Timeline for RS3
 - **2026-04-11 20:59** | [a1237a5](https://github.com/swamig/diet/commit/a1237a51c03198630cb5bd99984613184a9f1020) | docs: document the Multi-Cycle Starch Hack (Seed Crystal Effect)
@@ -38,26 +48,3 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 - **2026-04-11 12:00** | [fd32f3d](https://github.com/swamig/diet/commit/fd32f3db0c63b28c9e94a94702eaff0afcb9c9ea) | docs(practical): establish 7-day shelf life and Lipid Substitution Rule for Toum
 - **2026-04-11 11:59** | [e1cf151](https://github.com/swamig/diet/commit/e1cf1513993281b81f0f17708935a5064cfcab18) | docs(practical): integrate Toum emulsion and Aquafaba utilization rules
 - **2026-04-11 11:57** | [0e62fdc](https://github.com/swamig/diet/commit/0e62fdcdaef7a7b884fdb658ae28a6db0ff83f58) | docs(practical): integrate execution timing and Sunday Prep for Functional Indian Formats
-- **2026-04-11 11:52** | [241fcea](https://github.com/swamig/diet/commit/241fceae6bd71d18110a5fd445c271f532c2d966) | docs: add elite functional chutneys and toxin-binding citations
-- **2026-04-11 11:47** | [d8320a7](https://github.com/swamig/diet/commit/d8320a737bc34a597fda4ab20375b866b922827a) | docs(practical): add functional Indian formats (chutneys, podis, lentil balls)
-- **2026-04-11 11:19** | [2ab4b5c](https://github.com/swamig/diet/commit/2ab4b5c6aad5b1bdd78b65488da1c8d8a05adb91) | chore(submodule): update operator-book-draft reference
-- **2026-04-11 11:07** | [4774360](https://github.com/swamig/diet/commit/47743606baa454d88c1f581888b9f9138b0b1b6f) | docs: add metabolic oncology guide, ginger mandate, and psychoneuroimmunology citations
-- **2026-04-11 11:03** | [fbc1e1f](https://github.com/swamig/diet/commit/fbc1e1f3c79250e9a7bf9e142567fc9020d1317a) | feat(oncology): integrate 6-hour window citations and IGF-1/Autophagy logic
-- **2026-04-11 10:57** | [ae38ca0](https://github.com/swamig/diet/commit/ae38ca05d2c549cd5e4bc62d29a0297c33817ab7) | docs: inject automated citation links across daily execution and practical files
-- **2026-04-11 10:55** | [90bd850](https://github.com/swamig/diet/commit/90bd8501bf2bbe299277cc91f36bbc365ceb132e) | docs: expand master citations with 10+ new studies and enforce 4x4 progression rules
-- **2026-04-11 10:51** | [c3b1be7](https://github.com/swamig/diet/commit/c3b1be71a4576c61c5928ee52eedd2b10d03ff63) | docs(citations): add literature on whey, casein, plant protein complementary EAAs, creatine, and fasted cardio
-- **2026-04-11 10:48** | [4518e2c](https://github.com/swamig/diet/commit/4518e2c45ed801a52e283c7f788f923421b2654d) | docs(citations): add literature on Vagal Tone, Yoga, and Default Mode Network (Mantra)
-- **2026-04-11 10:46** | [55c6ca0](https://github.com/swamig/diet/commit/55c6ca0cf52731a7ee033095989fa3751fcbd479) | docs: add Aamla powder and ACV glycemic integration
-- **2026-04-11 10:44** | [8acf30a](https://github.com/swamig/diet/commit/8acf30a576590d269007edc528b0719380d216b9) | docs(practical): enforce The Glass Mandate for container system
-- **2026-04-11 10:41** | [9a398ed](https://github.com/swamig/diet/commit/9a398edb83b859e7f1d0321edacd61cccf25c355) | docs(prep): add Morning Activation Packs to Sunday Prep
-- **2026-04-11 10:33** | [2b60964](https://github.com/swamig/diet/commit/2b6096422c2dd314bbebbd8ab59e2a25197cb9a9) | docs(citations): add citation for Mentha arvensis potency
-- **2026-04-11 10:27** | [136df55](https://github.com/swamig/diet/commit/136df55f8a00baf7e88649b512b6e6518da18c18) | docs: integrate Chaat Masala, Menthol/Curcumin synergy, and weekly crush rule citations
-- **2026-04-11 10:26** | [e0fe991](https://github.com/swamig/diet/commit/e0fe991fde6e9c72f2a91bb1e7281061b449da40) | docs: add cardamom monograph and expand antioxidant citations
-- **2026-04-11 10:24** | [d7d3038](https://github.com/swamig/diet/commit/d7d3038ea1036510856f369f9db7b66a17a1886b) | feat(diet): enforce 2x weekly Soy Ceiling
-- **2026-04-11 10:21** | [c1989e6](https://github.com/swamig/diet/commit/c1989e60405cc12a7318c2a38c99386f3e69071e) | docs(advanced): add Blueprint Longevity Mix integration logic
-- **2026-04-11 10:20** | [02b378b](https://github.com/swamig/diet/commit/02b378b3c10f6faa24b9421a1f9c71a29cfb4772) | docs: integrate yoga/cortisol mechanisms, Shaiva Tantra philosophy, and antioxidant citations
-- **2026-04-11 10:18** | [b3ffc7b](https://github.com/swamig/diet/commit/b3ffc7b7d5af87ebf43163773091f1a06499d88a) | feat(execution): embed operator split into daily cycle and add Blueprint integration
-- **2026-04-11 10:16** | [306ff63](https://github.com/swamig/diet/commit/306ff6312fb660675522ebcfaf4a019257cba669) | docs: add thermal hormesis guide, yoga routines, and master citations
-- **2026-04-11 09:50** | [9c4b377](https://github.com/swamig/diet/commit/9c4b377783b7782815a5f37e709f6d3f42bb5d02) | docs(foundations): add ayurvedic alignment analysis
-- **2026-04-11 09:06** | [18fc4c9](https://github.com/swamig/diet/commit/18fc4c9db16277eb805f1ad1cada247b8db1b2de) | feat(signaling): integrate TRP synergy and allicin protocols
-- **2026-03-28 21:50** | [3964243](https://github.com/swamig/diet/commit/3964243252bdd0a6fdad3546773d70f1f21695ee) | docs: optimize salad dressing and seed rotation prep workflows
