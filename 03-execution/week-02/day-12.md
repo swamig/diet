@@ -20,6 +20,7 @@ Moderate antimicrobial (Clove Day).
 *   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
 *   **Macro Execution:**
     *   **Quinoa (12:00):** 1/2 cup cooked (Standard baseline).
+    *   **Broccoli Microgreens (14:30):** 1/2 cup (Performance Nrf2 dose).
     *   **Dressing (14:30):** 4 tbsp (Standard baseline).
     *   **Casein (17:50):** 1 scoop (Required for overnight muscle repair).
 
@@ -71,7 +72,7 @@ Moderate antimicrobial (Clove Day).
 *   2 cups arugula
 *   2 tbsp sauerkraut
 *   1 tbsp walnuts
-*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
+*   1/2 cup Broccoli Microgreens (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

@@ -20,6 +20,7 @@ Controlled antimicrobial + mineral density.
 *   **Day Type:** **VO2 Max 4x4** (High glycolytic demand requires starch up-regulation).
 *   **Macro Execution:**
     *   **Quinoa (12:00):** 3/4 cup cooked (+50% starch pulse).
+    *   **Broccoli Microgreens (14:30):** 1/2 cup (Performance Nrf2 dose).
     *   **Dressing (14:30):** 4 tbsp (Standard baseline).
     *   **Casein (17:50):** 1 scoop (Required for glycogen recovery).
 
@@ -72,7 +73,7 @@ Controlled antimicrobial + mineral density.
 *   2 cups romaine
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
+*   1/2 cup Broccoli Microgreens (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro**
 *   2 tbsp green onions
 *   Dressing: Olive oil + Balsamic + 1 tbsp Tomato Puree + 1 tsp Dijon Mustard + Pinch Turmeric + Pinch Black Pepper

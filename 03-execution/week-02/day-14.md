@@ -20,6 +20,7 @@ End-of-week nitric + vascular emphasis.
 *   **Day Type:** **Cardio-Only Rest** (Lower metabolic demand allows for digestive rest).
 *   **Macro Execution:**
     *   **Quinoa (12:00):** 1/4 cup cooked (Low starch/High fiber focus).
+    *   **Broccoli Microgreens (14:30):** 1/4 cup (Clinical baseline Nrf2 dose).
     *   **Dressing (14:30):** 2 tbsp (Reduced fat load).
     *   **Casein (17:50):** Skip (Yogurt/Fruit only to prioritize overnight autophagy).
 
@@ -73,7 +74,7 @@ End-of-week nitric + vascular emphasis.
 *   2 cups watercress
 *   2 tbsp sauerkraut
 *   1 tbsp sesame
-*   **1 cup Broccoli Microgreens** (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
+*   1/4 cup Broccoli Microgreens (Sulforaphane Engine) [4](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control)
 *   **Generous handful fresh cilantro** (Daily Essential)
 *   2 tbsp green onions
 *   **1/2 cup pomegranate seeds**
