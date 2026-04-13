@@ -109,15 +109,17 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each
 **Goal:** Remove daily measuring friction for the liquid dressing base.
 
 **7-Day Master Recipe (In a Glass Mason Jar):**
-1.  **14 tbsp Olive Oil** (Just under 1 cup).
+1.  **14 tbsp Olive Oil** (Choose your signaling level):
+    *   *Baseline:* 14 tbsp Terra Delyssa.
+    *   *Elite Hybrid:* 7 tbsp Terra Delyssa + 7 tbsp Bryan Johnson's "Snake Oil".
 2.  **7 tbsp Balsamic Vinegar** (Just under 1/2 cup).
 3.  **7 tbsp Tomato Puree** (Just under 1/2 cup).
 4.  **7 tsp Dijon Mustard** (Sugar-free).
 
 **The Bioavailability Mandate:**
 *   **DO NOT** add Turmeric or Black Pepper to this master jar.
-*   **Storage:** Whisk or shake vigorously until fully emulsified. Store in the fridge for up to 7 days.
-*   **Daily Use:** Pour ~4 tbsp (1/4 cup) from the jar each day. Sprinkle the **pinch of Turmeric** and **1/4 tsp fresh Black Pepper** directly on top of the poured dressing before tossing.
+*   **Storage (CRITICAL):** If using the *Elite Hybrid* oil, store the jar in a dark spot in the fridge to prevent polyphenol oxidation. Whisk or shake vigorously until fully emulsified before each use.
+*   **Daily Use:** Pour ~4 tbsp (1/4 cup) from the jar each day. Sprinkle the **pinch of Turmeric** and **1/4 tsp fresh Black Pepper** directly on top of the poured dressing before tossing. This ensures the piperine and curcumin are suspended in the fats for optimal delivery.
 
 ## Block 7: Seed Rotation & Recovery (5 Min)
 **Goal:** Prepare the 5-day seed rotation for the Salad Layer and pre-portion the Recovery Bowls.
