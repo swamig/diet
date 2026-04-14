@@ -34,7 +34,7 @@ Nigella day - Controlled antimicrobial exposure.
 
 ## Timing
 *   **06:30** – VO2 Max Nordic 4x4 [9](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit)
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
+*   **07:15** – Morning Hydration (Warm Jeera + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility

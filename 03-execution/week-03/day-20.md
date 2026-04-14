@@ -34,7 +34,7 @@ Nitric Peak.
 
 ## Timing
 *   **06:30** – Active Morning Yoga (Hanuman Dand [12](../../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher)
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
+*   **07:15** – Morning Hydration (Warm Jeera + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – 3-Cycle Contrast Therapy (Method C) - Vascular Flush
@@ -84,10 +84,10 @@ Nitric Peak.
 
 - Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
 
-## Recovery Bowl: Cacao Day
+## Recovery Bowl (Baseline)
 *   Greek yogurt
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
-*   **1 tbsp cacao nibs**
+*   **No cacao (spacing oxalate).**
 
 ## Clinical Rationale
 *   Maximal nitric oxide stack repeated to drive adaptation.

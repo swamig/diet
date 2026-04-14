@@ -78,11 +78,13 @@ Into *each* of the 7 small jars, measure the following:
 *   *(Note: Black pepper is deliberately excluded here. It must be ground fresh directly onto your food/salad daily to preserve volatile piperine).*
 
 **2. Morning Activation Packs:**
-Pre-portion 7 tiny containers/packs for your 07:15 morning hydration. Into *each* pack, add:
-*   **The Base:** 1/2 tsp whole Jeera (Cumin) seeds OR 1/4 tsp Ajwain seeds (depending on your weekly rotation).
-*   **The Rotator (Optional):** 1 whole Clove, 1 crushed Cardamom pod, or **1 whole Star Anise** (Antiviral Pulse).
-*   **The Matcha (Optional):** **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder**.
-*   This ensures you only have to "boil and pour" in the morning, maintaining volatile oil and catechin potency while removing measurement friction.
+Pre-portion 7 tiny containers/packs for your 07:15 morning hydration to remove measurement friction. Your base spice alternates daily (Ajwain vs. Jeera). 
+
+*   **Days 1, 3, 5, 7:** 1/4 tsp **Ajwain** seeds.
+*   **Days 2, 4, 6:** 1/2 tsp whole **Jeera** (Cumin) seeds.
+*   **The Week 2 Pulse (Optional):** On Week 2 ONLY, replace two Jeera days with **1 whole Clove**.
+*   **The Rotator (Optional):** 1 crushed Cardamom pod or **1 whole Star Anise** (Antiviral Pulse) added to any day.
+*   **The Matcha (Optional):** **1 tsp Matcha [6](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) powder** added to all 7 packs.
 
 **3. Menthol Synergy Muddle (With Oxidation Lock):**
 *   Muddle 45 fresh **Mentha arvensis** leaves + 1.5 **Thai Bird’s Eye Chilies** + **1 Thumb of Fresh Ginger** (sliced/crushed).

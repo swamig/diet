@@ -34,7 +34,7 @@ Parasympathetic emphasis + low stimulation reset.
 
 ## Timing
 *   **06:30** – Rest / Light Walk
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
+*   **07:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Batch Meal Prep / Rest
@@ -44,7 +44,7 @@ Parasympathetic emphasis + low stimulation reset.
 *   **21:00** – Night hydration (Tulsi infusion)
 
 ## Hydration
-**Morning: Jeera Water**
+**Morning: Ajwain Water**
 *   1/2 tsp cumin seeds
 *   Boil 5 min.
 
