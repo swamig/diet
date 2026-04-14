@@ -36,21 +36,27 @@ Because the skin is mostly Vital Wheat Gluten, it crisps into a "meat-like" shel
 
 ---
 
-## Option 2: The "Besan" Skin (Backup)
-*Use this if you want a more traditional "pastry" texture or if you are out of vital wheat gluten. This wrapper uses complex carbohydrates rather than pure protein.*
+---
+## Option 3: The Elastic Gluten-Free Skin (Performance GF)
+*The most rollable GF option. Uses psyllium husk to mimic the elasticity of gluten while providing massive fiber for gut motility.*
 
 ### The Components:
-1.  **The Wrapper:** Mix 1 cup of **Besan (Chickpea Flour)** with 1/4 tsp Ajwain, a pinch of turmeric, and enough **[Aquafaba](sunday-prep.md#block-2-protein-batch-25-min)** (reserved chickpea liquid) to form a stiff dough.
-2.  **The Filling:** Same as Option 1 (Cold, pre-chilled chickpeas or leftover patty dough).
+1.  **The Wrapper:** 1 cup **Besan (Chickpea Flour)** + 2 tbsp **Psyllium Husk Powder** + 1/4 tsp Ajwain + pinch of turmeric.
+2.  **The Binders:** 1 tbsp Avocado Oil and hydrate with warm water or **[Aquafaba](sunday-prep.md#block-2-protein-batch-25-min)**.
+3.  **The Filling:** Same as Option 1 (Cold RS3 Chickpea mash with pre-chilled peas).
 
 ### The Execution:
-1.  Roll the Besan dough out very thin. The Aquafaba acts as an elite emulsifier to give it "snap."
-2.  Stuff with the cold filling and fold into triangles.
-3.  Spray with Avocado Oil.
-4.  **The Flash-Fry:** Air Fry at **380°F (190°C) for 8-10 minutes**.
+1.  **The Gel Hydration:** Once mixed, let the dough sit for **10 minutes**. The psyllium husk needs time to fully hydrate and create the "elastic gel" that holds the GF dough together.
+2.  Roll the dough very thin between two pieces of parchment paper. Because of the psyllium, it will be flexible enough to fold without cracking.
+3.  **The Flash-Fry:** Air Fry at **380°F (190°C) for 10-12 minutes**. 
 
-### The Mechanism:
-While Besan has a much lower glycemic index than white flour, it is not RS3. The Aquafaba binding allows the Air Fryer to create a crunchy exterior without the oxidized lipids (AGEs) created by deep-frying in seed oils.
+---
+
+## The Gluten Cycling Rule (Optional Advance Protocol)
+Because Vital Wheat Gluten is a large, complex protein, consuming high doses daily can occasionally lead to low-grade gut inflammation (Zonulin signaling). 
+
+*   **The Strategy:** Alternate between **Option 1 (High Protein)** and **Option 3 (Gluten-Free)** throughout the week.
+*   **Best For:** Use Option 1 on **Heavy Lifting (M/W/F)** days to maximize protein efficiency. Use Option 3 on **Rest/Recovery (Tue/Thu/Sat)** days to provide a "clearance window" for the gut lining.
 
 ## Related Pages
 - [100% Optimized Indian High-Protein Patties](vegan-protein-patties.md)
