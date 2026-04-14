@@ -11,6 +11,7 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-04-13 14:20** | [0b8e7d4](https://github.com/swamig/diet/commit/0b8e7d4) | docs(advanced): add hormetic resistance and biological tolerance avoidance strategy
 - **2026-04-13 14:15** | [0b8e7d3](https://github.com/swamig/diet/commit/0b8e7d3) | docs(advanced): add glycemic sequencing and sleep architecture strategies
 - **2026-04-13 14:05** | [a2439fc](https://github.com/swamig/diet/commit/a2439fce1e9633c9708335ed5c455e9178b96c6b) | docs(broccoli): add sprout alternative dosing and the freezing hack
 - **2026-04-13 13:39** | [527ee07](https://github.com/swamig/diet/commit/527ee0707fa2098428520a6088c9d43bb10dcd13) | docs: add biochemical dosing calculators and antioxidant pre-conditioning logic

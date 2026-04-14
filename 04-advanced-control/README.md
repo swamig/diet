@@ -18,6 +18,7 @@ Use this section when the base protocol is not enough and you need tighter contr
 - [Circadian Sleep Architecture & Autonomic Tone](sleep-architecture.md)
 - [Glycemic Dynamics & Carbohydrate Sequencing](glycemic-sequencing.md)
 - [Heavy Metal Mitigation](heavy-metals.md)
+- [Hormetic Resistance & Biological Tolerance Avoidance](hormetic-resistance.md)
 - [Liver Load Spacing and Detox Pathways](liver-load.md)
 - [Metabolic Oncology & Chemoprevention](oncology-chemoprevention.md)
 - [Omega Load Balancing](omega-balance.md)
