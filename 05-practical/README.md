@@ -30,6 +30,7 @@ This section translates the protocol into kitchen operations. Read this before t
 - [The Protocol Chickpeas (RS3 Matrix Anchor)](protocol-chickpeas.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](daily-salad-layer.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](vegan-protein-patties.md)
+- [Functional Samosas (Air-Fried Patty Variant)](functional-samosas.md)
 - [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](lauki-reset.md)
 - ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](garlic-chili-oil.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)

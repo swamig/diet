@@ -123,6 +123,7 @@ Shopping, prep, storage, recipes, and execution infrastructure.
 - [Troubleshooting Guide (Yogurt Straining Hack)](05-practical/troubleshooting-guide.md)
 - ["Cold-Mash" Performance Refried Beans](05-practical/performance-refried-beans.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](05-practical/vegan-protein-patties.md)
+- [Functional Samosas (Air-Fried Patty Variant)](05-practical/functional-samosas.md)
 - [High-Signaling Peppermint Jaljeera (The Glycemic Anchor)](05-practical/peppermint-jaljeera.md)
 - [Functional Indian Formats (Chutneys, Podis, Toum)](05-practical/functional-indian-formats.md)
 - [Thermal Hormesis (Sauna & Cold Plunge)](05-practical/thermal-hormesis.md)
