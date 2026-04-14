@@ -85,7 +85,7 @@ Nigella day - Controlled antimicrobial exposure.
 - Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
 
 ## Recovery Bowl
-*   Standard yogurt + casein + blueberries
+*   Standard yogurt + casein + blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao (spacing oxalate).**
 
 ## Clinical Rationale

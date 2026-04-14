@@ -87,7 +87,7 @@ Mitochondrial + moderate nitric support.
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **1 tbsp cacao nibs**
 
 ## Clinical Rationale

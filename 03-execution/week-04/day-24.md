@@ -87,7 +87,7 @@ Moderate nitric support.
 ## Recovery Bowl: Cacao (Reduced Dose)
 *   Greek yogurt
 *   Casein
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **2 tsp cacao nibs** (Instead of 1 tbsp)
 
 ## Clinical Rationale

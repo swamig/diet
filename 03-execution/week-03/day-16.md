@@ -88,7 +88,7 @@ Mitochondrial modulation + sulfur continuation.
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao (spacing oxalate).**
 
 ## Clinical Rationale

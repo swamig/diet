@@ -86,7 +86,7 @@ Gut stabilization + fiber modulation.
 
 ## Recovery Bowl
 *   Greek yogurt
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
 
 ## Clinical Rationale

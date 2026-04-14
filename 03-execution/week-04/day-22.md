@@ -88,7 +88,7 @@ Bitter activation + low oxalate day.
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
 
 ## Clinical Rationale

@@ -88,7 +88,7 @@ Nitric oxide emphasis.
 ## Recovery Bowl
 *   Greek yogurt
 *   Casein
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao today (spacing oxalate load).**
 
 ## Clinical Rationale

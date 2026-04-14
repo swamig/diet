@@ -86,7 +86,7 @@ Nitric taper + vascular maintenance.
 
 ## Recovery Bowl: Reduced Cacao
 *   Greek yogurt
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **2 tsp cacao nibs**
 
 ## Clinical Rationale

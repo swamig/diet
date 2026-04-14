@@ -84,7 +84,7 @@ Fiber modulation + legume exposure.
 - Standard 17:30 whey isolate + creatine window unless this day explicitly changes it.
 
 ## Recovery Bowl
-*   Standard yogurt + blueberries
+*   Standard yogurt + blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
 
 ## Clinical Rationale

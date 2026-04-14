@@ -87,7 +87,7 @@ Parasympathetic emphasis + low stimulation reset.
 
 ## Recovery Bowl
 *   Greek yogurt
-*   Blueberries
+*   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
 
 ## Clinical Rationale

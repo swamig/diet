@@ -28,8 +28,8 @@ This protocol is engineered as a comprehensive chemopreventive system. While no 
 *   **The Mechanism:** For a microscopic tumor to grow larger than 2mm, it must hijack the body's blood supply (angiogenesis) to feed itself. Specific dietary polyphenols disrupt this process, starving nascent tumors while inducing apoptosis (programmed cell death) in mutated cells.
 *   **The Protocol:** The **[17:50 Recovery Bowl](../03-execution/week-01/day-01.md#recovery-bowl)** is engineered as a daily, high-density anti-angiogenic pulse:
     *   **[Blueberries](../03-execution/week-01/day-01.md#recovery-bowl):** Provide a massive dose of anthocyanins, which are documented to inhibit tumor angiogenesis and prevent DNA damage [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
-    *   **[Cacao Nibs](../02-ingredients/cacao.md):** Rich in epicatechins that neutralize free radicals before they can cause oxidative mutagenesis.
-    *   **Pure Vanilla Extract:** Contains *vanillin*, a highly potent anti-mutagenic and anti-carcinogenic compound that acts synergistically with cacao flavanols to suppress oxidative cell damage.
+    *   **[Cacao Nibs](../02-ingredients/cacao.md):** Rich in epicatechins that neutralize free radicals before they can cause oxidative mutagenesis. Cacao is explicitly cycled (2-3x per week) to prevent biological tolerance to its signaling.
+    *   **Pure Vanilla Extract:** Contains *vanillin*, a highly potent anti-mutagenic and anti-carcinogenic compound that acts synergistically with cacao flavanols. To prevent receptor down-regulation, Vanilla Extract is pulsed (used only on the same days Cacao is added to the bowl, serving as a specific biological "spike" rather than a daily baseline).
 
 ## 4. IGF-1 Suppression (The 18:6 Feeding Window)
 *   **The Mechanism:** Insulin-like Growth Factor 1 (IGF-1) is a primary proliferative signal for many cancer cell lines [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors). 
