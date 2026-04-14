@@ -26,6 +26,12 @@ Clove is a potent phenolic compound with:
 *   1 whole clove infused in water.
 *   **1–2 times per week maximum.**
 
+## Protocol Role (Morning Tea Synergy)
+
+- **The Clove-Matcha Base:** Clove is used as the simmering base for the 07:15 Morning Matcha during Week 2. 
+- **Method:** Simmer 1 whole clove in 1 cup of water for 2 minutes, then use the infused water to whisk the Matcha powder. The polyphenols in the Matcha act as a delivery scaffold for the eugenol.
+- **Hormetic Pulse:** Its role is strongest when it is pulsed sparingly in Week 2 rather than normalized into the daily baseline.
+
 ## Stacking Rules
 
 *   **Spaced and not stacked with other strong antimicrobials (e.g., nigella, ajwain).**
