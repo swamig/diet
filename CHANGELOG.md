@@ -11,6 +11,11 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-04-14 11:30** | [2a22a3c](https://github.com/swamig/diet/commit/2a22a3c) | docs: add protein comparison and admin strategy for functional samosas
+- **2026-04-14 11:25** | [9acf50c](https://github.com/swamig/diet/commit/9acf50c) | feat: add elastic GF samosa skin and gluten cycling protocol
+- **2026-04-14 11:15** | [7e7cbfe](https://github.com/swamig/diet/commit/7e7cbfe) | feat: upgrade samosa wrapper to 90/10 VWG seitan hybrid
+- **2026-04-14 11:05** | [0379a32](https://github.com/swamig/diet/commit/0379a32) | feat: add functional samosas air-fried variant
+- **2026-04-14 10:45** | [e965f6d](https://github.com/swamig/diet/commit/e965f6d) | feat: integrate recovery feedback loops, heat rotation, and personal admin rules
 - **2026-04-13 14:20** | [0b8e7d4](https://github.com/swamig/diet/commit/0b8e7d4) | docs(advanced): add hormetic resistance and biological tolerance avoidance strategy
 - **2026-04-13 14:15** | [0b8e7d3](https://github.com/swamig/diet/commit/0b8e7d3) | docs(advanced): add glycemic sequencing and sleep architecture strategies
 - **2026-04-13 14:05** | [a2439fc](https://github.com/swamig/diet/commit/a2439fce1e9633c9708335ed5c455e9178b96c6b) | docs(broccoli): add sprout alternative dosing and the freezing hack
