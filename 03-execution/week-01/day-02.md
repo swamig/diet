@@ -16,10 +16,15 @@ priority: 'active'
 ## Objective
 Digestive support + microbiome stabilization.
 
+## Next Morning Feedback & Adjustments
+*   **Target:** Productively sore, mentally sharp.
+*   **If "Crushed" (Lethargic/Foggy):** Swap morning cardio for Restorative Yoga; skip Matcha; add 1/4 tsp extra salt to Jaljeera.
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **VO2 Max 4x4** (High glycolytic demand requires starch up-regulation).
 *   **Macro Execution:**
-    *   **Quinoa (12:00):** 3/4 cup cooked (+50% starch pulse).
+    *   **Quinoa (12:00):** 3/4 cup cooked (Increase Quinoa by 50% - 3/4 Cup total).
     *   **Broccoli Microgreens/Sprouts (14:30):** 1/2 cup Microgreens OR 1/4 cup Sprouts (Performance Nrf2 dose).
     *   **Dressing (14:30):** 4 tbsp (Standard baseline).
     *   **Casein (17:50):** 1 scoop (Required for glycogen recovery).
@@ -39,17 +44,18 @@ Digestive support + microbiome stabilization.
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
-*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   **18:30** – Sauna [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A) + Sauna Mineral Reload Jaljeera
-*   **21:00** – Night hydration (Ashwagandha [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) 'Net 8')
+*   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   18:30 – 18:30 Heat Rotation (Sauna)
+*   21:00 – Night hydration (Ashwagandha + Alkaline Water to clear VO2 Max cortisol)
 
 ## Hydration
+
 **Morning: Jeera Water**
 *   1/2 tsp cumin seeds
 *   1 cup water
 *   Boil 5 min, strain.
 
-**Night: Ashwagandha (Tasty Net 8)**
+**Night: Ashwagandha (Tasty Net 8) + Alkaline Water to clear VO2 Max cortisol**
 *   1/2 tsp Ashwagandha root powder
 *   1/4 tsp Ceylon Cinnamon + pinch Cardamom
 *   1 cup warm Alkaline Water (pH 8+) + splash almond milk.
@@ -111,6 +117,11 @@ Digestive support + microbiome stabilization.
 - Keep cacao and chocolate-whey spacing aligned on this day.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

@@ -16,6 +16,9 @@ priority: 'active'
 ## Objective
 Fiber modulation + legume exposure.
 
+## Next Morning Feedback & Adjustments
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Cardio-Only Rest** (Lower metabolic demand allows for digestive rest).
 *   **Macro Execution:**
@@ -39,11 +42,12 @@ Fiber modulation + legume exposure.
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
-*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   **18:30** – Optional Sauna [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration)
-*   **21:00** – Night hydration (Tulsi infusion)
+*   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   18:30 – 18:30 Heat Rotation (Sauna)
+*   21:00 – Night hydration (Tulsi infusion)
 
 ## Hydration
+
 **Morning: Jeera Water**
 *   1/2 tsp cumin seeds
 *   1 cup water
@@ -108,6 +112,11 @@ Fiber modulation + legume exposure.
 - Keep cacao and chocolate-whey spacing aligned on this day.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

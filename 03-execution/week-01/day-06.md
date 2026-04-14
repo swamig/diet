@@ -16,6 +16,9 @@ priority: 'active'
 ## Objective
 Metabolic balance + controlled antimicrobial.
 
+## Next Morning Feedback & Adjustments
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Cardio-Only Rest** (Lower metabolic demand allows for digestive rest).
 *   **Macro Execution:**
@@ -39,11 +42,12 @@ Metabolic balance + controlled antimicrobial.
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – 3-Cycle Contrast Therapy (Method C) - Vascular Flush
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
-*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   **18:30** – Rest / Optional Evening Walk
-*   **21:00** – Night hydration (Saffron infusion)
+*   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   18:30 – 18:30 Heat Rotation (Sauna)
+*   21:00 – Night hydration (Saffron infusion)
 
 ## Hydration
+
 **Morning: Mineral Salt Water**
 *   240 ml warm water
 *   Small pinch unrefined sea salt (~0.3g)
@@ -110,6 +114,11 @@ Metabolic balance + controlled antimicrobial.
 - Keep cacao and chocolate-whey spacing aligned on this day.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

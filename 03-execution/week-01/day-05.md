@@ -16,6 +16,9 @@ priority: 'active'
 ## Objective
 Nitric oxide emphasis.
 
+## Next Morning Feedback & Adjustments
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
 *   **Macro Execution:**
@@ -39,11 +42,12 @@ Nitric oxide emphasis.
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Heavy Lift
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
-*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   **18:30** – Optional Evening Walk
-*   **21:00** – Night hydration (Ashwagandha [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) 'Net 8')
+*   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   18:30 – 18:30 Heat Rotation (Epsom Bath)
+*   21:00 – Night hydration (Ashwagandha [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) 'Net 8')
 
 ## Hydration
+
 **Morning: Mint + Cucumber**
 *   4-5 mint leaves
 *   4 cucumber slices
@@ -110,6 +114,11 @@ Nitric oxide emphasis.
 - Keep cacao and chocolate-whey spacing aligned on this day.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
 - Keep saffron in the pulsed microdose role used by the protocol.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

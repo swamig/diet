@@ -16,6 +16,9 @@ priority: 'active'
 ## Objective
 Nitric Peak.
 
+## Next Morning Feedback & Adjustments
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Cardio-Only Rest** (Lower metabolic demand allows for digestive rest).
 *   **Macro Execution:**
@@ -109,6 +112,11 @@ Nitric Peak.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
 - Keep saffron in the pulsed microdose role used by the protocol.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

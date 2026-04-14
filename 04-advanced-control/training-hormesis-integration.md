@@ -11,6 +11,16 @@ This protocol is designed to support an elite-level weekly load combining intens
 
 To sustain this without frying your central nervous system or breaking the biochemical rules of the manual, these stressors must be mapped precisely to your dietary timing and hydration windows.
 
+## Understanding the Stressors: Noradrenaline vs. Cortisol
+
+To prevent Overtraining Syndrome and HPA-axis burnout, it is critical to distinguish between the *types* of stress this protocol applies:
+
+*   **The Cold Plunge (Sympathetic Spike):** The 06:30 cold plunge is a "clean" nervous system shock. It triggers a massive, acute release of **Noradrenaline and Dopamine** for alertness. While it involves some cortisol, it is a short-acting pulse designed to clear brain fog, *not* a deep metabolic stressor.
+*   **The VO2 Max 4x4 (Metabolic Cortisol):** This is the true cortisol heavyweight of the protocol. Sustained maximum cardiovascular effort forces the body to pump out cortisol to break down stored glycogen. This deep hormonal stress forces adaptation but requires targeted clearance (Ashwagandha + Heat) to prevent chronic elevation.
+*   **Heavy Lifting (Mechanical Tension):** Drives physical CNS strain and mTOR (muscle growth) signaling via acute inflammation, rather than pure metabolic cortisol.
+
+**The Overload Warning:** Cortisol overload occurs when you stack these stressors blindly. If you wake up with high systemic fatigue (feeling "fried"), forcing a Cold Plunge + a 4x4 Workout + Caffeinated Matcha will crash your system. The protocol mandates replacing the morning stressor with restorative yoga and skipping the caffeine on those days.
+
 ## 1. The VO2 Max 4x4 Day (The "Glycogen & Cortisol" Spike)
 Nordic 4x4s (4 minutes maximum effort, 3 minutes active recovery, repeated 4 times) burn pure muscle glycogen and trigger the highest cortisol spike of your week. 
 

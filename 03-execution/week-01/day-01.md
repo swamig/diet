@@ -16,6 +16,10 @@ priority: 'active'
 ## Objective
 Establish anti-inflammatory baseline + vascular support.
 
+## Next Morning Feedback & Adjustments
+*   **Feedback:** Baseline/Prep state (Did you complete Sunday Prep? If not, use the "When to Simplify" rule in [Troubleshooting](../../05-practical/troubleshooting-guide.md)).
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
 *   **Macro Execution:**
@@ -116,6 +120,11 @@ Establish anti-inflammatory baseline + vascular support.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
 - Keep saffron in the pulsed microdose role used by the protocol.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

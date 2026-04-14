@@ -18,15 +18,24 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 *   **Timing:** 06:30 (Fasted).
 *   **Duration:** 2-3 minutes.
 *   **Temperature:** 39°F - 50°F (4°C - 10°C).
-*   **Mechanism:** Triggers a massive release of noradrenaline and dopamine for alertness. Forces peripheral vasoconstriction, driving blood to the core.
+*   **Mandate:** **Cold only.** Do not apply heat in the morning; it blunts the alertness spike.
 *   **The Re-Warm:** Exit the plunge and let your body re-warm naturally for 10-15 minutes. Then, drink your **Warm Ajwain or Jeera Water (07:15)** to vasodilate the core and re-ignite digestive *Agni*.
 
-### The Evening Sauna (Parasympathetic Drop)
+### The Evening Heat Rotation (Parasympathetic Drop)
 *   **Timing:** 18:30 (Or post-workout on a non-lifting day).
 *   **Duration:** 15-20 minutes.
-*   **Temperature:** 175°F - 195°F (80°C - 90°C).
-*   **Mechanism:** Mimics cardiovascular exercise (elevates heart rate) and triggers Growth Hormone release. Exiting the sauna induces a natural drop in core body temperature, which signals the brain to prepare for deep sleep.
-*   **The Reload:** The sauna severely depletes sodium and trace minerals. Drink the **Sauna Mineral Reload Variation** of the Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) (no chili, just mint, lemon, black salt, and roasted cumin) immediately after exiting.
+*   **Logic:** To prevent biological accommodation and manage mineral balance, alternate between Dry Sauna and Epsom Salt Baths.
+
+#### Option A: The Dry Sauna (175°F - 195°F)
+*   **Best For:** Cardio days or Active Recovery days.
+*   **Mechanism:** Triggers Heat Shock Proteins (HSPs) for systemic repair and mimics cardiovascular strain.
+*   **The Reload:** Requires the **Sauna Mineral Reload Variation** of the Peppermint Jaljeera immediately after.
+
+#### Option B: The Epsom Salt Bath (105°F / 40°C)
+*   **Best For:** Heavy Lifting days (Mon/Wed/Fri).
+*   **Mechanism:** Transdermal magnesium absorption. Hydrostatic pressure forces the Golgi tendon organs to relax shortened muscle fibers from resistance training.
+*   **The Reload:** Requires the same Jaljeera reload to replace sodium/trace minerals lost to sweat.
+*   **Sulfur Caution:** During **Week 2 (Sulfur Emphasis)**, if skin sensitivity or GI distress occurs, reduce Epsom baths to 2x/week to avoid sulfate overload from the high-garlic/broccoli diet.
 
 ---
 

@@ -16,6 +16,11 @@ priority: 'active'
 ## Objective
 Moderate nitric support.
 
+## Next Morning Feedback & Adjustments
+*   **Target:** High energy, stable mood.
+*   **If "Fried" (Jittery/Anxious/Poor Sleep):** Mandatory Yoga morning; double the Tulsi at night; ensure Quinoa was +50% yesterday.
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
 *   **Macro Execution:**
@@ -110,6 +115,11 @@ Moderate nitric support.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
 - Keep saffron in the pulsed microdose role used by the protocol.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 

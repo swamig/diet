@@ -15,22 +15,32 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 
 | Time | Action | Default Components | Notes |
 | :--- | :--- | :--- | :--- |
-| **06:30** | Fasted cardio | 20-40 minutes, low intensity | The goal is signaling, not output. |
-| **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. |
+| **06:30** | Morning Anchor | Cold Plunge (Method A) | **Noradrenaline Spike:** Clear brain fog. Swap for Yoga if "fried." |
+| **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. Skip Matcha on high-fatigue days. |
 | **10:00** | Tannin Deadline | Stop all tea/caffeine | Protects 12:00 iron absorption. |
-| **12:00** | Main meal / break fast | Protein + broccoli + starch + spice stack + Jaljeera | Primary supplement window. |
-| **13:00** | Proteolytic Enzyme Pulse | Papaya (1/2 cup) | Optional: The Papain enzyme cleaves heavy plant proteins. Must be eaten *after* the heavy 12:00 meal so fiber blunts the fructose spike. |
-| **14:30** | Salad layer | Greens + ferment + seeds + microgreens + cilantro | Rotators vary by day. |
-| **16:30** | Resistance training | Standard training slot | Use the day page if the day has special emphasis. |
+| **12:00** | Main meal / break fast | Protein + starch + spice stack + Jaljeera | **Tuesday Rule:** +50% Quinoa (3/4 Cup total). |
+| **13:00** | Proteolytic Enzyme Pulse | Papaya (1/2 cup) | Cleaves heavy proteins. Must follow the heavy 12:00 meal. |
+| **14:30** | Salad layer | Greens + ferment + seeds + microgreens | Rotators vary by day. |
+| **16:30** | Training Window | Lift (M/W/F) or VO2 Max (Tue) | Separate Cold Plunge from Lifting by 6+ hours. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
-| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Greek yogurt + casein + blueberries + pure vanilla extract | Cacao is optional and spaced deliberately. |
-| **21:00** | Night infusion | Tulsi or saffron | Depends on the day plan. |
+| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Yogurt + blueberries + casein | **Rest Day Rule:** Skip Casein scoop. |
+| **18:30** | **Heat Rotation** | **Sauna (Tue/Thu/Sat) or Epsom Bath (M/W/F)** | **Parasympathetic Drop:** Always follow with Mineral Reload. |
+| **21:00** | Night infusion | Tulsi, Saffron, or Ashwagandha | **Tuesday Rule:** Mandatory Ashwagandha for VO2 Max recovery. |
 
-## Default Anchors
+## Personal Admin & Fatigue Logic
 
-- **Main meal:** Turmeric + black pepper, broccoli, rested garlic, and Peppermint Jaljeera [1](master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
-- **Salad:** Microgreens and cilantro are daily anchors.
-- **Recovery:** Keep the whey window and bowl window separate.
+### 1. Stress Management (Noradrenaline vs. Cortisol)
+*   **Cold Plunge (AM):** Acute dopamine/noradrenaline pulse. Used for alertness.
+*   **VO2 Max (Tue):** Deep metabolic cortisol. Requires 21:00 Ashwagandha to clear.
+*   **Fatigue Check:** If waking up with high systemic stress (soreness/fog), skip the 06:30 Cold Plunge for Yoga and skip the 07:15 Matcha.
+
+### 2. Heat Rotation Rule
+*   **Lift Days (M/W/F):** **Epsom Salt Bath (105°F)**. Transdermal magnesium for muscle repair and mechanical relaxation.
+*   **Cardio/Rest Days (Tue/Thu/Sat):** **Dry Sauna**. Heat Shock Protein (HSP) activation and vascular training.
+*   **Post-Heat:** Drink the **Mineral Reload Jaljeera** (Lemon, Black Salt, Roasted Cumin).
+
+### 3. Hypertrophy Blockade
+*   **NEVER** cold plunge immediately after your 16:30 Heavy Lift. It blunts the growth signal (mTOR). Keep cold exposure to 06:30 morning windows only.
 
 ## Macro Adjustments by Day Type
 

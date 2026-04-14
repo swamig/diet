@@ -16,6 +16,11 @@ priority: 'active'
 ## Objective
 Sulforaphane amplification + nitric preparation.
 
+## Next Morning Feedback & Adjustments
+*   **Target:** High energy, stable mood.
+*   **If "Fried" (Jittery/Anxious/Poor Sleep):** Mandatory Yoga morning; double the Tulsi at night; ensure Quinoa was +50% yesterday.
+*   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
+
 ## Day Type & Macro Adjustments
 *   **Day Type:** **Heavy Lift** (Mechanical stress requires high protein/carb repair baseline).
 *   **Macro Execution:**
@@ -39,11 +44,12 @@ Sulforaphane amplification + nitric preparation.
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Heavy Lift
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
-*   **17:50** – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   **18:30** – Optional Evening Walk
-*   **21:00** – Night hydration (Saffron infusion)
+*   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   18:30 – 18:30 Heat Rotation (Epsom Bath)
+*   21:00 – Night hydration (Saffron infusion)
 
 ## Hydration
+
 **Morning: Ginger + Lemon**
 *   3-4 slices fresh ginger
 *   1 cup hot water
@@ -112,6 +118,11 @@ Sulforaphane amplification + nitric preparation.
 - Keep cacao and chocolate-whey spacing aligned on this day.
 - Keep antimicrobial pulses isolated rather than stacking them casually.
 - Reheat chilled starch and legumes gently so the prep logic still holds.
+
+### Personal Admin
+*   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
+*   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
+*   Mineral Reload: Drink Jaljeera after 18:30 Heat.
 
 ## Monitoring Focus
 
