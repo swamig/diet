@@ -58,6 +58,26 @@ Because Vital Wheat Gluten is a large, complex protein, consuming high doses dai
 *   **The Strategy:** Alternate between **Option 1 (High Protein)** and **Option 3 (Gluten-Free)** throughout the week.
 *   **Best For:** Use Option 1 on **Heavy Lifting (M/W/F)** days to maximize protein efficiency. Use Option 3 on **Rest/Recovery (Tue/Thu/Sat)** days to provide a "clearance window" for the gut lining.
 
+---
+
+## Protein & Macro Comparison (Per Samosa)
+
+| Component | Option 1 (Seitan Hybrid) | Option 3 (Elastic GF) |
+| :--- | :--- | :--- |
+| **Skin Protein** | ~12-15g | ~3-4g |
+| **Filling Protein** | ~10-12g | ~10-12g |
+| **TOTAL PROTEIN** | **~22-27g** | **~13-16g** |
+| **Glycemic Impact** | Lowest (Protein-dominant) | Moderate (Fiber-dominant) |
+| **Gut Load** | High (Complex Protein) | Low (Fiber/Sweep) |
+
+## Operator Admin Strategy (Sunday Prep)
+
+Do not make two different filling batches. Use one "Master Filling" and rotate the skins to manage your recovery:
+
+1.  **One Master Filling:** Mash your chilled chickpeas with pre-chilled peas, ginger, and spices.
+2.  **Heavy Lift Days (M/W/F):** Use the **Seitan Hybrid Skin**. The skin provides the "EAA bonus" required for muscle repair.
+3.  **Rest/Recovery Days (Tue/Thu/Sat):** Use the **Elastic GF Skin**. To hit your 30g protein target, eat two samosas or add a 1/2 scoop of unflavored Pea Protein to the filling during assembly.
+
 ## Related Pages
 - [100% Optimized Indian High-Protein Patties](vegan-protein-patties.md)
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
