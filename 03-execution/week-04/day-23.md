@@ -40,7 +40,7 @@ Controlled antimicrobial + mineral density.
 ## Timing
 *   **06:30** – VO2 Max Nordic 4x4 [9](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit)
 *   **07:15** – Morning Hydration (Warm Jeera + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
-*   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 2 tbsp Coconut + ACV to Jaljeera for creaminess)
+*   **12:00** – Break fast (Main meal + 50% extra Starch + Micro-Nutrients) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
@@ -60,6 +60,8 @@ Controlled antimicrobial + mineral density.
 *   1 cup warm Alkaline Water (pH 8+) + splash almond milk.
 
 ## Main Meal: Tofu + Nigella
+*   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
+
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
 *   135g cooked quinoa (3/4 cup)
