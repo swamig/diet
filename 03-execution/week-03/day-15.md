@@ -91,6 +91,7 @@ Nitric priming + endothelial adaptation.
 *   Casein
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **1 tbsp cacao nibs**
+*   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
 *   Pomegranate enhances endothelial NO signaling.

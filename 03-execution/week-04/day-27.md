@@ -91,6 +91,7 @@ Nitric taper + vascular maintenance.
 *   Greek yogurt
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **2 tsp cacao nibs**
+*   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
 *   Reduced oxalate exposure approaching cycle completion.

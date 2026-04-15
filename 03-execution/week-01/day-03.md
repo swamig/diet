@@ -97,6 +97,7 @@ Sulforaphane amplification + nitric preparation.
 *   Casein
 *   Blueberries
 *   1 tbsp cacao nibs (Endothelial support re-introduced).
+*   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
 *   Nrf2 activation via sulforaphane.

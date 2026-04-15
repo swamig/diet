@@ -91,6 +91,7 @@ Nitric Peak.
 *   Greek yogurt
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao (spacing oxalate).**
+*   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
 *   Maximal nitric oxide stack repeated to drive adaptation.

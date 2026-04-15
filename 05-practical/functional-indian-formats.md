@@ -66,7 +66,14 @@ To maximize biochemical signaling, map these formats to your daily windows:
 *   **14:30 Salad Window:**
     *   *TRP Chelation Chutney (Mint/Cilantro):* Thin this out with extra lemon juice and use it as a highly active, enzyme-rich salad dressing over your microgreens and broccoli.
 
-## 5. Sunday Prep Logistics (Shelf-Life Management)
+## 5. The Savory Recovery Chaas (17:50 Protocol)
+If you crave the authentic, dairy-based texture of traditional Chaas but cannot drink it at 12:00 due to the Iron-Blockade, you may convert your **17:50 Recovery Bowl** into a liquid format.
+
+*   **The Components:** Blend your mandatory **200g Greek Yogurt** with 1 cup cold water, 1/2 tsp Roasted Cumin powder, 1/4 tsp Black Salt (Kala Namak), and a squeeze of lemon juice.
+*   **The Protein Swap:** Because you are skipping the sweet elements (Casein/Blueberries), you must replace the structural protein. Blend in **1 scoop of Unflavored Pea Protein or Unflavored Whey**.
+*   **The "No Spice" Mandate (CRITICAL):** You must **NOT** add Chili, Habanero, or Ginger to this 17:50 Chaas. Consuming thermogenic spices right before your 18:30 Sauna will prevent the rapid core-temperature drop required to trigger your evening sleep architecture. This must be a *Cooling/Savory* Chaas only.
+
+## 6. Sunday Prep Logistics (Shelf-Life Management)
 
 Different formats oxidize at different speeds. Integrate them into your batch prep as follows:
 

@@ -93,6 +93,7 @@ Bitter activation + low oxalate day.
 *   Casein
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
+*   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
 *   Reduced polyphenol load to reset taste receptors.
