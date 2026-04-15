@@ -18,7 +18,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | **06:30** | Morning Anchor | Cold Plunge (Method A) | **Noradrenaline Spike:** Clear brain fog. Swap for Yoga if "fried." |
 | **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. Skip Matcha on high-fatigue days. |
 | **10:00** | Tannin Deadline | Stop all tea/caffeine | Protects 12:00 iron absorption. |
-| **12:00** | Main meal / break fast | Protein + starch + spice stack + Jaljeera | **Tuesday Rule:** +50% Quinoa (3/4 Cup total). |
+| **12:00** | Main meal / break fast | Protein + starch + spice stack + Jaljeera | **Tuesday Rule:** +50% Quinoa (3/4 Cup total). <br> **Chaas Hack:** Add Coconut + ACV to Jaljeera for creamy taste. |
 | **13:00** | Proteolytic Enzyme Pulse | Papaya (1/2 cup) | Cleaves heavy proteins. Must follow the heavy 12:00 meal. |
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens | Rotators vary by day. |
 | **16:30** | Training Window | Lift (M/W/F) or VO2 Max (Tue) | Separate Cold Plunge from Lifting by 6+ hours. |

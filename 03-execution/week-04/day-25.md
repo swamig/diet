@@ -38,7 +38,7 @@ High fiber recalibration.
 ## Timing
 *   **06:30** – Fasted Cardio [9](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit) + Restorative Yoga [12](../../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning)
 *   **07:15** – Morning Hydration (Warm Jeera + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
-*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors)
+*   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 2 tbsp Coconut + ACV to Jaljeera for creaminess)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Active Recovery / Mobility
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))

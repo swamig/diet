@@ -24,7 +24,14 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 *   **The Glycemic Anchor:** **1 tbsp Apple Cider Vinegar (Raw)**. (Acetic acid blunts the glucose spike from your midday quinoa/legumes).
 *   **The NF-κB Blockade:** **1/3 "Thumb" of Fresh Ginger** (Crushed. This fulfills 1/3 of the Daily Thumb mandate for pro-kinetic and anti-inflammatory signaling).
 *   **Optional:** 1/2 clove garlic (Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) - for maximum raw Allicin signaling)
-*   **1 - 1.5 cups Cold Water**
+*   **1 - 1.5 cups Cold Water** (Elite Hack: Use **Cold Sparkling Water**; the carbonation carries the volatile oils into the sinuses for a 10x cooling effect).
+*   **The "Neer Mor" Creaminess Hack (Recommended):** Add **2 tbsp Fresh Grated Coconut** or a **1/4 cup Splash of Unsweetened Coconut Water**. This provides the "milky" mouthfeel and nutty sweetness of a traditional South Indian Neer Mor without the iron-blocking calcium of yogurt.
+
+## The Flavor Profile (Non-Dairy Chaas)
+Traditional water-based Jaljeeras can feel "thin." By using the Coconut Hack, you achieve a creamy, vibrant, and "electric" taste:
+1.  **The Hot-Cold Paradox:** Menthol (cooling) + Capsaicin (heating) creates a unique sensory overlap (Icy breath / Hot tongue).
+2.  **The Funk:** Black Salt (Kala Namak) mimics the savory, fermented depth of yogurt.
+3.  **The Snap:** Lemon/ACV provides a clean, bright acidity that replaces the heavy film of lactic acid.
 
 ## Sunday Prep / Batching Strategy
 
