@@ -99,6 +99,7 @@ Sulforaphane amplification + nitric preparation.
 *   Casein
 *   Blueberries
 *   1 tbsp cacao nibs (Endothelial support re-introduced).
+*   **Missed Window Failsafe:** Add 1 scoop **Unflavored Whey** if the 17:30 post-workout window was missed.
 *   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
 ## Clinical Rationale
