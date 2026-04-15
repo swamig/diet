@@ -25,7 +25,8 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 *   **The NF-κB Blockade:** **1/3 "Thumb" of Fresh Ginger** (Crushed. This fulfills 1/3 of the Daily Thumb mandate for pro-kinetic and anti-inflammatory signaling).
 *   **Optional:** 1/2 clove garlic (Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) - for maximum raw Allicin signaling)
 *   **1 - 1.5 cups Cold Water** (Elite Hack: Use **Cold Sparkling Water**; the carbonation carries the volatile oils into the sinuses for a 10x cooling effect).
-*   **The "Neer Mor" Creaminess Hack (Recommended):** Add **2 tbsp Fresh Grated Coconut** or a **1/4 cup Splash of Unsweetened Coconut Water**. This provides the "milky" mouthfeel and nutty sweetness of a traditional South Indian Neer Mor without the iron-blocking calcium of yogurt.
+*   **The "Neer Mor" Creaminess Hack (Recommended):** Add **1-2 tbsp Unsweetened Coconut Milk**, **2 tbsp Fresh Grated Coconut**, or a **1/4 cup Splash of Unsweetened Coconut Water**. This provides the "milky" mouthfeel and nutty sweetness of a traditional South Indian Neer Mor without the iron-blocking calcium of yogurt. 
+    *   **CRITICAL (The Lipid Substitution Rule):** Coconut Milk and Grated Coconut are high in MCT fats. If you use them here, you MUST reduce your 14:30 Salad Dressing by 1-2 tbsp to maintain your daily caloric deficit. Coconut *Water* is fat-free and requires no substitution.
 
 ## The Flavor Profile (Non-Dairy Chaas)
 Traditional water-based Jaljeeras can feel "thin." By using the Coconut Hack, you achieve a creamy, vibrant, and "electric" taste:
