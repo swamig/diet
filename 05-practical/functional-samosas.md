@@ -63,6 +63,7 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 5.  **Cook:** Air Fry at **400°F (200°C) for 7-8 minutes**.
 
 ### Macro Profile (For 2 Samosas)
+*   **Protocol Window:** **Heavy Lift (M/W/F)**
 *   **Total Protein:** ~50g
 *   **Total Carbs:** ~32g
 *   **Dietary Fiber:** ~10g
@@ -93,6 +94,7 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 4.  **Cook:** Air Fry at **390°F (195°C) for 8-10 minutes**.
 
 ### Macro Profile (For 2 Samosas)
+*   **Protocol Window:** **Standard (Any)**
 *   **Total Protein:** ~40g
 *   **Total Carbs:** ~42g
 *   **Dietary Fiber:** ~14g
@@ -125,6 +127,7 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 5.  **Cook:** Air Fry at **380°F (190°C) for 10-12 minutes**.
 
 ### Macro Profile (For 2 Samosas + 1 Scoop Pea/Rice Protein)
+*   **Protocol Window:** **Rest/Recovery (T/Th/S)**
 *   **Total Protein:** ~42g
 *   **Total Carbs:** ~48g
 *   **Dietary Fiber:** ~16g (Massive Psyllium Sweep)
@@ -156,17 +159,6 @@ While Option 3 (Gluten-Free) provides high fiber, the protocol **mandates** a ro
 2.  **The Samosa Ball:** Roll the dough into a ball around the filling. This creates the highest crunch-to-filling ratio and ensures the center stays cold longer (maximizing RS3).
 
 ---
-
-## Macro Summary (For 2 Samosas)
-
-| Metric | Option 1 (Seitan) | Option 2 (Atta Hybrid) | Option 3 (Green GF Fortified) |
-| :--- | :--- | :--- |
-| **Total Protein** | **~50g** | **~40g** | **~42g** |
-| **Total Carbs** | **~32g** | **~42g** | **~48g** |
-| **Dietary Fiber** | **~10g** | **~14g** | **~16g** |
-| **Net Carbs** | **~22g** | **~28g** | **~32g** |
-| **Fat** | ~12g (Avocado Oil) | ~12g (Avocado Oil) | ~12g (Avocado Oil) |
-| **Protocol Window**| **Heavy Lift (M/W/F)** | **Standard (Any)** | **Rest/Recovery (T/Th/S)** |
 
 ## Clinical Rationale
 *   **Protein Architecture (Complementarity):** 
