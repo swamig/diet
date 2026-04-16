@@ -62,6 +62,19 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 4.  **Roll:** Roll paper-thin between parchment sheets. Cut into circles or strips.
 5.  **Cook:** Air Fry at **400°F (200°C) for 7-8 minutes**.
 
+### Macro Profile (For 2 Samosas)
+*   **Total Protein:** ~50g
+*   **Total Carbs:** ~32g
+*   **Dietary Fiber:** ~10g
+*   **Complex Carbs (RS3/Starches):** ~20g *(Sustained energy, flat insulin curve)*
+*   **Net Carbs:** ~22g
+*   **Fat:** ~12g (Avocado Oil)
+
+
+
+
+
+
 ---
 
 
@@ -78,6 +91,19 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 2.  **Hydrate:** Add water slowly. Knead for 3-5 minutes to activate the gluten.
 3.  **Rest:** Rest for **30 minutes** before rolling.
 4.  **Cook:** Air Fry at **390°F (195°C) for 8-10 minutes**.
+
+### Macro Profile (For 2 Samosas)
+*   **Total Protein:** ~40g
+*   **Total Carbs:** ~42g
+*   **Dietary Fiber:** ~14g
+*   **Complex Carbs (RS3/Starches):** ~26g *(Moderate glycemic load)*
+*   **Net Carbs:** ~28g
+*   **Fat:** ~12g (Avocado Oil)
+
+
+
+
+
 
 ## Option 3: The 'Green Crystal' GF Skin (Rice, Tapioca & Moringa)
 *A lighter, crispier GF alternative. Features a vivid green hue from Moringa for visual signaling and antioxidant delivery. Yields ~40g protein for 2 units (with fortified filling).*
@@ -97,6 +123,19 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 3.  **Rest:** Let sit for **10 minutes** until cool enough to handle.
 4.  **Roll:** Roll very thin between parchment. Because of the psyllium/starch gel, it will be flexible like a tortilla.
 5.  **Cook:** Air Fry at **380°F (190°C) for 10-12 minutes**.
+
+### Macro Profile (For 2 Samosas + 1 Scoop Pea/Rice Protein)
+*   **Total Protein:** ~42g
+*   **Total Carbs:** ~48g
+*   **Dietary Fiber:** ~16g (Massive Psyllium Sweep)
+*   **Complex Carbs (RS3/Starches):** ~30g *(Tapioca/Rice delayed by fiber gel)*
+*   **Net Carbs:** ~32g
+*   **Fat:** ~12g (Avocado Oil)
+
+
+
+
+
 
 ---
 

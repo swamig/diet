@@ -9,6 +9,16 @@ priority: 'high'
 
 Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of the protocol. They provide the amino acid backbone for the **Vegan Protein Patties** and the high-density **Resistant Starch Type 3 (RS3)** for gut microbiome health.
 
+
+## Macro Profile (Per 1 Cup Cooked/Chilled)
+*   **Calories:** ~270 kcal
+*   **Total Protein:** ~15g
+*   **Total Carbs:** ~45g
+*   **Dietary Fiber:** ~12g *(Dense Prebiotic load)*
+*   **Complex Carbs (RS3/Starches):** ~28g *(Slow-release energy)*
+*   **Net Carbs:** ~33g
+*   **Fat:** ~4g
+
 ## Ingredients (Weekly Batch)
 
 *   **2-3 Cups Dry Chickpeas.**

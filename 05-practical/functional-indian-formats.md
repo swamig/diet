@@ -9,6 +9,14 @@ priority: 'supporting'
 
 Traditional Indian culinary formats—Chutneys, Gunpowders (Podis), and Lentil preparations—are highly efficient delivery vehicles for the protocol's signaling compounds. To utilize them, they must be stripped of inflammatory cooking methods and aligned with our biochemical rules.
 
+
+## High-Signaling Format Macros (Per Standard 2 Tbsp Serving)
+*   **MCT Coconut Chutney:** ~35 kcal | **Fat:** ~3.5g (MCT) | **Net Carbs:** ~1g | **Complex Carbs:** 0g
+*   **Imlee (Tamarind) Chutney (Sugar-Free):** ~15 kcal | **Fat:** 0g | **Net Carbs:** ~3g | **Complex Carbs:** ~1g (Pectin)
+*   **TRP Mint/Cilantro Chutney:** ~5 kcal | **Fat:** 0g | **Net Carbs:** ~1g | **Complex Carbs:** 0g
+*   **Raw Toum (Garlic Paste):** ~85 kcal | **Fat:** ~9g (Avocado Oil) | **Net Carbs:** ~1g | **Complex Carbs:** 0g
+*   **Vascular Podi (Gunpowder):** ~45 kcal | **Fat:** ~3.5g | **Protein:** ~2g | **Fiber:** ~1.5g
+
 ## 1. High-Signaling Chutneys (Raw Enzyme Vectors)
 Chutneys are utilized to deliver heat-sensitive enzymes (like allicin and myrosinase) and volatile oils without thermal degradation.
 

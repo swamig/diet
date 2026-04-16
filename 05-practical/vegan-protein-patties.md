@@ -9,6 +9,16 @@ priority: 'supporting'
 
 This is the high-performance protein system that replaces meat in the protocol. It is engineered for a "chicken-like" texture, high protein (30g per meal), and maximum digestive efficiency to prevent bloating and support workout performance.
 
+
+## Macro Profile (Per Serving: 2 Patties)
+*   **Calories:** ~305 kcal
+*   **Total Protein:** ~27g *(Complete EAA profile from Pea/VWG/Chickpeas)*
+*   **Total Carbs:** ~25g
+*   **Dietary Fiber:** ~6g
+*   **Complex Carbs (RS3/Starches):** ~15g *(Sustained energy)*
+*   **Net Carbs:** ~19g
+*   **Fat:** ~8.5g (Olive Oil + Natural lipids)
+
 ## Inputs
 
 **🫘 Protein Base (Balanced for Digestion + Texture):**
