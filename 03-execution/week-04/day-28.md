@@ -16,6 +16,8 @@ priority: 'active'
 ## Objective
 Parasympathetic reset + cycle completion.
 
+> **Digestive Phase: Microbiome Endurance.** Focus on GI motility and the 'Fiber Sweep.' Uses high-viscosity psyllium and RS3 to clear metabolic waste and heal the gut lining.
+
 ## Next Morning Feedback & Adjustments
 *   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
 
@@ -28,16 +30,17 @@ Parasympathetic reset + cycle completion.
     *   **Casein (17:50):** Skip (Yogurt/Fruit only to prioritize overnight autophagy).
 
 ## Macros & Calorie Math (Estimated)
-| Meal Window | Calories | Protein | Fat | Carbs |
-| :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~745 kcal | 45g | 28g | 50g |
-| **14:30 Salad Layer** | ~400 kcal | 7g | 18g | 40g |
-| **17:50 Recovery Bowl** | ~440 kcal | 70g | 6g | 10g |
-| **DAILY TOTAL** | **1,585 kcal** | **122g** | **52g** | **100g** |
+| Meal Window | Calories | Protein | Fat | Carbs | Fiber |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **12:00 Main Meal** | ~650 kcal | 42g | 24g | 45g | 20g |
+| **14:30 Salad Layer** | ~350 kcal | 7g | 18g | 35g | 10g |
+| **17:50 Recovery Bowl** | ~440 kcal | 70g | 6g | 10g | 3g |
+| **DAILY TOTAL** | **1,440 kcal** | **119g** | **48g** | **90g** | **33g** |
 
 ## Timing
-*   **06:30** – Rest / Light Walk
-*   **07:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
+*   **06:30** – Morning Walk (Light) OR Restorative Yoga
+*   **08:30** – Rest / Light Walk
+*   **09:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Batch Meal Prep / Rest
@@ -121,6 +124,12 @@ Parasympathetic reset + cycle completion.
 *   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
 *   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
 *   Mineral Reload: Drink Jaljeera after 18:30 Heat.
+
+### Fat Loss Accelerators (If Plateaued)
+*   **Do NOT skip the Cold Plunge for extra cardio.** The Plunge builds Brown Adipose Tissue (BAT) to raise your resting metabolic rate and prevents the high-cortisol "skinny fat" trap.
+*   **The Lipid Lever:** Reduce 14:30 Salad Dressing oil from 4 tbsp to 2 tbsp (-250 kcal).
+*   **NEAT over Cardio:** Add a 15-minute casual walk after the 12:00 meal instead of adding formal cardio sessions.
+*   **Strict Fasting:** Zero calories between 17:50 and 12:00.
 
 ## Monitoring Focus
 

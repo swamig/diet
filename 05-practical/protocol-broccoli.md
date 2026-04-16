@@ -49,6 +49,20 @@ This protocol does not use multi-month "detox" blocks. Instead, it utilizes a da
 *   **Action:** Simply place the raw Broccoli Microgreens or thawed sprouts on top of your daily greens. Do NOT cook.
 *   **The Dijon Mustard Hack:** The `Master Dressing` recipe in your Sunday Prep automatically includes **Dijon Mustard**. Dijon is made from mustard seeds, which contain highly resilient myrosinase. The dressing acts as an exogenous "insurance policy" to maximize conversion in the gut [[4]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
+
+## Mature Broccoli Equivalence (The Concentration Factor)
+To understand the magnitude of this upgrade, we must compare the Sulforaphane yield of microgreens/sprouts to "mature" store-bought broccoli. Mature broccoli requires massive volume to trigger the same Nrf2 signaling.
+
+| Mature Broccoli Volume | Equivalent Microgreens | Equivalent Sprouts |
+| :--- | :--- | :--- |
+| **1.5 to 2 Cups (Half a Plate)** | **~1.5 to 2 Tablespoons** | **~0.75 to 1 Tablespoon** |
+| **10 to 15 Cups (2-3 Whole Heads)** | **~1/2 Cup** | **~1/4 Cup** |
+
+### The Efficiency Mandate:
+*   **The Problem:** Consuming 10+ cups of mature broccoli daily causes extreme GI distress, fiber overload, and goitrogenic pressure on the thyroid.
+*   **The Solution:** By using **1/2 Cup of Microgreens** (Lifting Days) or **1/4 Cup of Sprouts**, you are delivering the biochemical payload of **2-3 whole heads of broccoli** in a single handful of greens. 
+*   **Bioavailability Bonus:** Sulforaphane absorption from raw microgreens is ~74%, compared to only ~19% from cooked mature broccoli. This makes the concentrated versions effectively **4x more bioavailable** than the cooked version.
+
 ## Related Pages
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)
 - [Liver Load Spacing and Detox Pathways](../04-advanced-control/liver-load.md)

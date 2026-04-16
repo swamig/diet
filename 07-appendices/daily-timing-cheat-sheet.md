@@ -16,23 +16,23 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | Time | Action | Default Components | Notes |
 | :--- | :--- | :--- | :--- |
 | **06:30** | Morning Anchor | Cold Plunge (Method A) | **Noradrenaline Spike:** Clear brain fog. Swap for Yoga if "fried." |
-| **07:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. Skip Matcha on high-fatigue days. |
+| **09:15** | Morning hydration | Warm Ajwain, Jeera, or Matcha [6](master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) | Must be WARM. Skip Matcha on high-fatigue days. |
 | **10:00** | Tannin Deadline | Stop all tea/caffeine | Protects 12:00 iron absorption. |
-| **12:00** | Main meal / break fast | Protein + starch + spice stack + Jaljeera | **Tuesday Rule:** +50% Quinoa (3/4 Cup total). <br> **Chaas Hack:** Add Coconut Milk + ACV for creamy taste. <br> **Lipid Lever:** If using Coconut Milk, subtract 1-2 tbsp Oil from 14:30 Salad. <br> **Iron Rule:** Lemon/Vitamin C boosts iron absorption by **2x-3x**. |
+| **12:00** | Main meal / break fast | Protein + starch + spice stack + Jaljeera | **Thursday Rule:** +50% Quinoa (3/4 Cup total). <br> **Chaas Hack:** Add Coconut Milk + ACV for creamy taste. <br> **Lipid Lever:** If using Coconut Milk, subtract 1-2 tbsp Oil from 14:30 Salad. <br> **Iron Rule:** Lemon/Vitamin C boosts iron absorption by **2x-3x**. |
 | **13:00** | Proteolytic Enzyme Pulse | Papaya (1/2 cup) | Cleaves heavy proteins. Must follow the heavy 12:00 meal. |
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens | Rotators vary by day. |
 | **16:30** | Training Window | Lift (M/W/F) or VO2 Max (Tue) | Separate Cold Plunge from Lifting by 6+ hours. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
 | **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Yogurt + blueberries + casein | **Rest Day Rule:** Skip Casein scoop. <br> **Missed Window:** Add 1 scoop Unflavored Whey if 17:30 window was missed. <br> **Chaas Hack:** Can be blended into a *Savory Recovery Chaas* (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.** |
 | **18:30** | **Heat Rotation** | **Sauna (Tue/Thu/Sat) or Epsom Bath (M/W/F)** | **Parasympathetic Drop:** Always follow with Mineral Reload. |
-| **21:00** | Night infusion | Tulsi, Saffron, or Ashwagandha | **Tuesday Rule:** Mandatory Ashwagandha for VO2 Max recovery. |
+| **21:00** | Night infusion | Tulsi, Saffron, or Ashwagandha | **Thursday Rule:** Mandatory Ashwagandha for VO2 Max recovery. |
 
 ## Personal Admin & Fatigue Logic
 
 ### 1. Stress Management (Noradrenaline vs. Cortisol)
 *   **Cold Plunge (AM):** Acute dopamine/noradrenaline pulse. Used for alertness.
 *   **VO2 Max (Tue):** Deep metabolic cortisol. Requires 21:00 Ashwagandha to clear.
-*   **Fatigue Check:** If waking up with high systemic stress (soreness/fog), skip the 06:30 Cold Plunge for Yoga and skip the 07:15 Matcha.
+*   **Fatigue Check:** If waking up with high systemic stress (soreness/fog), skip the 06:30 Cold Plunge for Yoga and skip the 09:15 Matcha.
 
 ### 2. Heat Rotation Rule
 *   **Lift Days (M/W/F):** **Epsom Salt Bath (105°F)**. Transdermal magnesium for muscle repair and mechanical relaxation.
@@ -40,7 +40,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 *   **Post-Heat:** Drink the **Mineral Reload Jaljeera** (Lemon, Black Salt, Roasted Cumin).
 
 ### 3. Hypertrophy Blockade
-*   **NEVER** cold plunge immediately after your 16:30 Heavy Lift. It blunts the growth signal (mTOR). Keep cold exposure to 06:30 morning windows only.
+*   **NEVER** cold plunge immediately after your 16:30 Heavy Lift. It blunts the growth signal (mTOR). Keep cold exposure to 08:30 morning windows only.
 
 ## Macro Adjustments by Day Type
 

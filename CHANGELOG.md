@@ -11,6 +11,22 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-04-15 17:10** | `gemini` | docs(broccoli): Document Sulforaphane equivalence between microgreens/sprouts and mature broccoli (1/4 cup sprouts = ~12 cups mature broccoli)
+- **2026-04-15 17:05** | `gemini` | docs(daily): Inject Digestive Phase status (Protein Strength Training / Microbiome Endurance / Glycogen Recovery) into the header of all 28 execution days
+- **2026-04-15 17:00** | `gemini` | feat(macros): Add dedicated Dietary Fiber column to all daily execution tables to track Microbiome Hormesis loads
+- **2026-04-15 16:55** | `gemini` | fix(macros): Standardize and inject highly accurate Daily Total Macro tables into all 28 execution days based on the new Samosa/Dressing/Quinoa load parameters
+- **2026-04-15 16:50** | `gemini` | feat(culinary): Convert GF Samosa skin from 'Purple' to 'Green Crystal' using standard Tapioca Starch + Moringa powder for reliable color signaling and antioxidant delivery
+- **2026-04-15 16:45** | `gemini` | docs(foundations): Document the 'Digestive Periodization' (Gut Workout) philosophy for alternating protein absorption with fiber-sweeping
+- **2026-04-15 16:40** | `gemini` | docs(culinary): Add detailed Bio-Mechanical Rationale for Samosa Skin Rotation (Fiber management, Protein matrix, and Gut Resilience)
+- **2026-04-15 16:35** | `gemini` | docs(macros): Update Functional Samosas table to explicitly separate Total Carbs, Dietary Fiber, and Net Carbs
+- **2026-04-15 16:30** | `gemini` | fix(protein): Adjust GF Samosa fortification to precise 2:1 Rice/Pea ratio (in tablespoons) to offset chickpea Lysine dominance
+- **2026-04-15 16:25** | `gemini` | feat(protein): Upgrade GF Samosa fortification to a 50/50 Pea-Rice blend for Amino Acid balance (Methionine/Lysine synergy)
+- **2026-04-15 16:20** | `gemini` | feat(culinary): Restore Option 2 (Atta/VWG Hybrid) to Functional Samosas and update full-cycle macros
+- **2026-04-15 16:10** | `gemini` | feat(culinary): Upgrade Functional Samosas with Ajwain skins, "Purple Crystal" Rice-based GF option, and Samosa Ball formatting
+- **2026-04-15 16:05** | `gemini` | docs(advanced): Add Ice Bath vs. Whole Body Cryotherapy (WBC) biological comparison to Hormesis Integration considerations
+- **2026-04-15 15:55** | `gemini` | docs(weight-loss): Embed Fat Loss Accelerator rules (NEAT, Lipid Lever, Plunge adherence) into all daily and weekly templates
+- **2026-04-15 15:45** | `gemini` | feat(timing): Shift morning stressors to 08:30 (2-hour cortisol delay) and add 06:30 Walk/Yoga anchor
+- **2026-04-15 15:20** | `gemini` | fix(training): Swap Tuesday 4x4 with Thursday Cardio to prevent glycogen clash after Monday Heavy Legs
 - **2026-04-14 11:30** | [2a22a3c](https://github.com/swamig/diet/commit/2a22a3c) | docs: add protein comparison and admin strategy for functional samosas
 - **2026-04-14 11:25** | [9acf50c](https://github.com/swamig/diet/commit/9acf50c) | feat: add elastic GF samosa skin and gluten cycling protocol
 - **2026-04-14 11:15** | [7e7cbfe](https://github.com/swamig/diet/commit/7e7cbfe) | feat: upgrade samosa wrapper to 90/10 VWG seitan hybrid

@@ -58,6 +58,13 @@ Use this at the end of each week to convert daily notes into decisions before th
 - **Resistant starch workflow respected:**
 - **Logs kept current:**
 
+## Fat Loss & Metabolic Adjustments (If Applicable)
+If your primary goal is fat loss and measurements have plateaued, DO NOT add more fasted cardio or skip the Cold Plunge (this traps you in a high-cortisol state). Instead, review these specific levers:
+- **Did I pull the Lipid Lever?** (Dropping 14:30 Salad Dressing oil from 4 tbsp to 2 tbsp) [ ] Yes [ ] No
+- **Did I increase NEAT?** (Adding 10-15 min casual walks after 12:00 meal) [ ] Yes [ ] No
+- **Was my fasting window strict?** (Zero calories between 17:50 and 12:00) [ ] Yes [ ] No
+- **Did I maintain the Cold Plunge?** (Required for Brown Adipose Tissue thermogenesis) [ ] Yes [ ] No
+
 ## Keep / Reduce / Test Next Week
 
 - **Keep:**

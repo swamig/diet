@@ -16,6 +16,8 @@ priority: 'active'
 ## Objective
 Moderate antimicrobial (Clove Day).
 
+> **Digestive Phase: Protein Strength Training.** Focus on maximal absorption and tissue repair using complex structural proteins (Seitan/Gluten). Maintains enzymatic capacity to handle heavy protein loads.
+
 ## Next Morning Feedback & Adjustments
 *   **General Rule:** Yoga is the daily "Autonomic Switch" and should be used at 21:00 or as a morning substitute if the "Target Feel" isn't met.
 
@@ -28,16 +30,17 @@ Moderate antimicrobial (Clove Day).
     *   **Casein (17:50):** 1 scoop (Required for overnight muscle repair).
 
 ## Macros & Calorie Math (Estimated)
-| Meal Window | Calories | Protein | Fat | Carbs |
-| :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~800 kcal | 47g | 28g | 59g |
-| **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
-| **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
-| **DAILY TOTAL** | **1,900 kcal** | **144g** | **66g** | **109g** |
+| Meal Window | Calories | Protein | Fat | Carbs | Fiber |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **12:00 Main Meal** | ~800 kcal | 50g | 28g | 60g | 12g |
+| **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g | 12g |
+| **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g | 3g |
+| **DAILY TOTAL** | **1,900 kcal** | **147g** | **66g** | **110g** | **27g** |
 
 ## Timing
-*   **06:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
-*   **07:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
+*   **06:30** – Morning Walk (Light) OR Restorative Yoga
+*   **08:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
+*   **09:15** – Morning Hydration (Warm Ajwain/Jeera/Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Tofu Day High Capsaicin Pulse [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) + Micro-Nutrients) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
 *   **14:30** – Rotational salad [10](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 *   **16:30** – Heavy Lift
@@ -120,6 +123,12 @@ Moderate antimicrobial (Clove Day).
 *   Hypertrophy Blockade: No Cold Plunge for 6 hours after lifting.
 *   Fatigue Check: If 'fried', swap morning cold for Yoga and skip Matcha.
 *   Mineral Reload: Drink Jaljeera after 18:30 Heat.
+
+### Fat Loss Accelerators (If Plateaued)
+*   **Do NOT skip the Cold Plunge for extra cardio.** The Plunge builds Brown Adipose Tissue (BAT) to raise your resting metabolic rate and prevents the high-cortisol "skinny fat" trap.
+*   **The Lipid Lever:** Reduce 14:30 Salad Dressing oil from 4 tbsp to 2 tbsp (-250 kcal).
+*   **NEAT over Cardio:** Add a 15-minute casual walk after the 12:00 meal instead of adding formal cardio sessions.
+*   **Strict Fasting:** Zero calories between 17:50 and 12:00.
 
 ## Monitoring Focus
 

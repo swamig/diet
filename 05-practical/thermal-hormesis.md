@@ -15,11 +15,11 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 **Goal:** Daily autonomic balancing, neurotransmitter release, and baseline recovery.
 
 ### The Morning Cold Plunge (Sympathetic Spike)
-*   **Timing:** 06:30 (Fasted).
+*   **Timing:** 08:30 (Fasted).
 *   **Duration:** 2-3 minutes.
 *   **Temperature:** 39°F - 50°F (4°C - 10°C).
 *   **Mandate:** **Cold only.** Do not apply heat in the morning; it blunts the alertness spike.
-*   **The Re-Warm:** Exit the plunge and let your body re-warm naturally for 10-15 minutes. Then, drink your **Warm Ajwain or Jeera Water (07:15)** to vasodilate the core and re-ignite digestive *Agni*.
+*   **The Re-Warm:** Exit the plunge and let your body re-warm naturally for 10-15 minutes. Then, drink your **Warm Ajwain or Jeera Water (09:15)** to vasodilate the core and re-ignite digestive *Agni*.
 
 ### The Evening Heat Rotation (Parasympathetic Drop)
 *   **Timing:** 18:30 (Or post-workout on a non-lifting day).
