@@ -127,4 +127,5 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
 - [90-Minute Sunday Batch Prep System](sunday-prep.md)
 - [Substitutions Guide](substitutions-guide.md)
 - [High Signaling Container System 🧪](container-system.md)
+- [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)
 - [Cumin (Jeera) - Digestive and Iron Support Layer](../02-ingredients/cumin.md)

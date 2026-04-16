@@ -45,3 +45,4 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 - [Saturday: The Initial Cook & First Chill](saturday-prep.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [100% Optimized Indian Protein Patties](vegan-protein-patties.md)
+- [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)

@@ -183,5 +183,6 @@ To convert simple starches into **Resistant Starch Type 3**:
 
 - [High Signaling Container System 🧪](container-system.md)
 - [Fridge Layout Optimization](fridge-storage.md)
+- [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Weekly Prep Checklist](weekly-prep-checklist.md)
