@@ -22,6 +22,8 @@ The protocols for Contrast Therapy and the separation of Cold Plunges from Heavy
 *   **The Hypertrophy Blockade:** Roberts et al., 2015, *The Journal of Physiology*. "Post-exercise cold water immersion attenuates acute anabolic signalling and long-term adaptations in muscle to strength training." This is why cold plunging must be separated from 16:30 heavy lifting by at least 4-6 hours.
 *   **Circadian Temperature & Sleep Trigger:** Murphy, P. J., & Campbell, S. S., 1997, *Physiology & Behavior*. "Nighttime drop in body temperature: a physiological trigger for sleep." Validates the evening Sauna protocol (18:30); the rapid cooling after exiting the sauna mimics the body's natural sleep signal.
 
+*   **Cold Water Immersion vs. Whole Body Cryotherapy:** Mawhinney, C., et al., 2017, *Medicine & Science in Sports & Exercise*. "Cold-Water Immersion Cools Muscle and Core Temperature More Effectively Than Whole-Body Cryotherapy." Proves that water's thermal conductivity is required for deep tissue cooling, validating the rejection of dry cryo chambers.
+
 ## 3. Allicin Activation (The 10-Minute Garlic Rule)
 Garlic's anti-inflammatory properties require enzymatic conversion before cooking.
 *   **Alliinase Heat Sensitivity:** Song, K. & Milner, J. A., 2001, *The Journal of Nutrition*. "The influence of heating on the anticancer properties of garlic." Demonstrates that immediate heating of crushed garlic destroys the enzyme *alliinase*, preventing the formation of allicin. Resting crushed garlic for 10 minutes allows the enzyme to finish the conversion, making the allicin relatively heat-stable for brief cooking.
@@ -30,6 +32,9 @@ Garlic's anti-inflammatory properties require enzymatic conversion before cookin
 The baseline rules for turmeric absorption and broccoli preparation.
 *   **Curcumin + Piperine:** Shoba et al., 1998, *Planta Medica*. "Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers." Piperine increases curcumin bioavailability by up to 2000% by inhibiting UGTs in the liver.
 *   **Myrosinase and Crucifers:** Fahey et al., 2015, *PLOS One*. Sulforaphane bioavailability depends strongly on active endogenous myrosinase. (Also supported by Okunade et al., 2018, *Molecular Nutrition & Food Research*, showing mustard powder acts as an exogenous myrosinase source off-heat).
+
+*   **Sprout/Microgreen Concentration (The 50x Rule):** Fahey, J. W., et al., 1997, *PNAS*. "Broccoli sprouts: An exceptionally rich source of inducers of enzymes that protect against chemical carcinogens." The seminal Johns Hopkins study proving 3-day old sprouts contain 20-50x more glucoraphanin than mature broccoli.
+*   **Raw vs. Cooked Bioavailability:** Vermeulen, M., et al., 2008, *Journal of Agricultural and Food Chemistry*. "Bioavailability and kinetics of sulforaphane in humans after consumption of cooked versus raw broccoli." Proves that raw consumption (intact myrosinase) yields 74% absorption compared to 19% from cooked broccoli.
 
 ## 5. Adaptogens & Parasympathetic Alignment (Ashwagandha)
 The 21:00 "Net 8" Night Infusion uses specific herbs to buffer the HPA axis.
@@ -55,6 +60,8 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Creatine Safety & Efficacy:** Kreider, R. B., et al., 2017, *JISSN*. ISSN position stand on creatine supplementation.
 *   **Resistance Training & Cortisol Signaling:** Crewther, B. T., et al., 2011, *Sports Medicine*. "Two Customary Resistance Training Protocols... Effects on Muscle Damage and Cortisol." Validates that acute mechanical tension triggers the HPA axis to release cortisol for glucose mobilization and energy homeostasis.
 *   **Zinc & Androgen Recovery (Pumpkin Seeds):** Prasad, A. S., et al., 1996, *Nutrition*. "Zinc status and serum testosterone levels of healthy adults." Validates the protocol's use of Pumpkin Seeds (highly dense in bioavailable zinc and magnesium) to support testosterone production and CNS recovery after heavy lifting.
+
+*   **Plant Protein Complementarity (Lysine/Methionine Synergy):** Gorissen, S. H. M., et al., 2018, *Amino Acids*. "Protein content and amino acid composition of commercially available plant-based protein isolates." Validates that combining pea isolate (low methionine, high lysine) with rice isolate (high methionine, low lysine) creates a complete EAA profile equivalent to whey.
 
 ## 9. Metabolic Flexibility, VO2 Max & HIIT
 *   **Fasted Fat Oxidation:** Vieira, A. F., et al., 2016, *British Journal of Nutrition*. "Effects of aerobic exercise performed in fasted v. fed state on fat and carbohydrate metabolism."
@@ -90,6 +97,8 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Peonidin & Cyanidin (Purple Sweet Potato):** Teow et al., 2007, *Food Chemistry*. "Antioxidant activities, phenolic and β-carotene contents of sweet potato genotypes with varying flesh colors." Demonstrates that purple-fleshed sweet potatoes possess higher antioxidant capacity and anthocyanin content than blueberries, providing a dual-threat starch and pigment anchor.
 *   **Shikimic Acid & Antiviral Signaling (Star Anise):** Patra, J. K., et al., 2020, *Frontiers in Pharmacology*. "Star anise (Illicium verum): An updated review of its phytochemistry and biological activities." Validates the therapeutic potential of Shikimic Acid as a natural neuraminidase inhibitor and potent antimicrobial agent.
 
+*   **Moringa Oleifera (Visual/Antioxidant Signaling):** Vergara-Jimenez, M., et al., 2017, *Antioxidants*. "Bioactive Components in Moringa Oleifera Leaves Protect against Chronic Disease." Validates its extreme density of quercetin and chlorogenic acid, justifying its use in the Green GF Samosa skin.
+
 ## 11. Operational Mechanisms (Bio-Enhancement & Degradation)
 *   **The Menthol Hierarchy (*Mentha arvensis*):** Brahroui et al., 2016, *Journal of Essential Oil Bearing Plants*. Yields 70-80% menthol concentration.
 *   **Terpene-Assisted Curcumin Absorption:** Shen et al., 2011, *International Journal of Pharmaceutics*. Menthol acts as a mucosal penetration enhancer.
@@ -106,6 +115,8 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Default Mode Network Interruption (Mantra):** Brewer, J. A., et al., 2011, *PNAS*. Demonstrates that focal anchors actively quiet the DMN, reducing psychological rumination.
 *   **Mindfulness & Cortisol Reduction (Vimarsha/Witnessing):** Creswell, J. D., et al., 2014, *Psychoneuroendocrinology*. "Brief mindfulness meditation training alters psychological and neuroendocrine responses to social evaluative stress." Validates that non-judgmental awareness practices (like Vimarsha) significantly blunt the cortisol spike in response to psychological stressors, providing the biological mechanism for the "So Hum" protocol.
 *   **Post-Exercise HRV Recovery:** Stanley, J., et al., 2013, *Sports Medicine*. "The Effect of Post-Exercise Recovery on Heart Rate Variability."
+
+*   **Adenosine Kinetics & The Caffeine Delay:** Landolt, H. P., 2008, *Sleep Medicine Reviews*. "Sleep homeostasis: A role for adenosine in humans." Explains adenosine receptor binding and validates the protocol rule of delaying caffeine (Matcha) for 90-120 minutes after waking to prevent the afternoon crash.
 
 ## 13. Metabolic Oncology & Chemoprevention
 *   **Nrf2 & Cancer Prevention (Sulforaphane):** Dinkova-Kostova, A. T., et al., 2012, *Trends in Molecular Medicine*. "The role of Nrf2 in the chemopreventive effects of dietary phytochemicals." Validates the protocol's use of sulforaphane as a primary lever for preventing DNA damage.
