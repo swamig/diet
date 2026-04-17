@@ -16,7 +16,7 @@ This protocol uses:
 *   **Fiber variety (30–45g daily):** Met seamlessly via the foundational anchors (1/2 cup legumes, 2 protein patties, daily seed rotation, and blueberries). The shift to broccoli microgreens reduces bulk insoluble fiber slightly to prevent GI distress, while maintaining elite-level prebiotic signaling.
 *   Controlled antimicrobial exposure
 
-Strong antimicrobial spices (Clove, Ajwain) are not used daily. The objective is modulation, not sterilization.
+Strong antimicrobial pulses (Clove, Ajwain, Papaya Seeds) are not used daily. The objective is modulation, not sterilization.
 
 
 ## Digestive Periodization (The "Gut Workout")

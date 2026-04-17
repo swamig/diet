@@ -110,6 +110,9 @@ The "Double-Chill" protocol for legumes and quinoa alters their glycemic impact.
 *   **Proteolytic Efficacy (Papain):** Muss, C., et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation (Caricol®) in digestive disorders." Demonstrates that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract. This validates the use of the 13:00 Papaya pulse to mechanically cleave the heavy plant proteins from the 12:00 meal.
 *   **The Glass Mandate:** Halden, R. U. (2010). "Plastics and health risks." Endocrine disruption from chemical plasticizers.
 
+*   **Antiparasitic Efficacy (Papaya Seeds):** Okeniyi et al., 2007, *Journal of Medicinal Food*. "Effectiveness of dried Carica papaya seeds against human intestinal parasitosis: a pilot study." Proves that an elixir of air-dried papaya seeds and honey significantly cleared intestinal parasites in 76.7% of subjects.
+*   **Male Infertility (Reversibility):** Lohiya et al., 2002, *Asian Journal of Andrology*. "Chloroform extract of Carica papaya seeds induces long-term but reversible azoospermia in langur monkeys." Validates the potent contraceptive potential and safety of reversal upon cessation.
+
 ## 12. Autonomic Nervous System & Mind Tuning
 *   **Vagal Tone & Parasympathetic Activation (Yoga):** Pascoe, M. C., et al., 2017, *Psychoneuroendocrinology*. Meta-analysis validating that yoga and slow breathing directly stimulate the Vagus nerve.
 *   **Default Mode Network Interruption (Mantra):** Brewer, J. A., et al., 2011, *PNAS*. Demonstrates that focal anchors actively quiet the DMN, reducing psychological rumination.
