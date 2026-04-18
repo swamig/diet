@@ -25,6 +25,13 @@ This is the engineered "Fresh Pulse" for **Tofu Day.** By blooming the garlic an
 5.  **00:25 - The Plating & Garnish:** Remove the tofu from the heat. Immediately tear 5-6 fresh **Mentha arvensis** leaves over the hot tofu. The residual heat will release the menthol aroma without destroying the compound.
 6.  **00:26 - Completion (The "Dry Kadhi"):** Serve immediately alongside your **Peppermint Jaljeera**. The combination of the hot, sour, and spicy elements mimics the digestive power of a traditional Indian Kadhi, but without the dairy/calcium that blocks iron absorption.
 
+
+## The "Wet Curry" Variant (Optional)
+To convert this into a creamy "Wet Kadhi" without violating the Dairy Blockade:
+1.  At **00:25** (after tearing the mint), add **2-3 tbsp of full-fat coconut milk** directly to the hot pan. 
+2.  Stir vigorously for 30-60 seconds until the coconut milk reduces into a thick, spiced glaze coating the tofu.
+3.  **CRITICAL (The Lipid Substitution Rule):** Coconut milk is high in MCTs. If you use this variant, you **MUST** reduce your 14:30 Salad Dressing oil by 1 tbsp to maintain the protocol's caloric ceiling.
+
 ## Benefits of the Fresh Method
 *   **Maximum Potency:** Volatile oils are at 100% strength.
 *   **Zero Safety Risk:** No risk of botulism since the oil is not stored.

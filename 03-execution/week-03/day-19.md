@@ -62,9 +62,9 @@ Mitochondrial + moderate nitric support.
 *   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 **Ingredients:**
-*   2 Vegan Protein Patties + 1/2 cup Chickpeas
+*   200g firm tofu (pressed 15 min)
 *   1/2 cup cooked quinoa
-*   5g olive oil
+*   1 tsp olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
 *   1/2 tsp coriander powder
@@ -73,8 +73,9 @@ Mitochondrial + moderate nitric support.
 *   **1/4 tsp nigella** (Mitochondrial support)
 
 **Instructions:**
-1.  Sear patties with spice mix/nigella.
-2.  Sear 5-6 min/side (165°F).
+1.  Rub tofu with spice mix.
+2.  Sear 3-4 min/side.
+3.  *(Optional Wet Curry)*: Add 2-3 tbsp coconut milk to the pan for the final 60 seconds to create a thick glaze. (If used, reduce 14:30 Salad oil by 1 tbsp).
 
 ## Salad
 **Ingredients:**

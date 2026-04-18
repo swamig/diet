@@ -78,6 +78,7 @@ Nitric oxide emphasis.
 **Instructions:**
 1.  Rub tofu with spice mix.
 2.  Sear 3-4 min/side.
+3.  *(Optional Wet Curry)*: Add 2-3 tbsp coconut milk to the pan for the final 60 seconds to create a thick glaze. (If used, reduce 14:30 Salad oil by 1 tbsp).
 
 ## Salad: Nitric Layer
 **Ingredients:**
