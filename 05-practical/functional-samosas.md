@@ -37,6 +37,9 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 *   1/2 tsp **Sea Salt**.
 *   **The Fortification (Mandatory for GF version):** **3 tbsp (approx 25g) Elite Amino Blend** (2 tbsp Rice Protein + 1 tbsp Pea Protein). *Why this specific ratio?* Your filling is already heavily legume-dominant (chickpeas & peas) which provides excess Lysine but severely lacks Methionine. A 2:1 ratio favoring Rice Protein perfectly balances the total amino acid pool of the entire samosa.
 
+
+*   **The High-Signaling (Spicy) Variant (Optional):** Add **1/2 tsp Kashmiri Chili Powder**, **1/2 tsp Amchur (Dried Mango Powder)**, and **1-2 finely chopped Green Chilies**. *Reasoning:* This increases the capsaicin load, which synergizes with the Ajwain in the crust to further accelerate gastric emptying.
+
 ### Instructions:
 1.  Roughly mash the cold chickpeas in a bowl (keep some texture).
 2.  Fold in the peas, ginger, spices, salt, and lemon juice.
