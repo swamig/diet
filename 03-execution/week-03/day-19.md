@@ -58,7 +58,8 @@ Mitochondrial + moderate nitric support.
 *   1/4 tsp Ceylon cinnamon
 *   Warm water.
 
-## Main Meal: Tofu (High Capsaicin Pulse)
+## Main Meal: Tofu
+*   **Optional Volume Upgrade (Lauki Pakoda):** 1/2 cup grated Lauki + 2-3 tbsp Besan + 1/4 tsp Ajwain + 1/4 tsp Kala Namak + 1/2 tsp Grated Ginger. (High Capsaicin Pulse)
 *   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 **Ingredients:**
@@ -78,10 +79,14 @@ Mitochondrial + moderate nitric support.
 
 **Instructions:**
 1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin.
-2.  **Rub:** Coat pressed tofu cubes with the dry spice mix.
-3.  **The Bloom:** Place oil, methi, chilies, and garlic in a COLD pan. Turn heat to low; let bloom for 5 min until methi is golden.
-4.  **The Sear:** Increase heat to med-high. Sear tofu 3-4 min/side.
-5.  **The Wet Kadhi:** Tear mint leaves over tofu. Add 2-3 tbsp coconut milk; stir for 30s until it forms a thick glaze. (If used, reduce 14:30 Salad oil by 1 tbsp).## Salad
+2.  **Lauki Prep (Optional):** Grate Lauki and toss with Kala Namak. Let sit for 2 min. Press hard through a **fine mesh strainer** using a spoon to extract all juice (drink the juice!). 
+3.  **The Pakoda Bind:** Mix the dry lauki shreds with Besan, Ajwain, and Ginger until a thick dough forms.
+4.  **Rub:** Coat pressed tofu cubes with the dry spice mix.
+5.  **The Bloom:** Place oil, methi, chilies, and garlic in a COLD pan. Turn heat to low; let bloom for 5 min until methi is golden.
+6.  **The Sear:** Increase heat to med-high. Add tofu **and small flat discs of Lauki dough** to the pan. Sear both for 3-4 min/side.
+7.  **The Wet Kadhi:** Tear mint leaves over pan. Add 2-3 tbsp coconut milk; stir for 30s until it forms a thick glaze coating both tofu and pakodas.
+
+## Salad
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
