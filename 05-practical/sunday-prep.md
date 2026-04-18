@@ -66,6 +66,12 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 4.  Portion sauerkraut into small cups.
 5.  **Microgreens stay in original box.**
 
+
+**Optional Veggie Upgrades (Lauki for Tofu Days):**
+1.  **Peel & Taste:** Peel 1-2 cups of Lauki. Cut a tiny slice and taste it raw. (If it is bitter, THROW IT AWAY—it is toxic).
+2.  **Grate:** If it tastes neutral/sweet, grate the flesh.
+3.  **Storage (CRITICAL):** Store the *raw, unsalted* shreds in an airtight glass container lined with a dry paper towel. **Do NOT salt it on Sunday** (salt will cause it to turn into a mushy puddle by Wednesday). Salt it right before pressing/cooking on the day of.
+
 ## Block 5: Spice Mix & Functional Pastes (10 Min)
 **Goal:** Prevent volatile oil degradation. Pre-ground commercial spices lose their signaling potency quickly. By batching these freshly each week, you guarantee therapeutic thresholds.
 
