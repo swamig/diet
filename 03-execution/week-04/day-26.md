@@ -72,13 +72,17 @@ Mitochondrial support + controlled nitric.
 *   1/4 tsp Kashmiri chili powder
 *   1/4 tsp black pepper
 *   **1/4 tsp nigella** (Mitochondrial support)
+*   **1/4 tsp Whole Methi Seeds** (Glycemic Anchor)
+*   **2-3 Cloves Garlic** (Crushed)
+*   **1-2 Thai Bird’s Eye Chilies**
+*   **Fresh Peppermint Leaves** (Mentha arvensis)
 
 **Instructions:**
-1.  Rub tofu with spice mix.
-2.  Sear 3-4 min/side.
-3.  *(Optional Wet Curry)*: Add 2-3 tbsp coconut milk to the pan for the final 60 seconds to create a thick glaze. (If used, reduce 14:30 Salad oil by 1 tbsp).
-
-## Salad
+1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin.
+2.  **Rub:** Coat pressed tofu cubes with the dry spice mix.
+3.  **The Bloom:** Place oil, methi, chilies, and garlic in a COLD pan. Turn heat to low; let bloom for 5 min until methi is golden.
+4.  **The Sear:** Increase heat to med-high. Sear tofu 3-4 min/side.
+5.  **The Wet Kadhi:** Tear mint leaves over tofu. Add 2-3 tbsp coconut milk; stir for 30s until it forms a thick glaze. (If used, reduce 14:30 Salad oil by 1 tbsp).## Salad
 **Ingredients:**
 *   2 cups arugula
 *   2 tbsp sauerkraut
