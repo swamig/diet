@@ -28,6 +28,9 @@ The protocols for Contrast Therapy and the separation of Cold Plunges from Heavy
 Garlic's anti-inflammatory properties require enzymatic conversion before cooking.
 *   **Alliinase Heat Sensitivity:** Song, K. & Milner, J. A., 2001, *The Journal of Nutrition*. "The influence of heating on the anticancer properties of garlic." Demonstrates that immediate heating of crushed garlic destroys the enzyme *alliinase*, preventing the formation of allicin. Resting crushed garlic for 10 minutes allows the enzyme to finish the conversion, making the allicin relatively heat-stable for brief cooking.
 
+*   **The Allicin vs. Ajoene Partition (Bloom vs. Fresh):** Block, E., 1985, *Scientific American*. "The Chemistry of Garlic and Onions." Establishes that while raw crushing creates Allicin (acute antimicrobial), heating Allicin in a lipid medium (Blooming) converts it into stable organosulfur compounds like **Ajoene** and **Vinyldithiins**. These secondary compounds are significantly more potent at inhibiting platelet aggregation and improving vascular blood flow (nitric oxide synergy) than raw Allicin itself, while being gentler on the gastric mucosa.
+
+
 ## 4. Sulforaphane & Inflammatory Control
 The baseline rules for turmeric absorption and broccoli preparation.
 *   **Curcumin + Piperine:** Shoba et al., 1998, *Planta Medica*. "Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers." Piperine increases curcumin bioavailability by up to 2000% by inhibiting UGTs in the liver.

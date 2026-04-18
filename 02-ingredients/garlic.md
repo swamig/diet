@@ -35,6 +35,13 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Protocol Chickpeas (RS3 Matrix)](../05-practical/protocol-chickpeas.md)
 - [Toum (Raw Garlic Emulsion)](../05-practical/functional-indian-formats.md#2-high-signaling-emulsions-toum--garlic-paste)
 
+
+## Clinical Considerations: The Allicin-Ajoene Partition
+The protocol utilizes two different preparation methods to target specific physiological outcomes:
+
+1.  **The Fresh Pulse (Raw/Flash Sear):** Targeting **Allicin**. Used for acute immune support and antimicrobial action. High intensity, high gastric bite.
+2.  **The Lipid Bloom (Low Heat Sauté):** Targeting **Ajoenes**. By slowly warming rested garlic in oil, Allicin converts into stable ajoenes. These are superior for vascular health, blood flow, and platelet management, with a significantly reduced "garlic breath" and gastric irritation profile.
+
 ## Related Pages
 
 - [Peppermint & Capsaicin (TRP Synergy)](peppermint-chili.md)
