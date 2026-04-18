@@ -41,6 +41,7 @@ This section is a reference library, not required front-to-back reading. Start w
 - [Rosemary](rosemary.md)
 - [Saffron](saffron.md)
 - [Achiote](achiote.md)
+- [Pure Vanilla Extract (Vanillin / Neuro-Calmer)](vanilla.md)
 
 ## How to Use This Section
 

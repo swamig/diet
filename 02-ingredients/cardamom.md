@@ -7,7 +7,7 @@ priority: 'supporting'
 
 # Cardamom (1,8-Cineole / Flavor Stabilizer)
 
-Cardamom (*Elettaria cardamomum*) is a highly aromatic spice used in this protocol strictly as a **"botanical masking agent"** and **glucose stabilizer** for the 21:00 Night Infusion window.
+Cardamom (*Elettaria cardamomum*) is a highly aromatic spice used in this protocol as a **"botanical masking agent"** and **glucose stabilizer** for the 21:00 Night Infusion window, and as a **"Phantom Sweetness"** agent in the 17:50 Recovery Bowl.
 
 ## Mechanism of Action (1,8-Cineole & Terpinyl Acetate)
 
@@ -18,7 +18,7 @@ While famously used in culinary applications, cardamom provides two specific bio
 
 ## Execution
 
-*   **Timing:** 21:00 (Night Infusion).
+*   **Timing:** 17:50 (Recovery Bowl) and 21:00 (Night Infusion).
 *   **Dose:** A single pinch of ground cardamom (or 1 crushed pod).
 *   **Pairing:** Stacked strictly with Ceylon Cinnamon and Ashwagandha in the "Tasty Net 8" execution. 
 *   **Restriction:** Do **NOT** use cardamom in the Saffron infusion, as it will obliterate Saffron's delicate floral notes and fragile active compounds.

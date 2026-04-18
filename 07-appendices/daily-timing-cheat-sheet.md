@@ -23,7 +23,7 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | **14:30** | Salad layer | Greens + ferment + seeds + microgreens | Rotators vary by day. |
 | **16:30** | Training Window | Lift (M/W/F) or VO2 Max (Tue) | Separate Cold Plunge from Lifting by 6+ hours. |
 | **17:30** | Post-workout protein | Whey isolate + creatine | Flavored whey stays here only. |
-| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Yogurt + blueberries + casein | **Rest Day Rule:** Skip Casein scoop. <br> **Missed Window:** Add 1 scoop Unflavored Whey if 17:30 window was missed. <br> **Chaas Hack:** Can be blended into a *Savory Recovery Chaas* (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.** |
+| **17:50** | Recovery bowl [8](master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) | Yogurt + blueberries + casein + **Phantom Sweetness** (Vanilla, Cinnamon, Cardamom) | **Rest Day Rule:** Skip Casein scoop. <br> **Missed Window:** Add 1 scoop Unflavored Whey if 17:30 window was missed. <br> **Chaas Hack:** Can be blended into a *Savory Recovery Chaas* (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.** |
 | **18:30** | **Heat Rotation** | **Sauna (Tue/Thu/Sat) or Epsom Bath (M/W/F)** | **Parasympathetic Drop:** Always follow with Mineral Reload. |
 | **21:00** | Night infusion | Tulsi, Saffron, or Ashwagandha | **Thursday Rule:** Mandatory Ashwagandha for VO2 Max recovery. |
 

@@ -97,6 +97,7 @@ Parasympathetic emphasis + low stimulation reset.
 *   Greek yogurt
 *   Blueberries + 1/4 tsp Pure Vanilla Extract
 *   **No cacao.**
+*   **Phantom Sweetness (Approved):** You can add 1/4 tsp of Pure Madagascar Vanilla Extract, a pinch of Ceylon Cinnamon, and a pinch of Cardamom to the bowl. These compounds trick the brain with olfactory sweetness signals and act as neuro-calmers without spiking your blood sugar, creating a fantastic flavor profile.
 *   **Missed Window Failsafe:** Add 1 scoop **Unflavored Whey** if the 17:30 post-workout window was missed.
 *   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
 
