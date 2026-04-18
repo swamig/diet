@@ -79,7 +79,7 @@ Mitochondrial + moderate nitric support.
 
 **Instructions:**
 1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin.
-2.  **Lauki Prep (Optional):** Grate Lauki and toss with Kala Namak. Let sit for 2 min. Press hard through a **fine mesh strainer** using a spoon to extract all juice (drink the juice!). 
+2.  **Lauki Prep (Optional):** Peel Lauki and **taste a raw slice** (if bitter, discard the whole gourd!). Grate and toss with Kala Namak. Let sit for 2 min. Press hard through a **fine mesh strainer** using a spoon to extract all juice (drink the juice!). 
 3.  **The Pakoda Bind:** Mix the dry lauki shreds with Besan, Ajwain, and Ginger until a thick dough forms.
 4.  **Rub:** Coat pressed tofu cubes with the dry spice mix.
 5.  **The Bloom:** Place oil, methi, chilies, and garlic in a COLD pan. Turn heat to low; let bloom for 5 min until methi is golden.
