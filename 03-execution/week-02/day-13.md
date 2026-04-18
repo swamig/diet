@@ -74,8 +74,10 @@ Controlled nitric support + sulfur continuity.
 *   **1/4 tsp nigella** (Moderate antimicrobial)
 
 **Instructions:**
-1.  Sear patties with spice mix/nigella.
-2.  Sear 5-6 min/side (165°F).
+1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min).
+2.  **The Bloom:** Heat oil in pan; add rested garlic and Daily Spice Jar.
+3.  **The Sear:** Sear patties 2-3 min/side to create a "Garlic Crust."
+4.  **The Iron Anchor:** Squeeze 1/2 fresh lemon over patties before serving.
 
 ## Salad
 **Ingredients:**

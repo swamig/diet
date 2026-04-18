@@ -78,11 +78,11 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
 
 ## Execution (The Daily Meal)
 
-10. **The Final Sear (The "Flash Bloom"):** When you are ready to eat them at 12:00, you must protect the RS3 you built in the fridge while activating your daily spice jar.
-    *   Heat a pan with a tiny drizzle of avocado oil on medium-low. 
-    *   **Quickly sear the patty for 60-90 seconds per side.** 
-    *   In the last 20 seconds, sprinkle a portion of your **Daily Spice Jar** (Turmeric/Coriander/Cumin/Chili powder) directly into the residual oil surrounding the patty. The fat will instantly extract the lipophilic curcumin without burning it. Do not throw powders into a screaming hot, dry pan.
-    *   **The Result:** The outside gets crispy and spice-crusted, but the dense core remains below the **130°F Thermal Ceiling**, fully preserving the prebiotic resistant starch.
+10. **The Final Sear (The "Flash Allicin Crust"):** When you are ready to eat them at 12:00, you must protect the RS3 while restoring the Allicin signal lost during Sunday prep.
+    *   **The Allicin Prep:** Crush 1-2 cloves fresh garlic (rest 10 min).
+    *   **The Bloom:** Heat a pan with a tiny drizzle of avocado oil on medium-low. Add the rested garlic and the **Daily Spice Jar** powders to the oil.
+    *   **The Sear:** Quickly sear the patty for 60-90 seconds per side, allowing the garlic and spices to "crust" the exterior.
+    *   **The Iron Anchor:** Remove from heat and **squeeze 1/2 fresh lemon** directly over the hot patties immediately before serving. This restores the Vitamin C anchor for 100% iron bioavailability.
 
 ---
 
