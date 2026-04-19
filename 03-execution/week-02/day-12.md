@@ -63,7 +63,7 @@ Moderate antimicrobial (Clove Day).
 
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
-*   1/2 cup quinoa
+*   1/2 cup quinoa **(OR 90g 24h-chilled Purple Sweet Potato tossed with 1/4 tsp Chaat Masala)**
 *   1 tsp olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin

@@ -32,6 +32,19 @@ To convert this into a creamy "Wet Kadhi" without violating the Dairy Blockade:
 2.  Stir vigorously for 30-60 seconds until the coconut milk reduces into a thick, spiced glaze coating the tofu.
 3.  **CRITICAL (The Lipid Substitution Rule):** Coconut milk is high in MCTs. If you use this variant, you **MUST** reduce your 14:30 Salad Dressing oil by 1 tbsp to maintain the protocol's caloric ceiling.
 
+## The "Teriyaki Pulse" Variant (Optional)
+This variant uses **"Phantom Sweetness"** and umami signals to mimic a teriyaki profile without the insulin-spiking sugar of traditional sauces.
+
+1.  **The Aromatic Base:** During the **00:10 Cold Start**, add **1 tbsp finely diced Onion** and **1 tbsp finely diced Red Bell Pepper** to the pan alongside the garlic and chili.
+2.  **The Glaze Mix:** In a small bowl, whisk together:
+    *   **1-2 tsp Soy Sauce (or Tamari)**
+    *   **2-3 tbsp Coconut Milk**
+    *   **1 tsp Apple Cider Vinegar (ACV)**
+    *   **1/8 tsp Ceylon Cinnamon** (The "Phantom Sweetness" Hack)
+    *   **1/4 tsp Pure Madagascar Vanilla Extract** (Olfactory sweetness signal)
+3.  **The Finish:** At **00:25**, instead of the plain coconut milk, pour this mixture over the seared tofu. Stir vigorously for 30-60 seconds until it thickens into a glossy, dark glaze.
+4.  **Note:** This variant fulfills the Vitamin C anchor and the "Daily Thumb" ginger requirement if you add **1 tsp grated ginger** to the pan at the start of the sear. Reduce Salad Dressing oil by 1 tbsp as per the Lipid Substitution Rule.
+
 ## Benefits of the Fresh Method
 *   **Maximum Potency:** Volatile oils are at 100% strength.
 *   **Zero Safety Risk:** No risk of botulism since the oil is not stored.

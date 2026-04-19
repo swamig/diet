@@ -17,6 +17,12 @@ Purple sweet potatoes (Stokes, Okinawan, or Purple Murasaki) are utilized in thi
 *   **The Starch Swap:** Functions as a 1:1 replacement for Quinoa or Chickpeas to provide culinary variety without losing the RS3 prebiotic signal.
 *   **Oncology Defense:** The specific peonidin glycosides in purple sweet potatoes have been shown to inhibit the growth of various cancer cell lines in vitro.
 
+## The "Chaat Base" Execution
+When substituting Purple Sweet Potato into a savory meal (like the Tofu Pulse):
+1.  **Chop:** Take the 24-hour chilled potato from the fridge and dice it (keeping the skin on).
+2.  **The Vitamin C Anchor:** Toss the cold cubes with **1/4 to 1/2 tsp Chaat Masala** (Amchur/mango powder) and a squeeze of fresh lemon juice.
+3.  **The Synergy:** The Chaat Masala provides the tang and the massive Vitamin C load required to extract non-heme iron from your meal, while physically masking the sweetness of the potato to match savory Indian/Asian flavor profiles.
+
 ## Preparation Rules (Mandatory)
 1.  **The Cook:** Steam or roast with the skin ON (where the highest concentration of minerals and anthocyanins reside).
 2.  **The Double-Chill:** Must be refrigerated for **at least 24 hours** after cooking before consumption to maximize RS3 formation.

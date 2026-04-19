@@ -67,7 +67,7 @@ Nitric oxide emphasis.
 
 **Ingredients:**
 *   200g firm tofu (pressed 15 min)
-*   90g cooked quinoa
+*   90g cooked quinoa **(OR 90g 24h-chilled Purple Sweet Potato tossed with 1/4 tsp Chaat Masala)**
 *   5g olive oil
 *   1/2 tsp turmeric
 *   1/2 tsp cumin
@@ -88,6 +88,12 @@ Nitric oxide emphasis.
 5.  **The Bloom:** Place oil, methi, chilies, and garlic in a COLD pan. Turn heat to low; let bloom for 5 min until methi is golden.
 6.  **The Sear:** Increase heat to med-high. Add tofu **and small flat discs of Lauki dough** to the pan. Sear both for 3-4 min/side.
 7.  **The Wet Kadhi:** Tear mint leaves over pan. Add 2-3 tbsp coconut milk; stir for 30s until it forms a thick glaze coating both tofu and pakodas.
+
+
+**Flavor Variant (The "Teriyaki Pulse"):** 
+To mimic a sweet/savory teriyaki without the sugar spike:
+1. Add **1 tbsp diced onion & 1 tbsp diced red bell pepper** to the cold pan during "The Bloom".
+2. Instead of plain coconut milk for the glaze, whisk **2 tbsp Coconut Milk, 1-2 tsp Soy Sauce (Tamari), 1 tsp ACV, 1/8 tsp Cinnamon, and 1/4 tsp Vanilla Extract**. Add this at the very end and stir for 30s until glossy.
 
 ## Salad: Nitric Layer
 **Ingredients:**
