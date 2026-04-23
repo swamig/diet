@@ -15,6 +15,7 @@ Purple sweet potatoes (Stokes, Okinawan, or Purple Murasaki) are utilized in thi
 
 ## Protocol Role
 *   **The Starch Swap:** Functions as a 1:1 replacement for Quinoa or Chickpeas to provide culinary variety without losing the RS3 prebiotic signal.
+*   **The Aambali Starch Split:** If you are consuming [The Protocol Aambali](../05-practical/protocol-aambali.md) at 17:50, you **MUST reduce this 12:00 Purple Sweet Potato portion by 50%** (e.g., from 150g to 75g) to maintain daily glycemic and caloric targets.
 *   **Oncology Defense:** The specific peonidin glycosides in purple sweet potatoes have been shown to inhibit the growth of various cancer cell lines in vitro.
 
 ## The "Chaat Base" Execution

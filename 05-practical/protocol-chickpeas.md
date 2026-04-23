@@ -48,6 +48,7 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 
 ## Execution Rule: The 130°F Ceiling
 *   Chickpeas are thermally fragile. Once the RS3 is built, you must never microwave them on high or re-boil them.
+*   **The Aambali Starch Split:** If you are consuming [The Protocol Aambali](protocol-aambali.md) at 17:50, you **MUST reduce this 12:00 Chickpea portion by 50%** (e.g., from 1/2 cup to 1/4 cup) to maintain daily glycemic and caloric targets.
 *   **Serving:** Reheat gently in a skillet on low heat until "warm to the touch" (130°F) or eat them cold in your **14:30 Salad Window**.
 
 ## Related Pages

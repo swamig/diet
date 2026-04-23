@@ -35,6 +35,7 @@ Quinoa is utilized in this protocol not as a standard grain, but as a fiber-dens
 *   **Portion Size:** 
     *   *Baseline:* 1/2 cup (cooked) per day.
     *   *VO2 Max 4x4 Days:* 3/4 cup (cooked) to replenish glycogen [[9]](../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit).
+    *   **The Aambali Starch Split:** If you are consuming [The Protocol Aambali](protocol-aambali.md) at 17:50, you **MUST reduce this 12:00 Quinoa portion by 50%** (e.g., to 1/4 cup) to maintain daily glycemic and caloric targets.
 *   **The 130°F Thermal Ceiling:** To preserve the RS3 structure, never reheat quinoa in a microwave or high-heat pan. Reheat gently in a pan on low heat until just warm to the touch (approx. 130°F).
 *   **The Fat Bloom:** Before serving, fold in a squeeze of fresh lime juice and a drizzle of Blueprint EVOO or Avocado Oil. Achiote is fat-soluble; the oil ensures maximum absorption of the tocotrienols.
 

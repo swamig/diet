@@ -46,10 +46,16 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 **Lentils:**
 1.  Cook 3-4 cups dry. Simmer 20-25 min. Drain, cool, store.
 
-## Block 3: Quinoa (15 Min)
+## Block 3: Starch Batch (Quinoa & Aambali) (15 Min)
+**Goal:** Prepare the primary RS3 anchors via the Double-Chill protocol.
+
+**Action 1 (Aambali Base):** 
+If executing the Aambali protocol this week, prepare the [Aambali Master Cook (Stage 1)](protocol-aambali.md#3-preparation--batching-strategy). Boil 1 cup Ragi flour with 3-4 cups water until it forms a thick paste. Spread into a glass container and chill. (This provides the dense RS3 base for your daily morning fermentation).
+
+**Action 2 (Quinoa):**
 1.  Rinse thoroughly.
-2.  Cook large batch (3-4 cups dry).
-3.  Cool. Portion into 7 containers. Freeze extra.
+2.  Cook large batch (3-4 cups dry). *Note: If you prepped the Aambali base above, scale this batch down by 50%.*
+3.  Cool. Portion into containers. Freeze extra.
 
 ## Block 3.5: Salad Crouton Roasting (10 Min)
 *(Note: Only do this with beans that have already completed their full 24-hour chill).*
