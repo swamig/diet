@@ -34,6 +34,7 @@ This section translates the protocol into kitchen operations. Read this before t
 - [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](lauki-reset.md)
 - ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](garlic-chili-oil.md)
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
+- [The Protocol Masala Matcha (AMPK Multiplier)](protocol-matcha.md)
 - [High-Signaling Peppermint Jaljeera](peppermint-jaljeera.md)
 - [The Protocol Aambali (Probiotic RS3 Anchor)](protocol-aambali.md)
 - [Functional Indian Formats (Chutneys, Podis, Toum)](functional-indian-formats.md)
