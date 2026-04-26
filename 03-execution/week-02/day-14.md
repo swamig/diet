@@ -110,7 +110,7 @@ End-of-week nitric + vascular emphasis.
 
 **Hair mask:**
 1. Thaw 1 fenugreek cube + 1 aloe cube (pull night before or 30 min at room temp).
-2. Mix with 2 tbsp dry hair mix + 1 tbsp coconut oil into thick paste.
+2. Mix with 2 tbsp dry hair mix + 1 tbsp coconut oil + **3–5 drops rosemary essential oil** (mix into coconut oil first) into thick paste.
 3. Apply to scalp first (massage 2–3 min), then through lengths. Shower cap on.
 4. Leave 30–45 min. Do not let dry completely. Rinse with cool water.
 

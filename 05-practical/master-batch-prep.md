@@ -145,6 +145,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Besan (topical jar — separate from dietary) | **300g** |
 | Fenugreek seeds (hair cubes) | **250g** |
 | Coconut oil (topical) | **300ml** |
+| Rosemary essential oil | **15ml (1 bottle)** | 3–5 drops per hair mask session; lasts 3+ months |
 
 ---
 

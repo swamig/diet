@@ -112,7 +112,7 @@ Nitric oxide reinforcement + endothelial signaling.
 **Combined Session — Hair + Face + Body** (weekly) — [Full protocol](../../05-practical/topical-protocols.md)
 - Apply all three masks → 3–5 min sauna (opens pores) → Epsom bath 30–45 min → drain = rinse.
 
-1. **Hair mask:** 2 tbsp dry hair mix + 1 fenugreek cube (thawed) + 1 aloe cube (thawed) + 1 tbsp coconut oil. Apply to scalp (massage 2–3 min), work through lengths, shower cap on.
+1. **Hair mask:** 2 tbsp dry hair mix + 1 fenugreek cube (thawed) + 1 aloe cube (thawed) + 1 tbsp coconut oil + **3–5 drops rosemary essential oil** (mix into coconut oil first). Apply to scalp (massage 2–3 min), work through lengths, shower cap on.
 2. **Face mask:** 1 tsp dry face mix + 1 aloe cube (thawed). Apply to face, avoid eye area.
 3. **Body ubtan:** 2 tbsp dry body mix + 1 aloe cube (thawed) + 1 tbsp oil. Apply to damp skin.
 4. **3–5 min sauna** — not enough for HSP stress, just enough to fully open pores and drive compounds in.
