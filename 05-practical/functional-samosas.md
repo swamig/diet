@@ -130,40 +130,61 @@ Replace roughly half the water in Options 1 or 2 with full-fat yogurt. The lacti
 - Mix dough fully, cover tightly, ferment **3–4 hours at room temp** or **overnight in the fridge**
 - Overnight fridge ferment = more gliadin degradation, more pronounced tang, and dough that's been fully rested and is extremely pliable
 
+### Dry Mix Jar (Options 1 & 2)
+
+Pre-mix all dry ingredients into a labeled airtight jar. **Ghee and yogurt/water are always day-of — never stored in the jar.**
+
+**Why ghee stays out:** Fat rubbed into flour and stored for weeks to months oxidizes and goes rancid. Same logic as Option 3 and avocado oil. The moyen is a 60-second step — always add it fresh.
+
+**Option 1 dry mix jar contents (scale up for bulk):**
+- 1.5 cups VWG
+- 2 tbsp Besan
+- 1 tsp Ajwain + 1/2 tsp Nigella + 1/2 tsp Sea Salt
+- *(Plus any flavoring additions below)*
+
+**Option 2 dry mix jar contents:**
+- 1/2 cup Whole Wheat Flour (Atta)
+- 1/2 cup VWG
+- 1/2 tsp Ajwain + 1/4 tsp Nigella + 1/4 tsp Sea Salt
+- *(Plus any flavoring additions below)*
+
+**Shelf life:** 3–6 months airtight.
+
 ### Flavoring Stack (Beyond Ajwain)
 
-All amounts per single batch (2–4 samosas):
+Include in the dry mix jar — all shelf stable:
 
-| Addition | Amount | Active Mechanism |
+| Addition | Amount per batch | Active Mechanism |
 |---|---|---|
-| **Kalonji (nigella seeds)** | 1/2 tsp | Thymoquinone — anti-inflammatory, antimicrobial. Already in filling; this doubles the dose in the wrapper |
+| **Kalonji (nigella seeds)** | 1/2 tsp | Thymoquinone — anti-inflammatory, antimicrobial. Already in filling; doubles the dose in the wrapper |
 | **Kasuri methi (dried fenugreek leaves)** | 1 tsp | 4-hydroxyisoleucine — glycemic anchor baked into the wrapper itself |
 | **Black sesame** | 1 tbsp | Higher anthocyanin load than white sesame (pigmented bran layer); sesamin + sesamolin lignans |
 | **Cumin seeds** | 1/2 tsp | Cuminaldehyde — carminative, earthy depth; complements ajwain without competing |
 | **Black pepper (coarse)** | 1/4 tsp | Piperine — enhances fat-soluble compound absorption from the spiced filling |
 | **Turmeric** | 1/4 tsp | NF-κB modulation; turns dough golden as a visual dose cue |
 
-**Recommended working combination:** Ajwain + kalonji + kasuri methi + black sesame + turmeric. Five functional inputs in the wrapper before the filling is factored in.
+**Recommended combination:** Ajwain + kalonji + kasuri methi + black sesame + turmeric. Five functional inputs in the wrapper before the filling is factored in.
 
-**Fat:** Use **ghee** in place of avocado oil for the moyen on Options 1 and 2. Ghee creates better lamination (flaky layers), and fat-soluble compounds in the spice stack (curcumin, thymoquinone) absorb preferentially in a saturated fat matrix. Reserve avocado oil for Option 3 where heat stability at air-fry temperatures is the priority.
+**Fat choice:** Use **ghee** (not avocado oil) for the moyen on Options 1 and 2 — added day-of. Ghee creates better lamination layers and fat-soluble spice compounds (curcumin, thymoquinone) absorb preferentially in a saturated fat matrix.
 
 ### Batch Freeze Instructions (Options 1 & 2)
 
 **Why gluten dough freezes and psyllium dough does not:**
-Gluten forms a viscoelastic protein network. Ice crystals form in the water spaces *between* gluten strands but do not rupture the matrix — on thawing, the network is intact. Option 3's psyllium hydrogel is a water-bound gel network; ice crystals rupture the gel bonds on freezing, and the network cannot reform on thawing → crumbly, unrollable dough.
+Gluten forms a viscoelastic protein network. Ice crystals form in the water spaces *between* gluten strands without rupturing the matrix — intact on thaw. Option 3's psyllium hydrogel is a water-bound gel; ice crystals rupture the gel bonds and the network cannot reform → crumbly, unrollable on thaw.
 
-**Freeze process:**
-1. Make dough with yogurt fermentation and full flavoring stack
-2. Complete the full ferment (3–4 hours room temp or overnight fridge)
-3. Portion into balls — **1 ball = 1 serving (2 samosas)**
-4. Flatten each ball slightly into a disk (~1 inch thick) — speeds thawing, prevents cracking at the center during freeze
-5. Wrap each disk tightly in parchment, then place in a ziplock bag pressing out all air
-6. Label: option number + date
-7. **Freeze up to 2 months**
+**Batch prep sequence:**
+1. Scoop dry mix jar into bowl
+2. Rub in **ghee** (day-of moyen) until crumbly
+3. Add yogurt + remaining water — mix until stiff dough forms
+4. Cover and ferment 3–4 hours room temp or overnight fridge
+5. Portion into balls — **1 ball = 1 serving (2 samosas)**
+6. Flatten each ball into a disk (~1 inch thick) — speeds thawing, prevents center cracking
+7. Wrap each disk tightly in parchment → ziplock bag, press out all air
+8. Label: option number + date. **Freeze up to 2 months**
 
 **To use:**
 1. Transfer from freezer to fridge the night before
-2. Allow 20–30 min at room temp before rolling — cold dough cracks and tears at the edges
+2. Allow 20–30 min at room temp before rolling — cold dough tears at the edges
 3. Roll paper-thin between parchment sheets
 4. Assemble with cold filling and air fry immediately
 
