@@ -162,22 +162,41 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 ---
 
 **Chickpeas**
-1. **Friday night:** Rinse 5 kg dried chickpeas. Soak in a large pot with 3× water overnight.
-2. **Saturday:** Drain and rinse. Cook in fresh water with 2 halved onions and 1 head of garlic (whole, halved crosswise). Boil 90 min until fully tender but not mushy.
-3. **Last 15 min:** Add a large knob of ginger (no need to peel). Remove after cooking.
-4. **Reserve aquafaba:** Before draining, scoop out 2–3 cups of cooking liquid into a jar. Freeze aquafaba in ice cube tray separately (2 tbsp per cube — use for patties, Toum, and refried beans).
-5. **Cool:** Spread chickpeas on a large tray in a single layer. Cool at room temp 20–30 min.
-6. **Portion:** Measure into 1.5-cup portions in freezer bags. Squeeze out air, seal flat.
-7. **Label:** Write date + "chickpeas 1.5C" on each bag.
-8. **Chill:** Place in fridge overnight (12–24h RS3 formation — mandatory before freezing).
-9. **Freeze:** Transfer to freezer flat.
+1. **Night before:** Rinse thoroughly. Soak in the 32-qt pot with baking soda water (1/4 tsp baking soda per quart) overnight — reduces oligosaccharides ~70%, softens skins. **Do not cook in soak water.**
+2. **Drain + rinse thoroughly** — baking soda stays in the soak, never in the cooking water. Alkaline conditions degrade the saponins that give aquafaba its emulsifying properties.
+3. **Refill with fresh water** — just enough to cover beans by 2 inches. Do not overfill — more water = more dilute aquafaba.
+4. **Bring to boil. Skim foam immediately** — first 5–10 min produces grey foam of impurities. Skim all of it for clean aquafaba.
+5. **Reduce to gentle simmer** — aggressive rolling boil degrades proteins. 90–120 min gentle simmer extracts maximum protein and saponins into the liquid.
+6. **Lift strainer insert** — beans come out, liquid stays in pot.
+7. **Reduce aquafaba** — simmer the remaining liquid uncovered 10–15 min to concentrate. Thicker = more functional in dough and refried beans.
+8. **Reserve aquafaba:** Cool slightly, pour into ice cube trays (2 tbsp per cube). For larger portions freeze some in 1/4 cup portions (small bags or silicone molds) — refried beans uses 1/4 cup at a time.
+9. **Cool beans:** Spread on sheet tray in single layer. Cool at room temp 20–30 min.
+10. **Portion:** 1.5-cup portions into freezer bags. Squeeze out air, seal flat.
+11. **Label:** Date + "chickpeas 1.5C"
+12. **Chill:** Fridge overnight (12–24h RS3 formation — mandatory before freezing).
+13. **Freeze:** Transfer flat.
+
+**Chickpea aquafaba yield:** ~25–35 cups from a full 3-month batch → ~200–280 cubes at 2 tbsp each.
+**Uses:** Samosa skin dough (instead of water), performance refried chickpeas (1/4 cup for creaminess), coconut chutney base.
 
 ---
 
 **Black Beans**
-Identical to chickpeas. Cook separately (different flavor profile — keep batches separate).
-- Same soak, cook, aquafaba reserve, cool, portion, chill, freeze sequence.
-- Black bean cooking liquid is darker — save separately as black bean aquafaba.
+Same soak, drain, rinse, cook, and portion sequence as chickpeas. **Cook in a separate pot — keep liquid completely separate.**
+
+**Black bean cooking liquid is not waste — it is a concentrated anthocyanin extract** (cyanidin-3-glucoside, same compound class as blueberries and purple sweet potato). Keep and freeze separately, labeled "black bean liquid."
+
+**Protocol difference from chickpea aquafaba:**
+- Do NOT reduce as aggressively — the color compounds concentrate quickly and can turn bitter
+- Cool and freeze as-is after straining beans out
+- Freeze in 2 tbsp cubes + some 1/4 cup portions
+
+**Uses in this protocol:**
+- **Performance refried black beans** — use instead of chickpea aquafaba for creaminess + anthocyanin dose baked into every serving
+- **Samosa Variant B + C filling** — add 2 tbsp to the mash before forming leaf parcels. Anthocyanin pulse locked into the parcel through the RS3 chill cycle.
+- **Recovery bowl** — 2 tbsp stirred into Greek yogurt at 17:50. The dark purple color IS the signal compound — cyanidin-3-glucoside is anti-inflammatory and cardiovascular-protective. Not a flaw.
+
+**Black bean liquid yield:** ~20–28 cups → ~160–220 cubes at 2 tbsp each.
 
 ---
 
@@ -459,7 +478,8 @@ Full instructions in [Vegan Protein Patties](vegan-protein-patties.md). Pull fro
 | Aloe vera | 3-month | ~65 (5 trays) | 1 | **65** |
 | Lemon juice | 3-month | ~42–56 (3–4 trays) | 1 | **~48** |
 | Imli (tamarind) | 3-month | ~14 (1 tray) | 1 | **14** |
-| Aquafaba | 3-month (byproduct) | ~20–30 | 1 | **~25** |
+| Chickpea aquafaba | 3-month (byproduct) | ~200–280 cubes | 13–18 | **~240** |
+| Black bean liquid | 3-month (byproduct) | ~160–220 cubes | 11–15 | **~190** |
 | Ginger | Monthly | ~14–28 | 3 | **~42–84** |
 | Rested garlic | Monthly | ~14 | 3 | **~42** |
 | Curry leaf tadka | Monthly | ~14 | 3 | **~42** |

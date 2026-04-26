@@ -52,8 +52,8 @@ Split the 52 parcels across 3 signal variants when forming. Label each ziplock b
 | Variant | Parcels | Add to base filling | Signal target | Pull on |
 |---|---|---|---|---|
 | **A — Standard Capsaicin** | ~18 | Base spice stack as written | TRP + gastric motility | Any day |
-| **B — Habanero Pulse** | ~17 | Replace green chili with **1/2 habanero** (finely minced) + add **1/4 tsp smoked paprika** | Max capsaicinoid density — TRPV1 saturation | Heavy lift days (M/W/F) |
-| **C — Sulforaphane + Anti-Inflammatory** | ~17 | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** (piperine amplifies curcumin) | NF-κB + Nrf2 dual suppression | Cardio/recovery days |
+| **B — Habanero Pulse** | ~17 | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation + anthocyanin stack | Heavy lift days (M/W/F) |
+| **C — Sulforaphane + Anti-Inflammatory** | ~17 | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression + anthocyanin | Cardio/recovery days |
 
 **Why three variants:** Each targets a different downstream signal. Habanero pulse on heavy lift days drives sympathetic activation and thermogenesis post-training. Sulforaphane variant on recovery days amplifies the anti-inflammatory and detox pathways when muscle repair is the priority.
 
