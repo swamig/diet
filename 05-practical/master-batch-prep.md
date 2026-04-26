@@ -146,6 +146,9 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Fenugreek seeds (hair cubes) | **250g** |
 | Coconut oil (topical) | **300ml** |
 | Rosemary essential oil | **15ml (1 bottle)** | 3–5 drops per hair mask session; lasts 3+ months |
+| Epsom salt | **15–20 kg** | 2–3 cups/bath × 3×/week × 13 weeks; pre-portion into bags on prep day |
+| Sodium thiosulfate dechlorinator tablets | **100-tablet pack** | 1 tablet per ice bath refill; source from aquarium supply |
+| Hydrogen peroxide (3%) | **1 gallon jug** | 1 tbsp per ice bath refill to prevent bacterial growth |
 
 ---
 

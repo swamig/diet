@@ -37,6 +37,32 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 *   **The Reload:** Requires the same Jaljeera reload to replace sodium/trace minerals lost to sweat.
 *   **Sulfur Caution:** During **Week 2 (Sulfur Emphasis)**, if skin sensitivity or GI distress occurs, reduce Epsom baths to 2x/week to avoid sulfate overload from the high-garlic/broccoli diet.
 
+**Epsom Salt Dose & Pre-Portioning:**
+*   **Dose:** 2–3 cups (500–750g) per bath depending on tub size. Standard tub = 2 cups; large/deep tub = 3 cups.
+*   **Pre-portion on 3-month prep day:** Scoop 2–3 cups into individual bags (zip-lock or paper). Stack ~40 bags (3×/week × 13 weeks). Add 5–8 drops essential oil (lavender, eucalyptus, or rosemary) directly to the salt in each bag — salt absorbs the oil so it disperses evenly in the bath rather than floating.
+*   **Shopping:** ~15–20 kg Epsom salt per 3 months. Buy in bulk sacks — cheapest per kg.
+
+---
+
+## Ice Bath Water Management
+
+**The chlorine problem:** Tap water chlorine absorbs transdermally during immersion and degrades the skin microbiome with repeated daily exposure. Dechlorinate every refill.
+
+**Dechlorination:** Add 1 sodium thiosulfate tablet per refill. Neutralises chlorine instantly. Source: aquarium supply stores (sold as fish tank dechlorinator) — ~$6–8 for 100 tablets, lasts 3+ months.
+
+**Water reuse (3–4 days max):**
+*   Cold temps (10–15°C) slow bacterial growth but don't stop it.
+*   Add **1 tbsp 3% hydrogen peroxide** per refill after dechlorinating — keeps water clean without chemicals that absorb through skin.
+*   **Drain and refill every 3–4 days.** Do not reuse beyond 4 days regardless of appearance.
+*   3% hydrogen peroxide: cheapest as pharmacy house-brand 32oz bottle (~$2–3) or gallon jug from warehouse store (~$8–12, lasts 3–4 months).
+
+**Refill sequence:**
+1. Drain old water
+2. Refill with tap water
+3. Add 1 dechlorinator tablet — wait 1 min
+4. Add 1 tbsp hydrogen peroxide
+5. Add ice to target temp (39–50°F / 4–10°C)
+
 ---
 
 ## Method 2: The Efficiency Pump (1 Cycle Contrast)
