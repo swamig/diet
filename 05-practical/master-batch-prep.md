@@ -62,6 +62,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Curry leaves | Curry leaf tadka cubes | **~6 large handfuls** | Freeze loose in bag |
 | Lemons | Daily iron anchor + chutneys | **~50 lemons** | Juice + freeze in ice cube trays |
 | Aloe vera (large leaves) | Topical — all three protocols | **5 leaves** | Freeze as gel cubes |
+| Banana leaves (frozen packages) | Samosa filling parcels — freeze + serving vessel | **4–5 packages (~20 large leaves)** | 1 large leaf = 3–4 servings (10"×12" piece per block). Buy frozen — more pliable than fresh, store in freezer until batch day |
 
 **Cube batches (make once on 3-month day):**
 
