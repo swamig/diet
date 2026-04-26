@@ -24,10 +24,33 @@ When substituting Purple Sweet Potato into a savory meal (like the Tofu Pulse):
 2.  **The Vitamin C Anchor:** Toss the cold cubes with **1/4 to 1/2 tsp Chaat Masala** (Amchur/mango powder) and a squeeze of fresh lemon juice.
 3.  **The Synergy:** The Chaat Masala provides the tang and the massive Vitamin C load required to extract non-heme iron from your meal, while physically masking the sweetness of the potato to match savory Indian/Asian flavor profiles.
 
+## Storage (Raw)
+*   **Pantry only** — cool, dark, dry place. Lasts 2–4 weeks.
+*   **Do not refrigerate raw** — cold converts starch to sugar and causes chilling injury (hard core, off flavor).
+*   **Do not freeze raw** — ice crystals shred cell walls; result is watery mush on thaw.
+
 ## Preparation Rules (Mandatory)
 1.  **The Cook:** Steam or roast with the skin ON (where the highest concentration of minerals and anthocyanins reside).
 2.  **The Double-Chill:** Must be refrigerated for **at least 24 hours** after cooking before consumption to maximize RS3 formation.
 3.  **The Thermal Ceiling:** Never microwave. Reheat gently (below 130°F) to preserve the crystalline starch and the heat-sensitive pigments.
+
+### Freeze Protocol (Batch Extension)
+Freezing is compatible with this protocol and is preferred over extended fridge storage — anthocyanin pigments are more stable frozen than when sitting in a fridge for 5+ days exposed to oxygen.
+
+**Sequence (mandatory order):**
+> Cook (skin on) → 24h fridge chill (RS3 forms) → **then** freeze
+
+Do NOT freeze raw sweet potato. Ice crystals shred the cell walls; the result is watery mush on thaw.
+
+**Freeze format options:**
+*   **Whole roasted halves** — easiest to prep, thaw overnight in fridge, dice cold for Chaat Base.
+*   **Pre-diced cubes** — best if you know you'll use the Chaat Base execution; skip the cold dicing step entirely.
+
+**The triple retrograde bonus:** Cook → 24h fridge (RS3 cycle 1) → freeze → thaw in fridge overnight (RS3 cycle 2 via additional crystallization). This sequence produces denser RS3 than a single chill alone.
+
+**Shelf life frozen:** 3–4 months.
+
+**To use:** Thaw in fridge overnight. Use cold for Chaat Base, or reheat gently below 130°F for other applications.
 
 ## Related Pages
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)

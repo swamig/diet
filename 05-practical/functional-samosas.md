@@ -163,6 +163,33 @@ While Option 3 (Gluten-Free) provides high fiber, the protocol **mandates** a ro
 
 ---
 
+## Freeze Protocol (Batch Prep Extension)
+
+### Filling (RS3 Core) — Freeze Yes
+The Master Filling freezes perfectly. RS3 crystals are stable at freezer temperatures and survive thaw without degradation, provided you reheat gently below 130°F (54°C) when assembling.
+
+*   Portion into ice cube trays or silicone molds (~2 tbsp per cube = 1 samosa serving).
+*   Freeze overnight, transfer to an airtight container.
+*   **Shelf life frozen:** 4–6 weeks.
+*   **To use:** Thaw in fridge overnight or at room temp for 20 minutes. Do NOT microwave the filling — you will destroy the RS3. Assemble cold filling into fresh-rolled dough immediately before air frying.
+
+### Wrap Dough — Option-Dependent
+| Option | Freeze Dough? | Notes |
+|---|---|---|
+| Option 1 (Seitan/VWG) | Yes | Gluten is structurally stable frozen. Wrap tightly in parchment + ziplock. Thaw in fridge overnight before rolling. |
+| Option 2 (Atta + VWG) | Yes | Whole wheat dough freezes well. Same thaw procedure as Option 1. |
+| Option 3 (GF / Psyllium) | **No** | Psyllium gel collapses on thaw → dough becomes crumbly and unrollable. **Freeze the assembled, air-fried samosas instead.** |
+
+### Option 3 Exception: Freeze the Finished Samosa
+For the GF version, the correct freeze point is *after* air frying:
+1.  Air fry fully until crispy.
+2.  Cool completely on a rack (critical — steam trapped in a warm samosa creates freezer ice crystals that destroy the crust texture).
+3.  Freeze in a single layer on a tray for 1 hour, then transfer to a container.
+4.  **To reheat:** Air fry from frozen at 375°F (190°C) for 4–5 minutes. Do not microwave — the crust will go soggy and the RS3 filling will overheat.
+*   **Shelf life frozen:** 3–4 weeks.
+
+---
+
 ## Clinical Rationale
 *   **Protein Architecture (Complementarity):** 
     *   *Seitan Versions (1 & 2):* Naturally balanced. The high Methionine in wheat gluten pairs with the high Lysine in chickpeas.

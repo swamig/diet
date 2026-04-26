@@ -58,6 +58,24 @@ Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire sto
 ## Storage and Prep
 Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" boost**, which will further increase the resistant starch content.
 
+### Freeze Options
+
+**Thaw cadence:** Pull a 3-day portion (1.5-cup serving × 3) from freezer to fridge on **Sunday**. Pull the next portion on **Wednesday night**. Do not thaw a full week at once — fridge limit is 3–4 days.
+
+**Option A — Freeze cooked whole beans (before mashing):**
+*   Portion into 1.5-cup servings (one batch of refried beans each).
+*   Freeze in an airtight container or parchment-wrapped portion in a freezer bag.
+*   **Shelf life frozen:** 3–4 months.
+*   Anthocyanins in black beans are better preserved frozen than sitting in the fridge exposed to oxygen over multiple days.
+*   **To use:** Thaw in fridge overnight. Take cold directly to the Cold Mash step — do not warm first.
+
+**Option B — Freeze the finished mash:**
+*   After the full recipe is cooked and cooled, portion into flat slabs in a freezer-safe container or bag.
+*   Flat = faster, more even thaw.
+*   **Do not freeze with cilantro or black salt** — cilantro's volatile oils are destroyed by freezing; black salt is a finishing element. Add both fresh after thawing.
+*   **Shelf life frozen:** 2–3 months (shorter than plain beans because EVOO slowly oxidizes and aromatics degrade in flavor even when frozen).
+*   **To reheat:** Thaw in fridge, then warm in pan to 130°F max. Add a splash of aquafaba if the mash has thickened. Finish with fresh cilantro and a pinch of black salt.
+
 ## Evidence Status
 - **General physiology:** The storage, prep, and recovery logic on this page is meant to preserve the intended structure of the protocol rather than prove a clinical outcome on its own.
 - **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.

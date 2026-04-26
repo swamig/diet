@@ -1,15 +1,15 @@
 ---
-title: 'High Signaling Performance Manual 🌿 (Clinical + Performance + Full Biochemical Edition)'
+title: 'BlueVeda Protocol 🌿 (Clinical + Performance + Full Biochemical Edition)'
 section: 'manual'
 type: 'guide'
 priority: 'entrypoint'
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1200&q=80" alt="High Signaling Performance Diet" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1200&q=80" alt="BlueVeda Protocol" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
   
-  # High Signaling Performance Manual 🌿 <br> *(Clinical + Performance + Full Biochemical Edition)*
-  *An elite-level, anti-inflammatory nutritional system engineered for autonomic recovery, vascular elasticity, and metabolic flexibility.*
+  # BlueVeda Protocol 🌿 <br> *(Clinical + Performance + Full Biochemical Edition)*
+  *The ultimate synthesis of data-driven biohacking (Blueprint) and traditional holistic wisdom (Ayurveda). Engineered for autonomic recovery, vascular elasticity, and metabolic flexibility.*
 
   <br>
 
@@ -33,9 +33,9 @@ priority: 'entrypoint'
 
 <br>
 
-This repository is a metabolic operations manual organized around one question: how do you make the protocol easy to understand, execute, and review without losing the biochemical logic underneath it?
+The **BlueVeda Protocol** is a metabolic operations manual. It is designed to bridge the gap between high-precision biological age reduction and the culinary diversity of functional Indian medicine.
 
-The content works best when read as a system instead of as isolated notes.
+This repository serves as the technical specification for the protocol, its commercial implementation, and its eventual delivery via specialized cloud kitchens.
 
 ## Evidence Handling
 
@@ -45,7 +45,7 @@ Use [Source Style Guide](07-appendices/source-style-guide.md) when adding new ex
 
 ## Start Here
 
-1. Read the [Foundations Guide](01-foundations/README.md) to understand the non-negotiable rules.
+1. Read the [Foundations Guide](01-foundations/README.md) to understand the protocol's North Stars.
 2. Set up the [Practical Logistics Guide](05-practical/README.md) so daily execution is low-friction.
 3. Run the [28-Day Execution Guide](03-execution/README.md).
 4. Capture adherence and deviations in [Logs](logs/README.md) and review outcomes in [Monitoring](06-monitoring/README.md).
@@ -60,10 +60,9 @@ Use [Source Style Guide](07-appendices/source-style-guide.md) when adding new ex
 
 ## Best Entry Points
 
-- New to the manual: [Foundations](01-foundations/README.md), [Shopping List](05-practical/shopping-list-master.md), [Sunday Prep](05-practical/sunday-prep.md), then [Week 1](03-execution/week-01/README.md).
+- New to the protocol: [Foundations](01-foundations/README.md), [Shopping List](05-practical/shopping-list-master.md), [Sunday Prep](05-practical/sunday-prep.md), then [Week 1](03-execution/week-01/README.md).
 - Need the operating layer only: [Practical Logistics](05-practical/README.md) and [Execution](03-execution/README.md).
-- Need troubleshooting or spacing logic: [Advanced Control](04-advanced-control/README.md).
-- Need feedback loops: [Logs](logs/README.md) and [Monitoring](06-monitoring/README.md).
+- Commercial roadmap: [Book, Coaching, and Kitchens](08-commercial/README.md).
 
 ## Navigation
 
@@ -71,7 +70,7 @@ Use [Source Style Guide](07-appendices/source-style-guide.md) when adding new ex
 Clinical rationale, physiology, and protocol rules.
 
 - [Section Guide](01-foundations/README.md)
-- [Biological Objectives & Outcome Map](01-foundations/00-biological-objectives.md)
+- [Protocol North Stars: Biological Objectives](01-foundations/00-biological-objectives.md)
 - [Metabolic Flexibility](01-foundations/01-metabolic-flexibility.md)
 - [Inflammatory Control](01-foundations/02-inflammatory-control.md)
 - [Microbiome Hormesis](01-foundations/03-microbiome-hormesis.md)
@@ -135,7 +134,7 @@ High-signaling nutritional structures tailored for this protocol.
 - [The Protocol Broccoli (Sulforaphane Engine)](05-practical/protocol-broccoli.md)
 - [The Protocol Quinoa Rice (Mexican Style RS3 Anchor)](05-practical/protocol-quinoa.md)
 - [The Protocol Chickpeas (RS3 Matrix Anchor)](05-practical/protocol-chickpeas.md)
-- [The Lauki Gut-Reset Protocol (Fiber Crash Failsafe)](05-practical/lauki-reset.md)
+- [The Lauki Gut-Reset Protocol (Fiber Draft Failsafe)](05-practical/lauki-reset.md)
 - [The Daily Salad Layer (Vascular & Gut Anchor)](05-practical/daily-salad-layer.md)
 - [100% Optimized Indian Protein Patties](05-practical/vegan-protein-patties.md)
 - ["Dry Kadhi" Garlic-Chili-Methi Tofu Pulse](05-practical/garlic-chili-oil.md)
@@ -153,17 +152,15 @@ Measurement and review templates to quantify the protocol.
 - [Weekly Review Template](06-monitoring/weekly-review.md)
 - [End-of-Cycle Review](06-monitoring/end-of-cycle-review.md)
 
-### 7. Logs
-Daily and weekly operating records for what happened in practice.
+### 8. Commercial Roadmap
+The future of BlueVeda: Book, Coaching, and Kitchens.
 
-- [Protocol Changelog & Version History](CHANGELOG.md)
-- [Logs Overview](logs/README.md)
-- [Eating Logs](logs/eating/README.md)
-- [Eating Log Template](logs/eating/template.md)
-- [Cooking & Prep Logs](logs/cooking/README.md)
-- [Cooking Log Template](logs/cooking/template.md)
+- [Commercial Overview](08-commercial/README.md)
+- [Book Outline: The BlueVeda Protocol](08-commercial/book-outline.md)
+- [Coaching Modules](08-commercial/coaching-modules.md)
+- [Kitchen Unit Economics](08-commercial/kitchen-unit-economics.md)
 
-### 8. Appendices
+### 9. Appendices
 Fast reference tables and reusable lookup material.
 
 - [Section Guide](07-appendices/README.md)

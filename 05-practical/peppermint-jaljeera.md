@@ -60,6 +60,15 @@ If you are using **Thermal Hormesis (Sauna)**, your body will rapidly deplete so
 *   You can pre-muddle a 3-day supply of the peppermint/chili paste and store it in a tiny airtight glass jar in the fridge. 
 *   Do not pre-mix with water or lemon juice, as the menthol volatile oils will degrade and oxidize over a multi-day period in liquid.
 
+### Freeze Extension (Ice Cube Tray)
+For a larger batch that extends past the 3-day fridge window:
+1.  Muddle peppermint, chili, and ginger as normal.
+2.  Apply the **Oil & Acid Lock** (lemon juice + oil) while muddling — mandatory before freezing, same as the fridge batch.
+3.  **Do NOT add black salt, cumin, or chaat masala** — the osmosis rule applies even in the freezer. Add those fresh to the glass each time.
+4.  Portion into ice cube tray (1 cube = 1 serving). Freeze overnight, transfer to an airtight container.
+5.  **Shelf life frozen:** 4–6 weeks for peak menthol/capsaicin potency; up to 2–3 months acceptable.
+6.  **To use:** Drop 1 cube into your glass. It thaws in 5–10 minutes at room temp, or instantly in cold water. Add black salt, cumin, ACV, and water fresh each time.
+
 ## Used In
 
 - [Peppermint & Capsaicin (TRP Synergy)](../02-ingredients/peppermint-chili.md)

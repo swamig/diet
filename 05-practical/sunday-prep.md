@@ -41,7 +41,12 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 3.  **The Second Warm (Allicin Pulse):** The next day, gently warm the chilled beans in a pan (under 130°F). Fold in **fresh crushed and rested garlic** (1 clove per cup of beans) along with a splash of vinegar and digestion spices. 
 4.  **Second Chill:** Cool rapidly and return to the fridge for another 24 hours.
 **Tofu:**
-1.  Press water out. Slice into slabs. Store raw in water (change daily).
+1.  Slice into slabs before freezing (slabs thaw faster and portion better than a whole block).
+2.  Lay flat in a freezer bag. Freeze.
+3.  **Shelf life frozen:** 3–4 months.
+4.  **Thaw:** Fridge overnight, or submerge sealed bag in cold water for 30–60 min.
+5.  **The freeze upgrade:** Ice crystals rupture the protein matrix, creating a spongier, more porous structure. This means faster pressing on thaw (water comes out on its own), deeper marinade absorption, and more surface area for the allicin crust during the Flash Sear. Strictly better than fridge-only storage.
+6.  **Fridge-only fallback (short week):** Press water out, slice into slabs, store submerged in water, change water daily. Use within 4–5 days.
 
 **Lentils:**
 1.  Cook 3-4 cups dry. Simmer 20-25 min. Drain, cool, store.
@@ -170,9 +175,9 @@ To convert simple starches into **Resistant Starch Type 3**:
 *   **The Benefit:** Microgreens contain up to 50x the glucoraphanin of mature broccoli. Because they are eaten raw in the salad, the myrosinase enzyme remains 100% intact, requiring no chopping, resting, or heat management.
 
 ## Storage Logic
-*   **Fridge:** Vegan Patties [8](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) (5 days), Chickpeas (5 days), Lentils (5-6 days), Quinoa (5 days), Greens (4-5 days).
-*   **Freezer:** Extra portions.
-*   **Midweek Reset (Wed):** Refresh paper towels in microgreen and leafy green containers.
+*   **Fridge:** Vegan Patties (3–4 days), Chickpeas/Black Beans (3–4 days), Lentils (5–6 days), Quinoa (5 days), Greens (4–5 days).
+*   **Freezer:** Patties (2–3 weeks), Black Beans (3–4 months), Chutneys (2–4 weeks), Mint Muddle (4–6 weeks), Purple Sweet Potato (3–4 months).
+*   **Thaw cadence:** Pull 3 days of patties and beans on Sunday. Pull the next 3 days on Wednesday night alongside the chutney and muddle reset. See [Fridge Layout & Midweek Reset](fridge-storage.md).
 
 ## Evidence Status
 

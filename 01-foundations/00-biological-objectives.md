@@ -1,13 +1,13 @@
 ---
-title: 'Biological Objectives & Outcome Map'
+title: "The Protocol's North Stars: Biological Objectives"
 section: 'foundations'
 type: 'guide'
 priority: 'high'
 ---
 
-# Biological Objectives & Outcome Map
+# The Protocol's North Stars: Biological Objectives
 
-This protocol is not a weight-loss diet or a generic healthy eating plan. It is a **Metabolic Operating System**. We use specific chemical signals to force the body to adapt in five primary directions.
+The **BlueVeda Protocol** is not a weight-loss diet or a generic healthy eating plan. It is a **Metabolic Operating System**. We use specific chemical signals to force the body to adapt in five primary directions. These "North Stars" guide every ingredient choice, cooking method, and timing rule within the protocol.
 
 ## 1. Objective: The Chemopreventive Shield (Oncology)
 *   **The Why:** To make the body a "hostile environment" for cancer cells by protecting DNA and shutting down growth signals.

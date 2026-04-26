@@ -39,6 +39,15 @@ Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed 
     *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO.
     *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge.
     *   **Shelf Life (7-Day Strict):** While traditional Toum lasts for months, adding Aquafaba introduces proteins and starches that bacteria can feed on. Store in an airtight glass jar in the fridge and discard any remainder after **7 days**.
+    *   **Freeze Extension:** Freeze Toum in an ice cube tray immediately after blending. The 7-day bacterial limit does not apply when frozen — cubes last **2–3 months**. Thaw one cube at a time in the fridge overnight. Do not microwave — heat destroys allicin.
+*   **The Rested Garlic Cube (Pre-Alliinase Hack):** If you want raw allicin delivery without blending a full Toum batch, freeze pre-rested minced garlic on its own:
+    1.  Smash and mince a full head of garlic.
+    2.  **Rest 10 minutes** (mandatory — this is when alliinase converts alliin to allicin).
+    3.  Pack into ice cube tray (~1 tsp per cube). Add a few drops of avocado oil to help it bind.
+    4.  Freeze overnight, transfer to an airtight container.
+    5.  **Shelf life:** 4–6 weeks for peak allicin potency; up to 3 months acceptable.
+    6.  **To use:** Drop a cube directly into a cold pan or bowl — do not thaw via heat. Allicin is already formed; no second rest needed.
+    *   **CRITICAL:** Never freeze whole or unsmashed cloves for allicin purposes. Ice crystals damage alliinase during freeze, so thawed whole garlic cannot form allicin properly. The 10-minute rest must happen *before* the freeze.
 *   **Execution (The Lipid Substitution Rule):** Toum is 80% oil. If you use 2 tbsp of Toum as a flavor anchor for your 12:00 Vegan Patties, you must **halve the oil** in your 14:30 Salad Dressing (use 1 tbsp EVOO instead of 2), or dry-sear your patties. Treat Toum as a fat *replacement*, not an addition, to prevent excessive caloric load and sluggish gastric emptying.
 
 ## 3. Therapeutic Podis / Gunpowders (Dry Matrix)
@@ -92,8 +101,54 @@ Different formats oxidize at different speeds. Integrate them into your batch pr
     *   **Imlee (Tamarind) Paste:** High acidity preserves it perfectly. Boil, strain, and store in a glass jar. Lasts 2+ weeks.
     *   **Podis (Gunpowders):** Dry roast and grind on Sunday. Store in **airtight mini glass jars**. Lasts exactly 7 days before significant lipid oxidation occurs.
 *   **The 3-Day Batches (Sunday + Midweek Reset):**
-    *   **Coconut Chutney:** Fresh coconut ferments rapidly. Blend on Sunday for Mon-Wed. You must re-blend a fresh batch on Wednesday night.
+    *   **Coconut Chutney Base** (coconut + ginger + chili + lemon — no curry leaves): Fresh coconut ferments rapidly. Blend on Sunday for Mon-Wed. Re-blend Wednesday night. Add curry leaf tadka fresh at serving time — do not blend curry leaves into the base.
     *   **Mint/Cilantro Chutneys:** Exposed chlorophyll and volatile oils oxidize and turn black. You MUST use the **Acid Lock** (blend with lemon juice) to halt enzymatic browning. Lasts 3 days maximum. Re-blend on Wednesday.
+
+### The Curry Leaf Tadka System (Separate from Chutney Base)
+
+Curry leaf volatile oils (linalool, β-caryophyllene, sabinene) are the most fragile compounds in the protocol. They fade within 10 days even when frozen, and within 2–3 days when blended into a water-based chutney. The correct architecture is to keep curry leaves **out of the chutney base entirely** and deliver them via tadka at the point of serving.
+
+**Why tadka is better than blending:**
+*   Fat-bound terpenoids (bloomed in oil) are more stable than water-suspended ones.
+*   Frozen tadka cubes retain meaningful signal for **3–4 weeks** vs. 10 days when frozen inside chutney.
+*   Fresh tadka added at thaw time is always peak signal regardless of how long the base has been frozen.
+
+**Curry Leaf Tadka Cube (Batch Freeze):**
+1.  Heat avocado oil in a small pan on medium.
+2.  Add mustard seeds — wait for them to pop.
+3.  Add a large handful of fresh curry leaves. Bloom for 20–30 seconds until fragrant and slightly crisp.
+4.  Remove from heat immediately. Cool fully.
+5.  Portion into ice cube tray (~1 tsp oil + leaves per cube). Freeze overnight, transfer to an airtight container.
+6.  **Shelf life frozen:** 3–4 weeks peak signal; up to 6 weeks acceptable.
+7.  **To use:** Drop 1 cube directly into a warm pan or over a thawed chutney serving. The oil melts instantly.
+
+### The Freeze Extension System (Ice Cube Tray Method)
+
+For weeks when Wednesday re-blending is not feasible, the ice cube tray protocol extends shelf life.
+
+**How to freeze:**
+1.  Prepare chutney bases without curry leaves (handled separately via tadka cubes above).
+2.  Add a small splash of extra water before freezing — bases thicken slightly on thaw.
+3.  Pour into a covered ice cube tray (covering prevents freezer odor absorption).
+4.  Freeze overnight, transfer to labeled airtight containers or ziplocks.
+
+**Visual identification system:**
+*   Green = Mint/Cilantro Chutney
+*   White = Coconut Chutney Base
+*   Brown = Imlee (Tamarind)
+*   Small dark cubes = Curry Leaf Tadka
+
+**Freeze shelf life:**
+| Item | Fridge Limit | Freeze signal limit | Freeze safety limit |
+|---|---|---|---|
+| Coconut Chutney Base | 3 days | 2–3 weeks | 2–3 weeks |
+| Curry Leaf Tadka | 3 days | 3–4 weeks | 6 weeks |
+| Mint/Cilantro Chutney | 3 days | 2–3 weeks | 3–4 weeks |
+| Imlee (Tamarind) | 2+ weeks | 2–3 months | 2–3 months |
+
+**To use:** Thaw 1–2 chutney cubes at room temp (15 min). Drop 1 tadka cube into a warm pan, let it melt, pour over the thawed chutney. Stir well — texture returns fully.
+
+**Batch timing:** Make a large single batch on one Sunday per month. Freeze the bulk. Use the fridge-fresh 3-day cycle as primary; pull from frozen only when you've run out or skipped the Wednesday reset.
 
 ## Related Pages
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)

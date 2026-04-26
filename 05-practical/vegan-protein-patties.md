@@ -113,7 +113,14 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
 
 ## Storage and Prep
 *   Make 2–3 batches during Sunday Prep.
-*   **Storage:** Fridge (3–4 days), Freezer (2–3 weeks, freeze individually).
+*   **Fridge:** 3–4 days in an airtight glass container.
+*   **Freezer:** 2–3 weeks. RS3 is stable frozen; the freeze-thaw cycle may further densify the crystalline matrix.
+    *   **Freeze sequence (mandatory order):** Steam → cool 20 min → 12–24h fridge chill (RS3 forms) → freeze. Do NOT freeze immediately after steaming — the starch is still in its melted simple form at that point.
+    *   **Freeze procedure:** Lay patties on a tray in a single layer and freeze for 1–2 hours before transferring to a bag or container. Skipping the pre-freeze tray step causes patties to fuse together.
+    *   **Container choice:** Use parchment paper between patties. Preferred containers: parchment wrap + freezer bag, silicone bag, or glass container with parchment layers. If using a standard LDPE freezer bag, ensure patties are fully cold before bagging — leaching from plastic is heat-driven and negligible at freezing temps, but avoid direct plastic-to-warm-food contact.
+    *   **Reheat:** Pan or air fryer only. Do not microwave — uneven heat will exceed the 130°F RS3 ceiling in the core before the exterior is warm.
+*   **Thaw cadence:** Pull 3 patties from freezer to fridge on **Sunday**. Pull the next 3 on **Wednesday night**. Do not thaw a full week at once — fridge limit is 3–4 days.
+*   **Allicin note:** The allicin from the Sunday prep garlic is destroyed during the steam step (160°F+). The daily sear with fresh rested garlic is the allicin delivery mechanism — this is not optional and cannot be substituted by embedding garlic into the frozen patty.
 
 ## Evidence Status
 

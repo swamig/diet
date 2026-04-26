@@ -47,11 +47,20 @@ Maximize sulforaphane integrity and minimize nutrient degradation.
 *   Mustard
 *   Hot sauce
 
-## Midweek Reset (Wed 5 Min)
-1.  Replace damp paper towels.
-2.  Chop fresh broccoli.
+## Midweek Reset (Wed Night — ~10 Min)
+**Fridge maintenance:**
+1.  Replace damp paper towels in microgreen and leafy green containers.
+2.  Chop fresh broccoli if needed.
 3.  Rotate microgreens to front.
 4.  Check tofu water.
+
+**Freezer pulls (3-day cadence — all on the same night):**
+5.  Pull 3 patties from freezer → fridge (for Thu–Sat).
+6.  Pull black bean portion (1.5 cups × 3 days) from freezer → fridge.
+7.  Pull 3 chutney cubes per variety OR re-blend fresh chutneys (coconut + cilantro).
+8.  Pull 3 mint muddle cubes OR re-muddle a fresh batch.
+
+Everything above shares the same Wednesday night reset — one trip to the freezer covers the full week's second half.
 
 ## Evidence Status
 
