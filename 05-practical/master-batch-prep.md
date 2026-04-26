@@ -139,8 +139,9 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Item | 3-month quantity |
 |---|---|
 | Amla powder | **200g** |
-| Brahmi powder | **100g** |
-| Bhringraj powder | **100g** |
+| Brahmi powder | **100g** | Month 1 hair rotation |
+| Bhringraj powder | **100g** | Month 2 hair rotation |
+| Neem powder | **150g** | Month 3 hair + body rotation |
 | Besan (topical jar — separate from dietary) | **300g** |
 | Fenugreek seeds (hair cubes) | **250g** |
 | Coconut oil (topical) | **300ml** |
@@ -304,8 +305,11 @@ Same process as cilantro — wash, blanch 10 sec, ice bath, dry, bag flat.
 
 **Topical Dry Jars (Make Once, Refill Monthly from Bulk)**
 
-*Hair Dry Mix Jar:*
-- 12 tbsp Amla powder + 12 tbsp Brahmi or Bhringraj powder (pick one, rotate monthly) + 6 tbsp dry Fenugreek powder (backup only)
+*Hair Dry Mix Jar (3-month rotation):*
+- 12 tbsp Amla powder + 12 tbsp **rotating powder** (one per jar, cycle monthly) + 6 tbsp dry Fenugreek powder (backup only)
+- **Month 1:** 12 tbsp Brahmi — scalp inflammation, shaft strength
+- **Month 2:** 12 tbsp Bhringraj — follicle stimulation, shedding reduction
+- **Month 3:** 12 tbsp Neem — antifungal, anti-dandruff, scalp bacteria clearance
 - Mix well, store in large airtight glass jar. Decant into small working jar monthly.
 
 *Face Dry Mix Jar:*
@@ -314,6 +318,7 @@ Same process as cilantro — wash, blanch 10 sec, ice bath, dry, bag flat.
 
 *Body Dry Mix Jar:*
 - 18 tbsp Besan + 6 tbsp Amla powder + 1.5 tbsp Turmeric
+- **Month 3 only (Neem Month):** add 3 tbsp Neem powder to the jar — antimicrobial pulse aligned with hair neem month
 - Mix well, store in large airtight glass jar.
 
 ---

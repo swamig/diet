@@ -96,7 +96,10 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 
 **Dry Hair Mix jar:**
 *   4 tbsp Amla powder
-*   4 tbsp Brahmi powder (Bacopa monnieri) or Bhringraj powder (Eclipta alba) — pick one per jar, rotate monthly
+*   4 tbsp **rotating powder** — 3-month cycle:
+    - Month 1: Brahmi (Bacopa monnieri) — reduces scalp inflammation, strengthens shaft
+    - Month 2: Bhringraj (Eclipta alba) — stimulates follicles, reduces shedding
+    - Month 3: Neem (Azadirachta indica) — antifungal, anti-dandruff, clears scalp bacteria
 *   2 tbsp Fenugreek powder (dry — backup if no frozen paste available)
 *   Mix and store in a labeled airtight glass jar.
 
@@ -110,6 +113,7 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 *   6 tbsp Besan
 *   2 tbsp Amla powder
 *   1.5 tsp Turmeric
+*   **Month 3 only (Neem Month):** add 3 tbsp Neem powder — antimicrobial pulse, anti-fungal scrub. Aligned with hair neem month so you buy and use one batch together.
 *   Mix and store in a labeled airtight glass jar.
 
 ### Frozen Wet Cubes (Ice Cube Tray System)
