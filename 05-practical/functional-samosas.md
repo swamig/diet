@@ -207,11 +207,26 @@ Pre-mix all dry ingredients **except psyllium** into a labeled airtight jar. Kee
 *   1/4 cup Tapioca Starch
 *   1/2 tsp Moringa Powder
 *   1 tsp Ajwain + 1/2 tsp Nigella + 1/2 tsp Sea Salt
-*   *(Optional flavor additions from the stack above: kalonji, kasuri methi, cumin, turmeric, black pepper — all shelf-stable, include in jar)*
+*   *(Optional flavor additions: kalonji, kasuri methi, cumin, turmeric, black pepper — all shelf-stable, include in jar)*
 
 **Shelf life:** 3–6 months airtight (moringa oxidation is the limiting factor).
 
-**Day-of execution (under 2 min before dough rests):**
+### Yogurt Fermentation (Option 3)
+
+The besan and rice flour components of Option 3 ferment readily with yogurt — besan fermentation is the basis of dhokla. Tapioca contributes little (near-pure starch, minimal LAB substrate) but the besan and rice flour base is sufficient. Benefits are the same: phytic acid reduction, reduced oligosaccharides from besan (less gas from concentrated chickpea flour), improved digestibility.
+
+**Fermentation sequence:**
+1. Scoop dry mix into bowl (no psyllium, no oil)
+2. Add 3 tbsp full-fat yogurt + enough cold water to form a thick batter
+3. Cover and ferment overnight in fridge (or 3–4 hours at room temp)
+
+**Day-of completion:**
+1. Add **2 tbsp Psyllium Husk Powder** to the fermented batter
+2. Rub in **2 tbsp Avocado Oil**
+3. Pour in **reduced** boiling water — the batter is already hydrated, so start with 1/4 cup and add more only if needed to reach a rollable consistency
+4. Stir immediately, rest 10 min, roll
+
+**Standard day-of execution (no fermentation):**
 1. Scoop pre-mixed dry jar into bowl
 2. Add **2 tbsp Psyllium Husk Powder**
 3. Rub in **2 tbsp Avocado Oil** until crumbly (the moyen)
