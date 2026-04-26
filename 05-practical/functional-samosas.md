@@ -172,17 +172,38 @@ Gluten forms a viscoelastic protein network. Ice crystals form in the water spac
 ## Option 3: The 'Green Crystal' GF Skin (Rice, Tapioca & Moringa)
 *A lighter, crispier GF alternative. Features a vivid green hue from Moringa for visual signaling and antioxidant delivery. Yields ~40g protein for 2 units (with fortified filling).*
 
-### Ingredients:
-*   1/2 cup **Besan (Chickpea Flour)**.
-*   1/4 cup **Rice Flour** (For the shattering crunch).
-*   1/4 cup **Tapioca Starch** (for elasticity) + **1/2 tsp Moringa Powder** (for the vivid green visual signaling and potent antioxidant boost).
-*   2 tbsp **Psyllium Husk Powder** (The elastic binder).
-*   1 tsp **Ajwain** + 1/2 tsp **Nigella** + 1/2 tsp **Sea Salt**.
-*   2 tbsp **Avocado Oil** (The Moyen).
+### Batch Prep Dry Mix Jar (Make Once, Use Weekly)
+
+Pre-mix all dry ingredients **except psyllium** into a labeled airtight jar. Keep psyllium and avocado oil separate — both added day-of only.
+
+**Why psyllium stays out:** Psyllium is highly hygroscopic — it absorbs ambient moisture every time the jar is opened, clumping and partially pre-gelling over weeks. This degrades its binding capacity when you actually need it. Stored in its own sealed container it's stable for 1–2 years.
+
+**Why oil stays out:** Avocado oil rubbed into a pre-mixed flour jar oxidizes and goes rancid over months. The moyen is a 60-second step — add it fresh.
+
+**Dry mix jar contents (per batch = 2 samosas, scale up for jar):**
+*   1/2 cup Besan
+*   1/4 cup Rice Flour
+*   1/4 cup Tapioca Starch
+*   1/2 tsp Moringa Powder
+*   1 tsp Ajwain + 1/2 tsp Nigella + 1/2 tsp Sea Salt
+*   *(Optional flavor additions from the stack above: kalonji, kasuri methi, cumin, turmeric, black pepper — all shelf-stable, include in jar)*
+
+**Shelf life:** 3–6 months airtight (moringa oxidation is the limiting factor).
+
+**Day-of execution (under 2 min before dough rests):**
+1. Scoop pre-mixed dry jar into bowl
+2. Add **2 tbsp Psyllium Husk Powder**
+3. Rub in **2 tbsp Avocado Oil** until crumbly (the moyen)
+4. Pour in boiling water → stir immediately
+
+### Ingredients (for reference):
+*   1 portion **Green Crystal Dry Mix** (from jar — see above).
+*   2 tbsp **Psyllium Husk Powder** (added day-of).
+*   2 tbsp **Avocado Oil** (added day-of).
 *   ~1/2 to 3/4 cup **Boiling Water**.
 
 ### Execution:
-1.  **The Moyen:** Mix all dry flours and spices. Rub in the oil with fingertips until crumbly.
+1.  **The Moyen:** Scoop dry mix into bowl. Add psyllium. Rub in oil with fingertips until crumbly.
 2.  **Gelatinize:** Pour in the boiling water. Stir immediately with a wooden spoon. The boiling water gelatinizes the starch and psyllium to create a rollable dough.
 3.  **Rest:** Let sit for **10 minutes** until cool enough to handle.
 4.  **Roll:** Roll very thin between parchment. Because of the psyllium/starch gel, it will be flexible like a tortilla.
