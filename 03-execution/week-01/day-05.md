@@ -46,7 +46,7 @@ Nitric oxide emphasis.
 *   **16:30** – Heavy Lift
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
 *   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   18:30 – 18:30 Heat Rotation (Epsom Bath)
+*   **18:30** – Epsom Salt Bath (15–20 min)
 *   21:00 – Night hydration (Ashwagandha [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) 'Net 8')
 
 ## Hydration

@@ -61,7 +61,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Mentha arvensis (mint) | Muddle + TRP chutney | **~8 large bunches** | Blanch 10 sec, dry, bag |
 | Curry leaves | Curry leaf tadka cubes | **~6 large handfuls** | Freeze loose in bag |
 | Lemons | Daily iron anchor + chutneys | **~50 lemons** | Juice + freeze in ice cube trays |
-| Aloe vera (large leaves) | Topical — all three protocols | **4–5 leaves** | Freeze as gel cubes |
+| Aloe vera (large leaves) | Topical — all three protocols | **5 leaves** | Freeze as gel cubes |
 
 **Cube batches (make once on 3-month day):**
 

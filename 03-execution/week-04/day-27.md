@@ -39,7 +39,6 @@ Nitric taper + vascular maintenance.
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
-*   **07:30** – Body Ubtan: apply to damp skin, leave 5–10 min, scrub off in shower
 *   **08:30** – Active Morning Yoga (Hanuman Dand [12](../../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher)
 *   **09:15** – Morning Hydration (Warm Jeera + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
@@ -102,14 +101,6 @@ Nitric taper + vascular maintenance.
 *   **Phantom Sweetness (Approved):** You can add 1/4 tsp of Pure Madagascar Vanilla Extract, a pinch of Ceylon Cinnamon, and a pinch of Cardamom to the bowl. These compounds trick the brain with olfactory sweetness signals and act as neuro-calmers without spiking your blood sugar, creating a fantastic flavor profile.
 *   **Missed Window Failsafe:** Add 1 scoop **Unflavored Whey** if the 17:30 post-workout window was missed.
 *   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
-
-## Topical Protocol
-
-**Body Ubtan** (1×/week) — [Full protocol](../../05-practical/topical-protocols.md)
-1. Thaw 1 aloe cube (pull night before or 15 min at room temp).
-2. Mix 2 tbsp dry body mix + thawed aloe cube + 1 tbsp coconut or sesame oil into paste.
-3. Apply to damp skin in circular motions (besan acts as physical exfoliant).
-4. Leave 5–10 min. Scrub off in shower with warm water. No soap needed on treated areas.
 
 ## Clinical Rationale
 *   Reduced oxalate exposure approaching cycle completion.

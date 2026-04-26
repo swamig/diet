@@ -35,12 +35,12 @@ Fiber modulation + legume exposure.
 | **12:00 Main Meal** | ~850 kcal | 49g | 28g | 68g |
 | **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
 | **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
-| **DAILY TOTAL** | **1,950 kcal** | **146g** | **66g** | **118g** | [Next Day](day-05.md)
+| **DAILY TOTAL** | **1,950 kcal** | **146g** | **66g** | **118g** |
 
-## Topical Protocol
+## Timing
+*   **18:30** – Sauna (15–20 min) [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration)
 
-**Face Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
-1. Thaw 1 aloe cube (pull night before or 15 min at room temp).
-2. Mix 1 tsp dry face mix + thawed aloe cube into paste.
-3. Apply to clean, dry face. Avoid eye area. Leave 10–15 min.
-4. Rinse with cool water. No additional moisturizer needed.
+## Navigation
+
+[Back to Week 1 Overview](README.md) | [Previous Day](day-03.md) | [Next Day](day-05.md)
+

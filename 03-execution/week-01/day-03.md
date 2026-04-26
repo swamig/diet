@@ -41,7 +41,7 @@ Sulforaphane amplification + nitric preparation.
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
-*   **07:00** – Hair Mask: apply, leave 30–45 min under shower cap, rinse by 07:45
+*   **17:45** – Apply all topical masks (hair + face + body)
 *   **08:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
 *   **09:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
@@ -49,7 +49,8 @@ Sulforaphane amplification + nitric preparation.
 *   **16:30** – Heavy Lift
 *   **17:30** – Post-workout protein (Whey + Creatine [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
 *   17:50 – Recovery bowl [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   18:30 – 18:30 Heat Rotation (Epsom Bath)
+*   **18:00** – 3–5 min sauna (pore primer — not a stress dose)
+*   **18:30** – Epsom Salt Bath (30–45 min) — rinses all masks, magnesium absorption
 *   21:00 – Night hydration (Saffron infusion)
 
 ## Hydration
@@ -111,12 +112,15 @@ Sulforaphane amplification + nitric preparation.
 
 ## Topical Protocol
 
-**Hair Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
-1. Thaw 1 fenugreek cube + 1 aloe cube (pull night before or 30 min at room temp).
-2. Mix with 2 tbsp dry hair mix + 1 tbsp coconut oil into thick paste.
-3. Apply to scalp first (massage 2–3 min), then through lengths.
-4. Cover with shower cap. Leave 30–45 min. Do not let dry completely.
-5. Rinse with cool water. Shampoo once if needed.
+**Combined Session — Hair + Face + Body** (weekly) — [Full protocol](../../05-practical/topical-protocols.md)
+- Apply all three masks → 3–5 min sauna (opens pores) → Epsom bath 30–45 min → drain = rinse.
+
+1. **Hair mask:** 2 tbsp dry hair mix + 1 fenugreek cube (thawed) + 1 aloe cube (thawed) + 1 tbsp coconut oil. Apply to scalp (massage 2–3 min), work through lengths, shower cap on.
+2. **Face mask:** 1 tsp dry face mix + 1 aloe cube (thawed). Apply to face, avoid eye area.
+3. **Body ubtan:** 2 tbsp dry body mix + 1 aloe cube (thawed) + 1 tbsp oil. Apply to damp skin.
+4. **3–5 min sauna** — not enough for HSP stress, just enough to fully open pores and drive compounds in.
+5. **Epsom bath 18:30** (30–45 min) — pores maximally open, magnesium absorbs, masks still working.
+6. Drain + rinse = done.
 
 ## Clinical Rationale
 *   Nrf2 activation via sulforaphane.

@@ -39,7 +39,7 @@ Parasympathetic tone + reset.
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
-*   **07:00** – Hair Mask: apply, leave 30–45 min under shower cap, rinse by 07:45
+*   **07:00** – Hair + Face masks: apply, hair stays 30–45 min under shower cap, face rinses at 07:15
 *   **08:30** – Rest / Light Walk
 *   **09:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
@@ -106,12 +106,19 @@ Parasympathetic tone + reset.
 
 ## Topical Protocol
 
-**Hair Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
+**Hair + Face Combined** (weekly) — [Full protocol](../../05-practical/topical-protocols.md)
+- Sunday: morning shower is the rinse (no Epsom bath today).
+
+**Hair mask:**
 1. Thaw 1 fenugreek cube + 1 aloe cube (pull night before or 30 min at room temp).
 2. Mix with 2 tbsp dry hair mix + 1 tbsp coconut oil into thick paste.
-3. Apply to scalp first (massage 2–3 min), then through lengths.
-4. Cover with shower cap. Leave 30–45 min. Do not let dry completely.
-5. Rinse with cool water. Shampoo once if needed.
+3. Apply to scalp first (massage 2–3 min), then through lengths. Shower cap on.
+4. Leave 30–45 min. Do not let dry completely. Rinse with cool water.
+
+**Face mask (while hair mask is on):**
+1. Mix 1 tsp dry face mix + 1 thawed aloe cube into paste.
+2. Apply to clean face, avoid eye area. Leave 10–15 min.
+3. Rinse with cool water before rinsing hair.
 
 ## Clinical Rationale
 *   Reduced stimulation to allow nervous system recovery.

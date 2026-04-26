@@ -134,11 +134,8 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 
 | Day | Action |
 |---|---|
-| Sunday | Hair mask + check dry jar levels. Batch fenugreek paste cubes if running low. Batch aloe cubes if running low. |
-| Monday | Face mask |
-| Wednesday | Hair mask |
-| Thursday | Face mask |
-| Saturday | Body ubtan (pre-shower) |
+| Wednesday | Hair + Face + Body combined (brief pre-sauna → Epsom bath → drain = rinse) |
+| Sunday | Hair + Face combined (shower rinse) + check dry jar levels. Batch cubes if running low. |
 
 ---
 
@@ -158,7 +155,7 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 | Besan (chickpea flour) | 300g | Face + body dry mixes |
 | Turmeric | 30g | Face + body dry mixes |
 | Fenugreek seeds | 250g | Hair paste cubes (monthly batches) |
-| Aloe vera (fresh leaves) | 4–5 large leaves | All three protocols |
+| Aloe vera (fresh leaves) | 5–6 large leaves | All three protocols |
 | Coconut oil | 300ml | Hair + body |
 
 **Dry jar prep (one session, lasts ~1 month each — refill from bulk stock):**
@@ -207,11 +204,11 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 | Protocol | Frequency | Aloe cubes/week | Fenugreek cubes/week |
 |---|---|---|---|
 | Hair mask | 2x/week (Wed + Sun) | 2 | 2 |
-| Face mask | 2x/week (Mon + Thu) | 2 | 0 |
-| Body ubtan | 1x/week (Sat) | 1 | 0 |
+| Face mask | 2x/week (Wed + Sun) | 2 | 0 |
+| Body ubtan | 1x/week (Wed) | 1 | 0 |
 | **Total** | | **5 cubes/week** | **2 cubes/week** |
 
-At 5 aloe cubes/week → **65 cubes for 3 months** → 5 tray batches from 4–5 large leaves.
+At 5 aloe cubes/week → **65 cubes for 3 months** → 5 tray batches from 5 large leaves.
 At 2 fenugreek cubes/week → **26 cubes for 3 months** → 1 batch every ~6 weeks from 4 tbsp seeds.
 
 ---
