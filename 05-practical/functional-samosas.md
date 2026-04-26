@@ -1,8 +1,8 @@
 
 ## The 3-Option Architecture (Quick Jump)
 To maintain gut resilience and balance your amino acid profile, you must rotate your crusts based on your daily training load:
-*   [**Option 1: The Seitan Hybrid Skin**](#option-1-the-seitan-hybrid-skin-high-protein) — The **"Protein Bomb."** 90% VWG. Used on M/W/F (Heavy Lift days) for maximal muscle recovery (~50g protein for two).
-*   [**Option 2: The "Daily Bread" Hybrid**](#option-2-the-daily-bread-hybrid-atta--vwg) — The **"Standard Balance."** 50% Atta / 50% VWG. Excellent texture, hits your 40g target without fortification.
+*   [**Option 1: The Seitan Hybrid Skin**](#option-1-the-seitan-hybrid-skin-high-protein) — The **"Default."** 50/50 VWG/Besan. Used all 4 samosa days — better amino acid profile and crispier texture than pure VWG (~42g protein for two).
+*   [**Option 2: The "Daily Bread" Hybrid**](#option-2-the-daily-bread-hybrid-atta--vwg) — **Optional variation** when atta is on hand. 50% Atta / 50% VWG. Nuttier, more traditional flavor (~40g protein for two).
 *   [**Option 3: The 'Green Crystal' GF Skin**](#option-3-the-green-crystal-gf-skin-rice-tapioca--moringa) — The **"Fiber Sweep."** Tapioca/Rice/Moringa base. Used on T/Th/S (Rest/Cardio days) for GI motility. Requires Pea/Rice fortification to hit the 40g target.
 
 ---
@@ -49,33 +49,29 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 ---
 
 ## Option 1: The Seitan Hybrid Skin (High Protein)
-*The most functional, lowest-glycemic option. Yields ~50g protein for 2 units.*
+*The standard gluten day skin. 50/50 VWG/besan gives better texture and amino acid profile than pure VWG — besan adds lysine (complementing VWG's methionine) and fries crispier. Default for all 4 samosa days.*
 
 ### Ingredients:
-*   1.5 cups **Vital Wheat Gluten (VWG)**.
-*   2 tbsp **Besan (Chickpea Flour)**.
+*   3/4 cup **Vital Wheat Gluten (VWG)**.
+*   3/4 cup **Besan (Chickpea Flour)**.
 *   1 tsp **Ajwain** + 1/2 tsp **Nigella** + 1/2 tsp **Sea Salt**.
-*   2 tbsp **Avocado Oil** (The Moyen).
-*   ~1/2 cup **Cold Water or Aquafaba**.
+*   2 tbsp **Ghee** (The Moyen — added day-of, not in dry jar).
+*   ~1/2 cup **Cold Water, Aquafaba, or Yogurt** (yogurt for fermented version).
 
 ### Execution:
-1.  **The Moyen:** Mix VWG, Besan, and spices in a bowl. Add the oil and rub it into the flour with your fingertips until it feels like coarse sand.
-2.  **Hydrate:** Add cold water/aquafaba slowly until a very stiff, tight dough forms. 
-3.  **The Rest (CRITICAL):** Wrap and rest for **45-60 minutes**. This is mandatory to allow the gluten to relax for rolling.
+1.  **The Moyen:** Mix VWG, besan, and spices in a bowl (or scoop from dry mix jar). Rub in ghee with fingertips until crumbly.
+2.  **Hydrate:** Add cold water/aquafaba/yogurt slowly until a stiff dough forms.
+3.  **The Rest (CRITICAL):** Wrap and rest for **45-60 minutes** minimum, or ferment overnight in fridge.
 4.  **Roll:** Roll paper-thin between parchment sheets. Cut into circles or strips.
 5.  **Cook:** Air Fry at **400°F (200°C) for 7-8 minutes**.
 
 ### Macro Profile (For 2 Samosas)
-*   **Protocol Window:** **Heavy Lift (M/W/F)**
-*   **Total Protein:** ~50g
-*   **Total Carbs:** ~32g
-*   **Dietary Fiber:** ~10g
-*   **Complex Carbs (RS3/Starches):** ~20g *(Sustained energy, flat insulin curve)*
-*   **Net Carbs:** ~22g
-*   **Fat:** ~12g (Avocado Oil)
-
-
-
+*   **Protocol Window:** **Any samosa day (M/W/F + 1)**
+*   **Total Protein:** ~42g
+*   **Total Carbs:** ~35g
+*   **Dietary Fiber:** ~11g
+*   **Net Carbs:** ~24g
+*   **Fat:** ~12g (Ghee)
 
 
 
@@ -83,27 +79,26 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 
 
 ---
-## Option 2: The "Daily Bread" Hybrid (Atta & VWG)
-*The most balanced option for texture and flavor. Uses a 50/50 blend of whole wheat and gluten to achieve a traditional nutty flavor with a high-protein snap.*
+## Option 2: The "Daily Bread" Hybrid (Atta & VWG) — *Optional Variation*
+*Use when you have whole wheat atta on hand and want a nuttier, more traditional flavor. Not required — Option 1 covers all samosa days by default.*
 
 ### Ingredients:
 1.  **The Wrapper:** 1/2 cup **Whole Wheat Flour (Atta)** + 1/2 cup **Vital Wheat Gluten (VWG)** + 1/2 tsp **Ajwain** + 1/4 tsp **Nigella** + 1/4 tsp **Sea Salt**.
-2.  **The Binders:** 1 tbsp Avocado Oil (The Moyen) and hydrate with cold water until a stiff dough forms.
+2.  **The Binders:** 1 tbsp **Ghee** (The Moyen — day-of) and hydrate with cold water or yogurt until a stiff dough forms.
 
 ### Execution:
-1.  **The Moyen:** Rub the oil into the dry flour blend until crumbly.
-2.  **Hydrate:** Add water slowly. Knead for 3-5 minutes to activate the gluten.
-3.  **Rest:** Rest for **30 minutes** before rolling.
+1.  **The Moyen:** Rub ghee into the dry flour blend until crumbly.
+2.  **Hydrate:** Add water/yogurt slowly. Knead for 3-5 minutes to activate the gluten.
+3.  **Rest:** Rest for **30 minutes** minimum, or ferment overnight in fridge.
 4.  **Cook:** Air Fry at **390°F (195°C) for 8-10 minutes**.
 
 ### Macro Profile (For 2 Samosas)
-*   **Protocol Window:** **Standard (Any)**
+*   **Protocol Window:** **Any (when atta available)**
 *   **Total Protein:** ~40g
 *   **Total Carbs:** ~42g
 *   **Dietary Fiber:** ~14g
-*   **Complex Carbs (RS3/Starches):** ~26g *(Moderate glycemic load)*
 *   **Net Carbs:** ~28g
-*   **Fat:** ~12g (Avocado Oil)
+*   **Fat:** ~12g (Ghee)
 
 
 

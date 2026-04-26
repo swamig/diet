@@ -73,14 +73,18 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 
 **Shelf-stable pantry:**
 
-*Proteins & binders (patties — 6 bi-weekly batches):*
+*Proteins & binders:*
 
-| Item | Per batch | 3-month quantity |
+| Item | Use | 3-month quantity |
 |---|---|---|
-| Vital Wheat Gluten (VWG) | ~9 tbsp | **~500g** |
-| Pea protein powder | ~9 tbsp | **~500g** |
-| Nutritional yeast | ~7 tbsp | **~200g** |
-| Casein protein powder | 1 scoop/day × 5 days | **~1.5 kg tub** |
+| Vital Wheat Gluten (VWG) | Samosa skins (4×/week, 0.75 cups/day) + patty binder | **~5 kg** |
+| Besan (chickpea flour — dietary) | Samosa skins (0.75 cups/day × 4 days) | **~3 kg** |
+| Ghee | Samosa dough moyen (day-of) + cooking | **~500g** |
+| Pea protein powder | Patty binder | **~500g** |
+| Nutritional yeast | Patties | **~200g** |
+| Casein protein powder | Recovery bowl daily | **~1.5 kg tub** |
+
+*Note: besan listed here is for dietary use only. Topical besan (300g) is listed separately in the topical section.*
 
 *Spices & dried goods:*
 
