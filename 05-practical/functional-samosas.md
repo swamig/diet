@@ -25,26 +25,54 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 ---
 
 ## The Master Filling (The RS3 Core)
-*Prepare this once and use for all skin options. Do NOT heat the filling.*
+*Batch-prepped once per 3-month cycle. Stored as banana leaf parcels in the freezer. Do NOT heat above 130°F (54°C) — the RS3 thermal ceiling.*
 
-### Ingredients:
-*   2 cups **Cooked Chickpeas** (Must be chilled for 24+ hours for RS3 stabilization).
-*   1/2 cup **Green Peas** (Blanched and completely chilled).
-*   1 tbsp **Fresh Ginger** (Grated).
-*   1/2 tsp **Ajwain** (Crushed between palms).
-*   1/2 tsp **Nigella (Kalonji)**.
-*   1 tbsp **Lemon Juice** (Vitamin C to multiply iron absorption).
-*   1/2 tsp **Sea Salt**.
-*   **The Fortification (Mandatory for GF version):** **3 tbsp (approx 25g) Elite Amino Blend** (2 tbsp Rice Protein + 1 tbsp Pea Protein). *Why this specific ratio?* Your filling is already heavily legume-dominant (chickpeas & peas) which provides excess Lysine but severely lacks Methionine. A 2:1 ratio favoring Rice Protein perfectly balances the total amino acid pool of the entire samosa.
+### Ingredients (per serving — 2 samosas):
+*   2 cups **Cooked Chickpeas** (chilled 24h+ for RS3 stabilization)
+*   1/2 cup **Green Peas** (blanched and chilled)
+*   1 tbsp **Fresh Ginger** (grated)
+*   1/2 tsp **Ajwain** (crushed between palms)
+*   1/2 tsp **Nigella (Kalonji)**
+*   1 tbsp **Lemon Juice** (Vitamin C — multiplies iron absorption from chickpeas)
+*   1/2 tsp **Sea Salt**
 
+**The High-Signaling Spice Stack (Default — not optional):**
+*   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying
+*   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor
+*   1–2 **Green Chilies** (finely chopped) — TRP channel activation
+*   1/2 tsp **Chaat Masala** — additional amchur + black salt for electrolyte signal
 
-*   **The High-Signaling (Spicy) Variant (Optional):** Add **1/2 tsp Kashmiri Chili Powder**, **1/2 tsp Amchur (Dried Mango Powder)**, and **1-2 finely chopped Green Chilies**. *Reasoning:* This increases the capsaicin load, which synergizes with the Ajwain in the crust to further accelerate gastric emptying.
+**Protein Fortification (Option 3 / GF skin only):**
+*   3 tbsp **Elite Amino Blend** — 2 tbsp Rice Protein + 1 tbsp Pea Protein. GF skin has lower protein (~15g); this blend compensates. 2:1 rice:pea ratio balances methionine against the lysine-heavy chickpea base. Not needed for Options 1 & 2 — the VWG/besan skin already provides ~50g protein.
 
-### Instructions:
-1.  Roughly mash the cold chickpeas in a bowl (keep some texture).
-2.  Fold in the peas, ginger, spices, salt, and lemon juice.
-3.  If making the GF version, stir in the Pea/Rice Protein Blend until fully incorporated into the mash.
-4.  Keep the filling in the fridge until the moment of assembly.
+### Signal Variations (Batch in Parallel — Label Each Bag)
+
+Split the 52 parcels across 3 signal variants when forming. Label each ziplock bag with the variant letter so you rotate automatically when pulling from the freezer.
+
+| Variant | Parcels | Add to base filling | Signal target | Pull on |
+|---|---|---|---|---|
+| **A — Standard Capsaicin** | ~18 | Base spice stack as written | TRP + gastric motility | Any day |
+| **B — Habanero Pulse** | ~17 | Replace green chili with **1/2 habanero** (finely minced) + add **1/4 tsp smoked paprika** | Max capsaicinoid density — TRPV1 saturation | Heavy lift days (M/W/F) |
+| **C — Sulforaphane + Anti-Inflammatory** | ~17 | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** (piperine amplifies curcumin) | NF-κB + Nrf2 dual suppression | Cardio/recovery days |
+
+**Why three variants:** Each targets a different downstream signal. Habanero pulse on heavy lift days drives sympathetic activation and thermogenesis post-training. Sulforaphane variant on recovery days amplifies the anti-inflammatory and detox pathways when muscle repair is the priority.
+
+### Batch Prep Instructions (Banana Leaf Parcel System):
+1. Cook chickpeas fully → spread on sheet tray → cool to room temp (~30–40 min)
+2. Fridge overnight — RS3 crystallizes in the chickpeas
+3. Next day: warm mash gently to **max 130°F** (just enough to be pliable — a few minutes in a warm pan off heat)
+4. Roughly mash — keep 30% chunky for texture
+5. Divide mash into 3 bowls (Variants A, B, C)
+6. Fold base spice stack into all three, then add each variant's specific additions
+7. If Option 3: fold in protein blend now
+8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
+9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
+10. Fold leaf over block like a parcel, fold ends under
+11. Cool completely on rack (30 min room temp)
+12. Fridge overnight — RS3 fully sets inside the sealed parcel
+13. Transfer to labeled ziplock bags (A / B / C) → freeze. **Shelf life: 3–4 months**
+
+**Day-of:** Take leaf parcel from freezer → thaw in fridge overnight → make fresh VWG/besan skin dough → wrap cold block in skin → air fry at 400°F for 7–8 min → serve open on the leaf.
 
 ---
 
