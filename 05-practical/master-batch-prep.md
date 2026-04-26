@@ -221,15 +221,16 @@ Identical to chickpeas. Cook separately (different flavor profile — keep batch
 ---
 
 **Aloe Vera Cubes**
-*3–4 large leaves → ~4 trays (~52 cubes)*
-1. Lay each leaf flat. Slice off the serrated edges with a sharp knife.
-2. Slice the leaf lengthwise to expose the gel.
-3. Scoop out gel with a spoon — **avoid the yellow latex layer** just under the green skin (bitter, can irritate skin).
-4. Blend all gel until completely smooth.
-5. Pour into ice cube trays (~1 tbsp per cube).
-6. Freeze overnight, transfer to labeled airtight container.
-7. **Shelf life frozen:** 3–4 months.
-8. **Use:** 1 cube per hair mask, 1 per face mask, 1 per body ubtan.
+*5 large leaves → ~5 trays (~65 cubes)*
+1. **Drain the latex first:** Cut each leaf at the base. Stand upright cut-end down in a glass or bowl for 10–15 min. Yellow latex (aloin) drains out — do not skip. Aloin is bitter and irritates skin.
+2. Lay each leaf flat. Slice off the serrated edges on both sides with a sharp knife.
+3. **Fillet the top skin:** Run knife just under the flat green surface and peel it back. Clear gel is exposed underneath.
+4. Scoop out gel with a spoon — stay away from the skin edge where residual yellow latex sits.
+5. Blend all gel until completely smooth.
+6. Pour into ice cube trays (~1 tbsp per cube).
+7. Freeze overnight, transfer to labeled airtight container.
+8. **Shelf life frozen:** 3–4 months.
+9. **Use:** 1 cube per hair mask, 1 per face mask, 1 per body ubtan.
 
 ---
 

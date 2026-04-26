@@ -123,11 +123,14 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 *   Why fresh-soaked beats dry powder: soaking activates mucilage and lecithin that coat and condition the shaft. Dry fenugreek powder provides fewer of these compounds.
 
 **Aloe Vera Cubes (All three protocols):**
-1.  Slice fresh aloe vera leaf. Scoop out gel.
-2.  Blend until smooth.
-3.  Portion into ice cube tray (~1 tbsp per cube).
-4.  Freeze overnight, transfer to airtight container.
-5.  **Shelf life frozen:** 3–4 months.
+1.  **Drain the latex first:** Cut leaf at the base. Stand upright cut-end down in a glass for 10–15 min — yellow latex (aloin) drains out. Do not skip — aloin is bitter and irritates skin.
+2.  Lay leaf flat. Slice off serrated edges on both sides.
+3.  **Fillet the top skin:** Run knife just under the green surface and peel back. Clear gel is exposed underneath.
+4.  Scoop out gel with a spoon — stay away from the skin edge where residual latex sits.
+5.  Blend until completely smooth.
+6.  Portion into ice cube tray (~1 tbsp per cube).
+7.  Freeze overnight, transfer to airtight container.
+8.  **Shelf life frozen:** 3–4 months.
 *   1 cube = 1 application (hair, face, or body).
 
 ### Weekly Cadence
