@@ -39,6 +39,7 @@ Parasympathetic reset + cycle completion.
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
+*   **07:00** – Hair Mask: apply, leave 30–45 min under shower cap, rinse by 07:45
 *   **08:30** – Rest / Light Walk
 *   **09:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
@@ -101,6 +102,15 @@ Parasympathetic reset + cycle completion.
 *   **Phantom Sweetness (Approved):** You can add 1/4 tsp of Pure Madagascar Vanilla Extract, a pinch of Ceylon Cinnamon, and a pinch of Cardamom to the bowl. These compounds trick the brain with olfactory sweetness signals and act as neuro-calmers without spiking your blood sugar, creating a fantastic flavor profile.
 *   **Missed Window Failsafe:** Add 1 scoop **Unflavored Whey** if the 17:30 post-workout window was missed.
 *   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
+
+## Topical Protocol
+
+**Hair Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
+1. Thaw 1 fenugreek cube + 1 aloe cube (pull night before or 30 min at room temp).
+2. Mix with 2 tbsp dry hair mix + 1 tbsp coconut oil into thick paste.
+3. Apply to scalp first (massage 2–3 min), then through lengths.
+4. Cover with shower cap. Leave 30–45 min. Do not let dry completely.
+5. Rinse with cool water. Shampoo once if needed.
 
 ## Clinical Rationale
 *   Parasympathetic tone emphasis via Saffron.

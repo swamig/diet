@@ -39,6 +39,7 @@ Sulfur activation + moderate polyphenol support.
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
+*   **07:45** – Face Mask: apply, leave 10–15 min, rinse before 08:30
 *   **08:30** – Cold Plunge [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) (Method A)
 *   **09:15** – Morning Hydration (Warm Ajwain + Matcha [6](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   **12:00** – Break fast (Main meal + Micro-Nutrient Stack) [14](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) (Chaas Hack: Add 1-2 tbsp Coconut Milk + ACV for creaminess. If used, subtract 1-2 tbsp Oil from 14:30 Salad Dressing)
@@ -104,6 +105,14 @@ Sulfur activation + moderate polyphenol support.
 *   **Phantom Sweetness (Approved):** You can add 1/4 tsp of Pure Madagascar Vanilla Extract, a pinch of Ceylon Cinnamon, and a pinch of Cardamom to the bowl. These compounds trick the brain with olfactory sweetness signals and act as neuro-calmers without spiking your blood sugar, creating a fantastic flavor profile.
 *   **Missed Window Failsafe:** Add 1 scoop **Unflavored Whey** if the 17:30 post-workout window was missed.
 *   **Alternative:** Blend into a **[Savory Recovery Chaas](../../05-practical/functional-indian-formats.md)** (Yogurt + Water + Cumin + Black Salt + Unflavored Protein). **Must not be spicy.**
+
+## Topical Protocol
+
+**Face Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
+1. Thaw 1 aloe cube (pull night before or 15 min at room temp).
+2. Mix 1 tsp dry face mix + thawed aloe cube into paste.
+3. Apply to clean, dry face. Avoid eye area. Leave 10–15 min.
+4. Rinse with cool water. No additional moisturizer needed.
 
 ## Clinical Rationale
 *   Sulforaphane + sulfur donors synergize.

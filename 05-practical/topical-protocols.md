@@ -28,7 +28,7 @@ Ayurvedic topical ingredients operate on the same signaling logic as the dietary
 
 ## 1. Hair Mask Protocol
 
-**Frequency:** 1x/week standard. 2x/week if dry scalp or active hair loss.
+**Frequency:** 2x/week (Wednesday + Sunday).
 
 **Leave time:** 30–45 minutes under a shower cap.
 
@@ -134,10 +134,11 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 
 | Day | Action |
 |---|---|
-| Sunday | Check dry jar levels. Batch fenugreek paste cubes if running low. Batch aloe cubes if running low. |
-| Any 2x/week | Face mask (1 tsp dry face mix + 1 aloe cube) |
-| Once/week | Hair mask (2 tbsp dry hair mix + 1 fenugreek cube + 1 aloe cube + coconut oil) |
-| Once/week | Body ubtan (2 tbsp dry body mix + 1 aloe cube + 1 tbsp oil) |
+| Sunday | Hair mask + check dry jar levels. Batch fenugreek paste cubes if running low. Batch aloe cubes if running low. |
+| Monday | Face mask |
+| Wednesday | Hair mask |
+| Thursday | Face mask |
+| Saturday | Body ubtan (pre-shower) |
 
 ---
 
@@ -157,7 +158,7 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 | Besan (chickpea flour) | 300g | Face + body dry mixes |
 | Turmeric | 30g | Face + body dry mixes |
 | Fenugreek seeds | 250g | Hair paste cubes (monthly batches) |
-| Aloe vera (fresh leaves) | 3–4 large leaves | All three protocols |
+| Aloe vera (fresh leaves) | 4–5 large leaves | All three protocols |
 | Coconut oil | 300ml | Hair + body |
 
 **Dry jar prep (one session, lasts ~1 month each — refill from bulk stock):**
@@ -183,8 +184,8 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 **Aloe cube batch (one session, lasts 3 months):**
 - Slice 3–4 large aloe leaves, scoop all gel, blend smooth
 - Fill 1 ice cube tray (~1 tbsp per cube)
-- 1 tray = ~14 cubes = ~3.5 weeks of use (face 2x + hair 1x + body 1x = 4 cubes/week)
-- You need ~52 cubes for 3 months → fill tray 4 times over the session, or use 2 trays simultaneously
+- 1 tray = ~14 cubes = ~3 weeks of use (hair 2x + face 2x + body 1x = 5 cubes/week)
+- You need ~65 cubes for 3 months → fill tray 5 times over the session, or use 2–3 trays simultaneously
 - Transfer frozen cubes to a single airtight bag labeled "Aloe"
 
 ---
@@ -205,13 +206,13 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 
 | Protocol | Frequency | Aloe cubes/week | Fenugreek cubes/week |
 |---|---|---|---|
-| Hair mask | 1x/week | 1 | 1 |
-| Face mask | 2x/week | 2 | 0 |
-| Body ubtan | 1x/week | 1 | 0 |
-| **Total** | | **4 cubes/week** | **1 cube/week** |
+| Hair mask | 2x/week (Wed + Sun) | 2 | 2 |
+| Face mask | 2x/week (Mon + Thu) | 2 | 0 |
+| Body ubtan | 1x/week (Sat) | 1 | 0 |
+| **Total** | | **5 cubes/week** | **2 cubes/week** |
 
-At 4 aloe cubes/week → **52 cubes for 3 months** → 4 tray batches from 3–4 large leaves.
-At 1 fenugreek cube/week → **13 cubes for 3 months** → 1 batch/month from 4 tbsp seeds.
+At 5 aloe cubes/week → **65 cubes for 3 months** → 5 tray batches from 4–5 large leaves.
+At 2 fenugreek cubes/week → **26 cubes for 3 months** → 1 batch every ~6 weeks from 4 tbsp seeds.
 
 ---
 

@@ -61,7 +61,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Mentha arvensis (mint) | Muddle + TRP chutney | **~8 large bunches** | Blanch 10 sec, dry, bag |
 | Curry leaves | Curry leaf tadka cubes | **~6 large handfuls** | Freeze loose in bag |
 | Lemons | Daily iron anchor + chutneys | **~50 lemons** | Juice + freeze in ice cube trays |
-| Aloe vera (large leaves) | Topical — all three protocols | **3–4 leaves** | Freeze as gel cubes |
+| Aloe vera (large leaves) | Topical — all three protocols | **4–5 leaves** | Freeze as gel cubes |
 
 **Cube batches (make once on 3-month day):**
 
@@ -441,7 +441,7 @@ Full instructions in [Vegan Protein Patties](vegan-protein-patties.md). Pull fro
 
 | Cube type | Cadence | Per batch | Batches in 3 months | Total cubes |
 |---|---|---|---|---|
-| Aloe vera | 3-month | ~52 (4 trays) | 1 | **52** |
+| Aloe vera | 3-month | ~65 (5 trays) | 1 | **65** |
 | Lemon juice | 3-month | ~42–56 (3–4 trays) | 1 | **~48** |
 | Imli (tamarind) | 3-month | ~14 (1 tray) | 1 | **14** |
 | Aquafaba | 3-month (byproduct) | ~20–30 | 1 | **~25** |
@@ -449,11 +449,11 @@ Full instructions in [Vegan Protein Patties](vegan-protein-patties.md). Pull fro
 | Rested garlic | Monthly | ~14 | 3 | **~42** |
 | Curry leaf tadka | Monthly | ~14 | 3 | **~42** |
 | Mint muddle | Monthly | ~14–28 | 3 | **~42–84** |
-| Fenugreek paste (hair) | Monthly | ~14 | 3 | **~42** |
+| Fenugreek paste (hair) | Monthly | ~14 | 3 | **~26** |
 | Coconut chutney base | Every 2–3 weeks | ~6–8 | ~5–6 | **~36** |
 | Cilantro/mint chutney | Every 2–3 weeks | ~6–8 | ~5–6 | **~36** |
 
-**Total across 3 months: ~420–520 cubes** (low end uses smaller ginger/muddle batches; high end doubles those monthly batches)
+**Total across 3 months: ~430–535 cubes** (low end uses smaller ginger/muddle batches; high end doubles those monthly batches)
 
 ### How many trays you need
 
@@ -463,7 +463,7 @@ Peak simultaneous tray use by session (at 15 cubes per tray, one type per tray):
 
 | Session | Item | Cubes | Trays |
 |---|---|---|---|
-| **3-month day** | Aloe vera | 52 | 4 |
+| **3-month day** | Aloe vera | 65 | 5 |
 | | Lemon juice | 48 | 4 |
 | | Imli | 14 | 1 |
 | | Aquafaba | 25 | 2 |
@@ -486,14 +486,14 @@ The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the f
 
 | Cube type | Uses/week | Draw-down |
 |---|---|---|
-| Aloe vera | 4 (hair 1 + face 2 + body 1) | 52 cubes / 13 weeks = 4/week |
+| Aloe vera | 5 (hair 2 + face 2 + body 1) | 65 cubes / 13 weeks = 5/week |
 | Lemon juice | ~7 (cooking) | Use as needed — 3-month supply |
 | Imli | ~2 | Use as needed — 2-3 month supply |
 | Ginger | ~7 (1/day) | ~14-cube batch lasts ~2 weeks |
 | Rested garlic | ~7 (1/day) | ~14-cube batch lasts ~2 weeks |
 | Curry leaf tadka | ~3–5 | ~14-cube batch lasts ~3–4 weeks |
 | Mint muddle | ~5 | ~14-cube batch lasts ~3 weeks |
-| Fenugreek paste (hair) | 1–2 | ~14-cube batch lasts 6–10 weeks |
+| Fenugreek paste (hair) | 2 | ~14-cube batch lasts ~7 weeks → batch every 6 weeks |
 | Coconut chutney base | ~5–6 | ~6-cube batch lasts ~1 week |
 | Cilantro/mint chutney | ~5–6 | ~6-cube batch lasts ~1 week |
 

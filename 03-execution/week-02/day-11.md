@@ -36,3 +36,11 @@ Gut stabilization + fiber modulation.
 | **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
 | **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
 | **DAILY TOTAL** | **1,950 kcal** | **146g** | **66g** | **118g** | [Next Day](day-12.md)
+
+## Topical Protocol
+
+**Face Mask** (2×/week) — [Full protocol](../../05-practical/topical-protocols.md)
+1. Thaw 1 aloe cube (pull night before or 15 min at room temp).
+2. Mix 1 tsp dry face mix + thawed aloe cube into paste.
+3. Apply to clean, dry face. Avoid eye area. Leave 10–15 min.
+4. Rinse with cool water. No additional moisturizer needed.
