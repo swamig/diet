@@ -47,24 +47,31 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 
 ### Signal Variations (Batch in Parallel — Label Each Bag)
 
-Split the 52 parcels across 3 signal variants when forming. Label each ziplock bag with the variant letter so you rotate automatically when pulling from the freezer.
+Split the 52 parcels across 4 signal variants when forming. Variants A, B, C come from the **chickpea cook batch** (split after mashing). Variant D comes from the **black bean cook batch** (separate boil — do not mix bases). Label each ziplock bag with the variant letter so you rotate automatically when pulling from the freezer.
 
-| Variant | Parcels | Add to base filling | Signal target | Pull on |
-|---|---|---|---|---|
-| **A — Standard Capsaicin** | ~18 | Base spice stack as written | TRP + gastric motility | Any day |
-| **B — Habanero Pulse** | ~17 | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation + anthocyanin stack | Heavy lift days (M/W/F) |
-| **C — Sulforaphane + Anti-Inflammatory** | ~17 | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression + anthocyanin | Cardio/recovery days |
+| Variant | Parcels | Base | Add to base filling | Signal target | Pull on |
+|---|---|---|---|---|---|
+| **A — Standard Capsaicin** | ~13 | Chickpea | Base spice stack as written | TRP + gastric motility | Any day |
+| **B — Habanero Pulse** | ~13 | Chickpea | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation + anthocyanin stack | Heavy lift days (M/W/F) |
+| **C — Sulforaphane + Anti-Inflammatory** | ~13 | Chickpea | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression + anthocyanin | Cardio/recovery days |
+| **D — Black Bean Anthocyanin Base** | ~13 | Black bean | Swap chickpeas entirely for cooked black beans + **2 tbsp black bean cooking liquid** (double anthocyanin dose — cyanidin-3-glucoside at 2× concentration) + base spice stack as written | Max anthocyanin density (same compound class as blueberries) + iron signal (black beans ~3.6mg/100g vs chickpeas ~2.9mg) | Any day — rotate in when pulling chickpea variants gets monotonous |
 
-**Why three variants:** Each targets a different downstream signal. Habanero pulse on heavy lift days drives sympathetic activation and thermogenesis post-training. Sulforaphane variant on recovery days amplifies the anti-inflammatory and detox pathways when muscle repair is the priority.
+**Variant D protein note:** ~70g total per 3-month batch (similar to chickpea base). Primary benefit is anthocyanin density, not a protein upgrade. The black bean liquid acts as a natural food dye — filling turns deep purple-black. Normal and expected.
+
+**Why four variants:** A is the daily workhorse. B drives sympathetic activation and thermogenesis on heavy lift days. C amplifies anti-inflammatory and Nrf2/NF-κB detox pathways on recovery days. D rotates in as the anthocyanin signal — maximizes cyanidin-3-glucoside delivery from both the beans and the cooking liquid simultaneously.
 
 ### Batch Prep Instructions (Banana Leaf Parcel System):
+
+**Two cook batches:** Chickpea batch → Variants A/B/C. Black bean batch → Variant D. Run them the same day (parallel pots) or on back-to-back days. Do not mix bases mid-prep.
+
+**Chickpea batch (Variants A, B, C — ~39 parcels):**
 1. Cook chickpeas fully → spread on sheet tray → cool to room temp (~30–40 min)
 2. Fridge overnight — RS3 crystallizes in the chickpeas
-3. Next day: warm mash gently to **max 130°F** (just enough to be pliable — a few minutes in a warm pan off heat)
+3. Next day: warm mash gently to **max 130°F** (just enough to be pliable)
 4. Roughly mash — keep 30% chunky for texture
-5. Divide mash into 3 bowls (Variants A, B, C)
-6. Fold base spice stack into all three, then add each variant's specific additions
-7. If Option 3: fold in protein blend now
+5. Divide mash into 3 bowls (~equal portions — ~13 parcels each)
+6. Fold base spice stack into all three, then add each variant's specific additions (see table above)
+7. If using Option 3 GF skin: fold in protein blend now
 8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
 10. Fold leaf over block like a parcel, fold ends under
@@ -72,7 +79,15 @@ Split the 52 parcels across 3 signal variants when forming. Label each ziplock b
 12. Fridge overnight — RS3 fully sets inside the sealed parcel
 13. Transfer to labeled ziplock bags (A / B / C) → freeze. **Shelf life: 3–4 months**
 
-**Day-of:** Take leaf parcel from freezer → thaw in fridge overnight → make fresh VWG/besan skin dough → wrap cold block in skin → air fry at 400°F for 7–8 min → serve open on the leaf.
+**Black bean batch (Variant D — ~13 parcels):**
+1. Cook black beans fully → cool and fridge overnight (RS3 crystallizes)
+2. Reserve 1/4 cup black bean cooking liquid per ~13 parcels (2 tbsp per parcel)
+3. Next day: warm mash gently to max 130°F
+4. Mash — keep 30% chunky; stir in 2 tbsp black bean liquid per parcel worth of mash
+5. Fold in base spice stack (same as Variant A)
+6. Form into parcels same as above → fridge overnight → label bag **D** → freeze
+
+**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → make fresh VWG/besan skin dough → wrap cold block in skin → air fry at 400°F for 7–8 min → serve open on the leaf.
 
 ---
 
@@ -160,8 +175,8 @@ Pre-mix all dry ingredients into a labeled airtight jar. **Ghee and yogurt/water
 **Why ghee stays out:** Fat rubbed into flour and stored for weeks to months oxidizes and goes rancid. Same logic as Option 3 and avocado oil. The moyen is a 60-second step — always add it fresh.
 
 **Option 1 dry mix jar contents (scale up for bulk):**
-- 1.5 cups VWG
-- 2 tbsp Besan
+- 3/4 cup VWG
+- 3/4 cup Besan
 - 1 tsp Ajwain + 1/2 tsp Nigella + 1/2 tsp Sea Salt
 - *(Plus any flavoring additions below)*
 

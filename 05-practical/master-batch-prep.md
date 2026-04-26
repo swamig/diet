@@ -165,24 +165,49 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 1. **Night before:** Rinse thoroughly. Soak in the 32-qt pot with baking soda water (1/4 tsp baking soda per quart) overnight — reduces oligosaccharides ~70%, softens skins. **Do not cook in soak water.**
 2. **Drain + rinse thoroughly** — baking soda stays in the soak, never in the cooking water. Alkaline conditions degrade the saponins that give aquafaba its emulsifying properties.
 3. **Refill with fresh water** — just enough to cover beans by 2 inches. Do not overfill — more water = more dilute aquafaba.
-4. **Bring to boil. Skim foam immediately** — first 5–10 min produces grey foam of impurities. Skim all of it for clean aquafaba.
-5. **Reduce to gentle simmer** — aggressive rolling boil degrades proteins. 90–120 min gentle simmer extracts maximum protein and saponins into the liquid.
-6. **Lift strainer insert** — beans come out, liquid stays in pot.
-7. **Reduce aquafaba** — simmer the remaining liquid uncovered 10–15 min to concentrate. Thicker = more functional in dough and refried beans.
-8. **Reserve aquafaba:** Cool slightly, pour into ice cube trays (2 tbsp per cube). For larger portions freeze some in 1/4 cup portions (small bags or silicone molds) — refried beans uses 1/4 cup at a time.
-9. **Cool beans:** Spread on sheet tray in single layer. Cool at room temp 20–30 min.
-10. **Portion:** 1.5-cup portions into freezer bags. Squeeze out air, seal flat.
-11. **Label:** Date + "chickpeas 1.5C"
-12. **Chill:** Fridge overnight (12–24h RS3 formation — mandatory before freezing).
-13. **Freeze:** Transfer flat.
+4. **Add the Ayurvedic Boil Stack** (see below). All added to cold water before heat.
+5. **Bring to boil. Skim foam immediately** — first 5–10 min produces grey foam of impurities. Skim all of it for clean aquafaba.
+6. **Reduce to gentle simmer** — aggressive rolling boil degrades proteins. 90–120 min gentle simmer extracts maximum protein and saponins into the liquid.
+7. **Add salt in last 15 min only** — salt added early toughens bean skins and slows full cooking.
+8. **Lift strainer insert** — beans come out, liquid stays in pot.
+9. **Strain out whole aromatics** (onion, ginger, garlic, bay leaves, cinnamon) — they've done their job. Do not blend them in.
+10. **Reduce aquafaba** — simmer the remaining liquid uncovered 10–15 min to concentrate. Thicker = more functional in dough and refried beans.
+11. **Reserve aquafaba:** Cool slightly, pour into ice cube trays (2 tbsp per cube). For larger portions freeze some in 1/4 cup portions (small bags or silicone molds) — refried beans uses 1/4 cup at a time.
+12. **Cool beans:** Spread on sheet tray in single layer. Cool at room temp 20–30 min.
+13. **Portion:** 1.5-cup portions into freezer bags. Squeeze out air, seal flat.
+14. **Label:** Date + "chickpeas 1.5C"
+15. **Chill:** Fridge overnight (12–24h RS3 formation — mandatory before freezing).
+16. **Freeze:** Transfer flat.
 
 **Chickpea aquafaba yield:** ~25–35 cups from a full 3-month batch → ~200–280 cubes at 2 tbsp each.
 **Uses:** Samosa skin dough (instead of water), performance refried chickpeas (1/4 cup for creaminess), coconut chutney base.
 
 ---
 
+**Ayurvedic Boil Stack (Chickpeas + Black Beans)**
+
+Add all to cold water before bringing to heat. Whole aromatics infuse the beans and aquafaba with flavor and bioactive compounds. Salt is the only exception — always last.
+
+| Ingredient | Amount (per 3-month batch, ~5 kg dried chickpeas) | Why |
+|---|---|---|
+| Hing (asafoetida) | 1/4 tsp | Reduces oligosaccharide-driven gas. Adds umami. |
+| Bay leaves | 4–5 leaves | Linalool + eugenol — carminative, anti-inflammatory |
+| Fennel seeds | 1 tsp | Anethole — carminative, anti-spasmodic. Reduces post-meal bloat from concentrated legumes |
+| Ajwain seeds | 1/2 tsp | Thymol — the strongest carminative in the protocol. Prevents gas at the source |
+| Jeera (cumin seeds) | 1 tsp | Cuminaldehyde — digestive enzyme stimulation, earthy depth in the aquafaba |
+| Cracked black pepper | 1 tbsp (coarsely cracked, not fine-ground) | Piperine extraction into liquid — fat-soluble compound absorption enhancer baked into every use of the aquafaba. Coarse crack prevents gritty aquafaba |
+| Ceylon cinnamon | 1 small stick (~1/4 tsp powder equivalent) | Cinnamaldehyde — glycemic anchor baked into the legume itself |
+| Onion | 1 medium quartered (or 2 tbsp onion powder) | Quercetin + prebiotic FOS. Whole is preferred — onion powder clouds the aquafaba |
+| Fresh ginger | 1 thumb-sized knob, whole | Gingerols — pro-kinetic, anti-nausea. Whole knob: easy to strain out |
+| Garlic | 6 whole cloves, unpeeled or lightly crushed | Allicin precursors + ajoene. Note: cooking converts alliin to different heat-stable compounds (ajoene, DAS) — not the same as raw allicin, but still cardiovascular-protective |
+| Sea salt | 2 tbsp | **Last 15 minutes only.** Early salt = tough skins + slower cooking |
+
+**Same stack for black beans** — reduce hing to 1/8 tsp (black beans are already gentler). Everything else identical.
+
+---
+
 **Black Beans**
-Same soak, drain, rinse, cook, and portion sequence as chickpeas. **Cook in a separate pot — keep liquid completely separate.**
+Same soak, drain, rinse, cook, and portion sequence as chickpeas — including the Ayurvedic Boil Stack above (reduce hing to 1/8 tsp). **Cook in a separate pot — keep liquid completely separate.**
 
 **Black bean cooking liquid is not waste — it is a concentrated anthocyanin extract** (cyanidin-3-glucoside, same compound class as blueberries and purple sweet potato). Keep and freeze separately, labeled "black bean liquid."
 
@@ -331,6 +356,27 @@ Same process as cilantro — wash, blanch 10 sec, ice bath, dry, bag flat.
 
 ---
 
+**Black Garlic (Passive Fermentation — Start on 3-Month Day)**
+
+Black garlic is regular garlic slow-fermented at low heat (140–170°F / 60–77°C) for 3–4 weeks. The Maillard reaction converts alliin into S-allyl cysteine (SAC) — a heat-stable, water-soluble compound with greater bioavailability and longer half-life than allicin. SAC is the primary cardiovascular-protective compound in aged garlic extracts. It does not require enzymatic conversion and survives cooking.
+
+**Why black garlic alongside raw garlic:** These are different signal compounds. Raw allicin (from rested garlic cubes) gives immediate H₂S generation and anti-platelet effects. SAC (from black garlic) provides sustained, long-half-life cardiovascular protection and is gentler on the gut. Run both.
+
+**Method (Rice Cooker — Hands-Off):**
+1. Take 3–4 heads of garlic — whole, unpeeled, completely dry (no moisture = no mold).
+2. Place directly in the rice cooker bowl with nothing else.
+3. Set to **"Keep Warm"** (140–170°F). Do not use Cook setting — too hot.
+4. Close lid. Leave for **3–4 weeks.** Open no more than once a week (moisture stabilizes inside the warm environment — frequent opening disrupts this).
+5. **Done when:** Cloves are jet black throughout, paper skin is dry and papery, texture is soft and jammy, flavor is sweet and balsamic with no raw bite.
+6. Remove heads. Cool completely before storing.
+7. **Storage:** Whole heads at room temp up to 1 month, or refrigerated 3 months, or individual peeled cloves in a bag in the freezer 6 months.
+
+**Start this on your 3-month prep day** — it runs passively for 3–4 weeks while you use the batch from the previous cycle. First batch requires planning ahead; after that it's always on rotation.
+
+**Protocol use:** Add 2–3 black garlic cloves to the **Recovery Bowl (17:50)** — slice directly into the yogurt/casein bowl, or mince into the chaas if using the savory variant. The sweet, umami depth complements the bowl without requiring any prep.
+
+---
+
 **Topical Dry Jars (Make Once, Refill Monthly from Bulk)**
 
 *Hair Dry Mix Jar (3-month rotation):*
@@ -403,6 +449,31 @@ Pull ingredients from the 3-month freezer stash. Make all 5 cube types in one se
 6. Portion into ice cube tray (1 tbsp per cube).
 7. Freeze overnight, transfer to labeled container.
 8. **To use:** Drop 1 cube into glass, thaws in cold water in 5–10 min. Add black salt, cumin, ACV, water fresh each time.
+
+---
+
+**Toum Base Cubes (Garlic-Lemon — Oil Day-of)**
+*Makes 1 tray (~14 cubes) | Shelf life frozen: 3–6 months*
+
+Toum is frozen as a **base only** — no oil in the frozen cube. The emulsion requires fresh oil blended day-of. The allicin is preserved frozen for 3–6 months. This sidesteps both the 7-day fridge limit and emulsion breakage on thaw.
+
+**Why no oil in the frozen cube:** Toum emulsion (garlic + oil + lemon + water) breaks when frozen — ice crystals rupture the emulsified structure and it doesn't re-form on thaw. Garlic, lemon, salt, and water freeze without structural damage. Oil is blended in fresh each day in under 60 seconds.
+
+1. Pull ~20 frozen garlic cloves from the freezer. Thaw 10 min at room temp.
+2. Smash and mince finely.
+3. **Rest 10 minutes** — allicin formation window. Set a timer.
+4. Add to blender: rested garlic + 2 tbsp lemon juice + 1/4 tsp sea salt + 2 tbsp cold water.
+5. Blend smooth. No oil.
+6. Portion into ice cube tray (~1 tbsp per cube = 1 day's serving).
+7. Freeze overnight, transfer to labeled container. **Label: "Toum base — no oil."**
+
+**Day-of reconstruction:**
+1. Thaw 1 cube in fridge overnight (or room temp 20 min).
+2. Add to blender cup with **3–4 tbsp avocado oil or peppery EVOO** (Toum is 80% fat — treat it as a fat replacement in the day's fat budget, not an addition).
+3. Blend 30 seconds until emulsified and creamy.
+4. Use immediately or store in fridge up to 7 days after oil is added.
+
+**Fat choice:** Avocado oil = neutral, higher smoke point, everyday. Peppery EVOO = piperine synergy + polyphenols, use on heavy lift days when maximum fat-soluble compound absorption is the goal.
 
 ---
 
@@ -482,6 +553,7 @@ Full instructions in [Vegan Protein Patties](vegan-protein-patties.md). Pull fro
 | Black bean liquid | 3-month (byproduct) | ~160–220 cubes | 11–15 | **~190** |
 | Ginger | Monthly | ~14–28 | 3 | **~42–84** |
 | Rested garlic | Monthly | ~14 | 3 | **~42** |
+| Toum base (garlic-lemon, no oil) | Monthly | ~14 | 3 | **~42** |
 | Curry leaf tadka | Monthly | ~14 | 3 | **~42** |
 | Mint muddle | Monthly | ~14–28 | 3 | **~42–84** |
 | Fenugreek paste (hair) | Monthly | ~14 | 3 | **~26** |
@@ -505,15 +577,16 @@ Peak simultaneous tray use by session (at 15 cubes per tray, one type per tray):
 | | **Total** | | **11** |
 | **Monthly** | Ginger | 28 | 2 |
 | | Rested garlic | 14 | 1 |
+| | Toum base (no oil) | 14 | 1 |
 | | Curry leaf tadka | 14 | 1 |
 | | Mint muddle | 28 | 2 |
 | | Fenugreek paste | 14 | 1 |
-| | **Total** | | **7** |
+| | **Total** | | **8** |
 | **Sunday prep** | Coconut chutney base | ~8 | 1 |
 | | Cilantro/mint chutney | ~8 | 1 |
 | | **Total** | | **2** |
 
-The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the freezer overnight together, then imli and aquafaba reuse those trays the next day. With 8 trays you can do the full 3-month session in a single evening fill. The monthly session (7 trays) is the true day-to-day bottleneck and is fully covered by 8.
+The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the freezer overnight together, then imli and aquafaba reuse those trays the next day. With 8 trays you can do the full 3-month session in a single evening fill. The monthly session now needs 8 trays (added toum base) — exactly covered by 8. Upgrade to 10 trays if you want any slack.
 
 **Why silicone:** Flexible so cubes pop out cleanly without cracking the tray, no leaching at freezing temps (leaching is heat-driven), dishwasher safe, lasts indefinitely. Get lidded/covered silicone trays so cubes don't absorb freezer odors.
 
@@ -525,7 +598,8 @@ The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the f
 | Lemon juice | ~7 (cooking) | Use as needed — 3-month supply |
 | Imli | ~2 | Use as needed — 2-3 month supply |
 | Ginger | ~7 (1/day) | ~14-cube batch lasts ~2 weeks |
-| Rested garlic | ~7 (1/day) | ~14-cube batch lasts ~2 weeks |
+| Rested garlic | ~7 (1/day — morning garlic shot at 09:15: pull 1 cube, allow to thaw 10 min, consume raw before first meal) | ~14-cube batch lasts ~2 weeks |
+| Toum base (no oil) | ~7 (reconstruct with oil day-of) | ~14-cube batch lasts ~2 weeks |
 | Curry leaf tadka | ~3–5 | ~14-cube batch lasts ~3–4 weeks |
 | Mint muddle | ~5 | ~14-cube batch lasts ~3 weeks |
 | Fenugreek paste (hair) | 2 | ~14-cube batch lasts ~7 weeks → batch every 6 weeks |

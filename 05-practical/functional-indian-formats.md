@@ -39,7 +39,7 @@ Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed 
     *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO.
     *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge.
     *   **Shelf Life (7-Day Strict):** While traditional Toum lasts for months, adding Aquafaba introduces proteins and starches that bacteria can feed on. Store in an airtight glass jar in the fridge and discard any remainder after **7 days**.
-    *   **Freeze Extension:** Freeze Toum in an ice cube tray immediately after blending. The 7-day bacterial limit does not apply when frozen — cubes last **2–3 months**. Thaw one cube at a time in the fridge overnight. Do not microwave — heat destroys allicin.
+    *   **Freeze Extension — Base Only (Preferred):** Do NOT freeze the completed emulsion (garlic + oil + lemon + water). Ice crystals rupture the emulsified oil structure — it won't re-form on thaw. Instead, freeze **the garlic-lemon-salt-water base only** (no oil). Cubes last **3–6 months**. Blend fresh oil into the thawed base day-of in 30 seconds. See full instructions in [Master Batch Prep — Toum Base Cubes](master-batch-prep.md). Thaw one cube in the fridge overnight. Do not microwave — heat destroys allicin.
 *   **The Rested Garlic Cube (Pre-Alliinase Hack):** If you want raw allicin delivery without blending a full Toum batch, freeze pre-rested minced garlic on its own:
     1.  Smash and mince a full head of garlic.
     2.  **Rest 10 minutes** (mandatory — this is when alliinase converts alliin to allicin).
@@ -54,7 +54,10 @@ Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed 
 Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolidating daily seed requirements (Sesame, Nigella) and adding texture.
 
 *   **Protocol Rules:**
-    *   **The Weekly Crush Rule:** Once seeds and spices are pulverized, their lipid membranes rupture and oxidize. Do NOT make large multi-month batches. Grind a 7-day supply during Sunday Prep to maintain therapeutic signaling thresholds.
+    *   **The Weekly Crush Rule + Freeze Extension:** Once seeds and spices are pulverized, their lipid membranes rupture and oxidize. The minimum viable batch is a 7-day Sunday supply. For larger batches, grind up to a 3-month supply and **freeze in weekly 7-day portions**. Each portion is one small ziplock bag (~7 tbsp = 1 tbsp/day × 7 days). Freeze immediately after grinding — do not store ground podi at room temp or in the fridge for weeks.
+        *   **Sesame-base podi:** 2–3 months frozen. More stable — sesame lignans (sesamin, sesamolin) and the toasted seed matrix resist oxidation better than raw flaxseed.
+        *   **Flaxseed-base podi:** 4–6 weeks frozen maximum. ALA (omega-3) oxidizes faster. Pull a new bag every 4–6 weeks, not monthly.
+        *   **Condensation rule:** When pulling a frozen podi bag, **leave the bag sealed until it fully reaches room temp before opening** (~20–30 min). Condensation forms on the OUTSIDE of the bag, not inside — the podi stays dry. Opening while cold causes ambient moisture to hit the cold dry powder and clump it. This matters for texture and flow.
     *   **The Standard Dose:** **1 tablespoon (1 tbsp)** per day. This ensures you meet your daily primary seed requirement (Flax or Sesame) for mineral/hormonal signaling.
     *   **The 12:00 Window:** Consume exclusively during the 12:00 Main Meal. Sprinkle heavily over your cooked **Quinoa** or legumes.
     *   **Mandatory Lipid Activation:** You **MUST** drizzle 1 tsp of Extra Virgin Olive Oil (EVOO) or Avocado Oil directly over the Podi after sprinkling. Podis contain lipophilic compounds (capsaicin, curcumin) that require a fat medium for bioavailability.
