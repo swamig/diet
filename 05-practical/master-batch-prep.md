@@ -16,7 +16,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 - 4 patty days/week (2 patties per day + 1/2 cup chickpeas alongside)
 - 2 tofu days/week (200g per serving)
 - 1 lentil/other day per week
-- Black beans: 5 days/week, 1.5 cups cooked per day
+- Black beans: ~3 days/week, 1.5 cups cooked per day (alternates with chickpeas as the legume base)
 - Quinoa: average 1/2 cup cooked/day
 - Purple sweet potato: 2 days/week as quinoa swap, 150g per serving
 

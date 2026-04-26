@@ -110,6 +110,65 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 
 
 
+---
+
+## Dough System: Fermentation, Flavoring & Batch Freeze (Options 1 & 2 Only)
+
+This section applies only to the gluten-based options. The GF skin (Option 3) uses a psyllium hydrogel that cannot survive freeze-thaw — see [Option 3 Exception](#option-3-exception-freeze-the-finished-samosa).
+
+### Yogurt Fermentation
+
+Replace roughly half the water in Options 1 or 2 with full-fat yogurt. The lactic acid bacteria (LAB) run a mild fermentation that:
+- Reduces phytic acid — improves mineral absorption from the dough itself
+- Partially degrades gliadin peptides — lower zonulin signaling vs raw unleavened dough (consistent with the gluten cycling logic in this protocol)
+- Softens gluten bonds → more extensible, easier to roll thin without tearing
+- Adds a subtle tang that balances the spiced filling
+
+**Protocol:**
+- Option 1: substitute 3–4 tbsp full-fat yogurt for an equal amount of the cold water/aquafaba
+- Option 2: substitute 3 tbsp full-fat yogurt for water
+- Mix dough fully, cover tightly, ferment **3–4 hours at room temp** or **overnight in the fridge**
+- Overnight fridge ferment = more gliadin degradation, more pronounced tang, and dough that's been fully rested and is extremely pliable
+
+### Flavoring Stack (Beyond Ajwain)
+
+All amounts per single batch (2–4 samosas):
+
+| Addition | Amount | Active Mechanism |
+|---|---|---|
+| **Kalonji (nigella seeds)** | 1/2 tsp | Thymoquinone — anti-inflammatory, antimicrobial. Already in filling; this doubles the dose in the wrapper |
+| **Kasuri methi (dried fenugreek leaves)** | 1 tsp | 4-hydroxyisoleucine — glycemic anchor baked into the wrapper itself |
+| **Black sesame** | 1 tbsp | Higher anthocyanin load than white sesame (pigmented bran layer); sesamin + sesamolin lignans |
+| **Cumin seeds** | 1/2 tsp | Cuminaldehyde — carminative, earthy depth; complements ajwain without competing |
+| **Black pepper (coarse)** | 1/4 tsp | Piperine — enhances fat-soluble compound absorption from the spiced filling |
+| **Turmeric** | 1/4 tsp | NF-κB modulation; turns dough golden as a visual dose cue |
+
+**Recommended working combination:** Ajwain + kalonji + kasuri methi + black sesame + turmeric. Five functional inputs in the wrapper before the filling is factored in.
+
+**Fat:** Use **ghee** in place of avocado oil for the moyen on Options 1 and 2. Ghee creates better lamination (flaky layers), and fat-soluble compounds in the spice stack (curcumin, thymoquinone) absorb preferentially in a saturated fat matrix. Reserve avocado oil for Option 3 where heat stability at air-fry temperatures is the priority.
+
+### Batch Freeze Instructions (Options 1 & 2)
+
+**Why gluten dough freezes and psyllium dough does not:**
+Gluten forms a viscoelastic protein network. Ice crystals form in the water spaces *between* gluten strands but do not rupture the matrix — on thawing, the network is intact. Option 3's psyllium hydrogel is a water-bound gel network; ice crystals rupture the gel bonds on freezing, and the network cannot reform on thawing → crumbly, unrollable dough.
+
+**Freeze process:**
+1. Make dough with yogurt fermentation and full flavoring stack
+2. Complete the full ferment (3–4 hours room temp or overnight fridge)
+3. Portion into balls — **1 ball = 1 serving (2 samosas)**
+4. Flatten each ball slightly into a disk (~1 inch thick) — speeds thawing, prevents cracking at the center during freeze
+5. Wrap each disk tightly in parchment, then place in a ziplock bag pressing out all air
+6. Label: option number + date
+7. **Freeze up to 2 months**
+
+**To use:**
+1. Transfer from freezer to fridge the night before
+2. Allow 20–30 min at room temp before rolling — cold dough cracks and tears at the edges
+3. Roll paper-thin between parchment sheets
+4. Assemble with cold filling and air fry immediately
+
+---
+
 ## Option 3: The 'Green Crystal' GF Skin (Rice, Tapioca & Moringa)
 *A lighter, crispier GF alternative. Features a vivid green hue from Moringa for visual signaling and antioxidant delivery. Yields ~40g protein for 2 units (with fortified filling).*
 
@@ -176,9 +235,9 @@ The Master Filling freezes perfectly. RS3 crystals are stable at freezer tempera
 ### Wrap Dough — Option-Dependent
 | Option | Freeze Dough? | Notes |
 |---|---|---|
-| Option 1 (Seitan/VWG) | Yes | Gluten is structurally stable frozen. Wrap tightly in parchment + ziplock. Thaw in fridge overnight before rolling. |
-| Option 2 (Atta + VWG) | Yes | Whole wheat dough freezes well. Same thaw procedure as Option 1. |
-| Option 3 (GF / Psyllium) | **No** | Psyllium gel collapses on thaw → dough becomes crumbly and unrollable. **Freeze the assembled, air-fried samosas instead.** |
+| Option 1 (Seitan/VWG) | **Yes** | Gluten network survives freeze-thaw intact. See full batch freeze instructions in [Dough System](#dough-system-fermentation-flavoring--batch-freeze-options-1--2-only) above. |
+| Option 2 (Atta + VWG) | **Yes** | Same as Option 1. |
+| Option 3 (GF / Psyllium) | **No** | Psyllium hydrogel ruptures on freezing → crumbly and unrollable on thaw. Freeze the finished samosa instead (see below). |
 
 ### Option 3 Exception: Freeze the Finished Samosa
 For the GF version, the correct freeze point is *after* air frying:
