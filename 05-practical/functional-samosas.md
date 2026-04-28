@@ -51,8 +51,27 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose
 
 **Day-of jar:** At batch time, pre-measure the day-of spices per parcel into a labeled jar so there's no thinking at assembly. Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
 
-**Protein Fortification (Option 3 / GF skin only):**
-*   3 tbsp **Elite Amino Blend** — 2 tbsp Pea Protein + 1 tbsp Rice Protein. GF skin has lower protein (~15g); this blend compensates. 2:1 pea:rice ratio prioritizes leucine density to hit the mTOR activation threshold (~2.5–3g leucine) for maximum MPS signal — amino acid completeness across the day handles methionine balance. Not needed for Options 1 & 2 — the VWG/besan skin already provides ~50g protein.
+**Protein Fortification + Nutritional Yeast (Universal — all variants, all skin options):**
+Per parcel (2 samosas):
+*   2 tbsp **Pea Protein** — leucine-dense, hits mTOR threshold (~2.5–3g leucine) baked into the filling itself
+*   1 tbsp **Rice Protein** — methionine complement to pea's lysine-heavy profile
+*   2 tbsp **Nutritional Yeast** — B12 + umami depth + additional ~4g protein per parcel
+
+These are dry additions that pull moisture from the mash. Compensate with cold aquafaba (never warm — raises mash above RS3 ceiling).
+
+**Aquafaba requirement — full 3-month batch (52 parcels):**
+
+| Variant batch | Parcels | Aquafaba to have ready (cold) | Source |
+|---|---|---|---|
+| A / B / C (chickpea base) | 39 | **10 cups** | Chickpea aquafaba |
+| D (black bean base) | 13 | **3.5 cups** | Black bean cooking liquid |
+| **Total** | **52** | **13.5 cups** | |
+
+**Hydration protocol (per bowl, before forming parcels):**
+1. Fold in pea protein, rice protein, nutritional yeast — mix thoroughly dry first
+2. Add **3 tbsp cold aquafaba per parcel** (e.g., 39 tbsp = ~2.5 cups for a 13-parcel bowl) — fold in
+3. **Crumble test:** Press a handful firmly into a ball. If it holds shape and doesn't stick to hands — correct. If it crumbles and falls apart — add aquafaba 1 tbsp at a time and retest. If it sticks and feels wet — add 1 tbsp besan to rebind (does not affect signal)
+4. Only after passing crumble test: form into 3"×4"×2" blocks and wrap in leaf
 
 ### Signal Variations (Batch in Parallel — Label Each Bag)
 
@@ -79,8 +98,9 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 3. Next day: warm mash gently to **max 130°F** (just enough to be pliable)
 4. Roughly mash — keep 30% chunky for texture
 5. Divide mash into 3 bowls (~equal portions — ~13 parcels each)
-6. Fold **now-spices only** into all three (ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots), then add each variant's specific additions (see table above). **Hold fat-soluble spices for day-of jar.**
-7. If using Option 3 GF skin: fold in protein blend now
+6. Fold **now-spices only** into all three (ajwain, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots), then add each variant's specific additions (see table above). **Hold fat-soluble spices for day-of jar.**
+   - **Nigella stays OUT of the filling** — it belongs in the skin (already in Option 1/2/3 dough) where it blooms in ghee during the air-fry. Adding it to the filling stacks thymoquinone beyond the therapeutic dose and risks suppressing beneficial gut bacteria daily. Exception: Variant C may add 1/4 tsp nigella to the filling as a deliberate anti-inflammatory pulse on recovery days only.
+7. Fold in pea protein, rice protein, nutritional yeast (dry first), then add cold aquafaba and run **crumble test** — see Hydration Protocol above. Target: 3 tbsp aquafaba per parcel (~2.5 cups per 13-parcel bowl) before testing.
 8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
 10. Fold leaf over block like a parcel, fold ends under
@@ -94,8 +114,9 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 2. Reserve 1/4 cup black bean cooking liquid per ~13 parcels (2 tbsp per parcel)
 3. Next day: warm mash gently to max 130°F
 4. Mash — keep 30% chunky; stir in 2 tbsp black bean liquid per parcel worth of mash
-5. Fold in **now-spices only** (ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots). **Hold fat-soluble spices for day-of jar.**
-6. Form into parcels same as above → fridge overnight → label bag **D** → freeze
+5. Fold in **now-spices only** (ajwain, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots). **Hold fat-soluble spices for day-of jar.**
+6. Fold in pea protein, rice protein, nutritional yeast — then add **3.5 cups cold black bean liquid** and run crumble test (same protocol as chickpea batch above)
+7. Form into parcels same as above → fridge overnight → label bag **D** → freeze
 7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + cumin + black pepper (crack fresh day-of). Label jar **D**.
 
 **Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
