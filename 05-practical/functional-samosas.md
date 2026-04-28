@@ -52,7 +52,7 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose
 **Day-of jar:** At batch time, pre-measure the day-of spices per parcel into a labeled jar so there's no thinking at assembly. Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
 
 **Protein Fortification (Option 3 / GF skin only):**
-*   3 tbsp **Elite Amino Blend** — 2 tbsp Rice Protein + 1 tbsp Pea Protein. GF skin has lower protein (~15g); this blend compensates. 2:1 rice:pea ratio balances methionine against the lysine-heavy chickpea base. Not needed for Options 1 & 2 — the VWG/besan skin already provides ~50g protein.
+*   3 tbsp **Elite Amino Blend** — 2 tbsp Pea Protein + 1 tbsp Rice Protein. GF skin has lower protein (~15g); this blend compensates. 2:1 pea:rice ratio prioritizes leucine density to hit the mTOR activation threshold (~2.5–3g leucine) for maximum MPS signal — amino acid completeness across the day handles methionine balance. Not needed for Options 1 & 2 — the VWG/besan skin already provides ~50g protein.
 
 ### Signal Variations (Batch in Parallel — Label Each Bag)
 
