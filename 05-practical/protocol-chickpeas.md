@@ -46,6 +46,15 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 2.  **The Allicin Pulse:** Gently warm the cold chickpeas in a pan (Stay below **130°F**). Fold in your **Rested Garlic**, ACV, and a pinch of salt. 
 3.  **Second Chill:** Return to the fridge for another 24 hours to maximize the RS3 density [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
+## Samosa Filling Spice Split (3-Month Freeze)
+
+When using chickpeas as samosa filling, fat-soluble spices lose potency over 3 months frozen without a fat carrier. Split at batch time:
+
+- **Add now:** Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots
+- **Day-of jar:** Kashmiri chili powder, achiote, turmeric, smoked paprika/chipotle, black pepper (crack fresh) — fold in with a drizzle of EVOO right before wrapping
+
+See [Functional Samosas — 3-Month Freeze Spice Split Rule](functional-samosas.md) for full detail.
+
 ## How Multi-Layer Flavor Absorption Works
 
 No single step fully seasons the bean — the three steps build on each other:

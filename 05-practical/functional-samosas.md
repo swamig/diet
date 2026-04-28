@@ -37,10 +37,19 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 *   1/2 tsp **Sea Salt**
 
 **The High-Signaling Spice Stack (Default — not optional):**
-*   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying
-*   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor
-*   1–2 **Green Chilies** (finely chopped) — TRP channel activation
-*   1/2 tsp **Chaat Masala** — additional amchur + black salt for electrolyte signal
+*   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying *(day-of jar — fat-soluble, degrades over 3-month freeze without fat)*
+*   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor *(add now — water-soluble, stable frozen)*
+*   1–2 **Green Chilies** (finely chopped) — TRP channel activation *(add now — integrates into bean matrix during freeze cycle)*
+*   1/2 tsp **Chaat Masala** — additional amchur + black salt for electrolyte signal *(add now — water-soluble, stable frozen)*
+
+**3-Month Freeze Spice Split Rule:**
+For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose potency and color sitting in the frozen mash without a fat carrier. Split the stack at batch time:
+
+| Add NOW to filling | Hold for Day-Of Jar |
+|---|---|
+| Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, carrots, peas | Kashmiri chili powder, achiote, turmeric, smoked paprika/chipotle, black pepper (crack fresh) |
+
+**Day-of jar:** At batch time, pre-measure the day-of spices per parcel into a labeled jar so there's no thinking at assembly. Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
 
 **Protein Fortification (Option 3 / GF skin only):**
 *   3 tbsp **Elite Amino Blend** — 2 tbsp Rice Protein + 1 tbsp Pea Protein. GF skin has lower protein (~15g); this blend compensates. 2:1 rice:pea ratio balances methionine against the lysine-heavy chickpea base. Not needed for Options 1 & 2 — the VWG/besan skin already provides ~50g protein.
@@ -70,7 +79,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 3. Next day: warm mash gently to **max 130°F** (just enough to be pliable)
 4. Roughly mash — keep 30% chunky for texture
 5. Divide mash into 3 bowls (~equal portions — ~13 parcels each)
-6. Fold base spice stack into all three, then add each variant's specific additions (see table above)
+6. Fold **now-spices only** into all three (ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots), then add each variant's specific additions (see table above). **Hold fat-soluble spices for day-of jar.**
 7. If using Option 3 GF skin: fold in protein blend now
 8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
@@ -78,16 +87,18 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 11. Cool completely on rack (30 min room temp)
 12. Fridge overnight — RS3 fully sets inside the sealed parcel
 13. Transfer to labeled ziplock bags (A / B / C) → freeze. **Shelf life: 3–4 months**
+14. **Pre-measure day-of jar** at batch time: Kashmiri chili powder + achiote + smoked paprika (Variant B: swap paprika for habanero powder; Variant C: add turmeric + broccoli powder). Label jar to match bag letter.
 
 **Black bean batch (Variant D — ~13 parcels):**
 1. Cook black beans fully → cool and fridge overnight (RS3 crystallizes)
 2. Reserve 1/4 cup black bean cooking liquid per ~13 parcels (2 tbsp per parcel)
 3. Next day: warm mash gently to max 130°F
 4. Mash — keep 30% chunky; stir in 2 tbsp black bean liquid per parcel worth of mash
-5. Fold in base spice stack (same as Variant A)
+5. Fold in **now-spices only** (ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots). **Hold fat-soluble spices for day-of jar.**
 6. Form into parcels same as above → fridge overnight → label bag **D** → freeze
+7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + black pepper (crack fresh day-of). Label jar **D**.
 
-**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → make fresh VWG/besan skin dough → wrap cold block in skin → air fry at 400°F for 7–8 min → serve open on the leaf.
+**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
 
 ---
 

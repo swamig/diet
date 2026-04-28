@@ -60,6 +60,15 @@ No single step fully seasons the bean — the three steps build on each other:
 The boil builds the foundation. The real layering happens in steps 2 and 3.
 
 
+## Samosa Filling Spice Split (3-Month Freeze)
+
+When using black beans as samosa filling, fat-soluble spices lose potency over 3 months frozen without a fat carrier. Split at batch time:
+
+- **Add now:** Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots, black bean liquid
+- **Day-of jar:** Kashmiri chili powder, achiote, black pepper (crack fresh) — fold in with a drizzle of EVOO right before wrapping
+
+See [Functional Samosas — 3-Month Freeze Spice Split Rule](functional-samosas.md) for full detail.
+
 ## The Anthocyanin Liquid — Uses in the Protocol
 
 The dark cooking liquid is a concentrated cyanidin-3-glucoside extract — anti-inflammatory and cardiovascular-protective. The dark purple color IS the signal compound, not a flaw.
