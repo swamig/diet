@@ -65,7 +65,7 @@ The boil builds the foundation. The real layering happens in steps 2 and 3.
 When using black beans as samosa filling, fat-soluble spices lose potency over 3 months frozen without a fat carrier. Split at batch time:
 
 - **Add now:** Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots, black bean liquid
-- **Day-of jar:** Kashmiri chili powder, achiote, black pepper (crack fresh) — fold in with a drizzle of EVOO right before wrapping
+- **Day-of jar:** Kashmiri chili powder, achiote, cumin, black pepper (crack fresh) — fold in with a drizzle of EVOO right before wrapping
 
 See [Functional Samosas — 3-Month Freeze Spice Split Rule](functional-samosas.md) for full detail.
 

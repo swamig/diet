@@ -47,7 +47,7 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose
 
 | Add NOW to filling | Hold for Day-Of Jar |
 |---|---|
-| Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, carrots, peas | Kashmiri chili powder, achiote, turmeric, smoked paprika/chipotle, black pepper (crack fresh) |
+| Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, carrots, peas | Kashmiri chili powder, achiote, cumin, turmeric, smoked paprika/chipotle, black pepper (crack fresh) |
 
 **Day-of jar:** At batch time, pre-measure the day-of spices per parcel into a labeled jar so there's no thinking at assembly. Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
 
@@ -87,7 +87,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 11. Cool completely on rack (30 min room temp)
 12. Fridge overnight — RS3 fully sets inside the sealed parcel
 13. Transfer to labeled ziplock bags (A / B / C) → freeze. **Shelf life: 3–4 months**
-14. **Pre-measure day-of jar** at batch time: Kashmiri chili powder + achiote + smoked paprika (Variant B: swap paprika for habanero powder; Variant C: add turmeric + broccoli powder). Label jar to match bag letter.
+14. **Pre-measure day-of jar** at batch time: Kashmiri chili powder + achiote + cumin + smoked paprika (Variant B: swap paprika for habanero powder; Variant C: add turmeric + broccoli powder). Label jar to match bag letter.
 
 **Black bean batch (Variant D — ~13 parcels):**
 1. Cook black beans fully → cool and fridge overnight (RS3 crystallizes)
@@ -96,7 +96,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 4. Mash — keep 30% chunky; stir in 2 tbsp black bean liquid per parcel worth of mash
 5. Fold in **now-spices only** (ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots). **Hold fat-soluble spices for day-of jar.**
 6. Form into parcels same as above → fridge overnight → label bag **D** → freeze
-7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + black pepper (crack fresh day-of). Label jar **D**.
+7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + cumin + black pepper (crack fresh day-of). Label jar **D**.
 
 **Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
 
