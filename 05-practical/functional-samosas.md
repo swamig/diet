@@ -99,7 +99,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 4. Roughly mash — keep 30% chunky for texture
 5. Divide mash into 3 bowls (~equal portions — ~13 parcels each)
 6. Fold **now-spices only** into all three (ajwain, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots), then add each variant's specific additions (see table above). **Hold fat-soluble spices for day-of jar.**
-   - **Nigella stays OUT of the filling** — it belongs in the skin (already in Option 1/2/3 dough) where it blooms in ghee during the air-fry. Adding it to the filling stacks thymoquinone beyond the therapeutic dose and risks suppressing beneficial gut bacteria daily. Exception: Variant C may add 1/4 tsp nigella to the filling as a deliberate anti-inflammatory pulse on recovery days only.
+   - **Nigella placement rule:** 1/2 tsp nigella in the skin daily (Options 1/2/3 dough) — correct and therapeutic. ~200–250mg thymoquinone, within the 1–3g/day clinical range. Do NOT add to the filling as well — doubling the dose runs a chronic antimicrobial effect against your own microbiome without additional benefit. The skin dose alone is the right frequency. Exception: Variant C may add 1/4 tsp nigella to the filling on recovery days only — an occasional antimicrobial pulse, not a daily stack.
 7. Fold in pea protein, rice protein, nutritional yeast (dry first), then add cold aquafaba and run **crumble test** — see Hydration Protocol above. Target: 3 tbsp aquafaba per parcel (~2.5 cups per 13-parcel bowl) before testing.
 8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
