@@ -188,6 +188,8 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 
 Add all to cold water before bringing to heat. Whole aromatics infuse the beans and aquafaba with flavor and bioactive compounds. Salt is the only exception — always last.
 
+**How multi-layer flavor absorption works:** The boil builds the first layer — aromatics infuse the outer skin and just inside it over the full cook time. Salt added in the last 15 min breaks down pectin in the skin, opening it up so residual aromatics and salt penetrate inward. However, the interior starch matrix is dense — complex flavor compounds don't travel deep from the boil alone. The full layering comes from all three steps together: (1) the Boil builds a subtle aromatic base in the outer layers, (2) the Allicin Pulse (rested garlic, ACV, salt folded into warm beans) seasons from the outside into already-soft skin, (3) the Refried/Mash procedure coats every exposed surface of the ruptured interior. No single step does it alone.
+
 | Ingredient | Amount (per 3-month batch, ~5 kg dried chickpeas) | Why |
 |---|---|---|
 | Hing (asafoetida) | 1/4 tsp | Reduces oligosaccharide-driven gas. Adds umami. |
@@ -202,7 +204,7 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 | Garlic | 6 whole cloves, unpeeled or lightly crushed | Allicin precursors + ajoene. Note: cooking converts alliin to different heat-stable compounds (ajoene, DAS) — not the same as raw allicin, but still cardiovascular-protective |
 | Sea salt | 2 tbsp | **Last 15 minutes only.** Early salt = tough skins + slower cooking |
 
-**Same stack for black beans** — reduce hing to 1/8 tsp (black beans are already gentler). Everything else identical.
+**Same stack for black beans** — reduce hing to 1/8 tsp (black beans are already gentler). Everything else identical, including the late-salt rule and the three-step flavor layering sequence above.
 
 ---
 

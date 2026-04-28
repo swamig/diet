@@ -36,7 +36,7 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 ### 2. Saturday: The Initial Cook & First Chill
 1.  **Drain & Rinse:** Discard the soak water (removing leached antinutrients).
 2.  **The Boil:** Place in a pot with fresh water and the **Infusion Base** (Ginger, Cumin, Cloves, Bay Leaf). 
-3.  **The Simmer:** Bring to a boil, skim the foam, and simmer for 60-90 minutes until tender but not mushy.
+3.  **The Simmer:** Bring to a boil, skim the foam, and simmer for 60-90 minutes until tender but not mushy. **Add 1 tsp sea salt per quart of water in the last 15 minutes only** — early salt toughens skins and slows cooking. Late salt breaks down pectin in the skin, opening it so residual aromatics penetrate inward.
 4.  **The Aquafaba Reserve (CRITICAL):** Before draining, reserve **1/2 cup of the boiling liquid**. Store in a small glass jar.
 5.  **The Rapid Cool:** Spread hot chickpeas on a stainless steel baking sheet.
 6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
@@ -45,6 +45,16 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 1.  **The Mash (Optional):** Take 1/3 of the batch and mash it for use in **Vegan Patties** or **Refried Beans**. Keep the rest whole for salads.
 2.  **The Allicin Pulse:** Gently warm the cold chickpeas in a pan (Stay below **130°F**). Fold in your **Rested Garlic**, ACV, and a pinch of salt. 
 3.  **Second Chill:** Return to the fridge for another 24 hours to maximize the RS3 density [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+
+## How Multi-Layer Flavor Absorption Works
+
+No single step fully seasons the bean — the three steps build on each other:
+
+1. **The Boil (Layer 1):** Aromatics in the water from the start infuse the outer skin and just inside it over the full 60-90 min cook. Salt in the last 15 min opens the skin via pectin breakdown, allowing residual aromatics to penetrate slightly deeper. The interior starch matrix is dense — complex compounds don't travel far from boil water alone.
+2. **The Allicin Pulse (Layer 2):** Rested garlic, ACV, and salt folded into warm beans season from the outside into already-soft, open skin. This is where the signature flavor sharpness comes in.
+3. **The Mash/Refried Step (Layer 3):** Rupturing the skins exposes the interior starch directly to the spiced aromatic base. This is the most impactful flavor step — every surface gets coated.
+
+The boil builds the foundation. The real layering happens in steps 2 and 3.
 
 ## Execution Rule: The 130°F Ceiling
 *   Chickpeas are thermally fragile. Once the RS3 is built, you must never microwave them on high or re-boil them.
