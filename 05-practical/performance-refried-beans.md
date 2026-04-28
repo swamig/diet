@@ -81,6 +81,8 @@ Since these were already chilled for 24 hours, you can eat them immediately or r
 - **Protocol-specific rules:** The exact prep steps, temperatures, container choices, sequencing, and repetition rules on this page are operating rules specific to this manual.
 
 ## Related Pages
+- [Protocol Black Beans (RS3 + Anthocyanin Matrix)](protocol-blackbeans.md)
+- [The Protocol Chickpeas (RS3 Matrix)](protocol-chickpeas.md)
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Achiote (Annatto)](../02-ingredients/achiote.md)
 - [90-Minute Sunday Batch Prep System](sunday-prep.md)

@@ -208,7 +208,7 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 
 ---
 
-**Black Beans**
+**Black Beans** — see [Protocol Black Beans](protocol-blackbeans.md) for the full dedicated page.
 Same soak, drain, rinse, cook, and portion sequence as chickpeas — including the Ayurvedic Boil Stack above (reduce hing to 1/8 tsp). **Cook in a separate pot — keep liquid completely separate.**
 
 **Black bean cooking liquid is not waste — it is a concentrated anthocyanin extract** (cyanidin-3-glucoside, same compound class as blueberries and purple sweet potato). Keep and freeze separately, labeled "black bean liquid."
