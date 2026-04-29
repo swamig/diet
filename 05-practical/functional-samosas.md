@@ -176,11 +176,12 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any samosa day (M/W/F + 1)**
+*   **Calories:** ~585 kcal
 *   **Total Protein:** ~74g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
 *   **Total Carbs:** ~43g
 *   **Dietary Fiber:** ~13g
 *   **Net Carbs:** ~30g
-*   **Fat:** ~13g (Ghee)
+*   **Fat:** ~13g (Avocado Oil)
 
 
 
@@ -203,11 +204,12 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any (when atta available)**
+*   **Calories:** ~605 kcal
 *   **Total Protein:** ~72g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
 *   **Total Carbs:** ~50g
 *   **Dietary Fiber:** ~16g
 *   **Net Carbs:** ~34g
-*   **Fat:** ~13g (Ghee)
+*   **Fat:** ~13g (Avocado Oil)
 
 
 
@@ -341,6 +343,7 @@ The besan and rice flour components of Option 3 ferment readily with yogurt — 
 
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Rest/Recovery (T/Th/S)**
+*   **Calories:** ~468 kcal
 *   **Total Protein:** ~42g *(pea protein + rice protein + nutritional yeast now built into filling — no separate scoop needed)*
 *   **Total Carbs:** ~48g
 *   **Dietary Fiber:** ~16g (Massive Psyllium Sweep)
