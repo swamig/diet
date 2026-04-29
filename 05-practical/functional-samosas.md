@@ -164,8 +164,8 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 *   3/4 cup **Vital Wheat Gluten (VWG)**.
 *   3/4 cup **Besan (Chickpea Flour)**.
 *   1 tsp **Ajwain** + 1/2 tsp **Nigella** + 1/2 tsp **Sea Salt**.
-*   2 tbsp **Ghee** (The Moyen — added day-of, not in dry jar).
-*   ~1/2 cup **Cold Water, Aquafaba, or Yogurt** (yogurt for fermented version).
+*   2 tbsp **Avocado Oil** (The Moyen — added day-of, not in dry jar). *Optional: replace with Ghee — see [Skin Variants](samosa-skin-variants.md)*
+*   ~1/2 cup **Cold Water or Aquafaba**. *Optional: yogurt fermented variant — see [Skin Variants](samosa-skin-variants.md)*
 
 ### Execution:
 1.  **The Moyen:** Mix VWG, besan, and spices in a bowl (or scoop from dry mix jar). Rub in ghee with fingertips until crumbly.
@@ -193,7 +193,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 ### Ingredients:
 1.  **The Wrapper:** 1/2 cup **Whole Wheat Flour (Atta)** + 1/2 cup **Vital Wheat Gluten (VWG)** + 1/2 tsp **Ajwain** + 1/4 tsp **Nigella** + 1/4 tsp **Sea Salt**.
-2.  **The Binders:** 1 tbsp **Ghee** (The Moyen — day-of) and hydrate with cold water or yogurt until a stiff dough forms.
+2.  **The Binders:** 1 tbsp **Avocado Oil** (The Moyen — day-of) and hydrate with cold water or aquafaba until a stiff dough forms. *Optional: Ghee or yogurt fermented variant — see [Skin Variants](samosa-skin-variants.md)*
 
 ### Execution:
 1.  **The Moyen:** Rub ghee into the dry flour blend until crumbly.
@@ -220,25 +220,15 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 This section applies only to the gluten-based options. The GF skin (Option 3) uses a psyllium hydrogel that cannot survive freeze-thaw — see [Option 3 Exception](#option-3-exception-freeze-the-finished-samosa).
 
-### Yogurt Fermentation
+### Optional Variants (Ghee Moyen + Yogurt Fermentation)
 
-Replace roughly half the water in Options 1 or 2 with full-fat yogurt. The lactic acid bacteria (LAB) run a mild fermentation that:
-- Reduces phytic acid — improves mineral absorption from the dough itself
-- Partially degrades gliadin peptides — lower zonulin signaling vs raw unleavened dough (consistent with the gluten cycling logic in this protocol)
-- Softens gluten bonds → more extensible, easier to roll thin without tearing
-- Adds a subtle tang that balances the spiced filling
-
-**Protocol:**
-- Option 1: substitute 3–4 tbsp full-fat yogurt for an equal amount of the cold water/aquafaba
-- Option 2: substitute 3 tbsp full-fat yogurt for water
-- Mix dough fully, cover tightly, ferment **3–4 hours at room temp** or **overnight in the fridge**
-- Overnight fridge ferment = more gliadin degradation, more pronounced tang, and dough that's been fully rested and is extremely pliable
+See **[Samosa Skin Variants](samosa-skin-variants.md)** for the ghee moyen and yogurt fermentation protocols. Both improve flavor and gliadin reduction but are non-vegan. Default above uses avocado oil + water/aquafaba.
 
 ### Dry Mix Jar (Options 1 & 2)
 
 Pre-mix all dry ingredients into a labeled airtight jar. **Ghee and yogurt/water are always day-of — never stored in the jar.**
 
-**Why ghee stays out:** Fat rubbed into flour and stored for weeks to months oxidizes and goes rancid. Same logic as Option 3 and avocado oil. The moyen is a 60-second step — always add it fresh.
+**Why fat stays out:** Fat rubbed into flour and stored for weeks to months oxidizes and goes rancid. Avocado oil (default) or ghee (optional) are always added day-of. The moyen is a 60-second step — always add it fresh.
 
 **Option 1 dry mix jar contents (scale up for bulk):**
 - 3/4 cup VWG
@@ -269,7 +259,7 @@ Include in the dry mix jar — all shelf stable:
 
 **Recommended combination:** Ajwain + kalonji + kasuri methi + black sesame + turmeric. Five functional inputs in the wrapper before the filling is factored in.
 
-**Fat choice:** Use **ghee** (not avocado oil) for the moyen on Options 1 and 2 — added day-of. Ghee creates better lamination layers and fat-soluble spice compounds (curcumin, thymoquinone) absorb preferentially in a saturated fat matrix.
+**Fat choice:** **Avocado oil** is the default moyen (vegan, high smoke point 520°F, neutral flavor). See [Skin Variants](samosa-skin-variants.md) for the ghee variant — ghee creates richer lamination and fat-soluble compounds absorb preferentially in a saturated fat matrix, but is not vegan.
 
 ### Batch Freeze Instructions (Options 1 & 2)
 
@@ -278,9 +268,9 @@ Gluten forms a viscoelastic protein network. Ice crystals form in the water spac
 
 **Batch prep sequence:**
 1. Scoop dry mix jar into bowl
-2. Rub in **ghee** (day-of moyen) until crumbly
-3. Add yogurt + remaining water — mix until stiff dough forms
-4. Cover and ferment 3–4 hours room temp or overnight fridge
+2. Rub in **avocado oil** (day-of moyen) until crumbly
+3. Add cold water or aquafaba — mix until stiff dough forms
+4. Cover and rest 45–60 min at room temp *(optional fermented variant: see [Skin Variants](samosa-skin-variants.md))*
 5. Portion into balls — **1 ball = 1 serving (2 samosas)**
 6. Flatten each ball into a disk (~1 inch thick) — speeds thawing, prevents center cracking
 7. Wrap each disk tightly in parchment → ziplock bag, press out all air
