@@ -62,7 +62,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Curry leaves | Curry leaf tadka cubes | **~6 large handfuls** | Freeze loose in bag |
 | Lemons | Daily iron anchor + chutneys | **~50 lemons** | Juice + freeze in ice cube trays |
 | Aloe vera (large leaves) | Topical — all three protocols | **5 leaves** | Freeze as gel cubes |
-| Banana leaves (frozen packages) | Samosa filling parcels — freeze + serving vessel | **4–5 packages (~20 large leaves)** | 1 large leaf = 3–4 servings (10"×12" piece per block). Buy frozen — more pliable than fresh, store in freezer until batch day |
+| Banana leaves (frozen packages) | Samosa filling parcels — freeze + serving vessel [[Arunprasath, 2021]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) | **4–5 packages (~20 large leaves)** | 1 large leaf = 3–4 servings (10"×12" piece per block). Buy frozen — more pliable than fresh, store in freezer until batch day |
 
 **Cube batches (make once on 3-month day):**
 
@@ -80,10 +80,11 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 |---|---|---|
 | Vital Wheat Gluten (VWG) | Samosa skins (4×/week, 0.75 cups/day) + patty binder | **~5 kg** |
 | Besan (chickpea flour — dietary) | Samosa skins (0.75 cups/day × 4 days) | **~3 kg** |
-| Ghee | Samosa dough moyen (day-of) + cooking | **~500g** |
-| Pea protein powder | Patty binder | **~500g** |
-| Nutritional yeast | Patties | **~200g** |
-| Casein protein powder | Recovery bowl daily | **~1.5 kg tub** |
+| Avocado oil | Samosa dough moyen (day-of) — see Oils section below | included in oils |
+| Ghee | Optional samosa moyen — see [Skin Variants](samosa-skin-variants.md) | **~200g** (optional) |
+| Pea protein powder | Samosa filling (2 tbsp/parcel × 52) + post-workout (40g/day) + recovery bowl (17g/day) + Aambali (17g/day) | **~7 kg (2 × 5kg bags, BulkSupplements)** |
+| Rice protein powder | Samosa filling (1 tbsp/parcel × 52) + post-workout (20g/day) + recovery bowl (8g/day) + Aambali (8g/day) | **~3.5 kg (1 × 5kg bag, BulkSupplements)** |
+| Nutritional yeast | Samosa filling (2 tbsp/parcel × 52) + patties + Aambali | **~800g** |
 
 *Note: besan listed here is for dietary use only. Topical besan (300g) is listed separately in the topical section.*
 
@@ -176,7 +177,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 12. **Cool beans:** Spread on sheet tray in single layer. Cool at room temp 20–30 min.
 13. **Portion:** 1.5-cup portions into freezer bags. Squeeze out air, seal flat.
 14. **Label:** Date + "chickpeas 1.5C"
-15. **Chill:** Fridge overnight (12–24h RS3 formation — mandatory before freezing).
+15. **Chill:** Fridge overnight (12–24h RS3 formation — mandatory before freezing) [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 16. **Freeze:** Transfer flat.
 
 **Chickpea aquafaba yield:** ~25–35 cups from a full 3-month batch → ~200–280 cubes at 2 tbsp each.
@@ -192,7 +193,7 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 
 | Ingredient | Amount (per 3-month batch, ~5 kg dried chickpeas) | Why |
 |---|---|---|
-| Hing (asafoetida) | 1/4 tsp | Reduces oligosaccharide-driven gas. Adds umami. |
+| Hing (asafoetida) | 1/4 tsp | Reduces oligosaccharide-driven gas [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). Adds umami. |
 | Bay leaves | 4–5 leaves | Linalool + eugenol — carminative, anti-inflammatory |
 | Fennel seeds | 1 tsp | Anethole — carminative, anti-spasmodic. Reduces post-meal bloat from concentrated legumes |
 | Ajwain seeds | 1/2 tsp | Thymol — the strongest carminative in the protocol. Prevents gas at the source |
@@ -200,7 +201,7 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 | Cracked black pepper | 1 tbsp (coarsely cracked, not fine-ground) | Piperine extraction into liquid — fat-soluble compound absorption enhancer baked into every use of the aquafaba. Coarse crack prevents gritty aquafaba |
 | Ceylon cinnamon | 1 small stick (~1/4 tsp powder equivalent) | Cinnamaldehyde — glycemic anchor baked into the legume itself |
 | Onion | 1 medium quartered (or 2 tbsp onion powder) | Quercetin + prebiotic FOS. Whole is preferred — onion powder clouds the aquafaba |
-| Fresh ginger | 1 thumb-sized knob, whole | Gingerols — pro-kinetic, anti-nausea. Whole knob: easy to strain out |
+| Fresh ginger | 1 thumb-sized knob, whole | Gingerols — pro-kinetic, anti-nausea [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). Whole knob: easy to strain out |
 | Coriander seeds | 1 tbsp | Linalool + geraniol — digestive, pairs with cumin for classic legume base |
 | Whole cloves | 1 tsp (~10–12 cloves) | Eugenol — anti-inflammatory, antimicrobial |
 | Green cardamom pods (lightly crushed) | 1 tsp (~6–8 pods) | Cineole — digestive, carminative |
@@ -224,7 +225,7 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 **Black Beans** — see [Protocol Black Beans](protocol-blackbeans.md) for the full dedicated page.
 Same soak, drain, rinse, cook, and portion sequence as chickpeas — including the Ayurvedic Boil Stack above (reduce hing to 1/8 tsp). **Cook in a separate pot — keep liquid completely separate.**
 
-**Black bean cooking liquid is not waste — it is a concentrated anthocyanin extract** (cyanidin-3-glucoside, same compound class as blueberries and purple sweet potato). Keep and freeze separately, labeled "black bean liquid."
+**Black bean cooking liquid is not waste — it is a concentrated anthocyanin extract** (cyanidin-3-glucoside, same compound class as blueberries and purple sweet potato) [[Tocmo, 2021; Frontiers Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Keep and freeze separately, labeled "black bean liquid."
 
 **Protocol difference from chickpea aquafaba:**
 - Do NOT reduce as aggressively — the color compounds concentrate quickly and can turn bitter
@@ -234,7 +235,7 @@ Same soak, drain, rinse, cook, and portion sequence as chickpeas — including t
 **Uses in this protocol:**
 - **Performance refried black beans** — use instead of chickpea aquafaba for creaminess + anthocyanin dose baked into every serving
 - **Samosa Variant B + C filling** — add 2 tbsp to the mash before forming leaf parcels. Anthocyanin pulse locked into the parcel through the RS3 chill cycle.
-- **Recovery bowl** — 2 tbsp stirred into Greek yogurt at 17:50. The dark purple color IS the signal compound — cyanidin-3-glucoside is anti-inflammatory and cardiovascular-protective. Not a flaw.
+- **Recovery bowl** — 2 tbsp stirred into Greek yogurt at 17:50. The dark purple color IS the signal compound — cyanidin-3-glucoside is anti-inflammatory and cardiovascular-protective [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Not a flaw.
 
 **Black bean liquid yield:** ~20–28 cups → ~160–220 cubes at 2 tbsp each.
 
@@ -268,7 +269,7 @@ Same soak, drain, rinse, cook, and portion sequence as chickpeas — including t
 2. Cook: 1 cup dry quinoa + 2 cups water. Bring to boil, reduce to simmer, cover 15 min. Remove from heat, steam covered 5 min.
 3. Spread on a tray, cool 20 min.
 4. Portion into 1/2-cup cooked servings in freezer bags.
-5. Chill 12–24h in fridge (RS3 formation).
+5. Chill 12–24h in fridge (RS3 formation) [[Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 6. Freeze flat.
 
 ---
@@ -276,7 +277,7 @@ Same soak, drain, rinse, cook, and portion sequence as chickpeas — including t
 **Purple Sweet Potato**
 1. Scrub skins — do not peel. Skin contains the highest concentration of anthocyanins.
 2. Steam or roast whole at 400°F (200°C) until just tender (30–40 min depending on size).
-3. Cool completely, then refrigerate for **24h minimum** (RS3 formation — mandatory).
+3. Cool completely, then refrigerate for **24h minimum** (RS3 formation — mandatory) [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 4. After 24h: either leave whole or dice into cubes (skin on).
 5. Bag in portion sizes (150g per bag), freeze flat.
 
@@ -387,9 +388,9 @@ Same process as cilantro — wash, blanch 10 sec, ice bath, dry, bag flat.
 
 **Black Garlic (Passive Fermentation — Start on 3-Month Day)**
 
-Black garlic is regular garlic slow-fermented at low heat (140–170°F / 60–77°C) for 3–4 weeks. The Maillard reaction converts alliin into S-allyl cysteine (SAC) — a heat-stable, water-soluble compound with greater bioavailability and longer half-life than allicin. SAC is the primary cardiovascular-protective compound in aged garlic extracts. It does not require enzymatic conversion and survives cooking.
+Black garlic is regular garlic slow-fermented at low heat (140–170°F / 60–77°C) for 3–4 weeks. The Maillard reaction converts alliin into S-allyl cysteine (SAC) — a heat-stable, water-soluble compound with greater bioavailability and longer half-life than allicin [[Valls, 2022; Food & Function, 2023]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). SAC is the primary cardiovascular-protective compound in aged garlic extracts. It does not require enzymatic conversion and survives cooking.
 
-**Why black garlic alongside raw garlic:** These are different signal compounds. Raw allicin (from rested garlic cubes) gives immediate H₂S generation and anti-platelet effects. SAC (from black garlic) provides sustained, long-half-life cardiovascular protection and is gentler on the gut. Run both.
+**Why black garlic alongside raw garlic:** These are different signal compounds. Raw allicin (from rested garlic cubes) gives immediate H₂S generation and anti-platelet effects [[Song & Milner, 2001; Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). SAC (from black garlic) provides sustained, long-half-life cardiovascular protection and is gentler on the gut [[Valls, 2022]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). Run both.
 
 **Method (Rice Cooker — Hands-Off):**
 1. Take 3–4 heads of garlic — whole, unpeeled, completely dry (no moisture = no mold).
@@ -447,11 +448,11 @@ Pull ingredients from the 3-month freezer stash. Make all 5 cube types in one se
 *Makes 1 tray (~14 cubes) | Shelf life frozen: 4–6 weeks peak; 3 months acceptable*
 1. Pull ~20 frozen garlic cloves from the freezer. Thaw 10 min.
 2. Smash and mince finely.
-3. **Rest 10 minutes** — non-negotiable. This is when alliinase converts alliin to allicin. Set a timer.
+3. **Rest 10 minutes** — non-negotiable. This is when alliinase converts alliin to allicin [[Song & Milner, 2001; PMC12150274]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). Set a timer.
 4. After rest, add 4–5 drops avocado oil to bind.
 5. Portion into ice cube tray (~1 tsp per cube).
 6. Freeze overnight, transfer to labeled container.
-7. **CRITICAL:** Never freeze before the 10-minute rest. Ice crystals damage alliinase — thawed whole garlic cannot form allicin. The rest must happen before the freeze.
+7. **CRITICAL:** Never freeze before the 10-minute rest. Ice crystals damage alliinase — thawed whole garlic cannot form allicin [[PMC12150274]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). The rest must happen before the freeze.
 
 ---
 
@@ -490,7 +491,7 @@ Toum is frozen as a **base only** — no oil in the frozen cube. The emulsion re
 
 1. Pull ~20 frozen garlic cloves from the freezer. Thaw 10 min at room temp.
 2. Smash and mince finely.
-3. **Rest 10 minutes** — allicin formation window. Set a timer.
+3. **Rest 10 minutes** — allicin formation window [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). Set a timer.
 4. Add to blender: rested garlic + 2 tbsp lemon juice + 1/4 tsp sea salt + 2 tbsp cold water.
 5. Blend smooth. No oil.
 6. Portion into ice cube tray (~1 tbsp per cube = 1 day's serving).
@@ -659,3 +660,18 @@ The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the f
 - [Performance Refried Beans](performance-refried-beans.md)
 - [Functional Indian Formats](functional-indian-formats.md)
 - [Peppermint Jaljeera](peppermint-jaljeera.md)
+
+## References
+- [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — RS3 retrogradation and prebiotic function
+- [[Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Cook-chill RS3 quantification; mandatory 12–24h chill before freezing
+- [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Freezing locks RS3 crystalline structure
+- [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Alliinase heat sensitivity; 10-minute rest before freezing is non-negotiable
+- [[PMC12150274]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Ice crystal damage to alliinase; freeze-before-rest warning
+- [[Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Allicin-to-ajoene conversion; bloomed garlic in lipid
+- [[Valls, 2022]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — SAC in black garlic; sustained cardiovascular protection
+- [[Food & Function, 2023]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — SAC H₂S donor activity and endothelial health
+- [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cyanidin-3-glucoside (black bean liquid) cardioprotection
+- [[Frontiers Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — C3G anti-inflammatory signaling
+- [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Ginger gingerols and gastric motility
+- [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Hing α-galactosidase inhibition (anti-flatulent mechanism in legume boil)
+- [[Arunprasath, 2021]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Banana leaf antimicrobial and antioxidant properties for wrapping
