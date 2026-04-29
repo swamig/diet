@@ -1,9 +1,9 @@
 
 ## The 3-Option Architecture (Quick Jump)
 To maintain gut resilience and balance your amino acid profile, you must rotate your crusts based on your daily training load:
-*   [**Option 1: The Seitan Hybrid Skin**](#option-1-the-seitan-hybrid-skin-high-protein) — The **"Default."** 50/50 VWG/Besan. Used all 4 samosa days — better amino acid profile and crispier texture than pure VWG (~42g protein for two).
-*   [**Option 2: The "Daily Bread" Hybrid**](#option-2-the-daily-bread-hybrid-atta--vwg) — **Optional variation** when atta is on hand. 50% Atta / 50% VWG. Nuttier, more traditional flavor (~40g protein for two).
-*   [**Option 3: The 'Green Crystal' GF Skin**](#option-3-the-green-crystal-gf-skin-rice-tapioca--moringa) — The **"Fiber Sweep."** Tapioca/Rice/Moringa base. Used on T/Th/S (Rest/Cardio days) for GI motility. Requires Pea/Rice fortification to hit the 40g target.
+*   [**Option 1: The Seitan Hybrid Skin**](#option-1-the-seitan-hybrid-skin-high-protein) — The **"Default."** 50/50 VWG/Besan. Used all 4 samosa days — better amino acid profile and crispier texture than pure VWG (**~70g protein, ~585 kcal** for two).
+*   [**Option 2: The "Daily Bread" Hybrid**](#option-2-the-daily-bread-hybrid-atta--vwg) — **Optional variation** when atta is on hand. 50% Atta / 50% VWG. Nuttier, more traditional flavor (**~68g protein, ~605 kcal** for two).
+*   [**Option 3: The 'Green Crystal' GF Skin**](#option-3-the-green-crystal-gf-skin-rice-tapioca--moringa) — The **"Fiber Sweep."** Tapioca/Rice/Moringa base. Used on T/Th/S (Rest/Cardio days) for GI motility (**~42g protein, ~468 kcal** for two).
 
 ---
 
@@ -18,24 +18,24 @@ priority: 'supporting'
 This is an elite-level modification of the standard **[Vegan Protein Patties](vegan-protein-patties.md)**. By leveraging the "Flash Roast" rule, you can create a high-protein, crispy "Samosa" without deep-frying, while preserving the fragile Resistant Starch Type 3 (RS3) in the filling.
 
 ## The Biochemical Objectives
-1.  **Preserve RS3:** The core must remain below the **130°F (54°C) Thermal Ceiling** to prevent crystalline starch from melting into simple glucose.
+1.  **Preserve RS3:** The core must remain below the **130°F (54°C) Thermal Ceiling** to prevent crystalline starch from melting into simple glucose [[Birt et al., 2013; Mohan et al., 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 2.  **Protein Dominance:** Every serving (2 units) must hit or exceed **40g of protein**.
 3.  **Digestive Signaling:** Skin must contain Ajwain and Nigella to prepare the gut for the high-density load.
 
 ---
 
 ## The Master Filling (The RS3 Core)
-*Batch-prepped once per 3-month cycle. Stored as banana leaf parcels in the freezer. Do NOT heat above 130°F (54°C) — the RS3 thermal ceiling.*
+*Batch-prepped once per 3-month cycle. Stored as banana leaf parcels in the freezer. Do NOT heat above 130°F (54°C) — the RS3 thermal ceiling [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).*
 
 ### Ingredients (per serving — 2 samosas):
 *   2 cups **Cooked Chickpeas** (chilled 24h+ for RS3 stabilization)
 *   1/2 cup **Green Peas** (blanched and chilled)
-*   1 tbsp **Fresh Ginger** (grated)
-*   1–2 cloves **Boiled Garlic** (from reserved head cooked with the bean batch — mash in warm or at room temp; ajoene + DAS pathway)
-*   1 tbsp **Rested Garlic Cube** (thawed at room temp 10–20 min, folded in cold — allicin already formed pre-freeze, no second rest needed)
+*   1 tbsp **Fresh Ginger** (grated) [[Wu et al., 2008; Mashhadi et al., 2013]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
+*   1–2 cloves **Boiled Garlic** (from reserved head cooked with the bean batch — mash in warm or at room temp; ajoene + DAS pathway [[Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule))
+*   1 tbsp **Rested Garlic Cube** (thawed at room temp 10–20 min, folded in cold — allicin already formed pre-freeze [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), no second rest needed [[PMC12150274]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule))
 *   1/2 tsp **Ajwain** (crushed between palms)
 *   1/2 tsp **Nigella (Kalonji)**
-*   1 tbsp **Lemon Juice** (Vitamin C — multiplies iron absorption from chickpeas)
+*   1 tbsp **Lemon Juice** (Vitamin C — multiplies iron absorption from chickpeas [[Sameh et al., 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   1/2 tsp **Sea Salt**
 *   1/16 tsp **Hing (asafoetida)** — mash-level digestive signal + umami (separate from boil stack hing)
 
@@ -51,13 +51,13 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 | Ground black cardamom | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
 
 **The High-Signaling Spice Stack (Default — not optional):**
-*   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying *(day-of jar — fat-soluble, degrades over 3-month freeze without fat)*
+*   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) *(day-of jar — fat-soluble, degrades over 3-month freeze without fat)*
 *   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor *(add now — water-soluble, stable frozen)*
-*   1–2 **Green Chilies** (finely chopped) — TRP channel activation *(add now — integrates into bean matrix during freeze cycle)*
+*   1–2 **Green Chilies** (finely chopped) — TRP channel activation [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) *(add now — integrates into bean matrix during freeze cycle)*
 *   1/2 tsp **Chaat Masala** — additional amchur + black salt for electrolyte signal *(add now — water-soluble, stable frozen)*
 
 **3-Month Freeze Spice Split Rule:**
-For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose potency and color sitting in the frozen mash without a fat carrier. Split the stack at batch time:
+For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols [[Aggarwal et al., 2010]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)) lose potency and color sitting in the frozen mash without a fat carrier. Split the stack at batch time:
 
 | Add NOW to filling | Hold for Day-Of Jar |
 |---|---|
@@ -78,8 +78,8 @@ Fold into cold mash with a small drizzle of EVOO right before wrapping in the sk
 
 **Protein Fortification + Nutritional Yeast (Universal — all variants, all skin options):**
 Per parcel (2 samosas):
-*   2 tbsp **Pea Protein** — leucine-dense, hits mTOR threshold (~2.5–3g leucine) baked into the filling itself
-*   1 tbsp **Rice Protein** — methionine complement to pea's lysine-heavy profile
+*   2 tbsp **Pea Protein** — leucine-dense, hits mTOR threshold (~2.5–3g leucine) baked into the filling itself [[Norton & Layman, 2006; PMC5096790]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+*   1 tbsp **Rice Protein** — methionine complement to pea's lysine-heavy profile [[Gorissen et al., 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
 *   2 tbsp **Nutritional Yeast** — B12 + umami depth + additional ~4g protein per parcel
 
 These are dry additions that pull moisture from the mash. Compensate with cold aquafaba (never warm — raises mash above RS3 ceiling).
@@ -113,13 +113,13 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 | Variant | Parcels | Base | Add to base filling | Signal target | Pull on |
 |---|---|---|---|---|---|
 | **A — Standard Capsaicin** | ~13 | Chickpea | Base spice stack as written | TRP + gastric motility | Any day |
-| **B — Habanero Pulse** | ~13 | Chickpea | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation + anthocyanin stack | Heavy lift days (M/W/F) |
-| **C — Sulforaphane + Anti-Inflammatory** | ~13 | Chickpea | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression + anthocyanin | Cardio/recovery days |
-| **D — Black Bean Anthocyanin Base** | ~13 | Black bean | Swap chickpeas entirely for cooked black beans + **2 tbsp black bean cooking liquid** (double anthocyanin dose — cyanidin-3-glucoside at 2× concentration) + base spice stack as written | Max anthocyanin density (same compound class as blueberries) + iron signal (black beans ~3.6mg/100g vs chickpeas ~2.9mg) | Any day — rotate in when pulling chickpea variants gets monotonous |
+| **B — Habanero Pulse** | ~13 | Chickpea | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) + anthocyanin stack | Heavy lift days (M/W/F) |
+| **C — Sulforaphane + Anti-Inflammatory** | ~13 | Chickpea | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression [[Fahey et al., 2015; Dinkova-Kostova et al., 2012]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) + anthocyanin [[Tocmo et al., 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) | Cardio/recovery days |
+| **D — Black Bean Anthocyanin Base** | ~13 | Black bean | Swap chickpeas entirely for cooked black beans + **2 tbsp black bean cooking liquid** (double anthocyanin dose — cyanidin-3-glucoside at 2× concentration [[Tocmo et al., 2021; Frontiers in Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)) + base spice stack as written | Max anthocyanin density (same compound class as blueberries) + iron signal (black beans ~3.6mg/100g vs chickpeas ~2.9mg) | Any day — rotate in when pulling chickpea variants gets monotonous |
 
 **Variant D protein note:** ~70g total per 3-month batch (similar to chickpea base). Primary benefit is anthocyanin density, not a protein upgrade. The black bean liquid acts as a natural food dye — filling turns deep purple-black. Normal and expected.
 
-**Why four variants:** A is the daily workhorse. B drives sympathetic activation and thermogenesis on heavy lift days. C amplifies anti-inflammatory and Nrf2/NF-κB detox pathways on recovery days. D rotates in as the anthocyanin signal — maximizes cyanidin-3-glucoside delivery from both the beans and the cooking liquid simultaneously.
+**Why four variants:** A is the daily workhorse. B drives sympathetic activation and thermogenesis on heavy lift days. C amplifies anti-inflammatory and Nrf2/NF-κB detox pathways on recovery days [[Fahey et al., 2015; Dinkova-Kostova et al., 2012]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control). D rotates in as the anthocyanin signal — maximizes cyanidin-3-glucoside delivery from both the beans and the cooking liquid simultaneously [[Tocmo et al., 2021; Frontiers in Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 
 ### Batch Prep Instructions (Banana Leaf Parcel System):
 
@@ -132,8 +132,8 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 4. Roughly mash — keep 30% chunky for texture
 5. Divide mash into 3 bowls (~equal portions — ~13 parcels each)
 6. Fold **now-spices only** into all three (ajwain, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots), then add each variant's specific additions (see table above). **Hold fat-soluble spices for day-of jar.**
-   - **Nigella placement rule:** 1/2 tsp nigella in the skin daily (Options 1/2/3 dough) — correct and therapeutic. ~200–250mg thymoquinone, within the 1–3g/day clinical range. Do NOT add to the filling as well — doubling the dose runs a chronic antimicrobial effect against your own microbiome without additional benefit. The skin dose alone is the right frequency. Exception: Variant C may add 1/4 tsp nigella to the filling on recovery days only — an occasional antimicrobial pulse, not a daily stack.
-   - **Bloom is automatic — no separate step needed:** Ghee is rubbed into the dough as the moyen before wrapping. At 400°F air-fry, the ghee melts instantly and blooms the nigella seeds in place inside the crust. The fat contact is already built into the dough preparation. A separate bloom step would only be needed if adding nigella to a water-based sauce or liquid with no fat present.
+   - **Nigella placement rule:** 1/2 tsp nigella in the skin daily (Options 1/2/3 dough) — correct and therapeutic. ~200–250mg thymoquinone, within the 1–3g/day clinical range [[Tavakkoli et al., 2017]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Do NOT add to the filling as well — doubling the dose runs a chronic antimicrobial effect against your own microbiome without additional benefit. The skin dose alone is the right frequency. Exception: Variant C may add 1/4 tsp nigella to the filling on recovery days only — an occasional antimicrobial pulse, not a daily stack.
+   - **Bloom is automatic — no separate step needed:** Avocado oil is rubbed into the dough as the moyen before wrapping. At 400°F air-fry, the oil heats instantly and blooms the nigella seeds in place inside the crust. The fat contact is already built into the dough preparation. A separate bloom step would only be needed if adding nigella to a water-based sauce or liquid with no fat present.
 7. Fold in pea protein, rice protein, nutritional yeast (dry first), then add cold aquafaba and run **crumble test** — see Hydration Protocol above. Target: 3 tbsp aquafaba per parcel (~2.5 cups per 13-parcel bowl) before testing.
 8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
@@ -168,8 +168,8 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 *   ~1/2 cup **Cold Water or Aquafaba**. *Optional: yogurt fermented variant — see [Skin Variants](samosa-skin-variants.md)*
 
 ### Execution:
-1.  **The Moyen:** Mix VWG, besan, and spices in a bowl (or scoop from dry mix jar). Rub in ghee with fingertips until crumbly.
-2.  **Hydrate:** Add cold water/aquafaba/yogurt slowly until a stiff dough forms.
+1.  **The Moyen:** Mix VWG, besan, and spices in a bowl (or scoop from dry mix jar). Rub in avocado oil with fingertips until crumbly.
+2.  **Hydrate:** Add cold water or aquafaba slowly until a stiff dough forms.
 3.  **The Rest (CRITICAL):** Wrap and rest for **45-60 minutes** minimum, or ferment overnight in fridge.
 4.  **Roll:** Roll paper-thin between parchment sheets. Cut into circles or strips.
 5.  **Cook:** Air Fry at **400°F (200°C) for 7-8 minutes**.
@@ -177,7 +177,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any samosa day (M/W/F + 1)**
 *   **Calories:** ~585 kcal
-*   **Total Protein:** ~74g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
+*   **Total Protein:** ~70g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
 *   **Total Carbs:** ~43g
 *   **Dietary Fiber:** ~13g
 *   **Net Carbs:** ~30g
@@ -197,7 +197,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 2.  **The Binders:** 1 tbsp **Avocado Oil** (The Moyen — day-of) and hydrate with cold water or aquafaba until a stiff dough forms. *Optional: Ghee or yogurt fermented variant — see [Skin Variants](samosa-skin-variants.md)*
 
 ### Execution:
-1.  **The Moyen:** Rub ghee into the dry flour blend until crumbly.
+1.  **The Moyen:** Rub avocado oil into the dry flour blend until crumbly.
 2.  **Hydrate:** Add water/yogurt slowly. Knead for 3-5 minutes to activate the gluten.
 3.  **Rest:** Rest for **30 minutes** minimum, or ferment overnight in fridge.
 4.  **Cook:** Air Fry at **390°F (195°C) for 8-10 minutes**.
@@ -205,7 +205,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any (when atta available)**
 *   **Calories:** ~605 kcal
-*   **Total Protein:** ~72g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
+*   **Total Protein:** ~68g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
 *   **Total Carbs:** ~50g
 *   **Dietary Fiber:** ~16g
 *   **Net Carbs:** ~34g
@@ -252,11 +252,11 @@ Include in the dry mix jar — all shelf stable:
 
 | Addition | Amount per batch | Active Mechanism |
 |---|---|---|
-| **Kalonji (nigella seeds)** | 1/2 tsp | Thymoquinone — anti-inflammatory, antimicrobial. Already in filling; doubles the dose in the wrapper |
+| **Kalonji (nigella seeds)** | 1/2 tsp | Thymoquinone — anti-inflammatory, antimicrobial [[Tavakkoli et al., 2017; Ahmad et al., 2013]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Already in filling; doubles the dose in the wrapper |
 | **Kasuri methi (dried fenugreek leaves)** | 1 tsp | 4-hydroxyisoleucine — glycemic anchor baked into the wrapper itself |
 | **Black sesame** | 1 tbsp | Higher anthocyanin load than white sesame (pigmented bran layer); sesamin + sesamolin lignans |
-| **Cumin seeds** | 1/2 tsp | Cuminaldehyde — carminative, earthy depth; complements ajwain without competing |
-| **Black pepper (coarse)** | 1/4 tsp | Piperine — enhances fat-soluble compound absorption from the spiced filling |
+| **Cumin seeds** | 1/2 tsp | Cuminaldehyde — carminative, earthy depth [[Mnif & Aiyelaagbe, 2015]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling); complements ajwain without competing |
+| **Black pepper (coarse)** | 1/4 tsp | Piperine — enhances fat-soluble compound absorption from the spiced filling [[Shoba et al., 1998]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) |
 | **Turmeric** | 1/4 tsp | NF-κB modulation; turns dough golden as a visual dose cue |
 
 **Recommended combination:** Ajwain + kalonji + kasuri methi + black sesame + turmeric. Five functional inputs in the wrapper before the filling is factored in.
@@ -287,7 +287,7 @@ Gluten forms a viscoelastic protein network. Ice crystals form in the water spac
 ---
 
 ## Option 3: The 'Green Crystal' GF Skin (Rice, Tapioca & Moringa)
-*A lighter, crispier GF alternative. Features a vivid green hue from Moringa for visual signaling and antioxidant delivery. Yields ~40g protein for 2 units (with fortified filling).*
+*A lighter, crispier GF alternative. Features a vivid green hue from Moringa for visual signaling and antioxidant delivery [[Vergara-Jimenez et al., 2017]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Yields ~40g protein for 2 units (with fortified filling).*
 
 ### Batch Prep Dry Mix Jar (Make Once, Use Weekly)
 
@@ -346,7 +346,7 @@ The besan and rice flour components of Option 3 ferment readily with yogurt — 
 *   **Calories:** ~468 kcal
 *   **Total Protein:** ~42g *(pea protein + rice protein + nutritional yeast now built into filling — no separate scoop needed)*
 *   **Total Carbs:** ~48g
-*   **Dietary Fiber:** ~16g (Massive Psyllium Sweep)
+*   **Dietary Fiber:** ~16g (Massive Psyllium Sweep) [[Gibiino et al., 2018; Jalanka et al., 2019]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 *   **Complex Carbs (RS3/Starches):** ~30g *(Tapioca/Rice delayed by fiber gel)*
 *   **Net Carbs:** ~32g
 *   **Fat:** ~12g (Avocado Oil)
@@ -366,7 +366,7 @@ While Option 3 (Gluten-Free) provides high fiber, the protocol **mandates** a ro
 2.  **Whole Food vs. Isolated Powders:** Option 1 (Seitan) provides ~50g of protein from actual, structural food matrices (VWG and Chickpeas). Option 3 relies heavily on ~25g of isolated protein powder (the Rice/Pea blend). To ensure long-term satiety and sustained Muscle Protein Synthesis (MPS), the protocol limits the use of isolated powders by alternating with whole-food seitan.
 3.  **Glycemic Control:** Option 1 is a true "Protein Bomb" with only ~22g Net Carbs, keeping insulin entirely flat for maximum fat oxidation. Option 3, while high fiber, uses rice and starch-based flours (~32g Net Carbs). The rotation ensures that the glycemic load is pulsed rather than sustained.
 4.  **Microbiome Hormesis (Gut Resilience):** 
-    *   **The Gluten Window:** Daily gluten exposure risks chronic Zonulin signaling (increased intestinal permeability).
+    *   **The Gluten Window:** Daily gluten exposure risks chronic Zonulin signaling (increased intestinal permeability) [[Fasano, 2011]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
     *   **The Adaption Window:** Permanent gluten avoidance causes the microbiome to lose the specific enzymes required for gluten degradation, leading to acute intolerance.
     *   **The Fix:** By rotating versions, you train the gut to digest complex proteins (M/W/F) and then provide a 48-hour fiber-heavy "sweep" (T/Th/S) to reset the system.
 
@@ -379,7 +379,7 @@ While Option 3 (Gluten-Free) provides high fiber, the protocol **mandates** a ro
 ## Freeze Protocol (Batch Prep Extension)
 
 ### Filling (RS3 Core) — Freeze Yes
-The Master Filling freezes perfectly. RS3 crystals are stable at freezer temperatures and survive thaw without degradation, provided you reheat gently below 130°F (54°C) when assembling.
+The Master Filling freezes perfectly. RS3 crystals are stable at freezer temperatures and survive thaw without degradation [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3), provided you reheat gently below 130°F (54°C) when assembling.
 
 *   Portion into ice cube trays or silicone molds (~2 tbsp per cube = 1 samosa serving).
 *   Freeze overnight, transfer to an airtight container.
@@ -406,12 +406,45 @@ For the GF version, the correct freeze point is *after* air frying:
 ## Clinical Rationale
 *   **Protein Architecture (Complementarity):** 
     *   *Seitan Versions (1 & 2):* Naturally balanced. The high Methionine in wheat gluten pairs with the high Lysine in chickpeas.
-    *   *GF Version (3):* Requires the **2:1 Rice/Pea blend**. Because the core filling provides massive amounts of legume protein (Lysine), using a Rice-heavy (Methionine) fortification is required to mathematically balance the Amino Acid profile, ensuring maximal Muscle Protein Synthesis (MPS) during the recovery window.
-*   **The Flash Fry:** Convection air at 400°F dehydrates the skin (crunch) but the short duration and dense core prevent the internal RS3 crystals from melting (keeping it below 130°F).
-*   **Ajwain/Nigella Skin:** Acts as a carminative buffer to prevent the bloating often associated with concentrated legume and wheat protein. The Nigella (Kalonji) also provides striking black visual contrast against the crust (especially the Green GF version), mirroring traditional Indian pastry aesthetics while delivering a low-grade antimicrobial pulse.
+    *   *GF Version (3):* Requires the **2:1 Rice/Pea blend**. Because the core filling provides massive amounts of legume protein (Lysine), using a Rice-heavy (Methionine) fortification is required to mathematically balance the Amino Acid profile [[Gorissen et al., 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), ensuring maximal Muscle Protein Synthesis (MPS) during the recovery window [[Norton & Layman, 2006; PMC5096790]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
+*   **The Flash Fry:** Convection air at 400°F dehydrates the skin (crunch) but the short duration and dense core prevent the internal RS3 crystals from melting (keeping it below 130°F) [[Birt et al., 2013; Mohan et al., 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **Ajwain/Nigella Skin:** Acts as a carminative buffer [[Bairwa et al., 2012]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) to prevent the bloating often associated with concentrated legume and wheat protein. The Nigella (Kalonji) also provides striking black visual contrast against the crust (especially the Green GF version), mirroring traditional Indian pastry aesthetics while delivering a low-grade antimicrobial pulse [[Tavakkoli et al., 2017; Ahmad et al., 2013]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Rice Flour Addition:** Reduces the "beany" texture of the GF crust, providing the professional snap of a traditional samosa.
 
 ## Related Pages
 - [Vegan Protein Patties](vegan-protein-patties.md)
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Functional Indian Formats](functional-indian-formats.md)
+
+---
+
+## References
+
+Full citation details for all studies referenced on this page are in the [Master Citations document](../07-appendices/master-citations.md). Key references by section:
+
+| Claim | Citation |
+|---|---|
+| RS3 thermal ceiling (130°F/54°C) | [Birt et al., 2013](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3); [Mohan et al., 2015](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| Allicin — 10-min rest rule | [Song & Milner, 2001](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), *J. Nutrition* |
+| Alliinase freeze damage | [PMC12150274](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| Ajoene/DAS from heated allicin | [Block, 1985](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), *Scientific American* |
+| SAC (black garlic) — cardiovascular | [Valls et al., 2022; Food & Function 2023](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| Cyanidin-3-glucoside — cardioprotection | [Tocmo et al., 2021](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *J. Nutritional Biochemistry* PMID:34864150 |
+| Thymoquinone dose (nigella) | [Tavakkoli et al., 2017](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), PMC5633670 |
+| Piperine → curcumin +2000% bioavailability | [Shoba et al., 1998](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control), *Planta Medica* |
+| Pea + rice protein complementarity | [Gorissen et al., 2018](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), *Amino Acids* |
+| Leucine mTOR threshold | [Norton & Layman, 2006](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), *J. Nutrition*; [PMC5096790](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Lemon → iron absorption (chickpeas) | [Sameh et al., 2020](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule), PMC7230787 |
+| Sulforaphane / Nrf2 | [Fahey et al., 2015](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control), *PLOS One*; [Dinkova-Kostova et al., 2012](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) |
+| Capsaicin + TRP activation | [Nutrients DOI:10.3390/nu18030376](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) |
+| Ginger → gastric motility | [Wu et al., 2008](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *J. Gastroenterology & Hepatology* |
+| Ajwain / thymol — carminative | [Bairwa et al., 2012](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Pharmacognosy Reviews* |
+| Cumin / cuminaldehyde | [Mnif & Aiyelaagbe, 2015](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Chemistry & Biodiversity* |
+| Cinnamon / cinnamaldehyde | [Rao & Gan, 2014](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Evid.-Based Complement. Alt. Med.* |
+| Cardamom — lipid peroxidation | [Yashin et al., 2017](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Antioxidants* |
+| Star anise / shikimic acid | [Patra et al., 2020](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Frontiers in Pharmacology* |
+| Tocotrienols / achiote | [Aggarwal et al., 2010](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Biochemical Pharmacology* |
+| Moringa — quercetin density | [Vergara-Jimenez et al., 2017](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Antioxidants* |
+| Psyllium — glucose blunting | [Gibiino et al., 2018](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *Nutrients* |
+| Psyllium — prebiotic | [Jalanka et al., 2019](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *Int. J. Molecular Sciences* |
+| Gluten / zonulin | [Fasano, 2011](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *Physiological Reviews* |
