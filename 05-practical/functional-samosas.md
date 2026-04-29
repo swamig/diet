@@ -31,10 +31,24 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 *   2 cups **Cooked Chickpeas** (chilled 24h+ for RS3 stabilization)
 *   1/2 cup **Green Peas** (blanched and chilled)
 *   1 tbsp **Fresh Ginger** (grated)
+*   1–2 cloves **Boiled Garlic** (from reserved head cooked with the bean batch — mash in warm or at room temp; ajoene + DAS pathway)
+*   1 tbsp **Rested Garlic Cube** (thawed at room temp 10–20 min, folded in cold — allicin already formed pre-freeze, no second rest needed)
 *   1/2 tsp **Ajwain** (crushed between palms)
 *   1/2 tsp **Nigella (Kalonji)**
 *   1 tbsp **Lemon Juice** (Vitamin C — multiplies iron absorption from chickpeas)
 *   1/2 tsp **Sea Salt**
+*   1/16 tsp **Hing (asafoetida)** — mash-level digestive signal + umami (separate from boil stack hing)
+
+**Garam Masala Components (ground, add NOW — stable frozen, meld into bean matrix):**
+
+| Spice | Per parcel | 4 parcels (8 cups cooked) | 52 parcels (full batch) |
+|---|---|---|---|
+| Ground coriander | 1/4 tsp | 1 tsp | ~13 tsp (~4.5 tbsp) |
+| Ground cardamom (green) | 1/8 tsp | 1/2 tsp | ~6.5 tsp (~2 tbsp) |
+| Ground cinnamon (Ceylon) | 1/8 tsp | 1/2 tsp | ~6.5 tsp (~2 tbsp) |
+| Ground cloves | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
+| Ground star anise | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
+| Ground black cardamom | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
 
 **The High-Signaling Spice Stack (Default — not optional):**
 *   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying *(day-of jar — fat-soluble, degrades over 3-month freeze without fat)*
@@ -47,9 +61,20 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols) lose
 
 | Add NOW to filling | Hold for Day-Of Jar |
 |---|---|
-| Ajwain, nigella, amchur, chaat masala, salt, green chilies, lemon juice, ginger, carrots, peas | Kashmiri chili powder, achiote, cumin, turmeric, smoked paprika/chipotle, black pepper (crack fresh) |
+| Ajwain, nigella, amchur, chaat masala, salt, hing, green chilies, lemon juice, ginger, boiled garlic cloves, carrots, peas, ground coriander, ground cardamom, ground cinnamon, ground cloves, ground star anise, ground black cardamom | Kashmiri chili powder, achiote, cumin, turmeric, smoked paprika/chipotle, black pepper (crack fresh), nutmeg (fresh grate 1/8 tsp) |
 
-**Day-of jar:** At batch time, pre-measure the day-of spices per parcel into a labeled jar so there's no thinking at assembly. Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
+**Day-of jar quantities (per parcel — pre-measure into a labeled jar at batch time):**
+
+| Spice | Per parcel | For 4 parcels (8 cups cooked) | For 52 parcels (full batch) |
+|---|---|---|---|
+| Kashmiri chili powder | 1/2 tsp | 2 tsp | ~8.5 tbsp |
+| Achiote (annatto) powder | 1/4 tsp | 1 tsp | ~4 tbsp |
+| Cumin powder | 1/2 tsp | 2 tsp | ~8.5 tbsp |
+| Turmeric powder | 1/4 tsp | 1 tsp | ~4 tbsp |
+| Smoked paprika or chipotle | 1/4 tsp | 1 tsp | ~4 tbsp |
+| Black pepper | crack fresh day-of | — | — |
+
+Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
 
 **Protein Fortification + Nutritional Yeast (Universal — all variants, all skin options):**
 Per parcel (2 samosas):
@@ -72,6 +97,14 @@ These are dry additions that pull moisture from the mash. Compensate with cold a
 2. Add **3 tbsp cold aquafaba per parcel** (e.g., 39 tbsp = ~2.5 cups for a 13-parcel bowl) — fold in
 3. **Crumble test:** Press a handful firmly into a ball. If it holds shape and doesn't stick to hands — correct. If it crumbles and falls apart — add aquafaba 1 tbsp at a time and retest. If it sticks and feels wet — add 1 tbsp besan to rebind (does not affect signal)
 4. Only after passing crumble test: form into 3"×4"×2" blocks and wrap in leaf
+
+**Mash scaling reference:**
+
+| Batch size | Parcels | Salt | Garlic cubes | Aquafaba minimum | Aquafaba maximum |
+|---|---|---|---|---|---|
+| 8 cups cooked beans | 4 | 2 tsp | 4 cubes (4 tbsp) | 3/4 cup (12 tbsp) | 1 cup (16 tbsp) |
+| 26 cups cooked (half of A/B/C) | ~13 | 2 tbsp + 1 tsp | 13 cubes | ~2.5 cups | ~3.25 cups |
+| Full batch (52 parcels) | 52 | ~8 tbsp | 52 cubes | ~9.75 cups | ~13 cups |
 
 ### Signal Variations (Batch in Parallel — Label Each Bag)
 
@@ -143,11 +176,11 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any samosa day (M/W/F + 1)**
-*   **Total Protein:** ~42g
-*   **Total Carbs:** ~35g
-*   **Dietary Fiber:** ~11g
-*   **Net Carbs:** ~24g
-*   **Fat:** ~12g (Ghee)
+*   **Total Protein:** ~74g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
+*   **Total Carbs:** ~43g
+*   **Dietary Fiber:** ~13g
+*   **Net Carbs:** ~30g
+*   **Fat:** ~13g (Ghee)
 
 
 
@@ -170,11 +203,11 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 
 ### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Any (when atta available)**
-*   **Total Protein:** ~40g
-*   **Total Carbs:** ~42g
-*   **Dietary Fiber:** ~14g
-*   **Net Carbs:** ~28g
-*   **Fat:** ~12g (Ghee)
+*   **Total Protein:** ~72g *(includes 2 tbsp pea protein + 1 tbsp rice protein + 2 tbsp nutritional yeast built into filling)*
+*   **Total Carbs:** ~50g
+*   **Dietary Fiber:** ~16g
+*   **Net Carbs:** ~34g
+*   **Fat:** ~13g (Ghee)
 
 
 
@@ -316,9 +349,9 @@ The besan and rice flour components of Option 3 ferment readily with yogurt — 
 4.  **Roll:** Roll very thin between parchment. Because of the psyllium/starch gel, it will be flexible like a tortilla.
 5.  **Cook:** Air Fry at **380°F (190°C) for 10-12 minutes**.
 
-### Macro Profile (For 2 Samosas + 1 Scoop Pea/Rice Protein)
+### Macro Profile (For 2 Samosas)
 *   **Protocol Window:** **Rest/Recovery (T/Th/S)**
-*   **Total Protein:** ~42g
+*   **Total Protein:** ~42g *(pea protein + rice protein + nutritional yeast now built into filling — no separate scoop needed)*
 *   **Total Carbs:** ~48g
 *   **Dietary Fiber:** ~16g (Massive Psyllium Sweep)
 *   **Complex Carbs (RS3/Starches):** ~30g *(Tapioca/Rice delayed by fiber gel)*

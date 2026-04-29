@@ -201,10 +201,23 @@ Add all to cold water before bringing to heat. Whole aromatics infuse the beans 
 | Ceylon cinnamon | 1 small stick (~1/4 tsp powder equivalent) | Cinnamaldehyde — glycemic anchor baked into the legume itself |
 | Onion | 1 medium quartered (or 2 tbsp onion powder) | Quercetin + prebiotic FOS. Whole is preferred — onion powder clouds the aquafaba |
 | Fresh ginger | 1 thumb-sized knob, whole | Gingerols — pro-kinetic, anti-nausea. Whole knob: easy to strain out |
-| Garlic | 6 whole cloves, unpeeled or lightly crushed | Allicin precursors + ajoene. Note: cooking converts alliin to different heat-stable compounds (ajoene, DAS) — not the same as raw allicin, but still cardiovascular-protective |
+| Coriander seeds | 1 tbsp | Linalool + geraniol — digestive, pairs with cumin for classic legume base |
+| Whole cloves | 1 tsp (~10–12 cloves) | Eugenol — anti-inflammatory, antimicrobial |
+| Green cardamom pods (lightly crushed) | 1 tsp (~6–8 pods) | Cineole — digestive, carminative |
+| Black cardamom pod (lightly crushed) | 1/2 tsp (~1–2 pods) | Smoky digestive depth |
+| Star anise | 1/2 tsp (~1–2 points off a whole star) | Anethole — carminative (stronger than fennel) |
+| Garlic | 6 whole cloves for aromatic infusion + **1 full head (10–12 cloves) reserved for mash** | The 6 aromatic cloves infuse the beans and aquafaba (ajoene/DAS). The extra head cooks alongside — pull these out after the boil, keep separate, mash into the filling (~1–2 cloves per parcel). Two-pathway garlic delivery: boiled cloves = heat-stable ajoene/DAS (cardiovascular); raw garlic cube added cold = allicin. Both go into each parcel. |
 | Sea salt | 2 tbsp | **Last 15 minutes only.** Early salt = tough skins + slower cooking |
 
 **Same stack for black beans** — reduce hing to 1/8 tsp (black beans are already gentler). Everything else identical, including the late-salt rule and the three-step flavor layering sequence above.
+
+**Small-batch scaling (yields ~8 cups cooked ≈ 3–3.5 cups dried going in):**
+- Salt: **1.5 tsp** last 15 min (salt doesn't scale purely linearly — minimum needed to season skins)
+- Garlic: **2–3 aromatic cloves** (infuse liquid) + **4–8 cloves reserved for mash** (1–2 per parcel, pull out after boil)
+- Hing: pinch (~1/16 tsp) for chickpeas; skip for black beans at this scale
+- Bay leaves: 2 | Fennel/ajwain/cumin/coriander: 1/4 tsp each | Cracked pepper: 1 tsp | Ginger: thumbnail knob
+- Cloves: 1/4 tsp (~2–3 cloves) | Green cardamom: 1/4 tsp (~2 pods) | Black cardamom: 1/4 tsp (~1 pod) | Star anise: 1/4 tsp (~1 point)
+- Boil time: same 90–120 min regardless of batch size
 
 ---
 
@@ -224,6 +237,20 @@ Same soak, drain, rinse, cook, and portion sequence as chickpeas — including t
 - **Recovery bowl** — 2 tbsp stirred into Greek yogurt at 17:50. The dark purple color IS the signal compound — cyanidin-3-glucoside is anti-inflammatory and cardiovascular-protective. Not a flaw.
 
 **Black bean liquid yield:** ~20–28 cups → ~160–220 cubes at 2 tbsp each.
+
+---
+
+**Samosa Filling Vegetables (Peas + Carrots)**
+
+*For full 52-parcel batch: ~26 cups peas + carrots combined across 2 sheet pans.*
+
+1. **Preheat oven to 400°F.** Slide water pan (2 cups hot water) onto bottom rack — wait 5 min for steam environment to establish before veg goes in.
+2. **Dice carrots to 1/4 inch** — same size as peas so both finish in the same window. No need to stagger.
+3. **Mix peas and carrots together.** Spread in a single layer across 2 sheet pans (~6–7 cups per pan). Do not pile — uneven cooking.
+4. **Slide both veg pans in** (middle and upper racks). Check water pan halfway — add more if dry.
+5. **Roast-steam 12–15 min.** Check at 12 min — peas just tender, carrots with slight bite but not hard.
+6. **Pull immediately.** Spread on clean sheet trays to cool.
+7. **Cool completely to room temp before adding to mash** — residual heat raises mash above the 130°F RS3 thermal ceiling.
 
 ---
 
