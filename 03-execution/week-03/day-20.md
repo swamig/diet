@@ -60,6 +60,9 @@ Nitric Peak.
 *   Steep 10-15 min. Drink 60 min before sleep.
 
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
+
+*Samosa day: Pull **[Variant C (Sulforaphane)](../../05-practical/functional-samosas.md#signal-variations-batch-in-parallel--label-each-bag)** + **[Option 3 skin (GF/Psyllium, ~42g protein)](../../05-practical/functional-samosas.md#option-3-the-green-crystal-gf-skin-rice-tapioca--moringa)** — Nrf2 activation + fiber sweep on recovery day.*
+
 *   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 **Ingredients:**
@@ -74,7 +77,7 @@ Nitric Peak.
 *   **No nigella. No clove.**
 
 **Instructions:**
-1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min).
+1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min) [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 2.  **The Bloom:** Heat oil in pan; add rested garlic and Daily Spice Jar.
 3.  **The Sear:** Sear patties 2-3 min/side to create a "Garlic Crust."
 4.  **The Iron Anchor:** Squeeze 1/2 fresh lemon over patties before serving.

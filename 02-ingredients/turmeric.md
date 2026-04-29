@@ -17,7 +17,7 @@ priority: 'core'
 
 ## Mechanism of Action
 
-Preclinical and translational studies report that curcumin can influence multiple cellular pathways:
+Preclinical and translational studies report that curcumin can influence multiple cellular pathways [[Dinkova-Kostova et al., 2012]](../../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention):
 
 *   Downregulates **NF-κB** transcription activity
 *   Suppresses **COX-2** enzyme expression
@@ -32,7 +32,7 @@ Preclinical and translational studies report that curcumin can influence multipl
 
 ## Bioavailability Strategy
 
-Curcumin is poorly absorbed in isolation. **Piperine** (from black pepper) increases bioavailability by inhibiting hepatic glucuronidation. This pairing is mandatory.
+Curcumin is poorly absorbed in isolation. **Piperine** (from black pepper) increases bioavailability by up to 2000% by inhibiting hepatic glucuronidation [[Shoba et al., 1998]](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control). This pairing is mandatory.
 
 ## Stacking Rules
 
@@ -85,3 +85,8 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)
 - [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
 - [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)
+
+## References
+
+- [[Shoba et al., 1998]](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) — Piperine increases curcumin bioavailability up to 2000% via inhibition of hepatic glucuronidation (UGTs).
+- [[Dinkova-Kostova et al., 2012]](../../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention) — Curcumin activates Nrf2, upregulating DNA-repair and phase II detoxification genes.

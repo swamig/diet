@@ -12,7 +12,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 ## Inputs
 *   1.5 cups pre-cooked, 24h-chilled Black Beans or Chickpeas.
 *   1 tbsp Extra Virgin Olive Oil (EVOO) - *Added at the end.*
-*   1 tsp fresh garlic (**Crushed and rested 10 min [3](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule)**) & 1/2 tsp fresh ginger.
+*   1 tsp fresh garlic (**Crushed and rested 10 min [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule)**) & 1/2 tsp fresh ginger [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 *   1 tsp Apple Cider Vinegar or Balsamic Vinegar (The "Acid Shield").
 *   **1/4 cup Reserved Aquafaba** (Added during mashing for restaurant-level creaminess).
 
@@ -20,14 +20,14 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   **¼ tsp Whole Methi (Fenugreek) seeds** (The Glycemic Anchor - must be toasted/bloomed).
 *   ¼ tsp Ajwain (crushed).
 *   ½ tsp Cumin seeds.
-*   Pinch of Hing (Asafoetida).
+*   Pinch of Hing (Asafoetida) [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 *   Salt & Black Pepper to taste.
 
 **🔥 Spice System (The Sweet & Smoky Finish):**
 *   1 tbsp finely diced Red Bell Pepper & Onion (Walmart mix).
 *   ½ tsp Achiote (Annatto) powder (The "Tocotrienol Booster").
 *   ½ tsp Coriander powder & ½ tsp Mexican Oregano.
-*   **1/2 tsp Chaat Masala** (The Iron-Absorbing Acid: Amchur/mango powder provides massive Vitamin C to extract the non-heme iron from the beans).
+*   **1/2 tsp Chaat Masala** (The Iron-Absorbing Acid: Amchur/mango powder provides massive Vitamin C to extract the non-heme iron from the beans [[Sameh, 2020; Cepeda-Lopez, 2022]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule)).
 *   **1/8 tsp Ceylon Cinnamon** (The "Phantom Sweetness" Hack - mimics traditional piloncillo without the sugar).
 *   ¼ tsp Smoked Paprika or mild Chipotle powder.
 *   Fresh chopped Cilantro & Cilantro Stems (for finishing).
@@ -51,12 +51,12 @@ Unlike the Sunday Batch Prep (which mandates a "Second Chill" for the entire sto
 ---
 
 ## Why This Works
-*   **Preserves RS Type 3:** By staying under 130°F, you don't "melt" the crystalline starch you built in the fridge.
-*   **Antioxidant Lock:** The vinegar prevents the black bean's anthocyanins from breaking down during the brief warming.
+*   **Preserves RS Type 3:** By staying under 130°F, you don't "melt" the crystalline starch you built in the fridge [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **Antioxidant Lock:** The vinegar prevents the black bean's anthocyanins [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) from breaking down during the brief warming.
 *   **Maximum Bioavailability:** The raw EVOO and black pepper at the end maximize the absorption of the fat-soluble compounds in your spices.
 
 ## Storage and Prep
-Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill [7](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" boost**, which will further increase the resistant starch content.
+Since these were already chilled for 24 hours, you can eat them immediately or return them to the fridge for a **"Double-Chill [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)" boost**, which will further increase the resistant starch content.
 
 ### Freeze Options
 
@@ -66,7 +66,7 @@ Since these were already chilled for 24 hours, you can eat them immediately or r
 *   Portion into 1.5-cup servings (one batch of refried beans each).
 *   Freeze in an airtight container or parchment-wrapped portion in a freezer bag.
 *   **Shelf life frozen:** 3–4 months.
-*   Anthocyanins in black beans are better preserved frozen than sitting in the fridge exposed to oxygen over multiple days.
+*   Anthocyanins in black beans [[Johnson, 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) are better preserved frozen than sitting in the fridge exposed to oxygen over multiple days.
 *   **To use:** Thaw in fridge overnight. Take cold directly to the Cold Mash step — do not warm first.
 
 **Option B — Freeze the finished mash:**
@@ -86,3 +86,15 @@ Since these were already chilled for 24 hours, you can eat them immediately or r
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Achiote (Annatto)](../02-ingredients/achiote.md)
 - [90-Minute Sunday Batch Prep System](sunday-prep.md)
+
+## References
+- [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — RS3 retrogradation and prebiotic function
+- [[Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Cook-chill RS3 quantification
+- [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — 130°F ceiling preserves retrograded starch crystallinity
+- [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Alliinase heat sensitivity and the 10-minute rest rule
+- [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Ginger pro-kinetic gastric motility effects
+- [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Hing α-galactosidase inhibition (anti-flatulent mechanism)
+- [[Sameh, 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) — Lemon/amchur ascorbic acid increases iron bioaccessibility >4-fold in chickpea matrix
+- [[Cepeda-Lopez, 2022]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) — Vitamin C enhances iron status even when administered separately
+- [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cyanidin-3-glucoside cardioprotection and microbiota-mediated durability
+- [[Johnson, 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Anthocyanin antioxidant and freeze-preservation benefits

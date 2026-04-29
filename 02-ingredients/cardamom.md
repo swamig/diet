@@ -14,7 +14,7 @@ Cardamom (*Elettaria cardamomum*) is a highly aromatic spice used in this protoc
 While famously used in culinary applications, cardamom provides two specific biological signals:
 
 1.  **Bitterness Masking (The Primary Role):** The protocol requires Ashwagandha (a profoundly bitter root) 2-3 times per week to buffer cortisol. Adding sugar or honey before bed spikes insulin and disrupts sleep architecture. The volatile oils in cardamom (terpinyl acetate) naturally sweeten and mask bitter alkaloids without requiring glucose.
-2.  **Antioxidant & Gastroprotective:** Cardamom contains potent antioxidants that prevent lipid peroxidation and soothe the gastric lining (acting as a mild antispasmodic), supporting the parasympathetic "rest and digest" state required for deep sleep.
+2.  **Antioxidant & Gastroprotective:** Cardamom contains potent antioxidants that prevent lipid peroxidation and soothe the gastric lining (acting as a mild antispasmodic) [[Yashin et al., 2017]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), supporting the parasympathetic "rest and digest" state required for deep sleep.
 
 ## Execution
 
@@ -27,3 +27,7 @@ While famously used in culinary applications, cardamom provides two specific bio
 - [Circadian Hydration Physiology](../01-foundations/04-hydration.md)
 - [Supplement Cycling & Management (Ashwagandha)](../04-advanced-control/supplement-cycling.md)
 - [Master Citations & Scientific Rationale](../07-appendices/master-citations.md)
+
+## References
+
+- [[Yashin et al., 2017]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cardamom antioxidant activity; prevention of lipid peroxidation.

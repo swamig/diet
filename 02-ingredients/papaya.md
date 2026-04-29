@@ -31,10 +31,10 @@ While the fruit flesh provides papain, the seeds contain a much more potent phar
 
 ### 1. The Benefit: Antiparasitic & Antimicrobial Signal
 *   **The Mechanism:** BITC is a potent isothiocyanate (similar to the sulforaphane in your broccoli) that specifically targets intestinal parasites, amoebas, and pathogenic bacteria like *E. coli* and *Salmonella*.
-*   **Protocol Use:** In clinical pilot studies, ground papaya seeds mixed with honey cleared intestinal parasites in over 75% of subjects within 7 days.
+*   **Protocol Use:** In clinical pilot studies, ground papaya seeds mixed with honey cleared intestinal parasites in over 75% of subjects within 7 days [[Okeniyi et al., 2007]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 
 ### 2. ⚠️ The Operator Warning: Fertility Modulation
-*   **Male Fertility:** High doses of papaya seeds have been shown in primate and rodent studies to act as a **natural, reversible male contraceptive**. It significantly suppresses sperm count and motility. This effect is not permanent and reverses roughly 45-90 days after stopping consumption.
+*   **Male Fertility:** High doses of papaya seeds have been shown in primate studies to act as a **natural, reversible male contraceptive** [[Lohiya et al., 2002]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). It significantly suppresses sperm count and motility. This effect is not permanent and reverses roughly 45-90 days after stopping consumption.
 *   **Pregnancy:** Papaya seeds must be **strictly avoided during pregnancy** as they can induce uterine contractions.
 
 ### 3. Execution (The Monthly Pulse)
@@ -45,7 +45,7 @@ Due to their potency, papaya seeds are not used daily. They are treated as a **M
 *   **Timing:** Consume during the **13:00 Papaya Window**.
 
 ## Evidence Status
-*   **Proteolytic Efficacy:** Muss et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation in digestive disorders." Clinical studies demonstrate that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract [[12]](../07-appendices/master-citations.md#12-operational-mechanisms-bio-enhancement--degradation).
+*   **Proteolytic Efficacy:** Muss et al., 2013, *Neuro Endocrinology Letters*. "Papaya preparation in digestive disorders." Clinical studies demonstrate that papaya extracts significantly ameliorate symptoms of constipation, bloating, and heartburn by enhancing protein digestion in the GI tract [[Muss et al., 2013]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 
 
 ## Culinary Integration (Recipes)
@@ -56,3 +56,9 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Daily Timing Cheat Sheet](../07-appendices/daily-timing-cheat-sheet.md)
 - [Troubleshooting Guide (Bloating)](../05-practical/troubleshooting-guide.md)
 - [100% Optimized Indian High-Protein Patties](../05-practical/vegan-protein-patties.md)
+
+## References
+
+- [[Muss et al., 2013]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Papain (papaya preparation) significantly ameliorates constipation, bloating, and heartburn by enhancing protein digestion.
+- [[Okeniyi et al., 2007]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Dried papaya seeds + honey cleared intestinal parasites in 76.7% of subjects within 7 days (pilot study).
+- [[Lohiya et al., 2002]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Papaya seed extract induces long-term but reversible azoospermia in primates; fertility returns on cessation.

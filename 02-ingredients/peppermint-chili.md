@@ -11,6 +11,8 @@ This protocol utilizes a specific dietary pairing to force a cross-talk between 
 
 ## The Mechanism
 
+The synergistic combination of capsaicin (TRPV1 activation) and menthol (TRPM8 activation) within a 5-10 minute window massively amplifies anti-inflammatory signaling beyond either compound in isolation [[Nutrients DOI:10.3390/nu18030376]](../../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
+
 *   **Capsaicin (from Chili):** Activates **TRPV1** (heat/pain receptors). 
     *   **Primary Source:** **Thai Bird’s Eye Chili** (High potency, high capsaicin-to-bulk ratio).
     *   **Peak Pulse Source (Tofu Day Only):** **Habanero** (100k - 350k SHU). Use this for maximum TRPV1 activation during the weekly spike. Its fruity profile pairs exceptionally well with high-menthol mint.
@@ -50,3 +52,7 @@ Most culinary mint (Indian *Pudina* or Western Spearmint) is *Mentha spicata*, w
 This ingredient is functionally integrated into the following protocol meals:
 - [Peppermint Jaljeera (The Muddle)](../05-practical/peppermint-jaljeera.md)
 - [Coconut Chutney (MCT Matrix)](../05-practical/sunday-prep.md#2-mct-matrix-scaled-3-day-coconut-chutney)
+
+## References
+
+- [[Nutrients DOI:10.3390/nu18030376]](../../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) — In vitro macrophage study: combined capsaicin + menthol activation of TRPV1 and TRPM8 massively amplifies anti-inflammatory signaling vs. isolated exposure.

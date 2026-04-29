@@ -22,8 +22,8 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 ## Ingredients (Weekly Batch)
 
 *   **2-3 Cups Dry Chickpeas.**
-*   **The Infusion Base:** 1 inch fresh Ginger (smashed) + 1.5 tsp Jeera (Cumin) seeds + 3-4 Whole Cloves + 2 Bay Leaves.
-*   **The Allicin Pulse:** 1 clove of Fresh Garlic per cup of cooked beans (Crushed and rested 10 min).
+*   **The Infusion Base:** 1 inch fresh Ginger (smashed) [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) + 1.5 tsp Jeera (Cumin) seeds + 3-4 Whole Cloves + 2 Bay Leaves.
+*   **The Allicin Pulse:** 1 clove of Fresh Garlic per cup of cooked beans (Crushed and rested 10 min) [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 *   **The Acid Lock:** 2 tbsp Apple Cider Vinegar.
 
 ## The Elite 72-Hour Workflow
@@ -31,7 +31,7 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 ### 1. Friday: The Anti-Phytic Soak
 1.  Rinse 2-3 cups of dry chickpeas.
 2.  Submerge in filtered water with 1 tsp sea salt.
-3.  **The Wait:** Soak for 12-16 hours at room temperature to neutralize mineral-blocking phytates.
+3.  **The Wait:** Soak for 12-16 hours at room temperature to neutralize mineral-blocking phytates [[Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ### 2. Saturday: The Initial Cook & First Chill
 1.  **Drain & Rinse:** Discard the soak water (removing leached antinutrients).
@@ -39,12 +39,12 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 3.  **The Simmer:** Bring to a boil, skim the foam, and simmer for 60-90 minutes until tender but not mushy. **Add 1 tsp sea salt per quart of water in the last 15 minutes only** — early salt toughens skins and slows cooking. Late salt breaks down pectin in the skin, opening it so residual aromatics penetrate inward.
 4.  **The Aquafaba Reserve (CRITICAL):** Before draining, reserve **1/2 cup of the boiling liquid**. Store in a small glass jar.
 5.  **The Rapid Cool:** Spread hot chickpeas on a stainless steel baking sheet.
-6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ### 3. Sunday: The Double-Chill Activation (Allicin Pulse)
 1.  **The Mash (Optional):** Take 1/3 of the batch and mash it for use in **Vegan Patties** or **Refried Beans**. Keep the rest whole for salads.
-2.  **The Allicin Pulse:** Gently warm the cold chickpeas in a pan (Stay below **130°F**). Fold in your **Rested Garlic**, ACV, and a pinch of salt. 
-3.  **Second Chill:** Return to the fridge for another 24 hours to maximize the RS3 density [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+2.  **The Allicin Pulse:** Gently warm the cold chickpeas in a pan (Stay below **130°F**). Fold in your **Rested Garlic** [[Song & Milner, 2001; Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), ACV, and a pinch of salt. 
+3.  **Second Chill:** Return to the fridge for another 24 hours to maximize the RS3 density [[PMC10987757; Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## Samosa Filling Spice Split (3-Month Freeze)
 
@@ -66,9 +66,9 @@ No single step fully seasons the bean — the three steps build on each other:
 The boil builds the foundation. The real layering happens in steps 2 and 3.
 
 ## Execution Rule: The 130°F Ceiling
-*   Chickpeas are thermally fragile. Once the RS3 is built, you must never microwave them on high or re-boil them.
+*   Chickpeas are thermally fragile. Once the RS3 is built [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3), you must never microwave them on high or re-boil them.
 *   **The Aambali Starch Split:** If you are consuming [The Protocol Aambali](protocol-aambali.md) at 17:50, you **MUST reduce this 12:00 Chickpea portion by 50%** (e.g., from 1/2 cup to 1/4 cup) to maintain daily glycemic and caloric targets.
-*   **Serving:** Reheat gently in a skillet on low heat until "warm to the touch" (130°F) or eat them cold in your **14:30 Salad Window**.
+*   **Serving:** Reheat gently in a skillet on low heat until "warm to the touch" (130°F) or eat them cold in your **14:30 Salad Window**. A squeeze of lemon at serving maximizes non-heme iron absorption from the chickpea matrix [[Sameh, 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 ## Related Pages
 - [Friday Evening: The Anti-Phytic Soak](friday-prep.md)
@@ -76,3 +76,13 @@ The boil builds the foundation. The real layering happens in steps 2 and 3.
 - ["Cold-Mash" Performance Refried Beans](performance-refried-beans.md)
 - [100% Optimized Indian Protein Patties](vegan-protein-patties.md)
 - [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)
+
+## References
+- [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — RS3 retrogradation and prebiotic function
+- [[Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Cook-chill RS3 quantification
+- [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Freezing extends RS3 crystalline stability
+- [[Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Dietary fiber, phytate reduction, and metabolic health
+- [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Alliinase heat sensitivity and the 10-minute rest rule
+- [[Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Allicin-to-ajoene conversion in lipid medium
+- [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Ginger pro-kinetic and gastric motility effects
+- [[Sameh, 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) — Lemon juice increases iron bioaccessibility in chickpea matrix >4-fold

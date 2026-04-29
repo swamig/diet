@@ -11,7 +11,7 @@ priority: 'rotation'
 Achiote (Annatto) is a vibrant, deep-red spice derived from the seeds of the *Bixa orellana* tree. It is a staple in Central and South American cooking (like Costa Rican *Gallo Pinto* and Yucatecan *Cochinita Pibil*).
 
 ## Active Compounds
-*   **Tocotrienols:** A rare, hyper-potent form of Vitamin E. Unlike standard tocopherols found in most supplements, tocotrienols have unsaturated side chains that allow them to penetrate cell membranes rapidly. They are **40-50x more potent** at neutralizing lipid peroxidation and act as elite inhibitors of the NF-κB inflammatory pathway [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+*   **Tocotrienols:** A rare, hyper-potent form of Vitamin E. Unlike standard tocopherols found in most supplements, tocotrienols have unsaturated side chains that allow them to penetrate cell membranes rapidly. They are **40-50x more potent** at neutralizing lipid peroxidation and act as elite inhibitors of the NF-κB inflammatory pathway [[Aggarwal et al., 2010]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Carotenoids (Bixin & Norbixin):** Provide the deep red color and act as potent antioxidants that protect cellular membranes from oxidative stress.
 
 ## Protocol Role
@@ -52,3 +52,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [The Protocol Quinoa Rice (Mexican Style)](../05-practical/protocol-quinoa.md)
 - ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
 - [Master Citations (Tocotrienols)](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
+
+## References
+
+- [[Aggarwal et al., 2010]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Tocotrienols superiority over tocopherols for NF-κB modulation and lipid peroxidation protection.

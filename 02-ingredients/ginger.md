@@ -14,8 +14,8 @@ The protocol requires the consumption of **one "thumb" of fresh ginger (approxim
 
 ## Mechanisms of Action
 
-1.  **NF-κB Inhibition (Oncology/Inflammation):** The primary bioactive compound in fresh ginger is **6-gingerol**. Like curcumin, 6-gingerol is a potent inhibitor of the NF-κB pathway, shutting down the cellular transcription of pro-inflammatory cytokines that fuel tumor growth and metabolic dysfunction.
-2.  **Gastric Pro-Kinetic (Gut Motility):** Ginger accelerates gastric emptying. When consuming heavy, fiber-dense meals (like the 12:00 Legume/Patty block), ginger ensures the stomach mechanically moves food into the small intestine efficiently. This prevents upper GI fermentation, bloating, and acid reflux.
+1.  **NF-κB Inhibition (Oncology/Inflammation):** The primary bioactive compound in fresh ginger is **6-gingerol**. Like curcumin, 6-gingerol is a potent inhibitor of the NF-κB pathway, shutting down the cellular transcription of pro-inflammatory cytokines that fuel tumor growth and metabolic dysfunction [[Mashhadi et al., 2013]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+2.  **Gastric Pro-Kinetic (Gut Motility):** Ginger accelerates gastric emptying [[Wu et al., 2008]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). When consuming heavy, fiber-dense meals (like the 12:00 Legume/Patty block), ginger ensures the stomach mechanically moves food into the small intestine efficiently. This prevents upper GI fermentation, bloating, and acid reflux.
 3.  **Synergy with Capsaicin:** Gingerol acts on the TRPV1 receptors (similar to capsaicin), providing a complementary "heat" signal that synergizes with the Peppermint Jaljeera cooling protocol.
 
 ## Execution / Delivery Vectors
@@ -38,3 +38,8 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)
 - [Metabolic Oncology & Chemoprevention](../04-advanced-control/oncology-chemoprevention.md)
 - [High-Signaling Peppermint Jaljeera](../05-practical/peppermint-jaljeera.md)
+
+## References
+
+- [[Mashhadi et al., 2013]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — 6-Gingerol as a potent NF-κB inhibitor; anti-oxidative and anti-inflammatory effects of ginger in health and physical activity.
+- [[Wu et al., 2008]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Ginger stimulates gastric antral contractions and accelerates gastric emptying (pro-kinetic mechanism).

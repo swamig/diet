@@ -10,9 +10,10 @@ priority: 'core'
 
 ## Mechanism of Action
 
-*   **Introduce beneficial microbes**
+*   **Introduce beneficial microbes** [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)
 *   **Produce short-chain fatty acids**
 *   **Enhance gut barrier integrity**
+*   **Increase microbiome diversity** and significantly decrease systemic inflammatory markers, outperforming high-fiber diets alone [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)
 
 ## Dose
 
@@ -61,3 +62,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Antimicrobial Stacking Framework](../04-advanced-control/antimicrobial-stacking.md)
 - [Week 1 Overview](../03-execution/week-01/README.md)
 - [Eating Log Template](../logs/eating/template.md)
+
+## References
+
+- [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Landmark Stanford study: high-fermented-food diet increases microbiome diversity and decreases systemic inflammatory markers, outperforming high-fiber diets alone.

@@ -7,7 +7,7 @@ priority: 'high'
 
 # The Protocol Black Beans (RS3 + Anthocyanin Matrix)
 
-Black beans are the secondary legume anchor of the protocol. They provide the same **Resistant Starch Type 3 (RS3)** prebiotic load as chickpeas, plus a concentrated dose of **anthocyanins** (cyanidin-3-glucoside) — the same compound class as blueberries and purple sweet potato. The cooking liquid is not waste; it is a functional extract that gets frozen and reused throughout the protocol.
+Black beans are the secondary legume anchor of the protocol. They provide the same **Resistant Starch Type 3 (RS3)** [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) prebiotic load as chickpeas, plus a concentrated dose of **anthocyanins** (cyanidin-3-glucoside) [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — the same compound class as blueberries and purple sweet potato. The cooking liquid is not waste; it is a functional extract that gets frozen and reused throughout the protocol.
 
 
 ## Macro Profile (Per 1 Cup Cooked/Chilled)
@@ -23,8 +23,8 @@ Black beans are the secondary legume anchor of the protocol. They provide the sa
 ## Ingredients (Weekly Batch)
 
 *   **2-3 Cups Dry Black Beans.**
-*   **The Boil Stack:** 1 inch fresh Ginger (smashed) + 1 tsp Jeera (Cumin) seeds + 1/2 tsp Ajwain + 1 tsp Fennel seeds + 3-4 Whole Cloves + 2 Bay Leaves + 1 medium Onion (quartered) + 6 whole Garlic cloves (lightly crushed) + 1 small Ceylon Cinnamon stick + 1 tbsp coarsely cracked Black Pepper + **1/8 tsp Hing** (gentler than chickpeas — reduce from 1/4 tsp).
-*   **The Allicin Pulse:** 1 clove of Fresh Garlic per cup of cooked beans (Crushed and rested 10 min).
+*   **The Boil Stack:** 1 inch fresh Ginger (smashed) [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) + 1 tsp Jeera (Cumin) seeds + 1/2 tsp Ajwain + 1 tsp Fennel seeds + 3-4 Whole Cloves + 2 Bay Leaves + 1 medium Onion (quartered) + 6 whole Garlic cloves (lightly crushed) + 1 small Ceylon Cinnamon stick + 1 tbsp coarsely cracked Black Pepper + **1/8 tsp Hing** [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) (gentler than chickpeas — reduce from 1/4 tsp).
+*   **The Allicin Pulse:** 1 clove of Fresh Garlic per cup of cooked beans (Crushed and rested 10 min) [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 *   **The Acid Lock:** 2 tbsp Apple Cider Vinegar.
 
 
@@ -39,14 +39,14 @@ Black beans are the secondary legume anchor of the protocol. They provide the sa
 1.  **Drain & Rinse:** Discard the soak water (removing leached antinutrients).
 2.  **The Boil:** Place in a pot with fresh water and the full **Boil Stack**. **Cook in a separate pot from chickpeas — keep liquid completely separate.**
 3.  **The Simmer:** Bring to a boil, skim the foam, and simmer for 60-90 minutes until tender but not mushy. **Add 1 tsp sea salt per quart of water in the last 15 minutes only** — early salt toughens skins and slows cooking. Late salt breaks down pectin in the skin, opening it so residual aromatics penetrate inward.
-4.  **The Anthocyanin Reserve (CRITICAL):** Before draining, reserve the cooking liquid. **Do NOT reduce aggressively** — the color compounds concentrate quickly and turn bitter. Cool and freeze as-is after straining. Freeze in 2 tbsp cubes + some 1/4 cup portions, labeled "black bean liquid."
+4.  **The Anthocyanin Reserve (CRITICAL):** Before draining, reserve the cooking liquid. **Do NOT reduce aggressively** — the color compounds concentrate quickly and turn bitter. Cool and freeze as-is after straining. Freeze in 2 tbsp cubes + some 1/4 cup portions, labeled "black bean liquid." [[Tocmo, 2021; Frontiers Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
 5.  **The Rapid Cool:** Spread hot beans on a stainless steel baking sheet.
-6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation.
+6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ### 3. The Allicin Pulse & Second Chill
 1.  **The Mash (Optional):** Take 1/3 of the batch and mash for use in **Performance Refried Beans**. Keep the rest whole.
-2.  **The Allicin Pulse:** Gently warm the cold beans in a pan (stay below **130°F**). Fold in your **Rested Garlic**, ACV, and a pinch of salt.
-3.  **Second Chill:** Return to the fridge for another 24 hours to maximize RS3 density.
+2.  **The Allicin Pulse:** Gently warm the cold beans in a pan (stay below **130°F**). Fold in your **Rested Garlic** [[Song & Milner, 2001; Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), ACV, and a pinch of salt.
+3.  **Second Chill:** Return to the fridge for another 24 hours to maximize RS3 density [[PMC10987757; Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 
 ## How Multi-Layer Flavor Absorption Works
@@ -71,7 +71,7 @@ See [Functional Samosas — 3-Month Freeze Spice Split Rule](functional-samosas.
 
 ## The Anthocyanin Liquid — Uses in the Protocol
 
-The dark cooking liquid is a concentrated cyanidin-3-glucoside extract — anti-inflammatory and cardiovascular-protective. The dark purple color IS the signal compound, not a flaw.
+The dark cooking liquid is a concentrated cyanidin-3-glucoside extract — anti-inflammatory and cardiovascular-protective [[Tocmo, 2021; Frontiers Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). The dark purple color IS the signal compound, not a flaw.
 
 - **Performance Refried Black Beans** — use instead of chickpea aquafaba for creaminess + anthocyanin dose baked into every serving
 - **Samosa Variant B + C filling** — add 2 tbsp to the mash before forming leaf parcels
@@ -79,9 +79,9 @@ The dark cooking liquid is a concentrated cyanidin-3-glucoside extract — anti-
 
 
 ## Execution Rule: The 130°F Ceiling
-*   Black beans are thermally fragile once RS3 is built. Do not microwave on high or re-boil.
+*   Black beans are thermally fragile once RS3 is built [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). Do not microwave on high or re-boil.
 *   **Reheat** gently in a skillet on low heat until warm to the touch (130°F), or eat cold.
-*   The **Acid Lock** (ACV) during the Allicin Pulse also protects the anthocyanins from breaking down during any subsequent brief warming.
+*   The **Acid Lock** (ACV) during the Allicin Pulse also protects the anthocyanins [[Johnson, 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) from breaking down during any subsequent brief warming.
 
 
 ## Related Pages
@@ -90,3 +90,16 @@ The dark cooking liquid is a concentrated cyanidin-3-glucoside extract — anti-
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)
 - [The Protocol Chickpeas (RS3 Matrix)](protocol-chickpeas.md)
+
+## References
+- [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — RS3 retrogradation and prebiotic function
+- [[Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Cook-chill RS3 quantification
+- [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Freezing extends RS3 crystalline stability
+- [[Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Dietary fiber and metabolic health
+- [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Alliinase heat sensitivity and the 10-minute rest rule
+- [[Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Allicin-to-ajoene conversion in lipid medium
+- [[Tocmo, 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cyanidin-3-glucoside cardioprotection and microbiota-mediated durability
+- [[Frontiers Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — C3G anti-inflammatory signaling (TNF-α, IL-6, CRP)
+- [[Johnson, 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Anthocyanin antioxidant and neuroprotective activity
+- [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Ginger pro-kinetic and gastric motility effects
+- [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Hing ferulic acid inhibits α-galactosidase (anti-flatulent mechanism)

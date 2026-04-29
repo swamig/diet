@@ -14,11 +14,11 @@ priority: 'rotation'
 
 ## Mechanism of Action
 
-Cinnamon influences:
+Cinnamon (cinnamaldehyde) influences [[Rao & Gan, 2014]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
 *   **Insulin sensitivity**
 *   **Glucose transport**
-*   **Postprandial glucose modulation**
+*   **Postprandial glucose modulation** (radical scavenging and glucose stabilization)
 
 **Ceylon cinnamon** is used to avoid excessive coumarin exposure.
 
@@ -62,3 +62,7 @@ Cinnamon influences:
 - [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
 - [Spice Conversions & Internal Temperatures](../07-appendices/spice-conversions.md)
 - [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
+
+## References
+
+- [[Rao & Gan, 2014]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cinnamaldehyde radical scavenging and postprandial glucose stabilization.

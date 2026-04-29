@@ -16,15 +16,15 @@ Metabolic flexibility refers to the organism’s ability to efficiently transiti
 
 The 6-hour feeding window utilized in this protocol is not arbitrary. It is designed to:
 
-*   Allow sufficient fasting duration (approximately 18 hours) to promote **AMPK activation** and **Autophagy** [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
-*   Suppress circulating **IGF-1** (Insulin-like Growth Factor 1) to create a chemopreventive metabolic state [[14]](../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
+*   Allow sufficient fasting duration (approximately 18 hours) to promote **AMPK activation** and **Autophagy** [[de Cabo & Mattson, 2019]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) [[Bagherniya et al., 2018]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) [[14]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
+*   Suppress circulating **IGF-1** (Insulin-like Growth Factor 1) to create a chemopreventive metabolic state [[Fontana et al., 2016]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) [[14]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors).
 *   Reduce persistent mTOR stimulation.
 *   Enhance insulin sensitivity before the first feeding.
 *   Create predictable anabolic signaling during resistance training.
 
 ## AMPK Activation Phase
 
-During the fasted cardio block (06:30), hepatic glycogen is partially depleted. This shifts cellular energy sensing toward AMP-activated protein kinase (AMPK) dominance. AMPK activation:
+During the fasted cardio block (06:30), hepatic glycogen is partially depleted. This shifts cellular energy sensing toward AMP-activated protein kinase (AMPK) dominance [[Vieira et al., 2016]](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit). AMPK activation:
 
 *   Increases fatty acid oxidation
 *   Suppresses anabolic overdrive
@@ -39,7 +39,7 @@ At 12:00, the break-fast meal introduces a high-quality protein source (~40–50
 
 mTOR activation is not avoided in this protocol. It is structured.
 
-Chronic, uncontrolled mTOR activation is associated with metabolic dysfunction. Controlled, time-restricted activation paired with resistance training preserves lean mass while preventing persistent anabolic signaling.
+Chronic, uncontrolled mTOR activation is associated with metabolic dysfunction. Controlled, time-restricted activation paired with resistance training preserves lean mass while preventing persistent anabolic signaling [[Norton & Layman, 2006]](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
 
 This is why:
 
@@ -68,3 +68,11 @@ This is why:
 - [Circadian Hydration Physiology](04-hydration.md)
 - [Resistant Starch Cycling](05-resistant-starch.md)
 - [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
+
+## References
+
+- [[de Cabo & Mattson, 2019]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) — Intermittent fasting triggers AMPK/mTOR metabolic switch; glucose-to-ketone transition upregulates stress resistance.
+- [[Bagherniya et al., 2018]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) — Fasting intervals beyond 16 hours trigger autophagy (lysosomal clearance of damaged organelles).
+- [[Fontana et al., 2016]](../../07-appendices/master-citations.md#14-time-restricted-feeding-trf--growth-factors) — TRF/calorie restriction suppresses IGF-1, creating chemopreventive metabolic state.
+- [[Vieira et al., 2016]](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit) — Fasted aerobic exercise increases fat oxidation vs. fed state; AMPK-mediated lipid signaling.
+- [[Norton & Layman, 2006]](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) — Leucine threshold (~2.5–4g per meal) required to trigger mTORC1/P70S6K cascade for net MPS.

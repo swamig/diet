@@ -21,13 +21,13 @@ Hydration in this protocol is not neutral. It is divided into:
 **The Fasted Cardio Sequencing Rule (06:30 vs 07:15):**
 You must perform your 06:30 Fasted Cardio (or VO2 Max intervals) **before** drinking Matcha. 
 1.  **Gastric & Autonomic Protection:** Consuming high-tannin, caffeinated Matcha on an empty, moving stomach during intense exercise frequently causes severe nausea and artificially spikes heart rate, ruining Zone 2 or VO2 Max metrics.
-2.  **The AMPK "Afterburn" Multiplier:** Fasted exercise depletes liver glycogen and activates AMPK (the fat-oxidation master switch). Consuming the Matcha at 07:15, *immediately after* the workout concludes, introduces a massive dose of EGCG (catechins). The EGCG acts as a biological multiplier, sustaining the elevated rate of lipid oxidation for hours into the recovery window [[9]](../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit).
+2.  **The AMPK "Afterburn" Multiplier:** Fasted exercise depletes liver glycogen and activates AMPK (the fat-oxidation master switch). Consuming the Matcha at 07:15, *immediately after* the workout concludes, introduces a massive dose of EGCG (catechins). The EGCG acts as a biological multiplier, sustaining the elevated rate of lipid oxidation for hours into the recovery window [[Venables et al., 2008]](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit) [[9]](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit).
 
-**The Tannin Deadline (10:00):** Matcha and Green Tea provide powerful mitochondrial signaling (EGCG), but their catechins and tannins aggressively block non-heme iron absorption. All caffeinated or high-tannin teas must be finished by 10:00 AM (2 hours before the main meal) to ensure the iron in your daily legumes is bioavailable.
+**The Tannin Deadline (10:00):** Matcha and Green Tea provide powerful mitochondrial signaling (EGCG), but their catechins and tannins aggressively block non-heme iron absorption [[Zijp et al., 2000]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule). All caffeinated or high-tannin teas must be finished by 10:00 AM (2 hours before the main meal) to ensure the iron in your daily legumes is bioavailable.
 
 ## Night Hydration (Parasympathetic Alignment)
 
-*   **Ashwagandha [5](../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha)** (The Cortisol Buffer - Cycle 2-3x weekly max)
+*   **Ashwagandha [[Chandrasekhar et al., 2012]](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) [5](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha)** (The Cortisol Buffer - Cycle 2-3x weekly max)
 *   **Saffron**
 *   **Tulsi (Holy Basil)**
 *   **Cinnamon, Cardamom & Pure Vanilla** (Flavor/Glucose stabilizers)
@@ -48,7 +48,7 @@ Hydration timing is therefore a signaling tool, not merely fluid replacement.
 The protocol views high stomach acid (low pH) as mandatory for breaking down heavy plant proteins and extracting minerals. **Alkaline water (pH 8-9+) neutralizes acid.** Therefore, its use must be strictly timed to avoid sabotaging digestion.
 
 *   **The Meal Blockade (11:00 to 13:30):** Do **NOT** drink alkaline water within 60 minutes before, during, or 60 minutes after your main meal. Flooding the stomach with a high-pH base will dilute gastric acid, causing legumes and protein patties to ferment in the gut (bloating/Ama) rather than digest.
-*   **The Acid/Iron Conflict:** Do not use alkaline water to make your Peppermint Jaljeera [1](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) or morning infusions. The alkaline base will neutralize the acids (lemon/vinegar) required for mineral absorption and Agni stimulation.
+*   **The Acid/Iron Conflict:** Do not use alkaline water to make your Peppermint Jaljeera [[Nutrients DOI:10.3390/nu18030376]](../../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) [1](../../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) or morning infusions. The alkaline base will neutralize the acids (lemon/vinegar) required for mineral absorption and Agni stimulation.
 *   **The "Net 8" Night Anchor (21:00):** To safely achieve an alkaline systemic state ("net 8"), brew your night infusion (Ashwagandha/Tulsi) using alkaline water (pH 8+). Because the 17:50 recovery bowl digestion is mostly complete, the alkaline water acts as a parasympathetic counterweight to the day's metabolic acidity without disrupting the midday Agni.
 *   **Other Approved Windows:** Alkaline water is also permitted during 06:30 fasted cardio or 16:30 resistance training.
 
@@ -75,3 +75,9 @@ The protocol views high stomach acid (low pH) as mandatory for breaking down hea
 - [Cumin (Jeera) - Digestive and Iron Support Layer](../02-ingredients/cumin.md)
 - [Saffron - Neuro-Modulatory Microdose](../02-ingredients/saffron.md)
 - [Daily Timing Cheat Sheet](../07-appendices/daily-timing-cheat-sheet.md)
+
+## References
+
+- [[Venables et al., 2008]](../../07-appendices/master-citations.md#9-metabolic-flexibility-vo2-max--hiit) — EGCG (green tea extract) sustains elevated fat oxidation post-exercise and improves insulin sensitivity (AMPK afterburn).
+- [[Zijp et al., 2000]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) — Catechins/EGCG in matcha aggressively bind non-heme iron; establishes the 10:00 AM Tannin Deadline.
+- [[Chandrasekhar et al., 2012]](../../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha) — Ashwagandha extract reduces cortisol and stress/anxiety; HPA axis buffering mechanism.

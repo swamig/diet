@@ -58,6 +58,9 @@ Moderate antimicrobial (Clove Day).
 *   Warm water + pinch sea salt.
 
 ## Main Meal: Tofu
+
+*Samosa day: Pull **[Variant B (Habanero Pulse)](../../05-practical/functional-samosas.md#signal-variations-batch-in-parallel--label-each-bag)** + **[Option 1 skin (VWG/Besan, ~70g protein)](../../05-practical/functional-samosas.md#option-1-the-seitan-hybrid-skin-high-protein)** — max capsaicinoid density for TRPV1 activation on heavy lift.*
+
 *   **Optional Volume Upgrade (Lauki Pakoda):** 1/2 cup grated Lauki + 2-3 tbsp Besan + 1/4 tsp Ajwain + 1/4 tsp Kala Namak + 1/2 tsp Grated Ginger. (High Capsaicin Pulse)
 *   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
@@ -74,10 +77,10 @@ Moderate antimicrobial (Clove Day).
 *   **1/4 tsp Whole Methi Seeds** (Glycemic Anchor)
 *   **2-3 Cloves Garlic** (Crushed)
 *   **1-2 Thai Bird’s Eye Chilies**
-*   **Fresh Peppermint Leaves** (Mentha arvensis)
+*   **Fresh Peppermint Leaves** (Mentha arvensis) [11](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 
 **Instructions:**
-1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin.
+1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 2.  **Lauki Prep (Optional):** Peel Lauki and **taste a raw slice** (if bitter, discard the whole gourd!). Grate and toss with Kala Namak. Let sit for 2 min. Press hard through a **fine mesh strainer** using a spoon to extract all juice (drink the juice!). 
 3.  **The Pakoda Bind:** Mix the dry lauki shreds with Besan, Ajwain, and Ginger until a thick dough forms.
 4.  **Rub:** Coat pressed tofu cubes with the dry spice mix.

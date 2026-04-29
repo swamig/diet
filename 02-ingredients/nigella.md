@@ -14,14 +14,14 @@ priority: 'rotation'
 
 ## Mechanism of Action
 
-Thymoquinone influences:
+Thymoquinone influences [[Ahmad et al., 2013]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) [[Tavakkoli et al., 2017]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
 *   **Glucose regulation**
 *   **Inflammatory modulation**
 *   **Mitochondrial protection**
 *   **Mild antimicrobial effects**
 
-Nigella is more pharmacologically active than cumin. Therefore it is not daily.
+Nigella is more pharmacologically active than cumin. Clinical studies use 1–3g whole seed/day; 1/2 tsp (~1.5g) sits at the lower end of the therapeutic range. Therefore it is not daily.
 
 ## Dose
 
@@ -69,3 +69,8 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Clove - High-Intensity Antimicrobial and Antioxidant Agent](clove.md)
 - [Antimicrobial Stacking Framework](../04-advanced-control/antimicrobial-stacking.md)
 - [Week 3 Overview](../03-execution/week-03/README.md)
+
+## References
+
+- [[Ahmad et al., 2013]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Thymoquinone hepatoprotective and extreme antioxidant capacity.
+- [[Tavakkoli et al., 2017]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Clinical trials of Nigella sativa and thymoquinone; therapeutic dose range 1–3g seed/day.

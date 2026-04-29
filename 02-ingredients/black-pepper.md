@@ -14,10 +14,10 @@ priority: 'core'
 
 ## Mechanism of Action
 
-Piperine:
+Piperine [[Shoba et al., 1998]](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control):
 
 *   Inhibits **glucuronidation**
-*   Enhances absorption of **curcumin**
+*   Enhances absorption of **curcumin** (up to 2000% increase in bioavailability)
 *   Increases intestinal permeability transiently
 *   May modestly influence thermogenesis
 
@@ -67,3 +67,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Inflammatory Signaling Control](../01-foundations/02-inflammatory-control.md)
 - [High Signaling Container System 🧪](../05-practical/container-system.md)
 - [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)
+
+## References
+
+- [[Shoba et al., 1998]](../../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) — Piperine increases curcumin bioavailability up to 2000% by inhibiting hepatic UGT glucuronidation enzymes.

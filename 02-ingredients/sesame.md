@@ -17,10 +17,11 @@ priority: 'core'
 
 ## Mechanism of Action
 
-Sesame:
+Sesame [[Adlercreutz, 2007]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
 *   **Provides mineral density**
-*   **Influences lipid metabolism**
+*   **Influences lipid metabolism** via sesamin and sesamol lignans
+*   **Modulates SHBG:** Plant lignans (sesamin/sesamol) stimulate hepatic synthesis of Sex Hormone-Binding Globulin, buffering rapid spikes and dips in circulating sex hormones
 *   **Supports antioxidant status**
 
 ## Dose
@@ -67,3 +68,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Oxalate Physiology and Mineral Pairing](../04-advanced-control/oxalate-management.md)
 - [Week 4 Overview](../03-execution/week-04/README.md)
 - [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)
+
+## References
+
+- [[Adlercreutz, 2007]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Plant lignans (sesamin/sesamol) and SHBG modulation; hormonal buffer mechanism.

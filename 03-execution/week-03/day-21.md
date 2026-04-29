@@ -61,6 +61,9 @@ Parasympathetic emphasis + low stimulation reset.
 *   Steep 10 mins. Drink warm 60 min before sleep.
 
 ## Main Meal: Vegan Patties [8](../../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Baseline (Low Spice Load)
+
+*Samosa day: Pull **[Variant A (Standard)](../../05-practical/functional-samosas.md#signal-variations-batch-in-parallel--label-each-bag)** or **[Variant D (Black Bean)](../../05-practical/functional-samosas.md#signal-variations-batch-in-parallel--label-each-bag)** — rotate Variant D in periodically for max anthocyanin signal.*
+
 *   **Iron-Reduction Anchor:** Consume with lemon juice (Vitamin C) to multiply iron absorption from legumes by **2x-3x** [[6]](../../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 **Ingredients:**
@@ -75,7 +78,7 @@ Parasympathetic emphasis + low stimulation reset.
 *   **No nigella. No clove. No rosemary.**
 
 **Instructions:**
-1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min).
+1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min) [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 2.  **The Bloom:** Heat oil in pan; add rested garlic and Daily Spice Jar.
 3.  **The Sear:** Sear patties 2-3 min/side to create a "Garlic Crust."
 4.  **The Iron Anchor:** Squeeze 1/2 fresh lemon over patties before serving.

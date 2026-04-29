@@ -22,10 +22,10 @@ This is the high-performance protein system that replaces meat in the protocol. 
 ## Inputs
 
 **🫘 Protein Base (Balanced for Digestion + Texture):**
-*   1 cup cooked chickpeas (from dry, slightly firm - cooled 24h for resistant starch)
-*   2.5 tbsp pea protein
-*   2.5 tbsp vital wheat gluten
-*   2 tbsp nutritional yeast
+*   1 cup cooked chickpeas (from dry, slightly firm - cooled 24h for resistant starch [[Birt 2013, Mohan 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3))
+*   2.5 tbsp pea protein (high lysine, low methionine)
+*   2.5 tbsp vital wheat gluten (high methionine, low lysine — combined with pea protein creates a complete EAA matrix [[Gorissen 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   2 tbsp nutritional yeast (bioavailable B12 and additional protein [[Watanabe 2013]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
 
 **🌿 Fresh Herbs (Flavor + Digestion):**
 *   ¼ cup cilantro
@@ -40,7 +40,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 *   ¼ tsp ajwain (crushed)
 *   ½ tsp cumin seeds (toasted + crushed)
 *   ¼ tsp fennel seeds (crushed)
-*   Pinch hing (asafoetida) (optional but elite)
+*   Pinch hing (asafoetida) (optional but elite — ferulic acid inhibits α-galactosidase, directly reducing legume flatulence [[Mahendra & Bisht 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation))
 
 **🔥 Spice System (Balanced, not heavy):**
 *   1 tsp cumin powder
@@ -55,7 +55,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 *   1–2 tsp soy sauce
 *   1 tbsp olive oil
 *   1 tbsp lemon juice
-*   ½ tsp apple cider vinegar (digestion boost)
+*   ½ tsp apple cider vinegar (digestion boost — acetic acid improves insulin sensitivity to high-carbohydrate meals [[Johnston 2004]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling))
 *   2–4 tbsp water (as needed for binding)
 
 ---
@@ -73,8 +73,8 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
     *   **KitchenAid (Elite Hack):** Use a dough hook on **Speed 2 for 3–5 minutes**. Stop when the dough forms a cohesive, elastic ball that "bounces back" when poked.
 6.  **Create Fibers:** Flatten the dough, fold it over itself, and flatten again. Repeat 2–3x to build "meat-like" muscular striations.
 7.  **Shape:** Form into 4 large burger patties.
-8.  **The Steam (The RS3 Melt):** Steam the patties for 15 minutes. *Biochemical Note:* Hitting 160°F+ is required to activate and set the wheat gluten, giving the patty its structural "chew." This heat will temporarily melt the resistant starch in the chickpeas back into simple starch.
-9.  **The Post-Cook Chill (RS3 Re-formation):** Remove the steamed patties and let them cool for 20 minutes. **Place them in an airtight glass container in the fridge for 12-24 hours.** *Biochemical Note:* This is where the magic happens. The starches will retrograde *again*, locking into an even tighter, more dense RS3 crystalline matrix than before.
+8.  **The Steam (The RS3 Melt):** Steam the patties for 15 minutes. *Biochemical Note:* Hitting 160°F+ is required to activate and set the wheat gluten, giving the patty its structural "chew." This heat will temporarily melt the resistant starch in the chickpeas back into simple starch [[Birt 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+9.  **The Post-Cook Chill (RS3 Re-formation):** Remove the steamed patties and let them cool for 20 minutes. **Place them in an airtight glass container in the fridge for 12-24 hours.** *Biochemical Note:* This is where the magic happens. The starches will retrograde *again*, locking into an even tighter, more dense RS3 crystalline matrix than before [[Mohan 2015, PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## Execution (The Daily Meal)
 
@@ -82,7 +82,7 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
     *   **The Allicin Prep:** Crush 1-2 cloves fresh garlic (rest 10 min).
     *   **The Bloom:** Heat a pan with a tiny drizzle of avocado oil on medium-low. Add the rested garlic and the **Daily Spice Jar** powders to the oil.
     *   **The Sear:** Quickly sear the patty for 60-90 seconds per side, allowing the garlic and spices to "crust" the exterior.
-    *   **The Iron Anchor:** Remove from heat and **squeeze 1/2 fresh lemon** directly over the hot patties immediately before serving. This restores the Vitamin C anchor for 100% iron bioavailability.
+    *   **The Iron Anchor:** Remove from heat and **squeeze 1/2 fresh lemon** directly over the hot patties immediately before serving. This restores the Vitamin C anchor for maximum iron bioavailability [[Sameh 2020, Cepeda-Lopez 2022]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
 ---
 
@@ -114,13 +114,13 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
 ## Storage and Prep
 *   Make 2–3 batches during Sunday Prep.
 *   **Fridge:** 3–4 days in an airtight glass container.
-*   **Freezer:** 2–3 weeks. RS3 is stable frozen; the freeze-thaw cycle may further densify the crystalline matrix.
+*   **Freezer:** 2–3 weeks. RS3 is stable frozen; the freeze-thaw cycle may further densify the crystalline matrix [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
     *   **Freeze sequence (mandatory order):** Steam → cool 20 min → 12–24h fridge chill (RS3 forms) → freeze. Do NOT freeze immediately after steaming — the starch is still in its melted simple form at that point.
     *   **Freeze procedure:** Lay patties on a tray in a single layer and freeze for 1–2 hours before transferring to a bag or container. Skipping the pre-freeze tray step causes patties to fuse together.
     *   **Container choice:** Use parchment paper between patties. Preferred containers: parchment wrap + freezer bag, silicone bag, or glass container with parchment layers. If using a standard LDPE freezer bag, ensure patties are fully cold before bagging — leaching from plastic is heat-driven and negligible at freezing temps, but avoid direct plastic-to-warm-food contact.
     *   **Reheat:** Pan or air fryer only. Do not microwave — uneven heat will exceed the 130°F RS3 ceiling in the core before the exterior is warm.
 *   **Thaw cadence:** Pull 3 patties from freezer to fridge on **Sunday**. Pull the next 3 on **Wednesday night**. Do not thaw a full week at once — fridge limit is 3–4 days.
-*   **Allicin note:** The allicin from the Sunday prep garlic is destroyed during the steam step (160°F+). The daily sear with fresh rested garlic is the allicin delivery mechanism — this is not optional and cannot be substituted by embedding garlic into the frozen patty.
+*   **Allicin note:** The allicin from the Sunday prep garlic is destroyed during the steam step (160°F+) [[Song & Milner 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). The daily sear with fresh rested garlic is the allicin delivery mechanism — this is not optional and cannot be substituted by embedding garlic into the frozen patty.
 
 ## Evidence Status
 
@@ -146,3 +146,18 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
 - [High Signaling Container System 🧪](container-system.md)
 - [Functional Samosas & Samosa Balls (Air-Fried)](functional-samosas.md)
 - [Cumin (Jeera) - Digestive and Iron Support Layer](../02-ingredients/cumin.md)
+
+## References
+
+| Citation | Section |
+|---|---|
+| Gorissen 2018 — Pea/wheat gluten complementary amino acid profiles (complete EAA) | [§8 Protein Architecture & MPS](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Watanabe 2013 — Nutritional yeast B12 bioavailability | [§8 Protein Architecture & MPS](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Song & Milner 2001 — Alliinase heat sensitivity; allicin destroyed above 60°C | [§3 Allicin Activation](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| Birt 2013 — RS3 retrogradation mechanism (cook-chill starches) | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| Mohan 2015 — Cook-chill RS3 quantification (2.6× increase) | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| PMC10987757 — Freezing extends RS3 crystalline stability | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| Sameh 2020 — Lemon juice iron bioavailability in chickpea matrix (+4-fold) | [§6 Iron Absorption](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) |
+| Cepeda-Lopez 2022 — Vitamin C iron enhancement (not required simultaneously) | [§6 Iron Absorption](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) |
+| Johnston 2004 — Acetic acid (ACV) insulin sensitivity | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Mahendra & Bisht 2012 — Asafoetida α-galactosidase inhibition (antiflatulent) | [§11 Operational Mechanisms](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) |

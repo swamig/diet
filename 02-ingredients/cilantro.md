@@ -16,12 +16,12 @@ priority: 'core'
 
 ## Mechanism of Action
 
-Cilantro:
+Cilantro [[Laribi et al., 2015]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
-*   **Mobilizes heavy metals** (mild chelation effect)
+*   **Mobilizes heavy metals** (mild chelation effect via linalool and dodecenal compounds)
 *   **Supports liver detoxification**
-*   **Reduces oxidative stress**
-*   **Enhances digestion**
+*   **Reduces oxidative stress** (quercetin-mediated)
+*   **Enhances digestion** (linalool carminative and anti-spasmodic activity on smooth muscle)
 
 ## Dose
 
@@ -66,3 +66,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Heavy Metal Mitigation (Cacao)](../04-advanced-control/heavy-metals.md)
 - [Consolidated Master Shopping List](../05-practical/shopping-list-master.md)
 - [Fridge Layout Optimization](../05-practical/fridge-storage.md)
+
+## References
+
+- [[Laribi et al., 2015]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Linalool (dominant volatile in coriander/cilantro) carminative and anti-spasmodic activity in smooth muscle models.

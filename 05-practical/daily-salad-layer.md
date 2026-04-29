@@ -11,13 +11,13 @@ The 14:30 Salad is the protocol's primary vector for vascular signaling (Nitric 
 
 ## 1. The Bitter Green Rotation (Choose One - 2 Cups)
 We rotate bitter greens to expose the microbiome to different alkaloids and maximize nitrate intake [[10]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
-*   **Arugula:** High nitrate content for nitric oxide (NO) production.
-*   **Watercress:** PEITC signaling and supreme nutrient density.
+*   **Arugula:** High nitrate content for nitric oxide (NO) production [[Lidder & Webb 2013]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+*   **Watercress:** PEITC signaling and supreme nutrient density [[Fahey 1997]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 *   **Kale:** Must be "massaged" with lemon/salt for 60 seconds to break down cell walls.
 
 ## 2. The Daily Anchors (Mandatory - Do Not Rotate)
 These two components must appear in every salad without exception:
-*   **Broccoli Microgreens (1 cup):** Concentrated sulforaphane and enzyme potential (The Sulforaphane Engine) [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
+*   **Broccoli Microgreens (1 cup):** Concentrated sulforaphane and enzyme potential (The Sulforaphane Engine) — 3-day sprouts contain 20–50× more glucoraphanin than mature broccoli [[Fahey 1997]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) [[Dinkova-Kostova 2012]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
 *   **Fresh Cilantro (1/4 cup):** Primary chelator for heavy metal management.
 
 ## 3. The Functional Fat & Seed Matrix
@@ -32,9 +32,9 @@ Add the "1-1-1" daily seed dose for omega balance, vascular elasticity, and horm
 | :--- | :--- | :--- |
 | **Monday** | Roasted Sesame Seeds | Mineral Density (Calcium/Iron) |
 | **Tuesday** | **Basil Seeds (Sabja)** | **Cooling Anchor** (Iron/Antispasmodic) |
-| **Wednesday** | Raw Walnuts | **Vascular Anchor** (ALA Omega-3/Elasticity) |
+| **Wednesday** | Raw Walnuts | **Vascular Anchor** (ALA Omega-3/Elasticity) [[Ros 2004]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
 | **Thursday** | **Chia Seeds** | **Lipid Anchor** (ALA/Gut-Barrier Gel) |
-| **Friday** | Pumpkin Seeds | **Recovery Anchor** (Zinc/Magnesium/Testosterone) |
+| **Friday** | Pumpkin Seeds | **Recovery Anchor** (Zinc/Magnesium/Testosterone) [[Prasad 1996]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
 
 ## 4. The Probiotic Anchor
 *   **1/4 cup Sauerkraut or Kimchi:** Must be raw/unpasteurized. Provides live bacterial cultures. Consistently eating high volumes of fermented foods steadily increases microbiome diversity and aggressively decreases systemic inflammatory markers, outperforming high-fiber diets alone [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
@@ -49,3 +49,16 @@ Add the "1-1-1" daily seed dose for omega balance, vascular elasticity, and horm
 - [Master Shopping List](shopping-list-master.md)
 - [Fridge Layout Optimization](fridge-storage.md)
 - [High Signaling Container System](container-system.md)
+
+## References
+
+| Citation | Section |
+|---|---|
+| Lidder & Webb 2013 — Dietary nitrates and NO-mediated vasodilation (arugula/watercress) | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Fahey 1997 — Broccoli sprouts 20–50× glucoraphanin concentration | [§4 Sulforaphane & Inflammatory Control](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) |
+| Dinkova-Kostova 2012 — Nrf2 / sulforaphane chemopreventive mechanism | [§13 Metabolic Oncology & Chemoprevention](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention) |
+| Ros 2004 — Walnuts ALA / endothelial function restoration | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Prasad 1996 — Pumpkin seeds / zinc / testosterone support | [§8 Protein Architecture & MPS](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Wastyk 2021 — Fermented foods increase microbiome diversity and reduce inflammation | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| Gorissen 2018 — Protein architecture and seed synergy (MPS context) | [§8 Protein Architecture & MPS](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Shoba 1998 (via §4) — Piperine + curcumin bioavailability (turmeric + black pepper dressing activation) | [§4 Sulforaphane & Inflammatory Control](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) |

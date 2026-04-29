@@ -7,13 +7,13 @@ priority: 'core'
 
 # Gut Microbiome Diversification
 
-Microbiome diversity correlates with metabolic resilience.
+Microbiome diversity correlates with metabolic resilience [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 This protocol uses:
 
-*   Daily fermented vegetables (2 tbsp minimum)
+*   Daily fermented vegetables (2 tbsp minimum) [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3)
 *   Weekly green rotation
-*   **Fiber variety (30–45g daily):** Met seamlessly via the foundational anchors (1/2 cup legumes, 2 protein patties, daily seed rotation, and blueberries). The shift to broccoli microgreens reduces bulk insoluble fiber slightly to prevent GI distress, while maintaining elite-level prebiotic signaling.
+*   **Fiber variety (30–45g daily):** Met seamlessly via the foundational anchors (1/2 cup legumes, 2 protein patties, daily seed rotation, and blueberries). The shift to broccoli microgreens reduces bulk insoluble fiber slightly to prevent GI distress, while maintaining elite-level prebiotic signaling [[Lattimer & Haub, 2010]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 *   Controlled antimicrobial exposure
 
 Strong antimicrobial pulses (Clove, Ajwain, Papaya Seeds) are not used daily. The objective is modulation, not sterilization.
@@ -30,8 +30,8 @@ Just as you do not lift heavy weights every day to avoid overtraining your muscl
 
 ### 2. Rest/Cardio Days (T/Th/S): "Microbiome Endurance & Conditioning"
 *   **The Stressor:** High-Viscosity Fiber (Psyllium Husk + RS3).
-*   **The Goal:** "Feed the furnace." High-fiber loads force your gut bacteria to work overtime to ferment soluble fiber into **Short-Chain Fatty Acids (SCFAs)** like Butyrate, which heal the gut lining.
-*   **The Result:** The psyllium gel acts as a "physical sweep," clearing out any residual undigested protein or metabolic waste from your heavy lifting days.
+*   **The Goal:** "Feed the furnace." High-fiber loads force your gut bacteria to work overtime to ferment soluble fiber into **Short-Chain Fatty Acids (SCFAs)** like Butyrate, which heal the gut lining [[Birt et al., 2013]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **The Result:** The psyllium gel acts as a "physical sweep," clearing out any residual undigested protein or metabolic waste from your heavy lifting days [[Jalanka et al., 2019]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 *   **Focus:** GI Motility & Microbiome Hormesis.
 
 By Monday morning, your gut is clean, your microbiome is fed, and your systemic inflammation is at its weekly low—primed to efficiently absorb the next high-protein load.
@@ -83,3 +83,10 @@ Hormesis requires variation. Repetition without rotation reduces adaptive benefi
 - [Ajwain (Carom Seed) - Digestive Activation Agent](../02-ingredients/ajwain.md)
 - [Fermented Vegetables - Microbiome Stabilization Layer](../02-ingredients/ferments.md)
 - [Antimicrobial Stacking Framework](../04-advanced-control/antimicrobial-stacking.md)
+
+## References
+
+- [[Wastyk et al., 2021]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — High-fermented-food diet increases microbiome diversity and decreases systemic inflammatory markers; outperforms high-fiber diet alone.
+- [[Lattimer & Haub, 2010]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Dietary fiber and its components improve insulin sensitivity and gut hormone signaling.
+- [[Birt et al., 2013]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — RS3 retrogradation provides prebiotic substrate for butyrate-producing colon bacteria.
+- [[Jalanka et al., 2019]](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) — Psyllium husk increases beneficial butyrate-producing bacteria; prebiotic fiber role.

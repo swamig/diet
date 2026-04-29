@@ -13,7 +13,7 @@ Garlic is used in the protocol for its potent organosulfur compounds, specifical
 
 Allicin is not present in a whole clove of garlic. It is created when the precursor **alliin** and the enzyme **alliinase** interact. This interaction only occurs when the garlic is physically crushed, chopped, or bruised.
 
-*   **The Problem:** Alliinase is highly heat-sensitive. If you throw freshly chopped garlic into a hot pan immediately, the enzyme is destroyed before it can create the allicin.
+*   **The Problem:** Alliinase is highly heat-sensitive [[Song & Milner, 2001]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). If you throw freshly chopped garlic into a hot pan immediately, the enzyme is destroyed before it can create the allicin.
 *   **Jarred Garlic (EXCLUSION):** Pre-chopped garlic in jars provides flavor but **zero signaling.** The allicin is destroyed during preservation, and the alliinase enzyme is deactivated. **Jarred garlic is not a valid source for this protocol.**
 *   **Pre-Peeled Whole Cloves (APPROVED):** Buying bags of pre-peeled *whole* cloves is an approved friction-reducing shortcut. Because the clove is whole, the cell walls are intact and the enzymatic potential remains fully preserved until you crush it.
 *   **The Protocol:** Garlic must be **crushed and allowed to rest for 10 minutes** before being exposed to heat. This allows the enzymatic reaction to complete. Once the allicin is formed, it is relatively heat-stable for short periods of cooking.
@@ -39,10 +39,17 @@ This ingredient is functionally integrated into the following protocol meals:
 ## Clinical Considerations: The Allicin-Ajoene Partition
 The protocol utilizes two different preparation methods to target specific physiological outcomes:
 
-1.  **The Fresh Pulse (Raw/Flash Sear):** Targeting **Allicin**. Used for acute immune support and antimicrobial action. High intensity, high gastric bite.
-2.  **The Lipid Bloom (Low Heat Sauté):** Targeting **Ajoenes**. By slowly warming rested garlic in oil, Allicin converts into stable ajoenes. These are superior for vascular health, blood flow, and platelet management, with a significantly reduced "garlic breath" and gastric irritation profile.
+1.  **The Fresh Pulse (Raw/Flash Sear):** Targeting **Allicin** [[PMC12150274]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). Used for acute immune support and antimicrobial action. High intensity, high gastric bite.
+2.  **The Lipid Bloom (Low Heat Sauté):** Targeting **Ajoenes**. By slowly warming rested garlic in oil, Allicin converts into stable ajoenes [[Block, 1985]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). These are superior for vascular health, blood flow, and platelet management — including S-Allyl Cysteine (SAC) from aged black garlic for sustained cardiovascular protection [[Valls, 2022]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — with a significantly reduced "garlic breath" and gastric irritation profile.
 
 ## Related Pages
 
 - [Peppermint & Capsaicin (TRP Synergy)](peppermint-chili.md)
 - [High-Signaling Garlic-Chili Pulse](../05-practical/garlic-chili-oil.md)
+
+## References
+
+- [[Song & Milner, 2001]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Alliinase heat sensitivity and the 10-minute garlic rule.
+- [[PMC12150274]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Ice crystal damage to alliinase and the freeze-before-rest warning.
+- [[Block, 1985]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — Allicin vs. Ajoene partition; lipid-bloom conversion to vascular-active organosulfur compounds.
+- [[Valls, 2022]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) — S-Allyl Cysteine (SAC) in aged black garlic; cardiovascular protection via H₂S donor activity.

@@ -16,12 +16,12 @@ priority: 'rotation'
 
 ## Mechanism of Action
 
-Cumin supports:
+Cumin supports [[Mnif & Aiyelaagbe, 2015]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
 *   **Digestive enzyme secretion**
 *   **Mild antimicrobial modulation**
 *   **Iron absorption**
-*   **Glucose regulation**
+*   **Glucose regulation** (cuminaldehyde-mediated ROS quenching)
 
 Cumin is included daily at moderate dose to enhance digestive efficiency.
 
@@ -72,3 +72,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Circadian Hydration Physiology](../01-foundations/04-hydration.md)
 - [100% Optimized Indian High-Protein "Chicken" Patties](../05-practical/vegan-protein-patties.md)
 - [90-Minute Sunday Batch Prep System](../05-practical/sunday-prep.md)
+
+## References
+
+- [[Mnif & Aiyelaagbe, 2015]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Cuminaldehyde-mediated ROS quenching and antioxidant activity.

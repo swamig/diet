@@ -25,7 +25,7 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 ---
 
 ## The Master Filling (The RS3 Core)
-*Batch-prepped once per 3-month cycle. Stored as banana leaf parcels in the freezer. Do NOT heat above 130°F (54°C) — the RS3 thermal ceiling [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).*
+*Batch-prepped once per 3-month cycle. Stored as banana leaf parcels [[Arunprasath et al., 2021]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) in the freezer. Do NOT heat above 130°F (54°C) — the RS3 thermal ceiling [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).*
 
 ### Ingredients (per serving — 2 samosas):
 *   2 cups **Cooked Chickpeas** (chilled 24h+ for RS3 stabilization)
@@ -37,7 +37,7 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 *   1/2 tsp **Nigella (Kalonji)**
 *   1 tbsp **Lemon Juice** (Vitamin C — multiplies iron absorption from chickpeas [[Sameh et al., 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule))
 *   1/2 tsp **Sea Salt**
-*   1/16 tsp **Hing (asafoetida)** — mash-level digestive signal + umami (separate from boil stack hing)
+*   1/16 tsp **Hing (asafoetida)** — mash-level digestive signal + umami (separate from boil stack hing) [[Mahendra & Bisht, 2012]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 
 **Garam Masala Components (ground, add NOW — stable frozen, meld into bean matrix):**
 
@@ -50,9 +50,11 @@ This is an elite-level modification of the standard **[Vegan Protein Patties](ve
 | Ground star anise | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
 | Ground black cardamom | 1/16 tsp | 1/4 tsp | ~3 tsp (1 tbsp) |
 
+*Ground coriander: linalool (60–80% of volatile fraction) — carminative and anti-spasmodic [[Laribi et al., 2015]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Ground cloves: eugenol — COX inhibitor + broad-spectrum antimicrobial [[Ranasinghe et al., 2013]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).*
+
 **The High-Signaling Spice Stack (Default — not optional):**
 *   1/2 tsp **Kashmiri Chili Powder** — capsaicin synergizes with ajwain in the skin to accelerate gastric emptying [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) *(day-of jar — fat-soluble, degrades over 3-month freeze without fat)*
-*   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor *(add now — water-soluble, stable frozen)*
+*   1/2 tsp **Amchur (Dried Mango Powder)** — Vitamin C pulse + iron absorption anchor *(add now — water-soluble, stable frozen* [[Olivares-Tenorio et al., 2021]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule)*)*
 *   1–2 **Green Chilies** (finely chopped) — TRP channel activation [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) *(add now — integrates into bean matrix during freeze cycle)*
 *   1/2 tsp **Chaat Masala** — additional amchur + black salt for electrolyte signal *(add now — water-soluble, stable frozen)*
 
@@ -74,13 +76,13 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols [[Agg
 | Smoked paprika or chipotle | 1/4 tsp | 1 tsp | ~4 tbsp |
 | Black pepper | crack fresh day-of | — | — |
 
-Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption.
+Fold into cold mash with a small drizzle of EVOO right before wrapping in the skin — the fat activates the fat-soluble compounds at the point of consumption [[Beauchamp et al., 2005]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 
 **Protein Fortification + Nutritional Yeast (Universal — all variants, all skin options):**
 Per parcel (2 samosas):
 *   2 tbsp **Pea Protein** — leucine-dense, hits mTOR threshold (~2.5–3g leucine) baked into the filling itself [[Norton & Layman, 2006; PMC5096790]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
 *   1 tbsp **Rice Protein** — methionine complement to pea's lysine-heavy profile [[Gorissen et al., 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling)
-*   2 tbsp **Nutritional Yeast** — B12 + umami depth + additional ~4g protein per parcel
+*   2 tbsp **Nutritional Yeast** — B12 [[Watanabe et al., 2013]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) + umami depth + additional ~4g protein per parcel
 
 These are dry additions that pull moisture from the mash. Compensate with cold aquafaba (never warm — raises mash above RS3 ceiling).
 
@@ -113,8 +115,8 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 | Variant | Parcels | Base | Add to base filling | Signal target | Pull on |
 |---|---|---|---|---|---|
 | **A — Standard Capsaicin** | ~13 | Chickpea | Base spice stack as written | TRP + gastric motility | Any day |
-| **B — Habanero Pulse** | ~13 | Chickpea | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) + anthocyanin stack | Heavy lift days (M/W/F) |
-| **C — Sulforaphane + Anti-Inflammatory** | ~13 | Chickpea | Add **1 tsp broccoli powder** + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression [[Fahey et al., 2015; Dinkova-Kostova et al., 2012]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) + anthocyanin [[Tocmo et al., 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) | Cardio/recovery days |
+| **B — Habanero Pulse** | ~13 | Chickpea | Replace green chili with **1/2 habanero** (finely minced) + **1/4 tsp smoked paprika** + **2 tbsp black bean liquid** (anthocyanin pulse) | Max capsaicinoid density — TRPV1 saturation [[Nutrients DOI: 10.3390/nu18030376]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) + anthocyanin stack [[Johnson et al., 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) | Heavy lift days (M/W/F) |
+| **C — Sulforaphane + Anti-Inflammatory** | ~13 | Chickpea | Add **1 tsp broccoli powder** [[Vermeulen et al., 2008]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) + **1/4 tsp extra turmeric** + **1/4 tsp extra black pepper** + **2 tbsp black bean liquid** (cyanidin-3-glucoside — same compound class as blueberries) | NF-κB + Nrf2 dual suppression [[Fahey et al., 2015; Dinkova-Kostova et al., 2012]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) + anthocyanin [[Tocmo et al., 2021]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) [[Johnson et al., 2011]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) | Cardio/recovery days |
 | **D — Black Bean Anthocyanin Base** | ~13 | Black bean | Swap chickpeas entirely for cooked black beans + **2 tbsp black bean cooking liquid** (double anthocyanin dose — cyanidin-3-glucoside at 2× concentration [[Tocmo et al., 2021; Frontiers in Nutrition, 2025]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)) + base spice stack as written | Max anthocyanin density (same compound class as blueberries) + iron signal (black beans ~3.6mg/100g vs chickpeas ~2.9mg) | Any day — rotate in when pulling chickpea variants gets monotonous |
 
 **Variant D protein note:** ~70g total per 3-month batch (similar to chickpea base). Primary benefit is anthocyanin density, not a protein upgrade. The black bean liquid acts as a natural food dye — filling turns deep purple-black. Normal and expected.
@@ -135,7 +137,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
    - **Nigella placement rule:** 1/2 tsp nigella in the skin daily (Options 1/2/3 dough) — correct and therapeutic. ~200–250mg thymoquinone, within the 1–3g/day clinical range [[Tavakkoli et al., 2017]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Do NOT add to the filling as well — doubling the dose runs a chronic antimicrobial effect against your own microbiome without additional benefit. The skin dose alone is the right frequency. Exception: Variant C may add 1/4 tsp nigella to the filling on recovery days only — an occasional antimicrobial pulse, not a daily stack.
    - **Bloom is automatic — no separate step needed:** Avocado oil is rubbed into the dough as the moyen before wrapping. At 400°F air-fry, the oil heats instantly and blooms the nigella seeds in place inside the crust. The fat contact is already built into the dough preparation. A separate bloom step would only be needed if adding nigella to a water-based sauce or liquid with no fat present.
 7. Fold in pea protein, rice protein, nutritional yeast (dry first), then add cold aquafaba and run **crumble test** — see Hydration Protocol above. Target: 3 tbsp aquafaba per parcel (~2.5 cups per 13-parcel bowl) before testing.
-8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf
+8. Cut banana leaf into 10"×12" pieces — 3–4 pieces per large leaf [[Arunprasath et al., 2021]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 9. Place ~3/4 cup filling in center of each piece, press into a **3"×4"×2" rectangular block**
 10. Fold leaf over block like a parcel, fold ends under
 11. Cool completely on rack (30 min room temp)
@@ -153,7 +155,7 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 7. Form into parcels same as above → fridge overnight → label bag **D** → freeze
 7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + cumin + black pepper (crack fresh day-of). Label jar **D**.
 
-**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
+**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO [[Beauchamp et al., 2005]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
 
 ---
 
@@ -379,7 +381,7 @@ While Option 3 (Gluten-Free) provides high fiber, the protocol **mandates** a ro
 ## Freeze Protocol (Batch Prep Extension)
 
 ### Filling (RS3 Core) — Freeze Yes
-The Master Filling freezes perfectly. RS3 crystals are stable at freezer temperatures and survive thaw without degradation [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3), provided you reheat gently below 130°F (54°C) when assembling.
+The Master Filling freezes perfectly. RS3 crystals are stable at freezer temperatures and survive thaw without degradation [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) [[PMC10987757, Frontiers in Nutrition 2024]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3), provided you reheat gently below 130°F (54°C) when assembling.
 
 *   Portion into ice cube trays or silicone molds (~2 tbsp per cube = 1 samosa serving).
 *   Freeze overnight, transfer to an airtight container.
@@ -407,7 +409,7 @@ For the GF version, the correct freeze point is *after* air frying:
 *   **Protein Architecture (Complementarity):** 
     *   *Seitan Versions (1 & 2):* Naturally balanced. The high Methionine in wheat gluten pairs with the high Lysine in chickpeas.
     *   *GF Version (3):* Requires the **2:1 Rice/Pea blend**. Because the core filling provides massive amounts of legume protein (Lysine), using a Rice-heavy (Methionine) fortification is required to mathematically balance the Amino Acid profile [[Gorissen et al., 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), ensuring maximal Muscle Protein Synthesis (MPS) during the recovery window [[Norton & Layman, 2006; PMC5096790]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
-*   **The Flash Fry:** Convection air at 400°F dehydrates the skin (crunch) but the short duration and dense core prevent the internal RS3 crystals from melting (keeping it below 130°F) [[Birt et al., 2013; Mohan et al., 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **The Flash Fry:** Convection air at 400°F dehydrates the skin (crunch) but the short duration and dense core prevent the internal RS3 crystals from melting (keeping it below 130°F) [[Birt et al., 2013; Mohan et al., 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). Air frying also reduces acrylamide and AGE formation by 36–90% vs. deep frying [[Sansano et al., 2015; Mogol & Gökmen, 2014]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
 *   **Ajwain/Nigella Skin:** Acts as a carminative buffer [[Bairwa et al., 2012]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) to prevent the bloating often associated with concentrated legume and wheat protein. The Nigella (Kalonji) also provides striking black visual contrast against the crust (especially the Green GF version), mirroring traditional Indian pastry aesthetics while delivering a low-grade antimicrobial pulse [[Tavakkoli et al., 2017; Ahmad et al., 2013]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Rice Flour Addition:** Reduces the "beany" texture of the GF crust, providing the professional snap of a traditional samosa.
 
@@ -425,21 +427,32 @@ Full citation details for all studies referenced on this page are in the [Master
 | Claim | Citation |
 |---|---|
 | RS3 thermal ceiling (130°F/54°C) | [Birt et al., 2013](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3); [Mohan et al., 2015](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| RS3 freeze stability | [PMC10987757, Frontiers in Nutrition 2024](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
 | Allicin — 10-min rest rule | [Song & Milner, 2001](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), *J. Nutrition* |
 | Alliinase freeze damage | [PMC12150274](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
 | Ajoene/DAS from heated allicin | [Block, 1985](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), *Scientific American* |
 | SAC (black garlic) — cardiovascular | [Valls et al., 2022; Food & Function 2023](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
 | Cyanidin-3-glucoside — cardioprotection | [Tocmo et al., 2021](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *J. Nutritional Biochemistry* PMID:34864150 |
+| Anthocyanin — neurocognitive & oxidative stress | [Johnson et al., 2011](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Nutrition Reviews* |
 | Thymoquinone dose (nigella) | [Tavakkoli et al., 2017](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), PMC5633670 |
 | Piperine → curcumin +2000% bioavailability | [Shoba et al., 1998](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control), *Planta Medica* |
+| Broccoli powder — raw sulforaphane bioavailability (74% vs 19%) | [Vermeulen et al., 2008](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control), *J. Agricultural and Food Chemistry* |
 | Pea + rice protein complementarity | [Gorissen et al., 2018](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), *Amino Acids* |
 | Leucine mTOR threshold | [Norton & Layman, 2006](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), *J. Nutrition*; [PMC5096790](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+| Nutritional yeast B12 bioavailability | [Watanabe et al., 2013](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling), *Nutrients* PMID:24803097 |
 | Lemon → iron absorption (chickpeas) | [Sameh et al., 2020](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule), PMC7230787 |
+| Amchur / Vitamin C — freeze stability | [Olivares-Tenorio et al., 2021](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule), PMC8619176 |
 | Sulforaphane / Nrf2 | [Fahey et al., 2015](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control), *PLOS One*; [Dinkova-Kostova et al., 2012](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control) |
 | Capsaicin + TRP activation | [Nutrients DOI:10.3390/nu18030376](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) |
 | Ginger → gastric motility | [Wu et al., 2008](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *J. Gastroenterology & Hepatology* |
+| Hing (asafoetida) — antiflatulent / α-galactosidase inhibition | [Mahendra & Bisht, 2012](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), PMC3459456 |
+| Air frying — acrylamide / AGE reduction (36–90% vs. deep fry) | [Sansano et al., 2015](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation); [Mogol & Gökmen, 2014](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) |
+| Banana leaf — antimicrobial / antioxidant wrapping | [Arunprasath et al., 2021](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), *J. Ethnopharmacology* |
 | Ajwain / thymol — carminative | [Bairwa et al., 2012](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Pharmacognosy Reviews* |
 | Cumin / cuminaldehyde | [Mnif & Aiyelaagbe, 2015](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Chemistry & Biodiversity* |
+| Ground coriander / linalool — carminative | [Laribi et al., 2015](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Industrial Crops and Products* |
+| Ground cloves / eugenol — COX inhibitor + antimicrobial | [Ranasinghe et al., 2013](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *BMC Complement. Alt. Med.* |
+| EVOO / oleocanthal — COX inhibition (ibuprofen mechanism) | [Beauchamp et al., 2005](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Nature* PMID:16136122 |
 | Cinnamon / cinnamaldehyde | [Rao & Gan, 2014](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Evid.-Based Complement. Alt. Med.* |
 | Cardamom — lipid peroxidation | [Yashin et al., 2017](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Antioxidants* |
 | Star anise / shikimic acid | [Patra et al., 2020](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling), *Frontiers in Pharmacology* |

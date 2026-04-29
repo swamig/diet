@@ -13,7 +13,7 @@ Cooking and cooling starchy foods (like beans, lentils, and quinoa) fundamentall
 
 When starches are cooked in water, they undergo gelatinization, making them easily digestible and prone to spiking blood glucose. 
 
-However, when these cooked starches are cooled (retrogradation), the amylose and amylopectin chains realign into a tightly packed, crystalline structure known as **Resistant Starch (Type 3)**.
+However, when these cooked starches are cooled (retrogradation), the amylose and amylopectin chains realign into a tightly packed, crystalline structure known as **Resistant Starch (Type 3)** [[Birt et al., 2013]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## The Protocol: "Cook-and-Chill"
 
@@ -33,9 +33,9 @@ If a crunchy texture is required (e.g., for salad toppers), baking must be caref
 
 ## The 130°F Thermal Ceiling (Preserving the Signal)
 
-RS Type 3 is physically fragile. While the crystalline starch structures are created in the cold, they are rapidly "melted" back into simple, high-glycemic starches when exposed to high heat.
+RS Type 3 is physically fragile. While the crystalline starch structures are created in the cold, they are rapidly "melted" back into simple, high-glycemic starches when exposed to high heat. Retrograded amylose crystallinity is reduced by only ~25% at 90°C, but amylopectin crystallinity can be fully reversed at temperatures as low as 55°C — making 130°F (54°C) the precise ceiling for preserving both fractions.
 
-*   **The Rule:** Once a starch has been chilled to form RS3, it must **NEVER** be exposed to temperatures above **130°F (55°C)** again.
+*   **The Rule:** Once a starch has been chilled to form RS3, it must **NEVER** be exposed to temperatures above **130°F (55°C)** again [[Mohan et al., 2015]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 *   **Prohibited Methods:** Re-steaming, microwaving on high, or boiling-hot pans.
 *   **Approved Method:** Gentle warming only. Reheat in a skillet on low heat until "warm to the touch" but never steaming or bubbling.
 
@@ -51,8 +51,8 @@ To achieve the absolute lowest glycemic index and maximal prebiotic yield, the p
 
 By converting regular starches into resistant starches, you achieve two primary goals:
 
-*   **Blood Sugar Control:** Resistant starches bypass the small intestine and resist enzymatic breakdown, significantly lowering the glycemic index of the meal.
-*   **Microbiome Support:** Once in the colon, resistant starches act as a powerful prebiotic fiber. They are fermented by beneficial bacteria (like *Bifidobacteria*) to produce Short-Chain Fatty Acids (SCFAs) such as butyrate, which fuel the gut lining and reduce systemic inflammation.
+*   **Blood Sugar Control:** Resistant starches bypass the small intestine and resist enzymatic breakdown, significantly lowering the glycemic index of the meal [[Mohan et al., 2015]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **Microbiome Support:** Once in the colon, resistant starches act as a powerful prebiotic fiber. They are fermented by beneficial bacteria (like *Bifidobacteria*) to produce Short-Chain Fatty Acids (SCFAs) such as butyrate, which fuel the gut lining and reduce systemic inflammation [[Lattimer & Haub, 2010]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## Evidence Status
 
@@ -77,3 +77,9 @@ By converting regular starches into resistant starches, you achieve two primary 
 - [High Signaling Container System 🧪](../05-practical/container-system.md)
 - ["Cold-Mash" Performance Refried Beans](../05-practical/performance-refried-beans.md)
 - [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)
+
+## References
+
+- [[Birt et al., 2013]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Cook-and-cool retrogradation creates RS3 crystalline structures resistant to small intestine digestion; prebiotic for butyrate-producing bacteria.
+- [[Mohan et al., 2015]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Single cook-chill cycle increases rice RS from 0.64g to 1.65g per 100g (2.6× increase); reheating retains significantly more RS than fresh-cooked.
+- [[Lattimer & Haub, 2010]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) — Dietary fiber components improve insulin sensitivity and gut hormone signaling via SCFA production.

@@ -25,9 +25,9 @@ Chutneys are utilized to deliver heat-sensitive enzymes (like allicin and myrosi
     *   **The Dairy Blockade:** Do not use yogurt bases if consuming the chutney with your 12:00 legumes, as calcium blocks non-heme iron absorption. Use Lemon, Aamla, or Apple Cider Vinegar for acidity.
     *   **Batch Timing:** Make fresh during Sunday Prep and Wednesday Midweek Reset to prevent volatile oil oxidation.
 *   **Elite Chutney Protocols:**
-    *   **The TRP Chelation Blend (Mint + Chili + Coriander):** The ultimate multi-pathway vector. *Mint* provides menthol (TRPM8), *Chili* provides capsaicin (TRPV1), and *Coriander/Cilantro* provides heavy metal chelation. Blend with lemon and black salt.
-    *   **The MCT & Vascular Matrix (Coconut + Curry Leaf):** Fresh coconut provides Medium Chain Triglycerides (MCTs), a rapid ketone energy source that perfectly "blooms" fat-soluble spices. *Curry leaves* provide profound antioxidant and blood-glucose lowering properties. 
-    *   **The Enteric Binder (Imlee / Tamarind Chutney):** Tamarind pulp is uniquely rich in pectin, mucilage, and tartaric acid. The mucilage acts as a physical "sweep" in the GI tract, trapping heavy metals, oxidized lipids, and physical particulates (like microplastics) to excrete them before they cross the gut barrier. Furthermore, the tartaric acid massively spikes the iron absorption from your 12:00 chickpeas. 
+    *   **The TRP Chelation Blend (Mint + Chili + Coriander):** The ultimate multi-pathway vector. *Mint* provides menthol (TRPM8), *Chili* provides capsaicin (TRPV1), and *Coriander/Cilantro* provides heavy metal chelation [[Nutrients 2025]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin). Blend with lemon and black salt.
+    *   **The MCT & Vascular Matrix (Coconut + Curry Leaf):** Fresh coconut provides Medium Chain Triglycerides (MCTs), a rapid ketone energy source that perfectly "blooms" fat-soluble spices [[St-Onge 2008]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). *Curry leaves* provide profound antioxidant and blood-glucose lowering properties [[Balakrishnan 2020]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). 
+    *   **The Enteric Binder (Imlee / Tamarind Chutney):** Tamarind pulp is uniquely rich in pectin, mucilage, and tartaric acid. The mucilage acts as a physical "sweep" in the GI tract, trapping heavy metals, oxidized lipids, and physical particulates (like microplastics) to excrete them before they cross the gut barrier [[Khandare 2002]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Furthermore, the tartaric acid massively spikes the iron absorption from your 12:00 chickpeas [[Sameh 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule). 
         *   *CRITICAL RULE:* Traditional Imlee chutney is 50% sugar/jaggery. This will cause a massive insulin spike. You MUST make this sugar-free (use the natural tartness, balanced only with Ceylon Cinnamon or Stevia).
     *   **The Vitamin C "Thokku" (Aamla & Raw Turmeric Relish):** Grated fresh Aamla and raw turmeric root, tempered in mustard oil with mustard seeds. An elite, hyper-dense antioxidant hit that completely bypasses the thermal degradation of boiling.
 
@@ -35,8 +35,8 @@ Chutneys are utilized to deliver heat-sensitive enzymes (like allicin and myrosi
 Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed as the ultimate raw **Allicin** delivery vehicle.
 
 *   **Protocol Rules:**
-    *   **The 10-Minute Rest:** You must peel and smash the garlic cloves, then let them rest for 10 minutes *before* blending to ensure the alliinase enzyme creates the allicin.
-    *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO.
+    *   **The 10-Minute Rest:** You must peel and smash the garlic cloves, then let them rest for 10 minutes *before* blending to ensure the alliinase enzyme creates the allicin [[Song & Milner 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
+    *   **The Lipid Base:** Traditional Toum uses inflammatory seed oils. You MUST use **Avocado Oil** (neutral flavor) or a mild Blueprint EVOO. Blooming garlic in a lipid medium converts allicin into stable organosulfur compounds (ajoene, vinyldithiins) with superior platelet-aggregation inhibition [[Block 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
     *   **The Aquafaba Hack (Chickpea Liquid):** When boiling your chickpeas (or draining a can), save the starchy liquid (Aquafaba). Use 2 tablespoons of cold aquafaba in the blender with the garlic and oil. The saponins act as an elite natural emulsifier, preventing the Toum from separating in the fridge.
     *   **Shelf Life (7-Day Strict):** While traditional Toum lasts for months, adding Aquafaba introduces proteins and starches that bacteria can feed on. Store in an airtight glass jar in the fridge and discard any remainder after **7 days**.
     *   **Freeze Extension — Base Only (Preferred):** Do NOT freeze the completed emulsion (garlic + oil + lemon + water). Ice crystals rupture the emulsified oil structure — it won't re-form on thaw. Instead, freeze **the garlic-lemon-salt-water base only** (no oil). Cubes last **3–6 months**. Blend fresh oil into the thawed base day-of in 30 seconds. See full instructions in [Master Batch Prep — Toum Base Cubes](master-batch-prep.md). Thaw one cube in the fridge overnight. Do not microwave — heat destroys allicin.
@@ -47,14 +47,14 @@ Toum is a traditional Lebanese garlic sauce. In this protocol, it is repurposed 
     4.  Freeze overnight, transfer to an airtight container.
     5.  **Shelf life:** 4–6 weeks for peak allicin potency; up to 3 months acceptable.
     6.  **To use:** Drop a cube directly into a cold pan or bowl — do not thaw via heat. Allicin is already formed; no second rest needed.
-    *   **CRITICAL:** Never freeze whole or unsmashed cloves for allicin purposes. Ice crystals damage alliinase during freeze, so thawed whole garlic cannot form allicin properly. The 10-minute rest must happen *before* the freeze.
+    *   **CRITICAL:** Never freeze whole or unsmashed cloves for allicin purposes. Ice crystals damage alliinase during freeze, so thawed whole garlic cannot form allicin properly [[PMC12150274]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). The 10-minute rest must happen *before* the freeze.
 *   **Execution (The Lipid Substitution Rule):** Toum is 80% oil. If you use 2 tbsp of Toum as a flavor anchor for your 12:00 Vegan Patties, you must **halve the oil** in your 14:30 Salad Dressing (use 1 tbsp EVOO instead of 2), or dry-sear your patties. Treat Toum as a fat *replacement*, not an addition, to prevent excessive caloric load and sluggish gastric emptying.
 
 ## 3. Therapeutic Podis / Gunpowders (Dry Matrix)
 Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolidating daily seed requirements (Sesame, Nigella) and adding texture.
 
 *   **Protocol Rules:**
-    *   **The Weekly Crush Rule + Freeze Extension:** Once seeds and spices are pulverized, their lipid membranes rupture and oxidize. The minimum viable batch is a 7-day Sunday supply. For larger batches, grind up to a 3-month supply and **freeze in weekly 7-day portions**. Each portion is one small ziplock bag (~7 tbsp = 1 tbsp/day × 7 days). Freeze immediately after grinding — do not store ground podi at room temp or in the fridge for weeks.
+    *   **The Weekly Crush Rule + Freeze Extension:** Once seeds and spices are pulverized, their lipid membranes rupture and oxidize [[Peter 2006]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). The minimum viable batch is a 7-day Sunday supply. For larger batches, grind up to a 3-month supply and **freeze in weekly 7-day portions**. Each portion is one small ziplock bag (~7 tbsp = 1 tbsp/day × 7 days). Freeze immediately after grinding — do not store ground podi at room temp or in the fridge for weeks.
         *   **Sesame-base podi:** 2–3 months frozen. More stable — sesame lignans (sesamin, sesamolin) and the toasted seed matrix resist oxidation better than raw flaxseed.
         *   **Flaxseed-base podi:** 4–6 weeks frozen maximum. ALA (omega-3) oxidizes faster. Pull a new bag every 4–6 weeks, not monthly.
         *   **Condensation rule:** When pulling a frozen podi bag, **leave the bag sealed until it fully reaches room temp before opening** (~20–30 min). Condensation forms on the OUTSIDE of the bag, not inside — the podi stays dry. Opening while cold causes ambient moisture to hit the cold dry powder and clump it. This matters for texture and flow.
@@ -63,7 +63,7 @@ Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolid
     *   **Mandatory Lipid Activation:** You **MUST** drizzle 1 tsp of Extra Virgin Olive Oil (EVOO) or Avocado Oil directly over the Podi after sprinkling. Podis contain lipophilic compounds (capsaicin, curcumin) that require a fat medium for bioavailability.
     *   **Choosing Your Podi Base (Weekly Rotation):** You must choose *only one* Podi base per week to avoid overwhelming the palate and to maintain clear signaling. Rotate between them based on your weekly goals:
         *   *Choose Sesame* for vascular elasticity and mineral density. **Conflict Warning:** Best used on non-cacao days; do not stack with chia on the same day.
-        *   *Choose Flaxseed* when managing hormonal load (e.g., synergizing with tofu) or balancing estrogen/androgen fluctuations.
+        *   *Choose Flaxseed* when managing hormonal load (e.g., synergizing with tofu) or balancing estrogen/androgen fluctuations. Roasted flaxseeds provide lignans that stimulate hepatic SHBG synthesis, providing a natural buffer against rapid hormonal fluctuations [[Adlercreutz 2007]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Elite Combinations:**
     *   *The Vascular Podi:* Roasted Sesame Seeds + Curry Leaves + Dried Red Chili + Cumin + Black Salt (Kala Namak).
     *   *The Hormonal Buffer Podi (Moringa & Flaxseed):* Roasted flaxseeds provide lignans (which increase SHBG to buffer excess estrogen/androgen fluctuations, synergizing with the Tofu ceiling). Blended with Moringa powder (minerals) and dried garlic.
@@ -72,9 +72,9 @@ Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolid
 Forming your daily legumes into balls or patties provides culinary variety, but traditional cooking methods violate the inflammatory control rules.
 
 *   **Protocol Rules:**
-    *   **The Anti-Fry Mandate:** Deep-frying creates Advanced Glycation End-products (AGEs) and introduces oxidized lipids. Lentil balls must be **Baked, Air-Fried, or Steamed** (e.g., Gujarati *Muthia* or South Indian *Idli* methods).
-    *   **The Double-Chill Protocol:** To function as a microbiome anchor, the cooked lentil balls must be rapidly cooled and stored in the fridge for 12-24 hours to form **Resistant Starch Type 3 (RS3)**. Reheat gently (below 130°F) when serving.
-    *   **Ginger Integration:** Always grate fresh ginger into the lentil batter to act as a gastric pro-kinetic, preventing the dense fiber from causing upper GI bloat.
+    *   **The Anti-Fry Mandate:** Deep-frying creates Advanced Glycation End-products (AGEs) and introduces oxidized lipids [[Sansano 2015]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). Lentil balls must be **Baked, Air-Fried, or Steamed** (e.g., Gujarati *Muthia* or South Indian *Idli* methods).
+    *   **The Double-Chill Protocol:** To function as a microbiome anchor, the cooked lentil balls must be rapidly cooled and stored in the fridge for 12-24 hours to form **Resistant Starch Type 3 (RS3)** [[Birt 2013, Mohan 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). Reheat gently (below 130°F) when serving.
+    *   **Ginger Integration:** Always grate fresh ginger into the lentil batter to act as a gastric pro-kinetic, preventing the dense fiber from causing upper GI bloat [[Wu 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
     *   **Aquafaba Binding:** When boiling the lentils/chickpeas, save the cooking liquid (Aquafaba). Use this mineral-rich water to hydrate and bind the dough of your lentil balls/wadis rather than using tap water.
 
 ---
@@ -83,8 +83,8 @@ Forming your daily legumes into balls or patties provides culinary variety, but 
 
 To maximize biochemical signaling, map these formats to your daily windows:
 *   **12:00 Main Meal:** 
-    *   *Imlee (Tamarind) Chutney:* Pair specifically with Chickpeas or Lentil Balls. The tartaric acid ensures you absorb the iron from the legumes.
-    *   *Coconut/Curry Leaf Chutney:* Pair with Vegan Patties or Tofu to provide the MCT fat required to "bloom" the fat-soluble spices inside the protein.
+    *   *Imlee (Tamarind) Chutney:* Pair specifically with Chickpeas or Lentil Balls. The tartaric acid ensures you absorb the iron from the legumes [[Sameh 2020, Zijp 2000]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
+    *   *Coconut/Curry Leaf Chutney:* Pair with Vegan Patties or Tofu to provide the MCT fat required to "bloom" the fat-soluble spices inside the protein [[St-Onge 2008]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
     *   *Podis:* Sprinkle heavily over your 12:00 Quinoa and drizzle with EVOO.
 *   **14:30 Salad Window:**
     *   *TRP Chelation Chutney (Mint/Cilantro):* Thin this out with extra lemon juice and use it as a highly active, enzyme-rich salad dressing over your microgreens and broccoli.
@@ -109,7 +109,7 @@ Different formats oxidize at different speeds. Integrate them into your batch pr
 
 ### The Curry Leaf Tadka System (Separate from Chutney Base)
 
-Curry leaf volatile oils (linalool, β-caryophyllene, sabinene) are the most fragile compounds in the protocol. They fade within 10 days even when frozen, and within 2–3 days when blended into a water-based chutney. The correct architecture is to keep curry leaves **out of the chutney base entirely** and deliver them via tadka at the point of serving.
+Curry leaf volatile oils (linalool, β-caryophyllene, sabinene) are the most fragile compounds in the protocol [[Peter 2006]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). They fade within 10 days even when frozen, and within 2–3 days when blended into a water-based chutney. The correct architecture is to keep curry leaves **out of the chutney base entirely** and deliver them via tadka at the point of serving.
 
 **Why tadka is better than blending:**
 *   Fat-bound terpenoids (bloomed in oil) are more stable than water-suspended ones.
@@ -157,3 +157,23 @@ For weeks when Wednesday re-blending is not feasible, the ice cube tray protocol
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Produce Cleaning & Pesticide Mitigation](produce-cleaning.md)
 - [Peppermint & Capsaicin (TRP Synergy)](../02-ingredients/peppermint-chili.md)
+
+## References
+
+| Citation | Section |
+|---|---|
+| Nutrients (DOI: 10.3390/nu18030376) — Menthol + Capsaicin TRP synergy | [§1 TRP Receptor Cross-Talk](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin) |
+| Song & Milner 2001 — Alliinase heat sensitivity / 10-minute rest | [§3 Allicin Activation](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| Block 1985 — Allicin → Ajoene conversion in lipid medium | [§3 Allicin Activation](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| PMC12150274 — Ice crystal damage to alliinase | [§3 Allicin Activation](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule) |
+| Sameh 2020 — Lemon juice / tartaric acid iron bioavailability in legumes | [§6 Iron Absorption](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) |
+| Zijp 2000 — Dietary factors and iron absorption | [§6 Iron Absorption](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) |
+| Birt 2013 — Resistant Starch RS3 retrogradation | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| Mohan 2015 — Cook-chill RS3 quantification | [§7 Gut Microbiome & RS3](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| St-Onge 2008 — MCT thermogenesis and ketone energy | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Balakrishnan 2020 — Curry leaf antioxidant / glycemic properties | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Adlercreutz 2007 — Flaxseed lignans / SHBG modulation | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Khandare 2002 — Tamarind mucilage toxin chelation | [§10 Antioxidants & Vascular Signaling](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) |
+| Peter 2006 — Volatile oil oxidation in crushed seed matrices | [§11 Operational Mechanisms](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) |
+| Wu 2008 — Ginger gastric motility / pro-kinetic effect | [§11 Operational Mechanisms](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) |
+| Sansano 2015 — Air frying vs. deep frying AGE reduction | [§11 Operational Mechanisms](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation) |

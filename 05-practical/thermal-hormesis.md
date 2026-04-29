@@ -1,5 +1,5 @@
 ---
-title: 'Thermal Hormesis (Sauna [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) & Cold Plunge [2](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration))'
+title: 'Thermal Hormesis (Sauna & Cold Plunge)'
 section: 'practical'
 type: 'procedure'
 priority: 'high'
@@ -19,21 +19,21 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 *   **Duration:** 2-3 minutes.
 *   **Temperature:** 39°F - 50°F (4°C - 10°C).
 *   **Mandate:** **Cold only.** Do not apply heat in the morning; it blunts the alertness spike.
-*   **The Re-Warm:** Exit the plunge and let your body re-warm naturally for 10-15 minutes. Then, drink your **Warm Ajwain or Jeera Water (09:15)** to vasodilate the core and re-ignite digestive *Agni*.
+*   **The Re-Warm:** Exit the plunge and let your body re-warm naturally for 10-15 minutes [[Søberg, 2021]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) — unassisted re-warming maximizes Brown Adipose Tissue thermogenesis. Then, drink your **Warm Ajwain or Jeera Water (09:15)** to vasodilate the core and re-ignite digestive *Agni*.
 
 ### The Evening Heat Rotation (Parasympathetic Drop)
 *   **Timing:** 18:30 (Or post-workout on a non-lifting day).
 *   **Duration:** 15-20 minutes.
-*   **Logic:** To prevent biological accommodation and manage mineral balance, alternate between Dry Sauna and Epsom Salt Baths.
+*   **Logic:** To prevent biological accommodation and manage mineral balance, alternate between Dry Sauna and Epsom Salt Baths. The rapid body temperature drop on exiting the sauna acts as a physiological sleep trigger [[Murphy, 1997]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration).
 
 #### Option A: The Dry Sauna (175°F - 195°F)
 *   **Best For:** Cardio days or Active Recovery days.
-*   **Mechanism:** Triggers Heat Shock Proteins (HSPs) for systemic repair and mimics cardiovascular strain.
+*   **Mechanism:** Triggers Heat Shock Proteins (HSPs) for systemic repair and mimics cardiovascular strain [[Søberg, 2021]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration).
 *   **The Reload:** Requires the **Sauna Mineral Reload Variation** of the Peppermint Jaljeera immediately after.
 
 #### Option B: The Epsom Salt Bath (105°F / 40°C)
 *   **Best For:** Heavy Lifting days (Mon/Wed/Fri).
-*   **Mechanism:** Transdermal magnesium absorption. Hydrostatic pressure forces the Golgi tendon organs to relax shortened muscle fibers from resistance training.
+*   **Mechanism:** Transdermal magnesium absorption [[Kass, 2017; Waring, 2004]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). Hydrostatic pressure forces the Golgi tendon organs to relax shortened muscle fibers from resistance training.
 *   **The Reload:** Requires the same Jaljeera reload to replace sodium/trace minerals lost to sweat.
 *   **Sulfur Caution:** During **Week 2 (Sulfur Emphasis)**, if skin sensitivity or GI distress occurs, reduce Epsom baths to 2x/week to avoid sulfate overload from the high-garlic/broccoli diet.
 
@@ -69,8 +69,8 @@ This protocol utilizes three distinct thermal methods to support an elite traini
 **Goal:** Active vascular training and acute dopamine spiking.
 *   **Timing:** 2-3x per week (e.g., on VO2 Max or Tofu Pulse days).
 *   **The Protocol:** 15 minutes Sauna ➔ IMMEDIATELY ➔ 3 minutes Cold Plunge.
-*   **Mechanism:** Moving from extreme heat (max vasodilation) to extreme cold (max vasoconstriction) acts as a physical "flex" for the endothelial lining of your blood vessels. 
-*   **Thermogenic Rule:** Always **End on Cold**. This forces the body to burn fat (Brown Adipose Tissue activation) to re-warm itself.
+*   **Mechanism:** Moving from extreme heat (max vasodilation) to extreme cold (max vasoconstriction) acts as a physical "flex" for the endothelial lining of your blood vessels [[Mawhinney, 2017]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration). 
+*   **Thermogenic Rule:** Always **End on Cold**. This forces the body to burn fat (Brown Adipose Tissue activation) to re-warm itself [[Søberg, 2021]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration).
 
 ---
 
@@ -82,18 +82,26 @@ This protocol utilizes three distinct thermal methods to support an elite traini
     2.  Sauna (10-15 min) ➔ Cold Plunge (2-3 min)
     3.  Sauna (10-15 min) ➔ Cold Plunge (2-3 min)
 *   **The Primer:** Perform **10 Hanuman Dands** (Hindu Pushups) immediately before stepping into the *first* cold plunge. This floods the upper body with blood, making the initial vasoconstriction much more intense.
-*   **Mechanism:** This repetitive "pumping" action pulls stagnant fluid and metabolic waste (lactic acid) out of deep muscle tissue far more aggressively than a single cycle. 
+*   **Mechanism:** This repetitive "pumping" action pulls stagnant fluid and metabolic waste (lactic acid) out of deep muscle tissue far more aggressively than a single cycle [[Mawhinney, 2017]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration). 
 *   **Thermogenic Rule:** Always **End on Cold**. Wait 15 minutes before consuming any warm liquids.
 
 ---
 
 ## ⚠️ Critical Safety & Execution Rules
 
-1.  **The Hypertrophy Blockade:** Do **NOT** cold plunge immediately after heavy resistance training. Cold water immersion blunts the acute inflammatory response (mTOR signaling) required for muscle growth. Separate your cold plunge from your lifting by at least 4-6 hours.
+1.  **The Hypertrophy Blockade:** Do **NOT** cold plunge immediately after heavy resistance training. Cold water immersion blunts the acute inflammatory response (mTOR signaling) required for muscle growth [[Roberts, 2015]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration). Separate your cold plunge from your lifting by at least 4-6 hours.
 2.  **Hydration is Mandatory:** Never enter the sauna dehydrated. If performing the 3-Cycle Flush, sip water *during* the sauna phases.
 3.  **Breathe:** Control your breath upon entering the cold. Suppress the gasp reflex. Long, slow exhalations signal the parasympathetic nervous system to remain calm under extreme stress.
 
 ## Related Pages
 - [Advanced Training & Thermal Hormesis Integration](../04-advanced-control/training-hormesis-integration.md)
-- [Beginner Yoga Sequences (The Hanuman Dand [12](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher)](yoga-routines.md)
+- [Beginner Yoga Sequences (The Hanuman Dand [[Pascoe, 2017]](../07-appendices/master-citations.md#12-autonomic-nervous-system--mind-tuning) Finisher)](yoga-routines.md)
 - [Peppermint Jaljeera (Sauna Mineral Reload)](peppermint-jaljeera.md)
+
+## References
+- [[Søberg, 2021]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) — Cold water immersion with unassisted re-warming maximizes BAT thermogenesis and fat oxidation
+- [[Roberts, 2015]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) — Post-exercise cold water immersion attenuates mTOR anabolic signaling; 4–6h separation from lifting required
+- [[Murphy, 1997]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) — Nighttime body temperature drop as physiological sleep trigger; validates evening sauna protocol
+- [[Mawhinney, 2017]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration) — Cold water immersion cools muscle and core more effectively than whole-body cryotherapy
+- [[Kass, 2017]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Transdermal magnesium absorption from Epsom salt baths; local muscle relaxation
+- [[Waring, 2004]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Epsom salt bathing raises plasma magnesium and sulfate levels

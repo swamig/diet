@@ -10,8 +10,8 @@ priority: 'rotation'
 Purple sweet potatoes (Stokes, Okinawan, or Purple Murasaki) are utilized in this protocol as a high-performance "Elite Starch." They provide a unique synergy of complex carbohydrates and concentrated antioxidant pigments.
 
 ## Active Compounds
-*   **Anthocyanins (Cyanidins & Peonidins):** These provide the deep purple color and are up to 3x more concentrated in these tubers than in blueberries. They act as potent scavengers of reactive oxygen species (ROS) and support DNA integrity [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
-*   **Resistant Starch (RS3):** When prepared using the Double-Chill protocol, the starches realign into crystalline structures that resist digestion, lowering the glycemic response by ~40% [[7]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+*   **Anthocyanins (Cyanidins & Peonidins):** These provide the deep purple color and are up to 3x more concentrated in these tubers than in blueberries [[Teow et al., 2007]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling). They act as potent scavengers of reactive oxygen species (ROS) and support DNA integrity [[13]](../../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention). Anthocyanins in purple sweet potato are particularly stable due to acylation, retaining >80% payload after 15 days at 4°C [[Zhao et al., 2019]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
+*   **Resistant Starch (RS3):** When prepared using the Double-Chill protocol, the starches realign into crystalline structures that resist digestion, lowering the glycemic response by ~40% [[7]](../../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## Protocol Role
 *   **The Starch Swap:** Functions as a 1:1 replacement for Quinoa or Chickpeas to provide culinary variety without losing the RS3 prebiotic signal.
@@ -46,7 +46,7 @@ Do NOT freeze raw sweet potato. Ice crystals shred the cell walls; the result is
 *   **Whole roasted halves** — easiest to prep, thaw overnight in fridge, dice cold for Chaat Base.
 *   **Pre-diced cubes** — best if you know you'll use the Chaat Base execution; skip the cold dicing step entirely.
 
-**The triple retrograde bonus:** Cook → 24h fridge (RS3 cycle 1) → freeze → thaw in fridge overnight (RS3 cycle 2 via additional crystallization). This sequence produces denser RS3 than a single chill alone.
+**The triple retrograde bonus:** Cook → 24h fridge (RS3 cycle 1) → freeze → thaw in fridge overnight (RS3 cycle 2 via additional crystallization). This sequence produces denser RS3 than a single chill alone. Freezing after cooking also disrupts cell walls already, preventing anthocyanin leaching on thaw [[DOAJ, 2022]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 
 **Shelf life frozen:** 3–4 months.
 
@@ -56,3 +56,9 @@ Do NOT freeze raw sweet potato. Ice crystals shred the cell walls; the result is
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [The Protocol Quinoa Rice](../05-practical/protocol-quinoa.md)
 - [Master Citations (Anthocyanins)](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)
+
+## References
+
+- [[Teow et al., 2007]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Purple-fleshed sweet potatoes possess higher antioxidant capacity and anthocyanin content (peonidin & cyanidin) than blueberries.
+- [[Zhao et al., 2019]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Acylated anthocyanins in purple sweet potato resist hydrolysis; >80% retention after 15 days at 4°C validates cook-chill-freeze protocol.
+- [[DOAJ, 2022]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Ice crystal formation during slow freezing ruptures cell walls causing anthocyanin leaching; mitigated by cooking before freezing skin-on.

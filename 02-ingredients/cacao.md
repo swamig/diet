@@ -16,11 +16,12 @@ priority: 'rotation'
 
 ## Mechanism of Action
 
-Cacao:
+Cacao [[Johnson et al., 2011]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling):
 
-*   Enhances **nitric oxide signaling**
+*   Enhances **nitric oxide signaling** (epicatechin-mediated)
 *   Improves **endothelial function**
-*   **Mild stimulant effect**
+*   Modulates **oxidative stress** (anthocyanin flavanols)
+*   **Mild stimulant effect** (theobromine)
 *   Provides **magnesium**
 
 ## Risks and Constraints
@@ -72,3 +73,7 @@ This ingredient is functionally integrated into the following protocol meals:
 - [Heavy Metal Mitigation (Cacao)](../04-advanced-control/heavy-metals.md)
 - [Supplement Cycling & Management](../04-advanced-control/supplement-cycling.md)
 - [Ingredient Conflict Matrix](../07-appendices/ingredient-conflict-matrix.md)
+
+## References
+
+- [[Johnson et al., 2011]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — Anthocyanins and flavanols in cacao modulate oxidative stress and support neurocognitive function.
