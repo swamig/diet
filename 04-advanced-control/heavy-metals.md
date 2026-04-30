@@ -79,7 +79,8 @@ Microplastics that have already entered circulation generate oxidative stress an
 | 07:00 | Jaljeera with psyllium | Viscous fiber sweep |
 | 12:00 | Samosa (any variant) | RS3 fiber binding |
 | 12:00 | Tamarind chutney (1 cube, thawed) | Pectin binding |
-| 14:30 | Salad with broccoli sprouts + cilantro | **Sulforaphane/NRF2 (daily)**, chelation, polyphenols |
+| 12:00 | **1–2 Brazil nuts** | Selenium — displaces mercury from tissue binding sites |
+| 14:30 | Salad with broccoli sprouts + cilantro | **Sulforaphane/NRF2 (daily)**, cilantro chelation (Hg/Pb/As), polyphenols |
 | 17:50 | Aambali | RS3 + probiotic gut barrier repair |
 
 ---

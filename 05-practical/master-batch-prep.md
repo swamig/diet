@@ -139,6 +139,7 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 | Walnuts | **~200g** |
 | Raw cacao nibs | **~250g** |
 | Basil seeds (sabja) | **~100g** |
+| Brazil nuts | 1–2/day × 90 days = **~90–180 nuts (~400–800g)** — selenium/heavy metal chelation, eat with 12:00 meal |
 
 *Topical dry jars (make once, refill monthly from bulk stock):*
 
