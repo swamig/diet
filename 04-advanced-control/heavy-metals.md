@@ -85,6 +85,73 @@ Microplastics that have already entered circulation generate oxidative stress an
 
 ---
 
+## 6. Chelation Cycling Logic
+
+### The Core Risk: Mobilization Without Excretion (Redistribution)
+
+Chelators like cilantro mobilize heavy metals from deep tissue into circulation. If gut binding capacity is insufficient at that moment, mobilized metals can **re-deposit in other tissues** — sometimes worse ones (brain, kidneys). This is redistribution toxicity.
+
+**At food doses, this risk is low** — 1/4 cup cilantro mobilizes slowly. The daily binding stack (tamarind at 12:00 → Aambali LAB at 17:50) is matched to food-dose mobilization. Continuous daily use is safe and preferable to pulsing at this level, because metals recirculate via bile every day and need to be caught every day.
+
+**At supplement doses, cycling becomes mandatory.**
+
+---
+
+### Cycling Rules by Element
+
+| Element | Dose in Protocol | Cycling needed? | Rule |
+|---|---|---|---|
+| Brazil nuts (1–2/day) | Food dose — ~70–90mcg selenium | No | Run continuously. Safe within RDA. |
+| Tamarind chutney | Food dose — passive binder | No | Run continuously. |
+| Aambali LAB | Food dose — daily gut repair | No | Run continuously. |
+| Cilantro (1/4 cup) | Food dose — slow mobilizer | No | Run continuously. |
+| **Chlorella (supplement)** | Supplement dose — strong binder | **Yes** | **3 weeks on, 1 week off.** |
+| High-dose cilantro supplement | Supplement dose — fast mobilizer | **Yes** | **Never without chlorella. 3 weeks on, 1 week off.** |
+
+---
+
+### The Monthly Detox Week (Amplified Stack)
+
+Once per month, run a dedicated detox week where chelation is the primary protocol goal. Use the week before your natural rest/deload week if possible.
+
+**What changes during Detox Week:**
+
+| Element | Standard daily | Detox Week |
+|---|---|---|
+| Cilantro | 1/4 cup in salad | 1/2 cup in salad + add to Jaljeera |
+| Tamarind chutney | 1 cube (12:00) | 1 cube (12:00) + 1 cube (17:50 with Aambali) |
+| Brazil nuts | 1–2/day | 2/day (stay at upper end) |
+| Chlorella *(if available)* | Optional | **3–5g/day with 14:30 salad** — catches mobilized metals cilantro releases |
+| Water | Standard | +500ml/day — kidneys need extra volume for excretion |
+| Sauna | Per thermal-hormesis.md schedule | Prioritize — sweat is a direct excretion route |
+
+**What stays the same:** all regular protocol elements (samosa, Aambali, fiber, spice stack). Detox Week is additive, not a replacement.
+
+---
+
+### The Redistribution Safeguard
+
+If you run Detox Week **without chlorella**, follow this sequencing rule to prevent redistribution:
+
+1. **Tamarind chutney first** (12:00) — pre-load gut binding capacity
+2. **Cilantro 30+ min after eating** — mobilization happens after binding is already in place
+3. **Aambali at 17:50** — final LAB catch for anything mobilized during the afternoon
+4. **Never fast on Detox Week** — fasting reduces bile flow and gut binding capacity. Keep all meal windows.
+
+---
+
+### Chlorella: If You Add It
+
+Chlorella is the strongest food-based binder for deep-tissue metals — more potent than tamarind pectin, and also binds microplastics. It is the missing piece that upgrades this protocol from "food-dose mitigation" to "active deep-tissue clearance."
+
+- **Dose:** 3–5g/day (tablet or powder)
+- **Timing:** With the 14:30 salad (after cilantro has had time to mobilize)
+- **Cycle:** 3 weeks on, 1 week off — liver and kidneys need recovery
+- **Sourcing:** Must be **broken cell wall** chlorella for bioavailability. Brands: Sun Chlorella, NOW Foods Chlorella.
+- **Side effects in first week:** Loose stools, fatigue — normal detox response, reduce dose if severe
+
+---
+
 ## Evidence Status
 
 - **General physiology:** The interaction and load-management ideas on this page are used as conservative operating guidance inside this protocol.
@@ -109,3 +176,5 @@ Microplastics that have already entered circulation generate oxidative stress an
 - [Cilantro - Heavy Metal Chelation and Antioxidant Support](../02-ingredients/cilantro.md)
 - [Tamarind Chutney (Imli-Khajur)](../05-practical/tamarind-chutney.md)
 - [Container System (Microplastic Exposure Reduction)](../05-practical/container-system.md)
+- [Protocol Aambali §7 — Detox Mechanisms](../05-practical/protocol-aambali.md#7-heavy-metal--microplastic-detox-mechanisms)
+- [Thermal Hormesis (Sauna as Excretion Route)](../05-practical/thermal-hormesis.md)
