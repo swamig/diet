@@ -54,6 +54,37 @@ If you must consume Aambali at 12:00 (e.g., to balance out an extremely spicy *P
 *   **The Hack:** Instead of using yogurt as the fermentation starter, whisk a splash of water and the contents of **one high-quality vegan probiotic capsule** (or a splash of raw sauerkraut brine) directly into the chilled ragi paste.
 *   **The Result:** After the 12-hour ferment, you receive the RS3, the lactic acid, and the gut-seeding probiotics, but with **zero calcium**. The lactic acid will actually *enhance* your 12:00 iron absorption rather than blocking it [[Sameh, 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
 
+## 7. Heavy Metal & Microplastic Detox Mechanisms
+
+Aambali is the **final detox anchor** of the day, operating through four distinct mechanisms that no other protocol element delivers simultaneously.
+
+| Mechanism | Active Component | Target | Citation |
+|---|---|---|---|
+| **Gut barrier repair** | RS3 → butyrate → tight junction upregulation (claudin-1, occludin, ZO-1) | Reduces ongoing translocation of microplastics and metals through gut wall | [[Birt, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) [[Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| **LAB heavy metal sequestration** | Live *Lactobacillus* cell walls (teichoic acids, peptidoglycan) are negatively charged — physically bind Cd²⁺, Pb²⁺, Hg²⁺ in gut lumen | Prevents intestinal absorption of heavy metals during overnight fast | [[Monachese, 2012]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) [[Nout, 2009]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| **Zinc bioavailability (cadmium/lead competition)** | Phytate degradation via fermentation → zinc more bioavailable from ragi | Adequate zinc competes with Cd²⁺ and Pb²⁺ at shared intestinal transporters | [[Nout, 2009]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) [[Shobana, 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
+| **Glutathione precursors** | Pea protein scoop → cysteine + methionine → endogenous glutathione synthesis | Glutathione is the primary intracellular chelator for Hg, Cd, As | [[Gorissen, 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) |
+
+### Why the 17:50 Timing Is Critical for Detox
+
+The 16-hour fasting window that begins at 17:50 is not just a metabolic event — it is the primary detox window:
+
+- **No competing food** in the gut means the LAB have uninterrupted access to any residual heavy metal ions recirculating via bile
+- **Overnight gut barrier repair** (tight junctions rebuilt during sleep) means each morning you wake with a lower translocation rate than the night before
+- **The cumulative effect** is a progressively stronger gut wall over the 90-day protocol — microplastic and metal systemic load decreases daily
+
+### Aambali's Position in the Full Daily Detox Stack
+
+| Time | Element | Mechanism |
+|---|---|---|
+| 07:00 | Jaljeera + psyllium | Viscous fiber sweep, motility |
+| 12:00 | Tamarind chutney | Pectin binds metals/microplastics |
+| 12:00 | 1–2 Brazil nuts | Selenium displaces mercury from tissue |
+| 14:30 | Cilantro + broccoli sprouts (salad) | Chelation mobilization + NRF2/glutathione |
+| **17:50** | **Aambali** | **LAB sequestration + RS3 butyrate + gut barrier repair** |
+
+---
+
 ## Related Pages
 - [Resistant Starch Cycling](../01-foundations/05-resistant-starch.md)
 - [Functional Indian Formats](functional-indian-formats.md)
@@ -69,3 +100,5 @@ If you must consume Aambali at 12:00 (e.g., to balance out an extremely spicy *P
 - [[Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) Lattimer, J. M., & Haub, M. D. "Effects of Dietary Fiber and Its Components on Metabolic Health." *Nutrients*, 2010. (RS3 as prebiotic; improved insulin sensitivity and gut hormone signaling)
 - [[Zijp, 2000]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) Zijp et al. "Effect of tea and other dietary factors on iron absorption." *Critical Reviews in Food Science and Nutrition*, 2000. (Calcium-dairy blockade of non-heme iron; basis of 12:00 Iron Gate rule)
 - [[Sameh, 2020]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule) Sameh, M., et al. "Lemon Juice, Sesame Paste, and Autoclaving Influence Iron Bioavailability of Hummus." *PMC*, 2020. (Lactic acid/acidic environment enhances iron bioaccessibility)
+- [[Monachese, 2012]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) Monachese, M., et al. "Bioremediation and Tolerance of Humans to Heavy Metals through Microbial Processes: a Potential Role for Probiotics." *Applied and Environmental Microbiology*, 2012. (LAB cell walls bind Cd²⁺, Pb²⁺, Hg²⁺ in gut lumen; biological sequestration mechanism)
+- [[Gorissen, 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling) Gorissen, S. H. M., et al. "Protein content and amino acid composition of commercially available plant-based protein isolates." *Amino Acids*, 2018. (Pea protein cysteine/methionine as glutathione precursors for endogenous heavy metal chelation)

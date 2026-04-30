@@ -83,6 +83,9 @@ Nitric oxide emphasis.
 *   **1-2 Thai Bird’s Eye Chilies**
 *   **Fresh Peppermint Leaves** (Mentha arvensis) [11](../../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 
+**Micro-Nutrient Stack (Take with meal):**
+*   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin, **1–2 Brazil nuts** (selenium — heavy metal chelation support).
+
 **Instructions:**
 1.  **Smash & Rest:** Crush garlic cloves; set aside for 10 min to activate allicin [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 2.  **Lauki Prep (Optional):** Peel Lauki and **taste a raw slice** (if bitter, discard the whole gourd!). Grate and toss with Kala Namak. Let sit for 2 min. Press hard through a **fine mesh strainer** using a spoon to extract all juice (drink the juice!). 

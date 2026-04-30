@@ -81,7 +81,7 @@ Microplastics that have already entered circulation generate oxidative stress an
 | 12:00 | Tamarind chutney (1 cube, thawed) | Pectin binding |
 | 12:00 | **1–2 Brazil nuts** | Selenium — displaces mercury from tissue binding sites |
 | 14:30 | Salad with broccoli sprouts + cilantro | **Sulforaphane/NRF2 (daily)**, cilantro chelation (Hg/Pb/As), polyphenols |
-| 17:50 | Aambali | RS3 + probiotic gut barrier repair |
+| 17:50 | Aambali | LAB cell walls sequester Cd²⁺/Pb²⁺/Hg²⁺ + RS3 → butyrate → gut barrier repair — see [Protocol Aambali §7](../05-practical/protocol-aambali.md#7-heavy-metal--microplastic-detox-mechanisms) |
 
 ---
 

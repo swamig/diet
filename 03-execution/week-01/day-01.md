@@ -79,7 +79,7 @@ Establish anti-inflammatory baseline + vascular support.
 *   Pinch sea salt
 
 **Micro-Nutrient Stack (Take with meal):**
-*   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin.
+*   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin, **1–2 Brazil nuts** (selenium — heavy metal chelation support).
 
 **Instructions:**
 1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min) [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).

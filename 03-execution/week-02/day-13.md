@@ -76,6 +76,9 @@ Controlled nitric support + sulfur continuity.
 *   1/4 tsp black pepper
 *   **1/4 tsp nigella** (Moderate antimicrobial)
 
+**Micro-Nutrient Stack (Take with meal):**
+*   Omega-3, Vitamin D3, Vitamin C, Daily Multivitamin, **1–2 Brazil nuts** (selenium — heavy metal chelation support).
+
 **Instructions:**
 1.  **Allicin Prep:** Crush 1-2 cloves garlic (rest 10 min) [3](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 2.  **The Bloom:** Heat oil in pan; add rested garlic and Daily Spice Jar.
