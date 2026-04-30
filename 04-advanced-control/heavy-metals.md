@@ -63,7 +63,7 @@ Microplastics that have already entered circulation generate oxidative stress an
 
 | Mechanism | Protocol Element |
 |---|---|
-| **NRF2 activation** | Sulforaphane (Variant C samosa with broccoli sprouts) [[Dinkova-Kostova & Talalay, 2008]](../07-appendices/master-citations.md#4-sulforaphane--nrf2-pathway) |
+| **NRF2 activation** | Sulforaphane — **primary source: broccoli sprouts in the 14:30 Daily Salad Layer** (daily, every day) [[Dinkova-Kostova & Talalay, 2008]](../07-appendices/master-citations.md#4-sulforaphane--nrf2-pathway); secondary: Variant C samosa on cardio/recovery days |
 | **Polyphenol antioxidant load** | EGCG (matcha), curcumin (turmeric), quercetin (cilantro, onion) — reduce oxidative damage from microplastic-induced ROS |
 | **Gut barrier integrity** | RS3 → butyrate → tight junction repair — reduces ongoing translocation [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
 
@@ -77,9 +77,9 @@ Microplastics that have already entered circulation generate oxidative stress an
 | Time | Action | Mechanism |
 |---|---|---|
 | 07:00 | Jaljeera with psyllium | Viscous fiber sweep |
-| 12:00 | Samosa (Variant C on cardio days) | RS3 + sulforaphane |
+| 12:00 | Samosa (any variant) | RS3 fiber binding |
 | 12:00 | Tamarind chutney (1 cube, thawed) | Pectin binding |
-| 14:30 | Salad with cilantro | Chelation, polyphenols |
+| 14:30 | Salad with broccoli sprouts + cilantro | **Sulforaphane/NRF2 (daily)**, chelation, polyphenols |
 | 17:50 | Aambali | RS3 + probiotic gut barrier repair |
 
 ---
