@@ -102,7 +102,41 @@ Replace dates with jaggery for a thinner, more traditional consistency.
 
 ---
 
-## 6. 3-Month Batch Scaling
+## 6. Vitamix Sizing — 3-Month Batch (Do Twice)
+
+The ×3 single batch is the ideal Vitamix load — one run fills the container correctly and produces ~48 cubes. **Do it twice** for the full 3-month supply (~96 cubes).
+
+**Per Vitamix run (×3 single batch):**
+
+| Ingredient | Amount |
+|---|---|
+| Medjool dates (pitted) | **30–36 dates (~600g)** |
+| Water | **4.5 cups** |
+| Fresh ginger (blend in with dates) | **5 tsp grated (~5–6 inch knob)** |
+
+Blend dates + water + ginger until completely smooth. Pour into saucepan, add tamarind + spices, cook down 15–20 min.
+
+| Ingredient | Amount |
+|---|---|
+| Tropica concentrated tamarind | **9 tbsp (~1/3 jar)** |
+| Salt | **1 tbsp** |
+| Black salt | **1.5 tsp** |
+| Roasted cumin powder | **2 tbsp** |
+| Star anise ground *(or fennel)* | **~1/4 tsp *(or 1.5 tsp)*** |
+| Red chili powder | **1.5 tsp** |
+| Cinnamon | **3/4 tsp** |
+| Black pepper | **3/4 tsp** |
+| Hing | **3/8 tsp** |
+| Turmeric | **1/4 tsp** |
+
+**Output per run:** ~48 cubes
+**× 2 runs:** ~96 cubes = 3-month supply (1/3 jar tamarind per run, 2/3 jar total) ✓
+
+> See [3-Week Batch Session](three-week-batch.md) for cilantro and coconut chutney batching.
+
+---
+
+## 7. 3-Month Batch Scaling (Reference Table)
 
 Scale ×6 for a full 90-day supply (~96 cubes, 1/day with slight buffer).
 
