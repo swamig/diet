@@ -114,11 +114,29 @@ Replaces both ghee and yogurt in one ingredient — sour cream is fermented crea
 7. **Ferment 3–4 hours room temp** or overnight fridge (maximum gliadin reduction)
 8. Portion into **5 equal balls**, flatten into disks (~1 inch thick)
 9. Wrap each in parchment → zip-lock, press out air
-10. Label: `Option 1 Sour Cream — [date]` — **freeze up to 2 months**
+10. Label: `Option 1 Sour Cream — [date] — use by [date +3 weeks]`
+11. **Freeze — peak quality 3 weeks, maximum 6 weeks**
 
 **Dough is ready when:** smooth, slightly tacky, springs back slowly when poked.
 
-**6-week supply (24 balls) = 4 KitchenAid runs** at 6 balls max, or **5 runs at 5 balls** (conservative). Split across 3 prep sessions (8 balls / 2 runs each, every 2 weeks).
+**Why sour cream dough freezes shorter than plain dough:**
+Sour cream contains water + milk proteins + lactose — unlike ghee (pure anhydrous fat), these form ice crystals that gradually damage the gluten network. The 2-month freeze life of plain avocado oil dough does not apply here.
+
+| Freeze window | Quality |
+|---|---|
+| 0–3 weeks | Excellent — full flavor, supple on thaw |
+| 3–5 weeks | Good — slight texture change |
+| 5–6 weeks | Acceptable — rolls fine, less supple |
+| Beyond 6 weeks | Not recommended |
+
+**6-week supply (24 balls) = 2 sessions of 2–3 KitchenAid runs, 3 weeks apart:**
+
+| Session | When | KitchenAid runs | Balls made | Covers |
+|---|---|---|---|---|
+| Session 1 | Prep day | 2–3 runs | 12 balls | Weeks 1–3 |
+| Session 2 | Week 3 | 2–3 runs | 12 balls | Weeks 4–6 |
+
+Each session: 2 runs of 5 balls (conservative) = 10 balls, or 2 runs of 6 = 12 balls.
 
 **Not vegan.** Use full-fat sour cream for best LAB density and fat content.
 
