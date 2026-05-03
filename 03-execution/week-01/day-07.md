@@ -32,10 +32,11 @@ Parasympathetic tone + reset.
 ## Macros & Calorie Math (Estimated)
 | Meal Window | Calories | Protein | Fat | Carbs | Fiber |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~650 kcal | 42g | 24g | 45g | 20g |
+| **12:00 Main Meal** | ~750 kcal | 43g | 31g | 51g | 23g |
 | **14:30 Salad Layer** | ~350 kcal | 7g | 18g | 35g | 10g |
 | **17:50 Recovery Bowl** | ~440 kcal | 70g | 6g | 10g | 3g |
-| **DAILY TOTAL** | **1,440 kcal** | **119g** | **48g** | **90g** | **33g** |
+| **DAILY TOTAL** | **1,540 kcal** | **120g** | **55g** | **96g** | **36g** |
+| *† Coconut chutney swap (optional): +1 cube at 12:00, −1 tbsp oil at 14:30 = net −30 kcal, −7g fat* | | | | | |
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga

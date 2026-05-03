@@ -32,10 +32,11 @@ High fiber recalibration.
 ## Macros & Calorie Math (Estimated)
 | Meal Window | Calories | Protein | Fat | Carbs |
 | :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~850 kcal | 49g | 28g | 68g |
+| **12:00 Main Meal** | ~950 kcal | 50g | 35g | 74g |
 | **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g |
 | **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g |
-| **DAILY TOTAL** | **1,950 kcal** | **146g** | **66g** | **118g** |
+| **DAILY TOTAL** | **2,050 kcal** | **147g** | **73g** | **124g** |
+| *† Coconut chutney swap (optional): +1 cube at 12:00, −1 tbsp oil at 14:30 = net −30 kcal, −7g fat* | | | | |
 
 ## Timing
 *   **18:30** – Sauna (15–20 min) [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration)

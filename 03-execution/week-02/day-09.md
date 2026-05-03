@@ -34,10 +34,11 @@ Nigella day - Controlled antimicrobial exposure.
 ## Macros & Calorie Math (Estimated)
 | Meal Window | Calories | Protein | Fat | Carbs |
 | :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~745 kcal | 45g | 28g | 50g |
+| **12:00 Main Meal** | ~845 kcal | 46g | 35g | 56g |
 | **14:30 Salad Layer** | ~400 kcal | 7g | 18g | 40g |
 | **17:50 Recovery Bowl** | ~440 kcal | 70g | 6g | 10g |
-| **DAILY TOTAL** | **1,585 kcal** | **122g** | **52g** | **100g** |
+| **DAILY TOTAL** | **1,685 kcal** | **123g** | **59g** | **106g** |
+| *† Coconut chutney swap (optional): +1 cube at 12:00, −1 tbsp oil at 14:30 = net −30 kcal, −7g fat* | | | | |
 
 ## Timing
 *   **18:30** – Sauna (15–20 min) [2](../../07-appendices/master-citations.md#2-thermal-hormesis--training-integration)

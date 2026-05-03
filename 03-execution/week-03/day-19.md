@@ -32,10 +32,11 @@ Mitochondrial + moderate nitric support.
 ## Macros & Calorie Math (Estimated)
 | Meal Window | Calories | Protein | Fat | Carbs | Fiber |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **12:00 Main Meal** | ~800 kcal | 50g | 28g | 60g | 12g |
+| **12:00 Main Meal** | ~900 kcal | 51g | 35g | 66g | 15g |
 | **14:30 Salad Layer** | ~540 kcal | 7g | 32g | 40g | 12g |
 | **17:50 Recovery Bowl** | ~560 kcal | 90g | 6g | 10g | 3g |
-| **DAILY TOTAL** | **1,900 kcal** | **147g** | **66g** | **110g** | **27g** |
+| **DAILY TOTAL** | **2,000 kcal** | **148g** | **73g** | **116g** | **30g** |
+| *† Coconut chutney swap (optional): +1 cube at 12:00, −1 tbsp oil at 14:30 = net −30 kcal, −7g fat* | | | | | |
 
 ## Timing
 *   **06:30** – Morning Walk (Light) OR Restorative Yoga
