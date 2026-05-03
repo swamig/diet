@@ -23,6 +23,8 @@ Ayurvedic topical ingredients operate on the same signaling logic as the dietary
 | Turmeric | Tiny pinch only | Yes | Yes | Anti-inflammatory, anti-acne, brightening. **Stains hair yellow — 1/8 tsp max for hair or omit entirely** |
 | Besan (chickpea flour) | **No** | Yes | Yes | Exfoliant, oil absorption. Too drying for hair shaft |
 | Rose water | No | Yes | Optional | pH balancing toner, anti-inflammatory |
+| Curry leaf powder (air-dried) | Yes | No | No | Carbazole alkaloids — antifungal (anti-dandruff), follicle strengthening, anti-greying. Gentler than neem — year-round use |
+| Bay leaf powder (tejpatta) | No | Yes | No | Eugenol — antimicrobial, anti-acne (COX-2/NF-κB inhibition topically). Use at ¼ tsp max — mild sensitizer at high dose |
 
 ---
 
@@ -97,6 +99,7 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 
 **Dry Hair Mix jar:**
 *   4 tbsp Amla powder
+*   **1 tsp Curry Leaf Powder** (air-dried kadi patta — year-round; antifungal, follicle strengthening, anti-greying)
 *   4 tbsp **rotating powder** — 3-month cycle:
     - Month 1: Brahmi (Bacopa monnieri) — reduces scalp inflammation, strengthens shaft
     - Month 2: Bhringraj (Eclipta alba) — stimulates follicles, reduces shedding
@@ -108,6 +111,7 @@ All three protocols share the same architecture: **pre-mixed dry jars + frozen w
 *   4 tbsp Besan (chickpea flour)
 *   2 tbsp Amla powder
 *   1 tsp Turmeric
+*   **¼ tsp Bay Leaf Powder** (tejpatta — eugenol antimicrobial, anti-acne; do not exceed ¼ tsp per jar — sensitizer at high dose)
 *   Mix and store in a labeled airtight glass jar.
 
 **Dry Body Mix jar:**
@@ -162,6 +166,8 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 | Bhringraj powder | 100g | Hair dry mix (alternate monthly with brahmi) |
 | Besan (chickpea flour) | 300g | Face + body dry mixes |
 | Turmeric | 30g | Face + body dry mixes |
+| **Curry leaf powder (air-dried)** | **30g** | **Hair dry mix — year-round** |
+| **Bay leaf powder (tejpatta)** | **15g** | **Face dry mix — year-round** |
 | Fenugreek seeds | 250g | Hair paste cubes (monthly batches) |
 | Aloe vera (fresh leaves) | 5–6 large leaves | All three protocols |
 | Coconut oil | 300ml | Hair + body |
@@ -170,6 +176,7 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 
 *Hair jar (makes ~3 months supply in bulk):*
 - 12 tbsp Amla powder
+- 3 tsp Curry Leaf Powder (air-dried — year-round addition)
 - 12 tbsp Brahmi or Bhringraj powder (alternate each refill)
 - 6 tbsp dry Fenugreek powder (backup only)
 - Store in a large airtight jar. Scoop into a small working jar monthly.
@@ -178,6 +185,7 @@ Make the dry jars and aloe cubes together in a single session (~20 min).
 - 12 tbsp Besan
 - 6 tbsp Amla powder
 - 1 tbsp Turmeric
+- ¾ tsp Bay Leaf Powder (tejpatta — do not exceed)
 - Store in a large airtight jar.
 
 *Body jar (makes ~3 months supply in bulk):*
