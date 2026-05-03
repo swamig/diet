@@ -99,7 +99,7 @@ Eliminates daily and weekly cooking. One session every 3 months — cook, double
 | **Whole millet → wet batter** | Soak 4–8h → drain → blend with fresh water in wet Vitamix | No dry container needed; produces smooth batter; works identically in cooking |
 | **Whole millet → dry flour** | Spice grinder, ½ cup per run | ~40 runs for full batch — not practical at scale |
 
-> **Note:** If using the wet batter method, skip the "whisk flour into cold water" step — the batter already has water integrated. Blend 1 cup soaked millet + 3 cups water → smooth batter → cook directly. One Vitamix run handles ~2–3 servings at a time.
+> **Wet batter Vitamix sizing:** The Vitamix is used only for blending, not cooking. Use **2 cups dry millet per Vitamix run** → soak → drain → blend with 2 cups water until smooth → pour into pot → add remaining 12–14 cups water → cook. Two Vitamix runs fills one pot batch. Full 3-month batch (20 cups millet) = 10 Vitamix runs + 5 cook sessions.
 
 ---
 
@@ -109,17 +109,26 @@ Eliminates daily and weekly cooking. One session every 3 months — cook, double
 
 Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't thicken evenly):
 
-| Per pot | Yield |
-|---|---|
-| 4 cups ragi flour | ~18–20 servings |
-| 14–16 cups cold water | Adjust water for thicker/thinner |
-| Total: 5 pots | ~90–100 cubes |
+| Per pot | Flour method | Wet batter method |
+|---|---|---|
+| Millet | 4 cups ragi flour | 4 cups dry whole millet (soaked overnight, drained) |
+| Vitamix runs | — | 2 runs × 2 cups millet + 2 cups water each |
+| Total water in pot | 14–16 cups cold | 12–14 cups (grain already absorbed some) |
+| Yield | ~18–20 servings | ~18–20 servings |
+| **Total: 5 pots** | | **~90–100 cubes** |
 
-**Per-pot method:**
+**Flour method (per pot):**
 1. Whisk 4 cups ragi flour into 4 cups cold water until smooth (no lumps)
 2. Add remaining 10–12 cups cold water, whisk again
-3. Bring to medium heat, stir constantly — paste will thicken in 8–12 min
+3. Bring to medium heat, stir constantly — paste thickens in 8–12 min
 4. Cook until glossy and pulls away from pan edges slightly
+5. Remove from heat
+
+**Wet batter method (per pot):**
+1. Blend **2 cups soaked, drained millet + 2 cups water** in Vitamix — 60 sec until completely smooth
+2. Pour into pot. Repeat with second 2-cup batch → pour into same pot
+3. Add 10–12 more cups water, stir to combine
+4. Bring to medium heat, stir constantly until thick and glossy — 8–12 min
 5. Remove from heat
 
 ---
@@ -170,6 +179,8 @@ Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't
 |---|---|
 | Silicone muffin mold (standard 12-cup) | ~½ cup per cavity — exact serving size |
 | Large pot (8–10 qt) | Handles 4 cups flour + 14–16 cups water without splatter |
+| Vitamix (wet blade) | Wet batter method: blend 2 cups soaked millet + 2 cups water per run |
+| Large bowl or second container | Soak 4–8 cups millet overnight before each cook session |
 | Zip-lock bags × 5 | One per pot batch, labeled |
 | Glass containers (3–4) | Fridge chill phase before portioning |
 
