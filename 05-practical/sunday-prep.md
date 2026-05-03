@@ -113,7 +113,7 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration to remove m
 
 *   **7-Day Podi Batch (Choose One to dry roast & grind):** 
     *   *Hormonal Buffer Podi:* 7 tbsp Flaxseeds (dry roasted) + 2 tbsp Moringa powder + 1 tsp Cumin + 1 dried red chili + pinch of sea salt.
-    *   *Vascular Podi:* 7 tbsp Sesame Seeds (roasted) + 1 cup fresh Curry Leaves (roasted until crisp) + 1 tsp Cumin + 2 dried red chilies + 1/2 tsp Black Salt.
+    *   *Vascular Podi:* 7 tbsp Sesame Seeds (roasted) + **1 tsp Curry Leaf Powder** (air-dried/kadi patta powder — do NOT roast fresh leaves; carbazole alkaloids degrade) + **¼ tsp Bay Leaf Powder** (tejpatta; eugenol NF-κB inhibition + rutin vascular support + insulin sensitization [[Khan 2009]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling)) + 1 tsp Cumin + 2 dried red chilies + ½ tsp Black Salt.
     *   *Storage:* Grind and store in a mini airtight glass jar.
 *   **7-Day Imlee (Tamarind) Paste (Concentrate Version):** 
     *   *The Mix:* Whisk 3-4 tbsp of Tamarind Concentrate into 1/2 cup of warm water until smooth (syrup consistency). If extremely tart, add 1 tsp Apple Cider Vinegar. 

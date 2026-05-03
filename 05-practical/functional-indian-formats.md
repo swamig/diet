@@ -65,7 +65,7 @@ Roasted and ground spice/seed/lentil mixtures (Podis) are excellent for consolid
         *   *Choose Sesame* for vascular elasticity and mineral density. **Conflict Warning:** Best used on non-cacao days; do not stack with chia on the same day.
         *   *Choose Flaxseed* when managing hormonal load (e.g., synergizing with tofu) or balancing estrogen/androgen fluctuations. Roasted flaxseeds provide lignans that stimulate hepatic SHBG synthesis, providing a natural buffer against rapid hormonal fluctuations [[Adlercreutz 2007]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling).
 *   **Elite Combinations:**
-    *   *The Vascular Podi:* Roasted Sesame Seeds + Curry Leaves + Dried Red Chili + Cumin + Black Salt (Kala Namak).
+    *   *The Vascular Podi:* Roasted Sesame Seeds + **Curry Leaf Powder** (air-dried kadi patta — not roasted fresh leaves) + **Bay Leaf Powder** (¼ tsp; eugenol + rutin vascular stack) + Dried Red Chili + Cumin + Black Salt (Kala Namak). See [Sunday Prep Block 5b](sunday-prep.md#block-5b-podis--chutneys-15-min) for exact quantities.
     *   *The Hormonal Buffer Podi (Moringa & Flaxseed):* Roasted flaxseeds provide lignans (which increase SHBG to buffer excess estrogen/androgen fluctuations, synergizing with the Tofu ceiling). Blended with Moringa powder (minerals) and dried garlic.
 
 ## 3. Lentil Balls / Wadis / Koftas (Starch Anchors)
