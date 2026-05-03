@@ -71,7 +71,9 @@ Curry leaves contain volatile carbazole alkaloids [[Balakrishnan, 2020]](../07-a
 
 Never skip this — it is what makes the chutney taste alive rather than flat.
 
-### Per serving (2 cubes thawed):
+### Per serving (1–2 cubes thawed):
+
+> These tadka amounts are the functional minimum regardless of whether you use 1 or 2 cubes — do not halve for a single cube.
 
 | Ingredient | Amount |
 |---|---|
