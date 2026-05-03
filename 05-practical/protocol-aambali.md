@@ -31,6 +31,8 @@ You do **not** cook the porridge every day. You batch-cook the starch base on Su
 1.  **The Master Cook:** Whisk 1 cup of Ragi flour into 3-4 cups of cold water until smooth. Bring to a boil on medium heat, stirring constantly until it thickens into a glossy, heavy paste. 
 2.  **The First Chill:** Remove from heat, spread into a glass container, and refrigerate. This dense paste will last up to 5 days and develop maximum RS3 density [[PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
+> **3-Month Freeze Batch:** For a full 90-day supply, see [Section 8](#8-3-month-batch-prep) — cook → fridge 24h (Double-Chill) → portion into silicone muffin molds → freeze. Same RS3 logic at scale.
+
 **The Daily Routine (Stage 2: The 12h Probiotic Bloom):**
 You do **not** ferment the entire week's batch at once, as it will turn excessively sour and the lactic acid bacteria will die off after consuming all the starch.
 1.  **Morning Prep (07:00):** Scoop ~1/2 cup of the chilled, solid Ragi paste into a bowl. Whisk it with a splash of water and **1/4 cup of Live-Culture Yogurt** until it reaches a buttermilk consistency.
@@ -82,6 +84,94 @@ The 16-hour fasting window that begins at 17:50 is not just a metabolic event �
 | 12:00 | 1–2 Brazil nuts | Selenium displaces mercury from tissue |
 | 14:30 | Cilantro + broccoli sprouts (salad) | Chelation mobilization + NRF2/glutathione |
 | **17:50** | **Aambali** | **LAB sequestration + RS3 butyrate + gut barrier repair** |
+
+---
+
+## 8. 3-Month Batch Prep
+
+Eliminates daily and weekly cooking. One session every 3 months — cook, double-chill, freeze into portioned cubes. Each cube = 1 complete serving base.
+
+### Whole Millet — Two Options
+
+| Option | Method | Notes |
+|---|---|---|
+| **Pre-ground ragi flour** *(recommended for 3-month batch)* | Buy from Indian grocery store | Same product; skips grinding entirely — practical for 20-cup batch |
+| **Whole millet → wet batter** | Soak 4–8h → drain → blend with fresh water in wet Vitamix | No dry container needed; produces smooth batter; works identically in cooking |
+| **Whole millet → dry flour** | Spice grinder, ½ cup per run | ~40 runs for full batch — not practical at scale |
+
+> **Note:** If using the wet batter method, skip the "whisk flour into cold water" step — the batter already has water integrated. Blend 1 cup soaked millet + 3 cups water → smooth batter → cook directly. One Vitamix run handles ~2–3 servings at a time.
+
+---
+
+### Batch Scaling
+
+**Total for 90 servings (3 months at 1/day):** 20 cups ragi flour (~2kg / ~4.4 lbs)
+
+Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't thicken evenly):
+
+| Per pot | Yield |
+|---|---|
+| 4 cups ragi flour | ~18–20 servings |
+| 14–16 cups cold water | Adjust water for thicker/thinner |
+| Total: 5 pots | ~90–100 cubes |
+
+**Per-pot method:**
+1. Whisk 4 cups ragi flour into 4 cups cold water until smooth (no lumps)
+2. Add remaining 10–12 cups cold water, whisk again
+3. Bring to medium heat, stir constantly — paste will thicken in 8–12 min
+4. Cook until glossy and pulls away from pan edges slightly
+5. Remove from heat
+
+---
+
+### The Double-Chill Sequence
+
+**Why Double-Chill:** RS3 crystallization completes at fridge temperature (4°C), not at room temp and not in the freezer. Freezing before the fridge chill locks the starch in a partially amorphous state — RS3 yield is significantly lower. The sequence is fridge first, freeze second.
+
+1. **Cook** → spread hot paste into glass containers (1–2 inch depth)
+2. **First Chill:** Refrigerate **24 hours** — RS3 crystallization completes
+3. **Portion:** Scoop ~½ cup chilled paste into silicone muffin molds
+4. **Add spice layer (optional):** Stir ½ tsp cumin powder + ¼ tsp black salt per cube directly into each mold before freezing
+   > *Black salt note: sulfurous smell when frozen is normal — not harmful, dissipates on thaw*
+5. **Freeze:** 4+ hours until solid
+6. **Transfer:** Pop cubes into labeled zip-lock bags
+
+**Label format:** `Aambali Base — [date] — use by [date +3 months]`
+
+---
+
+### What Goes In the Cube vs. What's Added Fresh
+
+| In the cube (freeze) | Added fresh at serving |
+|---|---|
+| Cooked ragi paste | ¼ cup live-culture yogurt (starter) |
+| Cumin powder ½ tsp *(optional)* | Pea protein scoop (25g) |
+| Black salt ¼ tsp *(optional)* | Fresh muddled peppermint |
+| | Cumin + black salt (if not in cube) |
+
+**Yogurt is never in the cube** — live LAB must be added fresh at 07:00 to reach peak bloom by 17:50. Freezing kills the cultures.
+
+---
+
+### Daily Use
+
+1. **07:00:** Pull 1 cube from freezer. Thaw at room temp (~30 min) or fridge overnight.
+2. Transfer to bowl, whisk with ¼ cup live-culture yogurt + splash of water to buttermilk consistency.
+3. Cover with breathable cloth. Ferment 10–12 hours at room temp in a dark spot.
+4. **17:50:** Stir in protein scoop, add muddled peppermint, drink immediately.
+
+> **RS3 ceiling:** Never heat the thawed cube above 130°F (54°C). Warming slightly (body temp) is fine; microwaving hot destroys the crystalline RS3 structure.
+
+---
+
+### Equipment Needed
+
+| Item | Purpose |
+|---|---|
+| Silicone muffin mold (standard 12-cup) | ~½ cup per cavity — exact serving size |
+| Large pot (8–10 qt) | Handles 4 cups flour + 14–16 cups water without splatter |
+| Zip-lock bags × 5 | One per pot batch, labeled |
+| Glass containers (3–4) | Fridge chill phase before portioning |
 
 ---
 
