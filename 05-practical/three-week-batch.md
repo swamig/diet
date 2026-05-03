@@ -1,16 +1,16 @@
 ---
-title: '3-Week Chutney Batch Session'
+title: '3-Week Chutney & Jaljeera Batch Session'
 section: 'practical'
 type: 'procedure'
 priority: 'supporting'
 ---
 
-# 3-Week Chutney Batch Session
+# 3-Week Chutney & Jaljeera Batch Session
 
-Run this every 3 weeks to maintain fresh-tier chutney supply. Produces cilantro chutney and full coconut chutney (curry leaves blended in) — both optimized for 3-week freeze stability.
+Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
-**Total active time:** ~35–40 min
-**Produces:** ~24 coconut cubes + ~16 cilantro cubes per session
+**Total active time:** ~45–50 min
+**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes per session
 
 > For the 3-month freeze-stable versions (plain coconut base, tamarind), see [Coconut Chutney](coconut-chutney.md) and [Tamarind Chutney](tamarind-chutney.md).
 
@@ -34,6 +34,24 @@ Run this every 3 weeks to maintain fresh-tier chutney supply. Produces cilantro 
 **Output per run:** ~3 cups = ~24 cubes
 **Output × 2 runs:** ~48 cubes = 3 weeks at 1–2/day ✓
 
+### Jaljeera concentrate (blanch-freeze) — 1 Vitamix run:
+
+| Ingredient | Per serving | × 21 servings |
+|---|---|---|
+| Fresh mint leaves (blanched 10s) | 12 leaves | **~2 cups packed** |
+| Thai green chili | ½ | **10–12 chilies** |
+| Fresh ginger (grated) | 1 tsp | **7 tbsp (~200g)** |
+| Lemon juice | 1 tbsp | **~1¼ cups (~7 lemon cubes)** |
+| ACV (raw) | 1 tbsp | **~1¼ cups** |
+| Avocado oil (lipid lock) | ½ tsp | **3½ tbsp** |
+| Hing | pinch | **½ tsp** |
+
+**Output:** ~21 cubes = exact 3-week supply at 1/day ✓
+
+**Added fresh at serving (never in cube):** black salt, roasted cumin, psyllium husk, cold/sparkling water.
+
+---
+
 ### Cilantro chutney (blanch-freeze) — 1 Vitamix run:
 
 | Ingredient | Amount |
@@ -53,21 +71,32 @@ Run this every 3 weeks to maintain fresh-tier chutney supply. Produces cilantro 
 
 ## Method
 
-### Step 1 — Blanch the cilantro (5 min)
+### Step 1 — Blanch the mint and cilantro together (5 min)
 
 This deactivates polyphenol oxidase (PPO) — the browning enzyme — without cooking the herb or degrading the chelation compounds.
 
 1. Bring a pot of water to a rolling boil
-2. Submerge cilantro (and mint if using) for **exactly 10–15 seconds**
+2. Submerge cilantro + **all the mint** (for both cilantro chutney and Jaljeera concentrate) for **exactly 10–15 seconds**
 3. Immediately transfer to an **ice bath** — stop the cooking instantly
 4. Squeeze out excess water — don't leave it waterlogged
-5. Set aside
+5. Separate into two piles: **cilantro + some mint** (for chutney) and **mint only** (for Jaljeera)
 
 > **Why blanch:** PPO causes grey, mushy, flat-tasting frozen cilantro. 10–15 seconds deactivates PPO only — the 2-decenal and terpenoid chelation compounds are heat-stable at this exposure. Color, flavor, and function all preserved significantly better than raw-freeze.
 
 ---
 
-### Step 2 — Blend cilantro chutney (5 min)
+### Step 2 — Blend Jaljeera concentrate (5 min)
+
+1. Add blanched mint + chilies + ginger to Vitamix
+2. Add lemon juice + ACV + avocado oil + hing
+3. Blend 60 sec until smooth
+4. Taste: should be sharp, minty, spicy, bright
+5. Pour into ice cube tray (~2 tbsp per cube) — **21 cubes**
+6. Freeze immediately
+
+---
+
+### Step 3 — Blend cilantro chutney (5 min)
 
 1. Add blanched cilantro + mint, chilies, garlic, ginger to Vitamix
 2. Add lemon juice + black salt + cumin
@@ -78,7 +107,7 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 
 ---
 
-### Step 3 — Blend coconut chutney (10–12 min, 2 runs)
+### Step 4 — Blend coconut chutney (10–12 min, 2 runs)
 
 **Run 1:**
 1. Add 4 cups grated coconut + curry leaves + chilies + ginger to Vitamix
@@ -93,10 +122,11 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 
 ---
 
-### Step 4 — Freeze and label (5 min)
+### Step 5 — Freeze and label (5 min)
 
 - Freeze all trays flat for 4 hours minimum
 - Pop cubes into **separate labeled zip-lock bags:**
+  - `Jaljeera Concentrate — [date] — use by [date +3 weeks]`
   - `Cilantro Chutney — [date] — use by [date +3 weeks]`
   - `Coconut Chutney Full — [date] — use by [date +3 weeks]`
 - Store flat in freezer
@@ -107,6 +137,7 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 
 | Chutney | Freeze stability | Notes |
 |---|---|---|
+| Jaljeera concentrate (blanched mint, acid+lipid locked) | **3 weeks** | Menthol ~80% intact; ACV and lemon fully stable |
 | Cilantro (blanched, acid-locked) | **3 weeks** | Chelation compounds ~80% intact at 3 weeks |
 | Coconut full (curry leaves blended) | **3 weeks** | Curry leaf carbazole alkaloids hold well to 3 weeks |
 | Coconut base (no curry leaves) | **3 months** | See [3-month base protocol](coconut-chutney.md) |
@@ -134,16 +165,20 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 |---|---|
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
 | Fresh cilantro | **4 cups packed (~2 bunches)** |
-| Fresh mint | **2 cups packed (~1 bunch)** |
+| Fresh mint | **~4 cups packed (~2 bunches)** — 2 cups for chutney + 2 cups for Jaljeera |
 | Fresh curry leaves | **6–8 tbsp packed** |
-| Green chili | **12–15** |
-| Fresh ginger | **~250g total** |
+| Green chili | **~25 total** — 8–10 coconut + 4–5 cilantro + 10–12 Jaljeera |
+| Fresh ginger | **~400g total** — coconut + cilantro + Jaljeera combined |
 | Garlic | **4 cloves** |
-| Lemons | **~4 (for 12 tbsp juice)** |
+| Lemons | **~10** — 8 tbsp coconut + 4 tbsp cilantro + ~9 tbsp Jaljeera |
+| ACV (raw) | **~1¼ cups** |
+| Avocado oil | **3½ tbsp** |
+| Hing | **½ tsp** |
 
 ---
 
 ## Related Pages
+- [Peppermint Jaljeera](peppermint-jaljeera.md)
 - [Coconut Chutney — 3-Month Base](coconut-chutney.md)
 - [Tamarind Chutney — 3-Month Batch](tamarind-chutney.md)
 - [Functional Indian Formats](functional-indian-formats.md)

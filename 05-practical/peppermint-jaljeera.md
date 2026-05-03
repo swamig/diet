@@ -13,7 +13,7 @@ Unlike a traditional yogurt-based Chaas, this water-based Jaljeera is designed s
 
 ## Ingredients (1 Serving)
 
-*   **10-15 Fresh Mentha arvensis leaves** (Primary Elite Source — *Mentha arvensis* yields 70–80% menthol concentration [[Brahroui 2016]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation))
+*   **10-15 Fresh Mentha arvensis leaves** (Primary Elite Source — *Mentha arvensis* yields 70–80% menthol concentration [[Brahroui 2016]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)). **Indian mint (*Mentha arvensis*) is significantly more potent than Western spearmint or peppermint** — if using Indian mint, 10 leaves is sufficient; Western peppermint may need 15–20 leaves for equivalent menthol delivery.
 *   **1/4 - 1/2 Fresh Thai Bird’s Eye Chili** (or 1/2 Serrano if lower heat is needed)
 *   **1/2 tsp Roasted Cumin Powder (Jeera)**
 *   **1/4 tsp Black Salt (Kala Namak)**
@@ -60,14 +60,38 @@ If you are using **Thermal Hormesis (Sauna)**, your body will rapidly deplete so
 *   You can pre-muddle a 3-day supply of the peppermint/chili paste and store it in a tiny airtight glass jar in the fridge. 
 *   Do not pre-mix with water or lemon juice, as the menthol volatile oils will degrade and oxidize over a multi-day period in liquid.
 
-### Freeze Extension (Ice Cube Tray)
-For a larger batch that extends past the 3-day fridge window:
-1.  Muddle peppermint, chili, and ginger as normal.
-2.  Apply the **Oil & Acid Lock** (lemon juice + oil) while muddling — mandatory before freezing, same as the fridge batch.
-3.  **Do NOT add black salt, cumin, or chaat masala** — the osmosis rule applies even in the freezer. Add those fresh to the glass each time.
-4.  Portion into ice cube tray (1 cube = 1 serving). Freeze overnight, transfer to an airtight container.
-5.  **Shelf life frozen:** 4–6 weeks for peak menthol/capsaicin potency; up to 2–3 months acceptable.
-6.  **To use:** Drop 1 cube into your glass. It thaws in 5–10 minutes at room temp, or instantly in cold water. Add black salt, cumin, ACV, and water fresh each time.
+### 3-Week Concentrate Cubes (Recommended)
+
+The most efficient format — blend a full 3-week supply in one session, freeze in cubes. Each cube = 1 complete serving base, ready in 5 minutes.
+
+**Goes INTO the cube (blend + freeze):**
+
+| Ingredient | Per serving | × 21 servings (3-week batch) |
+|---|---|---|
+| Fresh mint (blanched 10–15s) | 12 leaves | **~2 cups packed** |
+| Thai green chili | ½ | **10–12 chilies** |
+| Fresh ginger (grated) | 1 tsp | **7 tbsp (~200g)** |
+| Lemon juice | 1 tbsp | **~1¼ cups (~7 lemon cubes)** |
+| ACV (raw) | 1 tbsp | **~1¼ cups** |
+| Avocado oil (**lipid lock**) | ½ tsp | **3½ tbsp** |
+| Hing | pinch | **½ tsp** |
+
+**Added fresh at serving (never in the cube):**
+- Black salt: ¼ tsp
+- Roasted cumin: ½ tsp
+- Psyllium husk: 1 tsp
+- Cold/sparkling water: 1–1½ cups
+
+**Method:**
+1. Blanch mint **10–15 seconds** → ice bath → squeeze dry
+2. Blend all cube ingredients until smooth
+3. Pour into ice cube tray (~2 tbsp per cube)
+4. Label: `Jaljeera Concentrate — [date] — use by [date +3 weeks]`
+5. **Shelf life frozen: 3 weeks peak** — menthol ~80% intact; ACV and lemon fully stable
+
+**To use:** Drop 1 cube in glass, add fresh-add ingredients, pour cold/sparkling water, stir. Ready in 5 min.
+
+> See [3-Week Batch Session](three-week-batch.md) — blanch mint alongside cilantro in one pot, blend Jaljeera and cilantro chutney back to back.
 
 ## Used In
 
