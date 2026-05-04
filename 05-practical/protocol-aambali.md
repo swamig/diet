@@ -128,7 +128,7 @@ Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't
 1. Blend **2 cups soaked, drained millet + 2 cups water** in Vitamix — 60 sec until completely smooth
 2. Pour into pot. Repeat with second 2-cup batch → pour into same pot
 3. Add 10–12 more cups water, stir to combine
-4. Bring to medium heat, stir constantly until thick and glossy — 8–12 min
+4. Bring to medium heat, stir constantly until thick and glossy — **10–15 min** (wet batter method runs longer than flour method due to higher initial water content)
 5. Remove from heat
 
 ---
