@@ -129,8 +129,7 @@ Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't
 2. Pour into pot. Repeat with second 2-cup batch → pour into same pot
 3. Add 10–12 more cups water, stir to combine
 4. Bring to medium heat, stir constantly until thick and glossy — **10–15 min** (wet batter method runs longer than flour method due to higher initial water content)
-5. **Add spices directly to hot paste:** whisk in ½ tsp cumin powder + ¼ tsp black salt **per serving** (i.e. × number of servings in the pot — ~9–10 tsp cumin + ~5 tsp black salt for a 18–20 serving pot). Distributes evenly through the whole batch.
-6. Remove from heat
+5. Remove from heat — **do not add spices yet**
 
 ---
 
@@ -140,7 +139,8 @@ Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't
 
 1. **Cook** → spread hot paste into glass containers (1–2 inch depth)
 2. **First Chill:** Refrigerate **24 hours** — RS3 crystallization completes
-3. **Portion:** Scoop ~½ cup chilled paste into silicone muffin molds
+3. **Add spices after chill:** Whisk ½ tsp cumin powder + ¼ tsp black salt **per serving** into the cold paste (e.g. ~5 tsp cumin + ~2.5 tsp black salt for a 10-serving batch). Adding after RS3 forms preserves volatile cumin aromatics (cuminaldehyde oxidizes in hot paste overnight).
+4. **Portion:** Scoop ~½ cup chilled paste into silicone muffin molds
 5. **Freeze:** 4+ hours until solid
 6. **Transfer:** Pop cubes into labeled zip-lock bags
 
@@ -152,9 +152,9 @@ Split into **5 large-pot batches** — do not cook all 20 cups in one pot (won't
 
 | In the cube (freeze) | Added fresh at serving |
 |---|---|
-| Cooked ragi paste (spices cooked in) | ¼ cup live-culture yogurt (starter) |
-| Cumin powder (cooked into batch) | Pea protein scoop (25g) |
-| Black salt (cooked into batch) | Fresh muddled peppermint |
+| Cooked ragi paste | ¼ cup live-culture yogurt (starter) |
+| Cumin powder (whisked in after 24h chill, before portioning) | Pea protein scoop (25g) |
+| Black salt (whisked in after 24h chill, before portioning) | Fresh muddled peppermint |
 
 **Yogurt is never in the cube** — live LAB must be added fresh at 07:00 to reach peak bloom by 17:50. Freezing kills the cultures.
 
