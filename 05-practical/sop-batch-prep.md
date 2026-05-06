@@ -424,30 +424,91 @@ These are owner-only tasks on batch day or separate sessions:
 
 ## Topical / Skincare Batch (Owner Only — During Simmer Window)
 
-The aloe vera is already being cubed for consumption (5 trays, Bench Station T+0:00–0:20). The topical prep is a separate owner task that runs in parallel during the simmer window and requires no helper involvement.
+All skincare prep runs during the 2-hour bean simmer. No pots needed — aloe blends in a regular bowl with the immersion blender; fenugreek paste fits in the blender beaker. Rosemary essential oil is a purchased product (3–5 drops per hair mask application) — it is not made on batch day.
 
-### What's Done on 3-Month Batch Day
+---
 
-| Item | Process | Time | Notes |
-|---|---|---|---|
-| **Aloe scalp gel** | Split remaining aloe leaves, scoop gel, blend smooth with immersion blender, fill labeled glass jars | 15 min | Separate from consumption cubes — do not mix. Keep pure, no additives. |
-| **Rosemary oil infusion** | Fill a small glass jar with dried rosemary, cover with carrier oil (castor + jojoba), seal | 5 min | Cold infusion — takes 2–4 weeks to fully infuse. Label with start date. Batch every 3 months. |
-| **Fenugreek paste (hair)** | Already done in blender run at T+1:00–1:15 — this is the same batch. Freeze in cube tray, use 1–2 cubes per hair mask. | — | Done |
+### Skincare Items by Cadence
 
-### Bench Station Timing
+#### 3-Month Items
 
-Add to the T+0:20–2:20 simmer window blender run:
+**1. Aloe vera cubes — topical batch**
 
-| Time | Task |
+Separate from the 5 consumption trays made at T+0:00. Same process, different leaves, different labeled bag.
+
+| Detail | Value |
 |---|---|
-| T+0:50–1:05 | Aloe scalp gel: blend remaining aloe gel smooth → fill labeled glass jar → fridge |
-| T+1:05 | Rosemary oil: fill jar, cover with oil, seal, label. Set aside. |
+| Leaves needed | ~5 large leaves (beyond consumption quantity) |
+| Yield target | ~65 cubes (5 aloe cubes/week × 13 weeks) |
+| Cube size | 1 tbsp per cube |
+| Trays needed | 5 runs through a 15-cell tray (freeze → transfer → refill) or 2–3 trays simultaneously |
+| Freeze stability | 3–4 months |
+| Label | `Aloe TOPICAL — [date] — use by [date +3 months]` |
 
-**Pre-Flight Addition for Skincare:**
-- [ ] Dried rosemary — enough for 1 small glass jar
-- [ ] Castor oil + jojoba oil — carrier oils for rosemary infusion
-- [ ] Extra aloe vera leaves beyond the consumption quantity
-- [ ] Small glass jars × 2 labeled "Aloe Scalp — [date]" and "Rosemary Oil — Start [date]"
+**Process:**
+1. Drain latex first: stand leaf cut-end down in a glass 10–15 min. Yellow latex (aloin) drains out — do not skip, aloin irritates skin.
+2. Lay flat. Slice off serrated edges. Fillet top green skin with a knife. Scoop clear gel into a regular bowl.
+3. Blend smooth with immersion blender.
+4. Pour into cube tray (~1 tbsp per cell). Freeze overnight. Transfer to labeled bag.
+5. Repeat until all 5 leaves are processed.
+
+**Timing:** T+1:15–1:30 during simmer window. Runs alongside aloe scalp gel.
+
+**Do not mix with consumption aloe cubes** — label bags clearly: `Aloe FOOD` vs `Aloe TOPICAL`.
+
+---
+
+**2. Dry mix jars (hair, face, body) — refill bulk jars**
+
+Pre-mixed powder jars. Shelf stable ~3 months. No blending required — just weigh and mix dry.
+
+| Jar | Ingredients | Batch quantity |
+|---|---|---|
+| **Hair** | 12 tbsp Amla + 3 tsp Curry Leaf Powder (air-dried) + 12 tbsp Brahmi/Bhringraj (rotate monthly) + 6 tbsp dry fenugreek powder (backup) | Fills large jar, scoop monthly into small working jar |
+| **Face** | 12 tbsp Besan + 6 tbsp Amla + 1 tbsp Turmeric + ¾ tsp Bay Leaf Powder (do not exceed) | Same |
+| **Body** | 18 tbsp Besan + 6 tbsp Amla + 1.5 tbsp Turmeric | Same |
+
+**Timing:** T+1:30–1:40. Bench station, no tools — just scoop, mix, seal, label.
+
+---
+
+#### Monthly Items
+
+**3. Fenugreek paste cubes (hair only)**
+
+Fenugreek seeds soak overnight. Blend and cube on batch day morning.
+
+| Detail | Value |
+|---|---|
+| Seeds | 4 tbsp dry fenugreek seeds (soaked overnight in water) |
+| Blend | Drain, blend with **minimal water** — thick paste, not runny. Should hold shape in spoon. |
+| Cube size | 1 tbsp per cube |
+| Yield | ~12–14 cubes |
+| Freeze stability | 4–6 weeks |
+| Cadence | Monthly (every ~6 weeks is fine — yield covers it) |
+| Label | `Fenugreek Paste HAIR — [date] — use by [date +6 weeks]` |
+
+**Process:**
+1. Drain soaked fenugreek seeds (soaked from pre-flight night before checklist).
+2. Add to immersion blender beaker with 1–2 tbsp water max.
+3. Blend until thick smooth paste — no visible whole seeds.
+4. Pour into cube tray (~1 tbsp per cell). ~12–14 cubes.
+5. Freeze overnight. Transfer to labeled bag.
+
+**Timing:** T+1:15–1:25 during simmer window. Uses immersion blender beaker — same tool already in hand.
+
+**Why soaked beats dry powder:** Soaking activates mucilage and lecithin that coat and condition the hair shaft. Dry fenugreek powder (in the hair jar) is the backup only — fresh paste is the primary delivery.
+
+---
+
+### Skincare Pre-Flight Additions
+
+Add to the Night Before checklist:
+- [ ] Fenugreek seeds — 4 tbsp in a small bowl, covered with water. Soak overnight.
+- [ ] Aloe vera leaves — 5 large leaves for consumption + 5 large leaves for topical. Total: **10 large aloe leaves**
+- [ ] Dry mix jar ingredients (amla, brahmi/bhringraj, besan, turmeric, curry leaf powder, bay leaf powder) — weighed and ready
+- [ ] Rosemary essential oil (purchased) — confirm in stock. Not made on batch day.
+- [ ] Labels: `Aloe FOOD`, `Aloe TOPICAL`, `Fenugreek Paste HAIR`
 
 ---
 
