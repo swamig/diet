@@ -9,9 +9,10 @@ priority: 'high'
 
 Standard operating procedure for a 2-person team executing the 3-month batch prep cycle. This document is written for the helper — it assumes no prior knowledge of the protocol. All decisions are pre-made. Follow the steps exactly; do not improvise.
 
-**Total session time:** ~5 hours active work across 2 calendar days (Day 0 evening + Day 1 morning)  
-**People:** 1 Stove Station + 1 Bench Station  
-**Critical temperature:** 130°F / 54°C is the ceiling for all legumes and quinoa after cooking. Use the probe thermometer. Do not guess.
+**Total session time:** ~7 hours active work across 2 calendar days (Day 0 + Day 1 morning)  
+**People:** 1 Stove Station + 1 Bench Station (Owner)  
+**Critical temperature:** 130°F / 54°C is the ceiling for all legumes and quinoa after cooking. Use the probe thermometer. Do not guess.  
+**Shared equipment constraint:** One KitchenAid mixer — samosa dough runs at T+2:00, patty dough runs at T+3:30. Do not swap order.
 
 ---
 
@@ -22,19 +23,28 @@ Complete this the evening before batch day. Failures here delay the entire sessi
 ### Equipment Check
 - [ ] 4 stock pots clean and dry
 - [ ] 4 induction burners plugged into separate circuits — test each powers on
+- [ ] Oven preheatable to 400°F — rack in middle position
 - [ ] Probe thermometer batteries good — test powers on and reads room temp (~68–72°F)
 - [ ] 4 half-sheet pans clean and dry
 - [ ] 14 silicone cube trays clean and dry
+- [ ] KitchenAid mixer + dough hook — clean and dry
+- [ ] Steamer basket or steamer insert — fits a large pot
 - [ ] All freezer bags/containers labeled (see Labeling section below)
+- [ ] Samosa dry mix jars (Option 1: VWG + besan; Option 2: atta + VWG) — pre-measured and ready
+- [ ] Parchment paper sheets cut for dough disk wrapping
 
 ### Ingredient Check
 - [ ] Dry chickpeas — 5 kg total (weigh)
 - [ ] Dry black beans — 4.5 kg total (weigh)
 - [ ] Dry green/brown lentils — 1 kg (weigh)
 - [ ] Dry quinoa — 1 kg (weigh)
+- [ ] Purple sweet potato — 2–3 kg (whole, unpeeled)
 - [ ] Aloe vera leaves — per protocol quantity
 - [ ] Lemons — quantity for 4 trays of juice
 - [ ] Imli (tamarind block) — quantity for 1 tray
+- [ ] Tofu blocks — full 3-month quantity
+- [ ] Pea protein powder, vital wheat gluten, besan, nutritional yeast — for patties + samosa dough
+- [ ] Patty spice stack (per recipe card) — measured and ready
 
 ### Soaks to Start Tonight
 | Pot | Contents | Water ratio | Start time |
@@ -53,6 +63,13 @@ Required labels:
 - "Chickpeas MASHED — [date]"
 - "Black Beans WHOLE — [date]"
 - "Black Beans MASHED — [date]"
+- "Samosa Filling A — [date]" (×13 parcels)
+- "Samosa Filling B — [date]" (×13 parcels)
+- "Samosa Filling C — [date]" (×13 parcels)
+- "Samosa Filling D — [date]" (×13 parcels, black bean base)
+- "Samosa Dough Option 1 — [date]"
+- "Patties — [date]"
+- "Sweet Potato — [date]"
 - "Lentils — [date]"
 - "Quinoa — [date]"
 - "Aquafaba — [date]"
@@ -62,15 +79,15 @@ Required labels:
 
 ## Station Assignments
 
-### Stove Station
+### Stove Station (Helper)
 Owns all 4 burners, the oven, temperature monitoring, skimming, timing, and portioning hot items.
 
 **Tools:** Probe thermometer, ladle, skimmer/slotted spoon, large spoons, tongs, sheet pans
 
-### Bench Station
-Owns all cold prep — cube trays, aloe, lemons, imli, garlic jars, tofu, topical jars, freezer transfers.
+### Bench Station (Owner)
+Owns cold prep, blender runs, mixer runs, cube trays, samosa dough, patties, and freezer transfers.
 
-**Tools:** Knife, cutting board, lemon juicer, immersion blender + beaker, silicone cube trays, gallon freezer bags
+**Tools:** Knife, cutting board, lemon juicer, immersion blender + beaker, KitchenAid mixer + dough hook, steamer basket, silicone cube trays, gallon freezer bags, parchment sheets
 
 ---
 
@@ -93,12 +110,14 @@ Owns all cold prep — cube trays, aloe, lemons, imli, garlic jars, tofu, topica
 
 ---
 
-### T+0:20 — Skim and Reduce to Simmer (Stove Station)
+### T+0:20 — Skim, Reduce to Simmer + Oven On (Both Stations)
 
+**Stove Station:**
 1. All 4 pots should be boiling or near-boiling.
-2. Using the slotted spoon, **skim the foam** from each pot — the foam contains saponins and antinutrients released by the beans. Skim until no more foam rises (~5 min per pot, stagger).
+2. Using the slotted spoon, **skim the foam** from each pot. Skim until no more foam rises (~5 min per pot, stagger).
 3. Reduce all 4 burners to a gentle simmer (medium-low). Beans should be barely bubbling, not rolling.
-4. **Set a timer: 60 minutes.**
+4. **Preheat oven to 400°F.** Place sweet potatoes whole and unpeeled on a sheet pan. Slide into oven.
+5. **Set two timers: beans = 120 min. Sweet potato = 45–60 min (check at 45).**
 
 > **QC Gate 1 — Skim Complete:**  
 > ✅ PASS: Liquid surface clear, no significant foam, gentle simmer visible  
@@ -106,140 +125,184 @@ Owns all cold prep — cube trays, aloe, lemons, imli, garlic jars, tofu, topica
 
 ---
 
-### T+0:20 to T+1:20 — Simmer Window (Bench Station Active)
+### T+0:20 to T+2:20 — Simmer Window (Bench Station runs blenders + mixer)
 
-While beans simmer, Bench Station completes:
+**Stove Station:** Monitor simmer, check water levels, nothing else needed until T+2:05.
 
-1. **Tofu freeze prep:** Open tofu packages, drain, pat dry. Freeze slabs flat on a sheet pan for 1 hour, then transfer to labeled bags. (Freezing then thawing tofu changes texture — this is intentional.)
-2. **Aquafaba prep:** Set out a labeled jar for each chickpea pot's liquid.
-3. **Black bean liquid containers:** Set out labeled jars for Pots 3 and 4 liquid.
-4. **Cube tray status check:** Aloe (5 trays), lemon (4 trays), imli (1 tray) — all filled and covered. Move to fridge to pre-chill.
+**Bench Station — full blender + mixer run during this window:**
 
-**Stove Station during simmer:**
-1. At T+1:05 (15 min before timer): Add **1 tsp sea salt per quart of water** to all 4 pots. Stir each.
-2. At T+1:20: Test beans for doneness (see QC Gate 2).
+| Time | Task | Tool |
+|---|---|---|
+| T+0:20–0:30 | Tofu: drain, pat dry, freeze slabs flat on sheet pan | Hands |
+| T+0:30–0:45 | Cilantro/mint chutney — blend full batch → fill tray | Immersion blender |
+| T+0:45–1:00 | Mint muddle — muddle + blend → fill 2 trays | Immersion blender |
+| T+1:00–1:15 | Fenugreek paste (soaked overnight) — blend → fill tray | Immersion blender |
+| T+1:15–1:30 | Ginger cubes — grate/blend fresh ginger → fill 2 trays | Immersion blender |
+| T+1:30–1:45 | Rested garlic cubes — crush → 10 min rest → portion into tray | Hands (no blender) |
+| T+1:45–1:55 | Imli check, lemon tray check, aloe tray check — all covered, move to fridge | — |
+| T+2:00–2:20 | **Samosa dough (mixer)** — see Samosa Dough section below | KitchenAid |
+
+**Stove Station at T+2:05:** Add **1 tsp sea salt per quart of water** to all 4 pots. Stir each.
+
+**Sweet potato check at T+1:05:** Pull from oven and pierce with a knife — if it goes in easily, done. If resistance, return for 15 more min. Once done: remove, cool on rack.
 
 ---
 
-### T+1:20 — Doneness Test (Stove Station)
+### T+2:00 — Samosa Dough (Bench Station, Mixer)
+
+Run while beans finish their last 20 minutes of simmer. Aquafaba is not yet available — use cold water for hydration.
+
+**Option 1 (Seitan Hybrid — VWG + Besan):**
+1. Scoop Option 1 dry mix jar into mixer bowl. Attach dough hook.
+2. Run mixer on Speed 1 while drizzling in cold water/aquafaba slowly until a stiff dough forms.
+3. Increase to Speed 2. Mix 3–5 min until dough is smooth and elastic.
+4. Remove. Portion into balls (1 ball = 1 serving / 2 samosas). Flatten each into a ~1-inch disk.
+5. Wrap each disk in parchment. Bag all disks into a labeled freezer bag. Freeze immediately.
+
+**Option 2 (Atta + VWG) — if making:**
+1. Same process. Rest 30 min before portioning (atta gluten needs more time to hydrate).
+
+**Shelf life frozen: 2 months.** For a 3-month batch, make a second dough batch at the 8-week mark.
+
+> **QC Gate — Samosa Dough:**  
+> ✅ PASS: Dough bounces back slightly when poked, does not stick to hands, smooth surface  
+> ❌ FAIL — Too dry: Cracking at edges → add cold water 1 tbsp at a time, re-mix 1 min  
+> ❌ FAIL — Too wet: Sticky, won't hold shape → add 1 tbsp besan, re-mix 1 min
+
+---
+
+### T+2:20 — Doneness Test (Stove Station)
 
 Pull 3 beans from each pot. Squeeze between thumb and finger.
 
 > **QC Gate 2 — Bean Doneness:**  
 > ✅ PASS: Bean crushes completely with gentle pressure, no hard center, skin intact (not falling apart)  
-> ❌ FAIL — Undercooked: Hard center remains → continue simmering, re-test every 10 min  
-> ❌ FAIL — Overcooked: Skins falling off, beans mushying → drain immediately, do not continue simmering
+> ❌ FAIL — Undercooked: Hard center remains → continue simmering, re-test every 15 min  
+> ❌ FAIL — Overcooked: Skins falling off, beans mushying → drain immediately
 
 ---
 
-### T+1:20 — Drain and Reserve Liquids (Both Stations)
+### T+2:20 — Drain and Reserve Liquids (Both Stations)
 
 **Stove Station:**
-1. **Chickpea pots first.** Before draining Pot 1: ladle the cooking liquid into the aquafaba jar — get as much as possible. Then drain remaining beans into colander over the sink.
+1. **Chickpea pots first.** Before draining Pot 1: ladle the cooking liquid into the aquafaba jar — get as much as possible. Drain beans.
 2. Repeat for Pot 2.
-3. **Black bean pots second.** Before draining Pot 3: ladle liquid into the black bean liquid jar — reserve aggressively. Drain beans. Liquid is dark purple/black — this is correct and valuable. Do not discard.
+3. **Black bean pots second.** Before draining Pot 3: ladle liquid into the black bean liquid jar — reserve aggressively. Liquid is deep purple/black — correct and valuable.
 4. Repeat for Pot 4.
 
 > **QC Gate 3 — Liquid Color:**  
-> ✅ Aquafaba: Should be pale golden to amber. Slightly viscous.  
-> ✅ Black bean liquid: Deep purple/black. No brown tinge (brown = overcooked or pre-mature heat breakdown of anthocyanins).  
-> ❌ FAIL: Aquafaba is dark/murky → chickpea pots may have had chickpea-black bean cross-contamination. Do not mix. Flag for owner.
+> ✅ Aquafaba: Pale golden to amber, slightly viscous  
+> ✅ Black bean liquid: Deep purple/black. Brown tinge = overcooked — flag for owner  
+> ❌ FAIL: Aquafaba is dark/murky → possible cross-contamination with black bean pot. Do not mix. Flag for owner.
 
 **Bench Station:**
-1. Receive aquafaba jars — label, set aside to cool before portioning into cube tray.
+1. Receive aquafaba jars — label, set aside to cool.
 2. Receive black bean liquid jars — same.
 
 ---
 
-### T+1:30 — Sheet Pan Cooling + Assembly (Both Stations)
+### T+2:30 — Sheet Pan Cooling (Stove Station)
 
-**Stove Station:**
-1. Spread hot chickpeas from Pot 1 onto sheet pan 1. Single layer — no piling.
-2. Spread Pot 2 chickpeas onto sheet pan 2.
-3. Spread Pot 3 black beans onto sheet pan 3.
-4. Spread Pot 4 black beans onto sheet pan 4.
-5. Begin probe-monitoring each pan. Target: **130°F or below** before assembly.
-6. Reload Pots 1+2 with lentils (see lentil card). Reload Pots 3+4 with quinoa. Start next cook.
+1. Spread chickpeas (Pots 1+2) onto sheet pans 1+2. Single layer.
+2. Spread black beans (Pots 3+4) onto sheet pans 3+4. Single layer.
+3. Begin probe-monitoring. Target: **≤130°F** before assembly.
+4. Reload Pots 1+2 with lentils. Reload Pots 3+4 with quinoa. Start next cook.
 
 > **QC Gate 4 — Cooling to 130°F:**  
-> ✅ PASS: Probe reads ≤130°F on center of sheet pan  
-> ❌ FAIL: Still above 130°F → wait, re-test every 5 min. Do not add ACV or spices above 130°F — ACV evaporates, spice aromatics blow off.
+> ✅ PASS: Probe reads ≤130°F at center of sheet pan  
+> ❌ FAIL: Above 130°F → wait, re-test every 5 min. Do not add ACV or spices above 130°F.
 
 ---
 
-### T+1:45 — Batch Assembly at 130°F (Stove Station leads, Bench Station assists)
+### T+2:45 — Batch Assembly at 130°F (Both Stations)
 
-Once each sheet pan reads ≤130°F:
+**For WHOLE bean portions:**
+1. Transfer beans into wide mixing bowl.
+2. Add 2 tbsp ACV per 5 cups + pinch of sea salt + batch-stable spices per recipe card.
+3. Toss to coat. Portion into labeled 1.5-cup freezer bags. Press flat. Stack in batch fridge.
 
-**For WHOLE beans (chickpeas and black beans):**
-1. Transfer beans from sheet pan into a wide mixing bowl.
-2. Add: 2 tbsp ACV per 5 cups cooked beans + pinch of sea salt + batch-stable spices per recipe card.
-3. Toss well to coat.
-4. Portion into labeled 1.5-cup freezer bags. Press flat, seal with minimal air.
-5. Stack flat in the dedicated batch fridge.
+**For MASH portion (1/3 of chickpeas + 1/3 of black beans):**
+1. Transfer to separate bowl. Mash with potato masher until 90% smooth.
+2. Chickpea mash: add ¼ cup aquafaba + ACV + spices. Black bean mash: add ¼ cup black bean liquid + ACV + spices.
+3. Portion flat. Label. Stack in batch fridge.
 
-**For MASH portion (1/3 of each bean type):**
-1. Transfer that portion to a separate bowl.
-2. Add aquafaba (chickpea mash) or black bean liquid (black bean mash) — ¼ cup per 5 cups.
-3. Mash with potato masher until 90% smooth.
-4. Add ACV + spices per recipe card.
-5. Portion into flat-seal containers or bags. Label. Stack in batch fridge.
+**For SAMOSA FILLING (from remaining mash — variants A/B/C from chickpea, D from black bean):**
+1. Divide mash across 4 bowls per variant.
+2. Fold in: pea protein, rice protein, nutritional yeast (dry first) + cold aquafaba (3 tbsp per parcel) + now-spices per recipe card (ajwain, amchur, chaat masala, salt, green chilies, lemon juice, ginger, peas, carrots).
+3. Run crumble test: press handful firmly — should hold shape without sticking.
+4. Portion into labeled bags by variant (A/B/C/D). Stack in batch fridge.
+5. **Pre-measure day-of jars** at this point — Kashmiri chili, achiote, cumin, smoked paprika per variant. Label to match bag.
 
-**Critical rule: NO GARLIC goes in now.** Garlic is a parallel track via monthly rested garlic cubes. It goes in day-of at serving, not during batch. Helper does not handle garlic.
+**Critical rule: NO GARLIC in any item.** Day-of via rested garlic cube only.
 
 ---
 
-### T+2:00 to T+3:00 — Lentils + Quinoa Cook (Stove Station monitors, Bench Station continues cube work)
+### T+3:00 to T+4:00 — Lentils + Quinoa + Patties (Both Stations)
 
-Lentils and quinoa run sequentially in the now-empty bean pots.
+**Stove Station — lentils and quinoa:**
 
 | Pot | Item | Water ratio | Cook time |
 |---|---|---|---|
 | Pot 1 | Lentils (1 kg dry) | 2.5× water | 25–30 min |
-| Pot 2 | Quinoa (1 kg dry) | 2× water | 15 min, then steam 5 min |
+| Pot 2 | Quinoa (1 kg dry) | 2× water | 15 min + 5 min steam off heat |
 
-1. Cool on sheet pans.
-2. At ≤130°F: season per recipe card, portion, stack in batch fridge.
+Cool on sheet pans. At ≤130°F: season, portion, stack in batch fridge.
 
-**Bench Station during this window:**
-1. Aquafaba cube trays: aquafaba should be cooled to <40°C (use probe). Fill 1 cube tray. Cover.
-2. Black bean liquid: same. Fill portions — 2 tbsp cubes + a few ¼-cup containers.
-3. All cube trays now in fridge: aloe (5), lemon (4), imli (1), aquafaba (1), black bean liquid (portions).
+**Bench Station — Patty dough (mixer) at T+3:30:**
 
-> **QC Gate 5 — Aquafaba Temperature Before Cube Tray:**  
-> ✅ PASS: Probe reads ≤40°C (104°F) before pouring into silicone tray  
-> ❌ FAIL: Still hot → wait. Hot liquid warps covered silicone trays and produces ice crystals that degrade quality.
+Chickpea mash is now available from the assembly step above.
+
+1. Combine chickpea mash, pea protein, vital wheat gluten, nutritional yeast, ginger, spice stack, soy sauce, lemon juice, ACV in mixer bowl. Attach dough hook.
+2. **Speed 2 for 3–5 minutes** until a cohesive, elastic ball forms that bounces back when poked.
+3. Remove. Flatten dough, fold over itself, flatten again — repeat 2–3× to build texture striations.
+4. Form into 14 patties.
+5. Steam patties 15 minutes (steamer basket over a pot of boiling water).
+6. Remove. Cool on rack 20 min.
+7. Lay on sheet pan in single layer. Freeze 1–2h (prevents patties fusing).
+8. Transfer to parchment-layered labeled bag. Into batch fridge for 12–24h RS3 chill — then chest freezer.
+
+> **QC Gate — Patty Dough:**  
+> ✅ PASS: Elastic ball, bounces back when poked, not sticky  
+> ❌ FAIL — Crumbly: Under-hydrated or under-kneaded → add 2 tbsp warm water + 1 tbsp olive oil, re-knead 3 min  
+> ❌ FAIL — Mushy after steam: Air fry at 380°F for 5–8 min to tighten gluten before fridge chill
 
 ---
 
-### T+3:00 — Batch Fridge Load Complete
+### T+4:00 — Batch Fridge Load Complete
 
 All items should now be in the batch fridge:
 - [ ] Chickpeas whole — portioned bags flat-stacked
 - [ ] Chickpeas mashed — flat containers
 - [ ] Black beans whole — portioned bags flat-stacked
 - [ ] Black beans mashed — flat containers
+- [ ] Samosa filling A / B / C / D — portioned bags
 - [ ] Lentils — portioned containers
 - [ ] Quinoa — portioned containers
-- [ ] Aquafaba cube tray — in fridge
+- [ ] Patties — single-layer tray (freeze first, then bag → fridge)
+- [ ] Sweet potato — cubed or whole, labeled bag
+- [ ] Aquafaba cube tray — in fridge (if cooled)
 - [ ] Black bean liquid portions — in fridge
 
-**Fridge temp check:** Confirm batch fridge is reading ≤40°F (4°C). RS3 builds maximally between 36–40°F.
+**Fridge temp check:** Confirm batch fridge reading ≤40°F (4°C).
 
 > **QC Gate 6 — Batch Fridge Temperature:**  
-> ✅ PASS: Fridge reads ≤40°F with fully loaded shelves  
-> ❌ FAIL: Fridge struggling above 45°F → remove excess items, ensure door seals properly. Flag for owner. RS3 formation will be suboptimal above 40°F.
+> ✅ PASS: ≤40°F with fully loaded shelves  
+> ❌ FAIL: Above 45°F → remove excess items, check door seal. RS3 formation suboptimal above 40°F.
 
 ---
 
-### T+3:00 to T+3:30 — Cube Tray Transfer + Final Cleanup
+### T+4:00 to T+4:30 — Cube Trays + Aquafaba + Cleanup
 
-1. All cube trays (aloe, lemon, imli) move from fridge to **kitchen freezer** for overnight freeze.
-2. Aquafaba and black bean liquid trays remain in fridge until fully chilled (later today or overnight before freezing).
-3. Wash all pots, sheet pans, tools. Stove Station is responsible for its tools, Bench Station for its tools.
-4. Wipe down all surfaces. Done for Day 0.
+**Bench Station:**
+1. Aquafaba: probe check ≤104°F → fill cube tray → into fridge.
+2. Black bean liquid: same.
+3. Move all set cube trays (aloe, lemon, imli, ginger, fenugreek, mint muddle, rested garlic, cilantro/mint chutney) from fridge to **kitchen freezer**.
 
-**Total active time Day 0:** ~3–3.5 hours
+**Both Stations:**
+1. Wash all pots, sheet pans, mixer bowl, dough hook, tools.
+2. Wipe all surfaces. Done for Day 0.
+
+**Total active time Day 0: ~6.5–7 hours**
 
 ---
 
@@ -276,12 +339,40 @@ Example: `Black Beans WHOLE — 2026-05-05 — Use by 2026-08-05`
 
 ## What the Helper Does NOT Do
 
-These are owner-only tasks:
-- **Garlic bloom** — requires judgment on allicin timing, never done by helper during batch
-- **Toum emulsification** — monthly task, separate session
-- **Rested garlic cubes** — monthly task, separate session
-- **Curry leaf tadka** — monthly task, separate session
-- **Topical batch (aloe scalp, rosemary oil)** — separate session
+These are owner-only tasks on batch day or separate sessions:
+- **Garlic bloom** — day-of only, never done during batch
+- **Toum emulsification** — owner runs during simmer window (bench station, immersion blender, after aquafaba cools ~T+2:45)
+- **Curry leaf tadka** — owner-only, run during simmer window if fresh curry leaves available
+- **Topical batch** — owner-only, see below
+
+---
+
+## Topical / Skincare Batch (Owner Only — During Simmer Window)
+
+The aloe vera is already being cubed for consumption (5 trays, Bench Station T+0:00–0:20). The topical prep is a separate owner task that runs in parallel during the simmer window and requires no helper involvement.
+
+### What's Done on 3-Month Batch Day
+
+| Item | Process | Time | Notes |
+|---|---|---|---|
+| **Aloe scalp gel** | Split remaining aloe leaves, scoop gel, blend smooth with immersion blender, fill labeled glass jars | 15 min | Separate from consumption cubes — do not mix. Keep pure, no additives. |
+| **Rosemary oil infusion** | Fill a small glass jar with dried rosemary, cover with carrier oil (castor + jojoba), seal | 5 min | Cold infusion — takes 2–4 weeks to fully infuse. Label with start date. Batch every 3 months. |
+| **Fenugreek paste (hair)** | Already done in blender run at T+1:00–1:15 — this is the same batch. Freeze in cube tray, use 1–2 cubes per hair mask. | — | Done |
+
+### Bench Station Timing
+
+Add to the T+0:20–2:20 simmer window blender run:
+
+| Time | Task |
+|---|---|
+| T+0:50–1:05 | Aloe scalp gel: blend remaining aloe gel smooth → fill labeled glass jar → fridge |
+| T+1:05 | Rosemary oil: fill jar, cover with oil, seal, label. Set aside. |
+
+**Pre-Flight Addition for Skincare:**
+- [ ] Dried rosemary — enough for 1 small glass jar
+- [ ] Castor oil + jojoba oil — carrier oils for rosemary infusion
+- [ ] Extra aloe vera leaves beyond the consumption quantity
+- [ ] Small glass jars × 2 labeled "Aloe Scalp — [date]" and "Rosemary Oil — Start [date]"
 
 ---
 
