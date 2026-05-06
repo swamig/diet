@@ -54,8 +54,11 @@ Everything pre-portioned Sunday. Pure assembly:
 1. Scoop Greek yogurt into bowl (fresh, weekly purchase).
 2. Add pre-portioned blueberry container (already thawed in fridge since Sunday).
 3. Add pre-portioned casein jar.
-4. Stir in 2 tbsp black bean liquid (thawed cube from fridge).
-5. Combine and eat immediately — do not pre-mix and store.
+4. Add pre-soaked chia container (1 tbsp chia soaked in 3 tbsp water since Sunday — fully gelled, ready to drop in).
+5. Stir in 2 tbsp black bean liquid (thawed cube from fridge).
+6. Combine and eat immediately — do not pre-mix and store.
+
+**Why chia here:** daily ALA anchor (~2,500mg) stacked with chlorella closes the omega-3 gap to 400–430mg EPA equivalent without algae oil supplementation. Basil seeds remain in the salad rotation (Day 2) — two separate uses, no conflict.
 
 **Total daily active: ~9 min across all three meals.**
 
@@ -75,7 +78,8 @@ Pull full week supply of beans and samosa filling from chest freezer → batch f
 6. Portion 7 morning activation packs (ajwain / jeera rotation).
 7. **Recovery bowl pre-portion:** Divide 375g frozen blueberries into 5 × 8oz containers → fridge to thaw over the week.
 8. **Casein pre-portion:** Measure 1 scoop casein into each of 5 dry jars. Seal.
-9. Pull 1 black bean liquid cube to fridge to thaw for Monday bowl. (Pull next day's cube each evening.)
+9. **Chia pre-soak:** 1 tbsp chia + 3 tbsp cold water into each of 7 small lidded containers. Stir once. Rest 20 min → refrigerate. One per day into recovery bowl.
+10. Pull 1 black bean liquid cube to fridge to thaw for Monday bowl. (Pull next day's cube each evening.)
 
 **Greek yogurt:** Fresh purchase weekly — no prep. Just keep stocked.
 

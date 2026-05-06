@@ -10,7 +10,7 @@ priority: 'supporting'
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
 **Total active time:** ~85 min
-**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes + ~12 fenugreek paste cubes + aloe topical refresh (if needed) per session
+**Produces:** ~48 coconut cubes + ~17–18 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes + ~12 fenugreek paste cubes + aloe topical refresh (if needed) per session
 
 **Pre-flight (night before):** Soak 4 tbsp fenugreek seeds in water overnight.
 
@@ -135,6 +135,8 @@ The 15–20 second bloom is calibrated to extract the alkaloid fraction into the
 |---|---|
 | Fresh cilantro (packed) | 4 cups |
 | Fresh mint (packed, optional) | 2 cups |
+| Frozen avocado | ½ cup (~½ medium avocado) |
+| Aquafaba (cold) | 1 tbsp |
 | Thai green chilies | 4–5 |
 | Garlic (smashed, rested 10 min) | 4 cloves |
 | Fresh ginger | 1 inch knob |
@@ -142,7 +144,9 @@ The 15–20 second bloom is calibrated to extract the alkaloid fraction into the
 | Black salt (kala namak) | 1 tsp |
 | Roasted cumin powder | 1 tsp |
 
-**Output:** ~2 cups = ~16 cubes = 3 weeks at 1/day with small buffer ✓
+**Avocado source:** commercially frozen (check label — ascorbic acid or citric acid only; reject if sodium metabisulfite or sulfites present). Alternatively: cube fresh ripe avocado, toss in 1 tsp lemon juice, freeze flat on parchment — no additives.
+
+**Output:** ~2¼ cups = ~17–18 cubes = 3 weeks at 1/day with buffer ✓
 
 ---
 
@@ -175,12 +179,15 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 
 ### Step 3 — Blend cilantro chutney (5 min)
 
-1. Add blanched cilantro + mint, chilies, garlic, ginger to Vitamix
-2. Add lemon juice + black salt + cumin
-3. Blend 60–90 sec until smooth — add a splash of water only if needed to get it moving
-4. Taste: should be sharp, bright, herby, spiced. Adjust salt/lemon.
-5. Pour into ice cube trays (~2 tbsp per cube)
-6. Freeze immediately — don't let it sit
+1. Add **aquafaba + frozen avocado first** — blend 20 sec to start the emulsion before adding herbs
+2. Add blanched cilantro + mint, chilies, garlic, ginger
+3. Add lemon juice + black salt + cumin
+4. Blend 60–90 sec until smooth — the avocado adds body; you likely won't need extra water
+5. Taste: should be bright, herby, spiced with a creamy finish. Adjust salt/lemon.
+6. Pour into ice cube trays (~2 tbsp per cube)
+7. Freeze immediately — don't let it sit
+
+> **Blend order matters:** Aquafaba saponins emulsify the avocado fat into the herb base before the herbs are added. If you add everything at once the fat sits on top of the water phase and separates in the cube on thaw.
 
 ---
 
@@ -309,6 +316,7 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 | Item | Amount |
 |---|---|
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
+| **Frozen avocado** | **½ cup** — for cilantro chutney |
 | Fresh cilantro | **4 cups packed (~2 bunches)** |
 | Fresh mint | **~4 cups packed (~2 bunches)** — 2 cups for chutney + 2 cups for Jaljeera |
 | Fresh curry leaves | **~1¾ cups packed total** (6–8 tbsp for chutney + 1 cup for tadka) |

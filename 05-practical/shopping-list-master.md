@@ -61,7 +61,12 @@ These will last months.
 *   Lentils (1.5 kg dry)
 *   Pumpkin seeds
 *   Sesame seeds
-*   Basil Seeds (Sabja) or Chia Seeds
+*   Chia seeds — **keep stocked** (1 tbsp/day × 7 days = 7 tbsp/week, recovery bowl only)
+*   Basil Seeds (Sabja) — **keep stocked** (1 tbsp × 3 days/week = 3 tbsp/week, Mon/Wed/Fri salad — workout day iron anchor)
+*   Hemp seeds — 1 tbsp/week (Sunday salad rotation)
+*   Sesame seeds — 1 tbsp/week (Tuesday salad rotation)
+*   Walnuts — 1 tbsp/week (Thursday salad rotation)
+*   Pumpkin seeds — 1 tbsp/week (Saturday salad rotation)
 
 ## Buy Weekly (Fresh Produce)
 This must be refreshed weekly to maintain nutrient density.

@@ -145,19 +145,30 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration to remove m
 
 **The Rule:** All seeds (Sesame, Pumpkin, Walnut, Chia) go into the **14:30 Salad**, never the shake or recovery bowl.
 
-**1. The 5-Day Seed Rotation (Prep in 5 dry mini-containers):**
-*   **Day 1:** 1 tbsp Sesame (Mineral Density)
-*   **Day 2:** 1 tbsp Basil Seeds / Sabja (The Cooling & Iron Anchor)
-*   **Day 3:** 1 tbsp Walnuts (Vascular Peak)
-*   **Day 4:** 1 tbsp Chia Seeds (The Omega/ALA Anchor)
-*   **Day 5:** 1 tbsp Pumpkin Seeds (Zinc/Recovery)
-*   **The Activation Rules (Crucial):**
-    *   *Chia Seeds (Day 4):* The night before, add 3 tbsp of water to the container. They take 8 hours to fully hydrate into a digestible gel.
-    *   *Basil Seeds (Day 2):* Just 5 minutes before eating your salad, add 1/4 cup of water. They will instantly swell. Toss the gel directly into the salad.
+**1. The 7-Day Seed Rotation (Prep in 7 dry mini-containers):**
 
-**2. The Recovery Bowl Setup (5-Day):**
+Basil seeds anchor the 3 heavy training days (Mon/Wed/Fri) — iron demand and hepcidin suppression are highest post-workout. Chia is now in the recovery bowl daily and is removed from the salad rotation to eliminate redundancy.
+
+*   **Monday:** 1 tbsp Basil Seeds / Sabja — **workout day iron anchor**
+*   **Tuesday:** 1 tbsp Sesame — mineral density, vascular signaling
+*   **Wednesday:** 1 tbsp Basil Seeds / Sabja — **workout day iron anchor**
+*   **Thursday:** 1 tbsp Walnuts — omega-3, vascular peak
+*   **Friday:** 1 tbsp Basil Seeds / Sabja — **workout day iron anchor**
+*   **Saturday:** 1 tbsp Pumpkin Seeds — zinc, recovery
+*   **Sunday:** 1 tbsp Hemp Seeds — complete protein (all essential amino acids), omega-6/3 balance
+
+*   **The Activation Rules (Crucial):**
+    *   *Basil Seeds (Mon/Wed/Fri):* 5 minutes before eating your salad, add ¼ cup water. They will instantly swell. Toss the gel directly into the salad.
+    *   *Walnuts (Thu):* No activation needed. Roughly chop before portioning for better surface area.
+    *   *Hemp Seeds (Sun):* No activation needed — soft hull, eat dry directly on salad.
+    *   *Chia:* Removed from salad rotation — now anchored daily in the recovery bowl (pre-soaked Sunday). No double-dosing.
+
+**2. The Recovery Bowl Setup (7-Day):**
 *   **Blueberries:** Portion 75g (Total: 375g for 5 days) of frozen blueberries into 5 separate 8 oz containers. Store in the fridge to thaw.
 *   **Casein:** Portion 1 scoop into 5 separate dry jars.
+*   **Chia (pre-soak — omega-3 anchor):** Into each of 7 small lidded containers, add **1 tbsp chia seeds + 3 tbsp cold water**. Stir once. Let sit 20 min at room temp until gel begins to form, then refrigerate. One container per day into the recovery bowl. **Do not pre-mix with yogurt** — add at assembly and eat immediately.
+    *   Why pre-soak: chia needs 20–30 min to fully gel in thick yogurt. Pre-soaking on Sunday means zero daily wait — drop the container in, stir, eat.
+    *   Why daily vs. salad rotation only: pre-soaked chia in the recovery bowl is the fixed daily EPA/DHA precursor stack (ALA + chlorella = full omega-3 coverage). Salad rotation Day 4 chia remains independent.
 *   (Combine with Greek Yogurt fresh at the time of eating to manage oxalate binding).
 
 ## Nutritional Enhancement through Proper Prep
