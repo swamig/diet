@@ -218,6 +218,13 @@ Three tools run in sequence. Never overlap Vitamix and immersion blender — fin
 
 **Food processor note:** run ginger first (shredding disc) → swap to S-blade → process samosa chilies to rough chop. Two passes, one machine, no separate knife work for filling prep.
 
+**Already done at T+0:00 (bench station, no blender needed):**
+- Aloe vera consumption: 5 trays filled and covered ✓
+- Lemon juice: 4 trays filled and covered ✓
+- Imli: tamarind dissolved in warm water → strained → 1 tray filled and covered ✓
+
+Confirm all three are set aside before starting the simmer window sequence below.
+
 | Time | Task | Tool |
 |---|---|---|
 | T+0:20–0:25 | Tofu: drain, pat dry, freeze slabs flat on sheet pan | ⚪ Hands |
