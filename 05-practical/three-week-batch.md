@@ -9,14 +9,42 @@ priority: 'supporting'
 
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
-**Total active time:** ~45–50 min
-**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes per session
+**Total active time:** ~55–60 min
+**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~15 curry leaf tadka cubes per session
 
 > For the 3-month freeze-stable versions (plain coconut base, tamarind), see [Coconut Chutney](coconut-chutney.md) and [Tamarind Chutney](tamarind-chutney.md).
 
 ---
 
 ## What You Need
+
+### Curry leaf tadka — 1 pan, 5 min
+
+Make this first while the coconut chutney ingredients are being prepped. Curry leaves are already on hand for the chutney — use a portion for the tadka now.
+
+| Ingredient | Amount |
+|---|---|
+| Fresh curry leaves | **3–4 tbsp packed** (separate from chutney quantity) |
+| Mustard seeds | 1 tsp |
+| Avocado oil or coconut oil | 3 tbsp |
+| Dried red chili (whole) | 2 |
+| Hing (asafoetida) | pinch |
+
+**Method:**
+1. Heat oil in small pan on medium-high until shimmering.
+2. Add mustard seeds — wait for them to pop (~20 sec).
+3. Add curry leaves, dried chili, hing — they will spit. Stand back. Bloom 15–20 sec until leaves are fragrant and slightly crispy.
+4. Remove from heat immediately. Do not over-cook — carbazole alkaloids degrade with prolonged heat.
+5. Cool 5 min. Pour into ice cube tray (~1 tbsp per cube). **~15 cubes.**
+6. Freeze. Transfer to labeled bag when set.
+
+**Freeze stability:** 4–6 weeks. Fat carrier protects carbazole alkaloids. Matches 3-week cadence with buffer.
+
+**At serving:** Drop 1 cube into a warm pan, let melt (10 sec), pour over thawed coconut chutney or use as tadka finish for any dish.
+
+**Label:** `Curry Leaf Tadka — [date] — use by [date +5 weeks]`
+
+---
 
 ### Coconut chutney (full, curry leaves blended in) — 2 Vitamix runs:
 
@@ -140,6 +168,7 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 | Jaljeera concentrate (blanched mint, acid+lipid locked) | **3 weeks** | Menthol ~80% intact; ACV and lemon fully stable |
 | Cilantro (blanched, acid-locked) | **3 weeks** | Chelation compounds ~80% intact at 3 weeks |
 | Coconut full (curry leaves blended) | **3 weeks** | Curry leaf carbazole alkaloids hold well to 3 weeks |
+| **Curry leaf tadka (fat carrier)** | **4–6 weeks** | Fat protects alkaloids; matches 3-week cadence with buffer |
 | Coconut base (no curry leaves) | **3 months** | See [3-month base protocol](coconut-chutney.md) |
 | Tamarind chutney | **3 months** | See [3-month tamarind protocol](tamarind-chutney.md) |
 
@@ -166,7 +195,7 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
 | Fresh cilantro | **4 cups packed (~2 bunches)** |
 | Fresh mint | **~4 cups packed (~2 bunches)** — 2 cups for chutney + 2 cups for Jaljeera |
-| Fresh curry leaves | **6–8 tbsp packed** |
+| Fresh curry leaves | **9–12 tbsp packed** (6–8 tbsp for chutney + 3–4 tbsp for tadka) |
 | Green chili | **~25 total** — 8–10 coconut + 4–5 cilantro + 10–12 Jaljeera |
 | Fresh ginger | **~400g total** — coconut + cilantro + Jaljeera combined |
 | Garlic | **4 cloves** |
