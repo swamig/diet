@@ -9,8 +9,25 @@ priority: 'supporting'
 
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
-**Total active time:** ~55–60 min
-**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~15 curry leaf tadka cubes per session
+**Total active time:** ~60 min
+**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes per session
+
+## Session Timeline
+
+| Time | Task | Notes |
+|---|---|---|
+| T+0:00–0:05 | Setup — ingredients out, mini tray ready, boil water for blanching | Water boils while you prep |
+| T+0:05–0:08 | Pre-chop: rough chop curry leaves, break chili into flakes | Do this before anything hits the pan |
+| T+0:08–0:15 | **Tadka** — bloom in pan, cool | Start water boiling simultaneously if not ready |
+| T+0:15–0:20 | **Blanch** mint + cilantro, ice bath, squeeze, separate | Tadka cooling passively on counter |
+| T+0:20–0:22 | Pour tadka into mini tray, stir between pours | Tadka should be cool enough now |
+| T+0:22–0:27 | **Blend Jaljeera** concentrate → pour into tray | Rinse blender 10 sec between runs |
+| T+0:27–0:32 | **Blend cilantro chutney** → pour into tray | |
+| T+0:32–0:44 | **Blend coconut chutney** — 2 runs × 6 min each | 90 sec blend + pour + reload |
+| T+0:44–0:54 | **Label all trays**, move to freezer flat | 5 trays total — do not stack until frozen |
+| T+0:54–1:00 | Cleanup — blender, pan, cutting board, bowls | |
+
+**Total: ~60 min. One person. No cooking required after the tadka pan.**
 
 > For the 3-month freeze-stable versions (plain coconut base, tamarind), see [Coconut Chutney](coconut-chutney.md) and [Tamarind Chutney](tamarind-chutney.md).
 
@@ -27,20 +44,27 @@ Make this first while the coconut chutney ingredients are being prepped. Curry l
 | Fresh curry leaves | **1 cup packed** (separate from chutney quantity) |
 | Mustard seeds | 1 tbsp |
 | Avocado oil or coconut oil | **7 tbsp (~½ cup)** |
-| Dried red chili (whole) | 6–8 |
+| Dried red chili flakes (or whole dried chilies, broken) | 1–1½ tsp flakes |
 | Hing (asafoetida) | ¼ tsp |
 
 **Yield:** ~7 tbsp tadka = **~21 cubes at 1 tsp each** = exact 3-week supply at 1 cube/day.
 
-**Cube size note:** Use 1 tsp per cube — tadka is concentrated, 1 tsp is the correct serving dose for one bowl of chutney or one dish finish. Fill standard silicone tray cells to ~⅓ full, or use a small-cell tray.
+**Tray:** Use a **mini cube tray (1 tsp cell size)**. Fill each cell to the top — no thin discs, clean pop-out, stacks flat in the bag. Same tray format as ginger and rested garlic cubes.
+
+**Pre-chop before hitting the pan (critical for even portioning):**
+- **Curry leaves:** rough chop into ~½ inch pieces. Whole leaves stick up above the oil line in the cell and won't freeze flat — chopped pieces stay submerged. Also increases cut surface area during the bloom → better alkaloid extraction into the oil.
+- **Dried red chili:** break whole chilies into small flakes by hand (discard seeds for less heat), or use pre-made chili flakes directly. Whole chilies don't distribute across 21 cubes — one cube gets a large piece, most get none.
+- **Mustard seeds:** fine as-is, small enough to distribute naturally in the oil.
 
 **Method:**
-1. Heat oil in small pan on medium-high until shimmering.
-2. Add mustard seeds — wait for them to pop (~20 sec).
-3. Add curry leaves, dried chili, hing — they will spit. Stand back. Bloom **15–20 sec exactly** until leaves are fragrant and slightly crispy.
-4. Remove from heat immediately.
-5. Cool 5 min. Pour into tray at **1 tsp per cell**. **~21 cubes.**
-6. Freeze overnight. Transfer to labeled bag when set.
+1. Rough chop curry leaves. Break/measure chili flakes. Set aside.
+2. Heat oil in small pan on medium-high until shimmering.
+3. Add mustard seeds — wait for them to pop (~20 sec).
+4. Add chopped curry leaves + chili flakes + hing — they will spit. Stand back. Bloom **15–20 sec exactly** until leaves are fragrant and slightly crispy.
+5. Remove from heat immediately.
+6. Cool 5 min — stir once while cooling to redistribute solids evenly in the oil.
+7. Pour into mini tray, **1 tsp per cell**, stirring the pan between pours to keep solids evenly distributed. **~21 cubes.**
+8. Freeze overnight. Transfer to labeled bag when set.
 
 **Why the tadka doesn't destroy the antioxidants — and why it's the right format:**
 
