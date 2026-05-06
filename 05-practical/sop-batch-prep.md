@@ -212,13 +212,16 @@ Three tools run in sequence. Never overlap Vitamix and immersion blender — fin
 **Tools this window:**
 - 🔵 **Vitamix** — Jaljeera, cilantro/mint chutney, coconut chutney (2 runs)
 - 🟢 **Immersion blender + beaker** — Mint muddle, fenugreek paste, aloe scalp gel, toum base
-- 🟡 **Food processor (shredding disc)** — Ginger cubes
+- 🟡 **Food processor** — Ginger cubes (shredding disc) + samosa filling chilies (S-blade)
+- 🔴 **KitchenAid mixer + dough hook** — Samosa dough (T+2:00), patty dough (T+3:30)
 - ⚪ **Hands / sauté pan** — Tadka, rested garlic, tofu
+
+**Food processor note:** run ginger first (shredding disc) → swap to S-blade → process samosa chilies to rough chop. Two passes, one machine, no separate knife work for filling prep.
 
 | Time | Task | Tool |
 |---|---|---|
 | T+0:20–0:25 | Tofu: drain, pat dry, freeze slabs flat on sheet pan | ⚪ Hands |
-| T+0:25–0:28 | Pre-chop curry leaves (~½ inch), break chili to flakes | ⚪ Hands |
+| T+0:25–0:28 | Pre-chop curry leaves (~½ inch), break tadka chili to flakes by hand | ⚪ Hands |
 | T+0:28–0:35 | **Tadka** — bloom mustard seeds + curry leaves + chili + hing in oil 15–20 sec; remove from heat; cool on counter | ⚪ Sauté pan |
 | T+0:35–0:40 | Blanch cilantro + all mint 10–15 sec → ice bath → squeeze → separate (cilantro+mint pile / mint-only pile) | ⚪ Hands |
 | T+0:40–0:42 | Pour cooled tadka into mini tray (1 tsp/cell, ~21 cells); stir pan between pours | ⚪ Hands |
@@ -229,9 +232,12 @@ Three tools run in sequence. Never overlap Vitamix and immersion blender — fin
 | T+1:20–1:28 | **Mint muddle** — mint + chili + ginger + lemon + avocado oil → muddle/blend to coarse paste → fill mini tray | 🟢 Immersion blender |
 | T+1:28–1:38 | **Fenugreek paste (hair)** — drain soaked seeds → blend with 1–2 tbsp water to thick paste → fill tray | 🟢 Immersion blender beaker |
 | T+1:38–1:50 | **Aloe scalp gel** — drain latex (leaves already standing) → fillet → scoop gel → blend smooth in bowl → fill tray | 🟢 Immersion blender |
-| T+1:50–2:00 | **Ginger cubes** — shredding disc → process ginger → fill 2 trays | 🟡 Food processor |
+| T+1:50–2:00 | **Ginger cubes** (shredding disc) → fill 2 trays; **swap to S-blade** → rough chop samosa filling chilies → set aside in bowl | 🟡 Food processor |
 | T+2:00–2:10 | **Rested garlic** — crush cloves → 10 min rest (timer) → portion into tray | ⚪ Hands |
-| T+2:00–2:20 | **Samosa dough** — runs simultaneously with garlic rest | KitchenAid mixer |
+| T+2:00–2:20 | **Samosa dough** — runs simultaneously with garlic rest; see Samosa Dough section below | 🔴 KitchenAid mixer |
+
+**Toum base** runs at T+2:45 once aquafaba has cooled to ≤104°F — immersion blender beaker.
+**Patty dough** runs at T+3:30 — KitchenAid Speed 2, 3–5 min.
 
 **Toum base** runs at T+2:45 once aquafaba has cooled to ≤104°F — immersion blender beaker.
 
