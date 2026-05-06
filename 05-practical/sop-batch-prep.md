@@ -205,22 +205,39 @@ Owns cold prep, blender runs, mixer runs, cube trays, samosa dough, patties, and
 
 **Stove Station:** Monitor simmer, check water levels, nothing else needed until T+2:05.
 
-**Bench Station — full blender + mixer run during this window:**
+**Bench Station — full blender + mixer run during this window.**
+
+Three tools run in sequence. Never overlap Vitamix and immersion blender — finish one run, rinse 10 sec, move to next. Food processor runs independently.
+
+**Tools this window:**
+- 🔵 **Vitamix** — Jaljeera, cilantro/mint chutney, coconut chutney (2 runs)
+- 🟢 **Immersion blender + beaker** — Mint muddle, fenugreek paste, aloe scalp gel, toum base
+- 🟡 **Food processor (shredding disc)** — Ginger cubes
+- ⚪ **Hands / sauté pan** — Tadka, rested garlic, tofu
 
 | Time | Task | Tool |
 |---|---|---|
-| T+0:20–0:30 | Tofu: drain, pat dry, freeze slabs flat on sheet pan | Hands |
-| T+0:30–0:45 | Cilantro/mint chutney — blend full batch → fill tray | Immersion blender |
-| T+0:45–1:00 | Mint muddle — muddle + blend → fill 2 trays | Immersion blender |
-| T+1:00–1:15 | Fenugreek paste (soaked overnight) — blend → fill tray | Immersion blender |
-| T+1:15–1:30 | Ginger cubes — grate/blend fresh ginger → fill 2 trays | Immersion blender |
-| T+1:30–1:45 | Rested garlic cubes — crush → 10 min rest → portion into tray | Hands (no blender) |
-| T+1:45–1:55 | Imli check, lemon tray check, aloe tray check — all covered, move to fridge | — |
-| T+2:00–2:20 | **Samosa dough (mixer)** — see Samosa Dough section below | KitchenAid |
+| T+0:20–0:25 | Tofu: drain, pat dry, freeze slabs flat on sheet pan | ⚪ Hands |
+| T+0:25–0:28 | Pre-chop curry leaves (~½ inch), break chili to flakes | ⚪ Hands |
+| T+0:28–0:35 | **Tadka** — bloom mustard seeds + curry leaves + chili + hing in oil 15–20 sec; remove from heat; cool on counter | ⚪ Sauté pan |
+| T+0:35–0:40 | Blanch cilantro + all mint 10–15 sec → ice bath → squeeze → separate (cilantro+mint pile / mint-only pile) | ⚪ Hands |
+| T+0:40–0:42 | Pour cooled tadka into mini tray (1 tsp/cell, ~21 cells); stir pan between pours | ⚪ Hands |
+| T+0:42–0:48 | **Jaljeera concentrate** — blend mint + chili + ginger + lemon + ACV + avocado oil + hing → fill tray | 🔵 Vitamix |
+| T+0:48–0:55 | **Cilantro/mint chutney** — aquafaba + avocado first (20 sec pre-emulsify) → add cilantro + mint + chili + garlic + ginger + lemon + black salt + cumin → blend 90 sec → fill tray | 🔵 Vitamix |
+| T+0:55–1:08 | **Coconut chutney Run 1** — coconut + curry leaves + chili + ginger + cumin + lemon + aquafaba → blend 90 sec → fill trays | 🔵 Vitamix |
+| T+1:08–1:20 | **Coconut chutney Run 2** — identical → fill trays | 🔵 Vitamix |
+| T+1:20–1:28 | **Mint muddle** — mint + chili + ginger + lemon + avocado oil → muddle/blend to coarse paste → fill mini tray | 🟢 Immersion blender |
+| T+1:28–1:38 | **Fenugreek paste (hair)** — drain soaked seeds → blend with 1–2 tbsp water to thick paste → fill tray | 🟢 Immersion blender beaker |
+| T+1:38–1:50 | **Aloe scalp gel** — drain latex (leaves already standing) → fillet → scoop gel → blend smooth in bowl → fill tray | 🟢 Immersion blender |
+| T+1:50–2:00 | **Ginger cubes** — shredding disc → process ginger → fill 2 trays | 🟡 Food processor |
+| T+2:00–2:10 | **Rested garlic** — crush cloves → 10 min rest (timer) → portion into tray | ⚪ Hands |
+| T+2:00–2:20 | **Samosa dough** — runs simultaneously with garlic rest | KitchenAid mixer |
 
-**Stove Station at T+2:05:** Add **1 tsp sea salt per quart of water** to all 4 pots. Stir each.
+**Toum base** runs at T+2:45 once aquafaba has cooled to ≤104°F — immersion blender beaker.
 
-**Sweet potato check at T+1:05:** Pull from oven and pierce with a knife — if it goes in easily, done. If resistance, return for 15 more min. Once done: remove, cool on rack.
+**Stove Station at T+2:05:** Add 1 tsp sea salt per quart of water to all 4 pots. Stir each.
+
+**Sweet potato check at T+1:05:** Pierce with knife — if it goes in easily, done. Return 15 min if resistance. Cool on rack once done.
 
 ---
 
