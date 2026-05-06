@@ -9,8 +9,10 @@ priority: 'supporting'
 
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
-**Total active time:** ~70 min
-**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes per session
+**Total active time:** ~85 min
+**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes + ~12 fenugreek paste cubes + aloe topical refresh (if needed) per session
+
+**Pre-flight (night before):** Soak 4 tbsp fenugreek seeds in water overnight.
 
 ## Session Timeline
 
@@ -25,10 +27,12 @@ Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produ
 | T+0:27–0:32 | **Blend cilantro chutney** → pour into tray | |
 | T+0:32–0:44 | **Blend coconut chutney** — 2 runs × 6 min each | 90 sec blend + pour + reload |
 | T+0:44–0:54 | **Blend mint muddle** → pour into mini tray | Same blender, mint already blanched |
-| T+0:54–1:04 | **Label all trays**, move to freezer flat | 6 trays total — do not stack until frozen |
-| T+1:04–1:10 | Cleanup — blender, pan, cutting board | |
+| T+0:54–1:04 | **Fenugreek paste** → drain soaked seeds → blend in beaker → pour into cube tray | Immersion blender beaker |
+| T+1:04–1:19 | **Aloe topical refresh** (if running low) → drain latex → fillet → scoop → blend → tray | Regular bowl + immersion blender |
+| T+1:19–1:24 | **Label all trays**, move to freezer flat | 7–8 trays — do not stack until frozen |
+| T+1:24–1:30 | Cleanup — blender, pan, cutting board | |
 
-**Total: ~70 min. One person. No cooking required after the tadka pan.**
+**Total: ~85 min. One person. No cooking required after the tadka pan.**
 
 > For the 3-month freeze-stable versions (plain coconut base, tamarind), see [Coconut Chutney](coconut-chutney.md) and [Tamarind Chutney](tamarind-chutney.md).
 
@@ -223,7 +227,44 @@ Fresh mint is already on the counter. Run this immediately after blending the ci
 
 ---
 
-### Step 6 — Freeze and label (5 min)
+### Step 6 — Fenugreek Paste Cubes + Aloe Topical Refresh (15 min)
+
+Run immediately after mint muddle. Immersion blender already in hand.
+
+**Fenugreek paste (hair) — every session:**
+
+Fenugreek seeds soak overnight (add to pre-flight checklist below).
+
+| Detail | Value |
+|---|---|
+| Seeds | 4 tbsp dry, soaked overnight |
+| Blend | Drain → blend in beaker with 1–2 tbsp water max → thick paste, holds shape in spoon |
+| Cube size | 1 tbsp per cube |
+| Yield | ~12–14 cubes |
+| Freeze stability | 4–6 weeks — matches 3-week cadence with buffer |
+| Label | `Fenugreek Paste HAIR — [date] — use by [date +6 weeks]` |
+
+1. Drain soaked fenugreek into blender beaker.
+2. Add 1–2 tbsp water. Blend until smooth thick paste — no visible whole seeds.
+3. Pour into cube tray (~1 tbsp per cell).
+4. Freeze overnight. Transfer to labeled bag.
+
+**Aloe topical refresh — if running low:**
+
+Check aloe topical bag in chest freezer before session. If fewer than ~10 cubes remaining, run a refresh batch.
+
+| Detail | Value |
+|---|---|
+| Leaves needed | 1–2 large aloe leaves per refresh |
+| Yield | ~14–28 cubes per leaf |
+| Process | Drain latex 10–15 min → fillet → scoop gel → blend smooth in bowl → pour into tray |
+| Label | `Aloe TOPICAL — [date] — use by [date +3 months]` |
+
+No pre-flight soak needed — just have 1–2 fresh aloe leaves on hand.
+
+---
+
+### Step 7 — Freeze and label (5 min)
 
 - Freeze all trays flat for 4 hours minimum
 - Pop cubes into **separate labeled zip-lock bags:**
@@ -263,6 +304,8 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 
 ## Shopping List (Per 3-Week Session)
 
+**Night before:** Soak 4 tbsp fenugreek seeds in a small bowl of water.
+
 | Item | Amount |
 |---|---|
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
@@ -276,6 +319,8 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 | ACV (raw) | **~1¼ cups** |
 | Avocado oil | **3½ tbsp** |
 | Hing | **½ tsp** |
+| **Fenugreek seeds** | **4 tbsp** |
+| **Fresh aloe vera leaves** | **1–2 large** (topical refresh — only if running low) |
 
 ---
 
