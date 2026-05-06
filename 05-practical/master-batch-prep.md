@@ -22,6 +22,105 @@ Everything in one place: what to buy, how much, and how to make it. Organized by
 
 ---
 
+## Parallel Execution Plan — Maximum Throughput
+
+The 3-month session has ~37kg of food that needs a 12–24h RS3 fridge chill before freezing. That is the hard bottleneck — not cook time. Everything else is parallelizable. The plan below compresses a naïve sequential day (~8h) into ~4h active across 2 days.
+
+### The Hard Bottleneck: Fridge Space
+
+| RS3 chill item | Cooked weight | Fridge space |
+|---|---|---|
+| Chickpeas | ~12.5 kg | 1 full shelf (flat-stacked bags) |
+| Black beans | ~11 kg | 1 full shelf |
+| Quinoa | ~7 kg | ½ shelf |
+| Lentils | ~2.5 kg | ¼ shelf |
+| Purple sweet potato | ~4 kg | ½ shelf |
+| **Total** | **~37 kg** | **~3.5 shelves** |
+
+**A standard fridge cannot hold all of this overnight alongside weekly fresh food.**
+
+**With a second fridge (recommended):** Dedicate the second fridge entirely to RS3 chill. All 37kg goes in simultaneously on Day 0. Transfers to chest freezer Day 1 morning. Entire session completes in a single day.
+
+**Without a second fridge:** Split across 2 batch days — chickpeas + black beans on Day 0 (2 shelves), quinoa + lentils + sweet potato on Day 1 (1.5 shelves). Adds ~2h overhead but works with one fridge.
+
+See [Equipment](equipment.md) for chest freezer and second fridge sizing.
+
+---
+
+### Day −1 Evening (30 min, hands-on)
+
+Run all overnight passives simultaneously:
+
+- **Pot 1:** Soak chickpeas batch A (~2.5 kg dried) with baking soda water
+- **Pot 2:** Soak black beans batch A (~2.25 kg dried) with baking soda water
+- **Pot 3:** Soak chickpeas batch B (~2.5 kg dried) — or black beans batch B if doing both simultaneously
+- **Pot 4:** Soak black beans batch B (~2.25 kg dried)
+- **Small bowl:** Soak fenugreek seeds (if monthly cubes are due)
+- **Aloe leaves:** Cut at base, stand upright in a glass — latex drains overnight passively
+
+Everything is ready to go at Day 0 morning with zero morning prep overhead.
+
+---
+
+### Day 0 — Full Parallel Execution Map
+
+**4 burners + 1 oven running simultaneously for the first 2 hours.**
+
+| Clock | Burner 1 | Burner 2 | Burner 3 | Burner 4 | Oven | Hands |
+|---|---|---|---|---|---|---|
+| **T+0:00** | Chickpeas A: drain, rinse, fill, Ayurvedic stack → boil | Black beans A: drain, rinse, fill, Ayurvedic stack → boil | Quinoa: rinse, fill, boil | Lentils: rinse, fill, boil | Preheat 400°F + water pan | Start black garlic rice cooker (Keep Warm) |
+| **T+0:00–2:00** | Simmering (passive) | Simmering (passive) | Simmering | Simmering | Sweet potato + samosa veg | **Active hands window — see below** |
+| **T+0:20** | — | — | **Quinoa done** → spread tray → cool | — | — | Spread quinoa flat, monitor |
+| **T+0:25** | — | — | Pot 3 free | **Lentils done** → spread tray → cool | — | Spread lentils flat |
+| **T+0:35** | — | — | Chickpeas B (if 2-pot strategy) | Pot 4 free for black beans B | — | — |
+| **T+0:40** | — | — | — | — | **Sweet potato done** → cool at room temp | Transfer to cooling rack |
+| **T+0:50** | Skim foam | Skim foam | — | — | Samosa veg done → cool | Spread on sheet trays |
+| **T+1:00** | Quinoa/lentils cooled → **fridge (RS3)** | — | — | — | — | Portion quinoa + lentils into bags, load fridge |
+| **T+2:00** | **Chickpeas done** → skim, reduce aquafaba | **Black beans done** → portion liquid → freezer immediately | — | — | — | Pull aromatics, reduce aquafaba 10–15 min |
+| **T+2:30** | Aquafaba into cube trays | — | — | — | — | Spread chickpeas on sheet trays to cool |
+| **T+3:00** | Cool → portion bags → **fridge (RS3)** | Cool → portion bags → **fridge (RS3)** | — | — | — | Sweet potato already cooled → portion bags → **fridge (RS3)** |
+| **T+3:30** | — | — | — | — | — | All cube trays → freezer. Tofu → freezer. Garlic tray → freezer |
+
+**Day 0 fridge overnight load:** chickpeas + black beans + sweet potato (~28 kg) — 2.5 shelves.
+Quinoa + lentils already loaded at T+1:00 — they're done by morning.
+
+---
+
+### Active Hands Window (T+0:00 to T+2:00)
+
+Both bean pots are simmering hands-free. Use this 2-hour window to complete all cube prep and freeze-prep in parallel:
+
+**Priority order (most time-sensitive first):**
+
+1. **Garlic peeling** (30–40 min, TV task) — peel all 25 heads. Spread on tray → into freezer immediately. Cloves need 1h to freeze solid before transferring to jar.
+2. **Lemon juicing** (20–30 min) — juice all 50 lemons. Pour into 4 cube trays → freezer. Done.
+3. **Aloe vera** (20 min) — latex already drained overnight. Fillet, scoop, blend → 5 cube trays → freezer.
+4. **Imli cubes** (10 min) — whisk concentrate + water + spices → 1 tray → freezer.
+5. **Cilantro blanch** (10 min) — boil 1 pot of water on any free burner after quinoa/lentils finish. Blanch 10 sec → ice bath → dry → bag flat → freezer.
+6. **Mint blanch** (10 min, same water as cilantro) — back-to-back with cilantro.
+7. **Curry leaves** (5 min) — wash, dry, bag → freezer loose.
+8. **Chilies** (5 min) — wash, dry, bag → freezer.
+9. **Coconut** (10 min) — grate, spread on tray → freezer 1h → transfer to bag.
+10. **Tofu** (15 min) — slice all blocks into 1cm slabs, pat dry, bag flat → freezer directly (no RS3 needed).
+11. **Topical dry jars** (10 min) — measure and mix all three jars. Done, shelf-stable.
+12. **Epsom salt portions** (10 min, optional) — pre-portion into bags if desired.
+
+Everything above fits in the 2-hour window with time to spare.
+
+---
+
+### Day 1 Morning (20 min)
+
+- **Transfer to freezer:** chickpeas, black beans, sweet potato, quinoa, lentils (RS3 chill complete)
+- **Transfer garlic:** cloves frozen solid overnight → move to airtight glass jar
+- **Transfer cubes:** aloe, lemon, imli, aquafaba out of trays → labeled bags/containers
+- Fridge completely cleared. Full chest freezer loaded for 3 months.
+
+**Total active time: ~4h (Day 0) + 30 min (Day −1) + 20 min (Day 1) = ~5h across 2 days.**
+Previous naïve estimate: "half day" — this plan cuts active time by ~40% through full parallelization.
+
+---
+
 ## Three-Cadence Overview
 
 | Cadence | What you do | Time |
@@ -595,7 +694,7 @@ Full instructions in [Vegan Protein Patties](vegan-protein-patties.md). Pull fro
 
 ### How many trays you need
 
-**8 covered silicone ice cube trays** (15 cubes per tray). Trays are reused — freeze overnight, transfer to a bag, tray is free for the next batch.
+**14 covered silicone ice cube trays** (15 cubes per tray). Trays are reused — freeze overnight, transfer to a bag, tray is free for the next batch.
 
 Peak simultaneous tray use by session (at 15 cubes per tray, one type per tray):
 
@@ -604,8 +703,8 @@ Peak simultaneous tray use by session (at 15 cubes per tray, one type per tray):
 | **3-month day** | Aloe vera | 65 | 5 |
 | | Lemon juice | 48 | 4 |
 | | Imli | 14 | 1 |
-| | Aquafaba | 25 | 2 |
-| | **Total** | | **11** |
+| | Aquafaba | 25 | 1 |
+| | **Total simultaneous** | | **11** |
 | **Monthly** | Ginger | 28 | 2 |
 | | Rested garlic | 14 | 1 |
 | | Toum base (no oil) | 14 | 1 |
@@ -617,7 +716,7 @@ Peak simultaneous tray use by session (at 15 cubes per tray, one type per tray):
 | | Cilantro/mint chutney | ~8 | 1 |
 | | **Total** | | **2** |
 
-The 3-month day needs 11 trays total, but aloe + lemon (8 trays) can go in the freezer overnight together, then imli and aquafaba reuse those trays the next day. With 8 trays you can do the full 3-month session in a single evening fill. The monthly session now needs 8 trays (added toum base) — exactly covered by 8. Upgrade to 10 trays if you want any slack.
+14 trays covers the 3-month day (11) with 3 spare — enough to overlap a monthly session on the same day, or double-batch ginger and muddle. Never wait for a tray to clear before filling the next item.
 
 **Why silicone:** Flexible so cubes pop out cleanly without cracking the tray, no leaching at freezing temps (leaching is heat-driven), dishwasher safe, lasts indefinitely. Get lidded/covered silicone trays so cubes don't absorb freezer odors.
 

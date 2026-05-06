@@ -91,6 +91,68 @@ Recommended equipment for the 3-month batch prep cycle. All items selected for a
 
 ---
 
+## Cooling & Portioning
+
+**Half-sheet pans (18"×13") — at least 4**
+
+Required for simultaneously cooling chickpeas, black beans, sweet potato, and samosa veg after cooking. Without enough sheet pans, you can't spread food in a single layer — stacked food traps heat and overshoots the RS3 temperature window. Standard half-sheet pans (~$10–15 each).
+
+**Instant-read probe thermometer — 1**
+
+Two protocol uses:
+- Verify RS3 reheat ceiling ≤130°F (54°C) when warming legumes and quinoa at serving time
+- Check aquafaba temperature before portioning into cube trays (must be below 40°C to avoid warping silicone)
+
+Recommended: Thermapen ONE or any fast-read probe (~$30–100).
+
+---
+
+## Cold Storage
+
+**Second full-size refrigerator — 1**
+
+The 3-month batch produces ~37kg of food requiring simultaneous 12–24h RS3 chill before freezing. A single fridge cannot hold this alongside weekly fresh food. A second fridge (dedicated batch fridge) eliminates the RS3 bottleneck entirely and collapses the 3-month session from a 2-day split into a single day.
+
+| Option | Cost | Notes |
+|---|---|---|
+| Used full-size fridge (Craigslist/FB Marketplace) | ~$50–150 | Best value — garage unit |
+| New compact fridge (4.4 cu ft) | ~$150–200 | Fits ~20kg flat-stacked — covers beans only; need 2-day split for full batch |
+| New full-size fridge (18+ cu ft) | ~$400–600 | Covers entire 37kg batch simultaneously — single day |
+
+**Recommended:** Used full-size fridge in garage or utility space. Pays for itself in the first batch session (eliminates the 2-day split, saves ~2–3h).
+
+**Chest freezer — 1**
+
+The protocol's 3-month frozen stash (chickpeas, black beans, tofu, quinoa, sweet potato, lentils + all cube containers) will fill a standard kitchen freezer completely, leaving no room for ice, daily items, or the RS3 chill cycle. A chest freezer holds the bulk stash and frees the kitchen freezer for daily use and cube trays.
+
+| Size | Capacity | Cost | Notes |
+|---|---|---|---|
+| 5 cu ft | ~140 liters | ~$150–200 | Tight for a full 3-month batch |
+| 7 cu ft | ~200 liters | ~$200–250 | Comfortable for all proteins + cubes |
+| 10 cu ft | ~280 liters | ~$250–350 | Ideal — room for full batch + buffer |
+
+**Recommended:** 7 cu ft chest freezer. Covers the full batch with room for expansion.
+
+---
+
+## Cube Trays
+
+**Silicone ice cube trays (covered, 15-cube) — 11 minimum, 14 recommended**
+
+The 3-month session fills trays simultaneously as follows:
+
+| Session | Items | Trays needed |
+|---|---|---|
+| 3-month day | Aloe vera (5 trays) + Lemon juice (4 trays) + Imli (1 tray) + Aquafaba (1 tray minimum) | **11** |
+| Monthly | Ginger (2) + Rested garlic (1) + Toum base (1) + Curry leaf tadka (1) + Mint muddle (2) + Fenugreek paste (1) | **8** |
+| Sunday | Coconut chutney (1) + Cilantro/mint chutney (1) | **2** |
+
+With 8 trays (original recommendation) you cannot fill all 3-month items simultaneously — aloe and lemon have to be done in shifts overnight. **With 11 trays you fill everything in one go and transfer overnight.** 14 trays gives 3 spare for monthly session overlap.
+
+Covered silicone trays prevent freezer odour absorption and allow stacking. ~$8–12 per tray.
+
+---
+
 ## Total Equipment Budget
 
 | Item | Qty | Unit price | Total |
@@ -98,7 +160,14 @@ Recommended equipment for the 3-month batch prep cycle. All items selected for a
 | Winware 24 Qt Stock Pot | 4 | ~$45 | **~$180** |
 | ChangBERT 1800W Induction Burner | 4 | ~$42 | **~$168** |
 | Braun MultiQuick 5 Immersion Blender | 1 | ~$45 | **~$45** |
-| **Grand total** | | | **~$393** |
+| Half-sheet pans (18"×13") | 4 | ~$12 | **~$48** |
+| Probe thermometer | 1 | ~$35 | **~$35** |
+| Silicone ice cube trays (covered, 15-cube) | 14 | ~$10 | **~$140** |
+| Chest freezer (7 cu ft) | 1 | ~$225 | **~$225** |
+| Second full-size fridge (used) | 1 | ~$100 | **~$100** |
+| **Grand total** | | | **~$941** |
+
+The second fridge and chest freezer (~$325 combined used) are the highest-leverage purchases — they are what make single-day batch execution possible at 3-month scale.
 
 ---
 
