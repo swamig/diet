@@ -28,6 +28,26 @@ Allicin is not present in a whole clove of garlic. It is created when the precur
 *   **Prep:** Use a garlic press or a knife to "smash" the clove first. 
 *   **Timing:** Smash at the start of your 12:00 meal prep so the 10-minute rest is complete by the time the pan is hot.
 
+## Freeze Storage (Whole Cloves — Pre-Bloom Stash)
+
+The protocol freezes **whole, peeled, unrested cloves** as the upstream stash. Alliinase is fully intact at this stage — all enzymatic potential is preserved until you crush day-of.
+
+**How to freeze:**
+1. Peel cloves (or buy pre-peeled whole — approved). Pat completely dry — surface moisture causes ice crystal formation on the skin and accelerates alliinase degradation.
+2. Spread in a single layer on a tray or plate. Freeze uncovered for 1 hour. This prevents cloves fusing into an unusable solid block.
+3. Transfer to a single airtight glass jar. Garlic off-gasses strongly — loose storage will flavour everything else in the freezer.
+
+**Shelf life:**
+- **Sweet spot: up to 6 months.** Alliinase activity fully intact, no textural degradation.
+- **Hard ceiling: 12 months.** Beyond this, alliinase activity measurably drops and cloves become mealy and waterlogged on thaw.
+- The monthly ~25-head batch cadence keeps you cycling well within the 6-month window — you will never realistically approach the ceiling.
+
+**Day-of thaw:**
+- Pull the number of cloves needed. Thaw 10 min at room temp — do not microwave or use hot water (heat destroys alliinase before the rest can occur).
+- Crush → rest 10 min → bloom or use raw. Do not skip the rest even on thawed frozen cloves — the enzymatic reaction still requires the 10-minute window after crushing [[Song & Milner, 2001]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
+
+**Critical rule:** Never crush before freezing. Ice crystals physically rupture the alliinase active site — a frozen-then-thawed crushed clove cannot form allicin [[PMC12150274]](../../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule). Whole only.
+
 
 ## Culinary Integration (Recipes)
 This ingredient is functionally integrated into the following protocol meals:

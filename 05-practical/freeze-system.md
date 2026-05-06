@@ -100,6 +100,19 @@ Single reference for everything frozen in the protocol — format, shelf life, t
   - Stir in 1/2 tsp roasted cumin powder + pinch black salt
   - These were deliberately excluded before freezing (osmosis rule)
 
+### Frozen Whole Garlic Cloves (Pre-Bloom Stash)
+The upstream stash — whole, peeled, unrested. Alliinase is fully intact. The bloom always happens day-of.
+
+**Storage:**
+- Pat cloves dry before freezing — surface moisture accelerates ice crystal damage to alliinase.
+- Freeze flat on a tray for 1 hour first so cloves don't fuse into a block, then transfer to a single airtight glass jar. Garlic off-gasses and will taint other items if loosely stored.
+- **Shelf life: 6 months peak / 12 months hard ceiling.** Monthly ~25-head batches keep you well within the 6-month window by design.
+
+**Thaw + use:**
+- Pull cloves needed → thaw 10 min at room temp (no heat — heat destroys alliinase before the rest can occur).
+- Crush → rest 10 min → bloom in cold pan with oil on low heat, or use raw.
+- **Never crush before freezing** — ice crystals rupture the alliinase active site, preventing allicin formation on thaw. Whole cloves only.
+
 ### Rested Garlic Cubes
 - **Thaw:** Drop into a cold pan or bowl — do not apply heat. Allicin already formed.
 - **Use:** As base for any recipe requiring rested garlic. No second 10-min rest needed.
