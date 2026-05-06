@@ -49,7 +49,17 @@ Single reference for everything frozen in the protocol — format, shelf life, t
   - Squeeze 1/2 lemon directly over hot patty before serving
 
 ### Black Beans (whole, cooked)
-- **Thaw:** Pull 1.5-cup portion to fridge Sunday night. Pull next portion Wednesday night.
+
+**Weekly RS3 Boost — Freeze-Thaw Cycle:**
+Each freeze-thaw cycle drives additional amylose retrogradation, recovering most of the RS3 yield that a single-chill batch missed vs. a double-chill batch. Add one deliberate cycle per week:
+
+1. **Sunday morning:** Pull full week supply (3–4 portions) from chest freezer to batch fridge. Let thaw fully (12–24h).
+2. **Sunday night:** Refreeze everything except the portion you're pulling for Monday–Tuesday use.
+3. **Wednesday night:** Pull the next 2 portions from chest freezer to fridge (regular cadence).
+
+This gives every portion one extra freeze-thaw RS3 cycle on top of the batch freeze, at zero active labor cost — it's just timed logistics.
+
+- **Thaw for serving:** Pull 1.5-cup portion to fridge the night before. Use cold or warm to 130°F max.
 - **Add fresh at serving (Cold Mash method):**
   - Mash cold beans with 1/4 cup aquafaba
   - Bloom methi + cumin seeds dry, then add rested garlic + ginger
@@ -59,11 +69,14 @@ Single reference for everything frozen in the protocol — format, shelf life, t
   - Finish: drizzle EVOO, pinch black salt, fresh cilantro (never frozen with the beans)
 
 ### Chickpeas (whole, cooked)
-- **Thaw:** Same cadence as black beans — pull Sunday + Wednesday.
+
+**Weekly RS3 Boost — same freeze-thaw protocol as black beans.** Pull full week supply Sunday morning, thaw, refreeze Sunday night except serving portion.
+
+- **Thaw for serving:** Same cadence — pull night before.
 - **Add fresh at serving:**
   - For croutons: toss cold chickpeas in avocado oil + turmeric + cumin + black pepper → flash roast 380°F, 10–12 min
   - For patties/samosa filling: use cold directly per recipe
-  - For main legume: warm to 130°F, fold in rested garlic + lemon juice
+  - For main legume: warm to 130°F, fold in rested garlic cube + lemon juice
 
 ### Tofu
 - **Thaw:** Fridge overnight OR sealed bag in cold water 30–60 min. Self-presses as it thaws — squeeze out remaining water before use.
@@ -126,6 +139,20 @@ The upstream stash — whole, peeled, unrested. Alliinase is fully intact. The b
 ### Samosa Filling (RS3 Core)
 - **Thaw:** Fridge overnight or room temp 20 min. Use cold — do not microwave.
 - **Add fresh at serving:** Assemble cold into fresh-rolled dough immediately before air frying.
+
+---
+
+## Sunday Morning Pull + Refreeze (5 min — RS3 Boost)
+
+This step runs in the background while you do Sunday prep. No active cooking required.
+
+1. Pull full week supply of beans from chest freezer to batch fridge:
+   - [ ] 4 × 1.5-cup black bean portions (whole or mashed)
+   - [ ] 4 × 1.5-cup chickpea portions (whole or mashed)
+2. Let thaw fully in fridge — 12–24h.
+3. **Sunday night:** Refreeze everything except Monday + Tuesday portions (which go back in the fridge for the week).
+
+**Why:** Each freeze-thaw cycle drives additional amylose retrogradation. This recovers the RS3 yield delta from running a single-chill batch instead of a double-chill batch — at zero extra cooking labor.
 
 ---
 
