@@ -24,19 +24,23 @@ Make this first while the coconut chutney ingredients are being prepped. Curry l
 
 | Ingredient | Amount |
 |---|---|
-| Fresh curry leaves | **3–4 tbsp packed** (separate from chutney quantity) |
-| Mustard seeds | 1 tsp |
-| Avocado oil or coconut oil | 3 tbsp |
-| Dried red chili (whole) | 2 |
-| Hing (asafoetida) | pinch |
+| Fresh curry leaves | **1 cup packed** (separate from chutney quantity) |
+| Mustard seeds | 1 tbsp |
+| Avocado oil or coconut oil | **7 tbsp (~½ cup)** |
+| Dried red chili (whole) | 6–8 |
+| Hing (asafoetida) | ¼ tsp |
+
+**Yield:** ~7 tbsp tadka = **~21 cubes at 1 tsp each** = exact 3-week supply at 1 cube/day.
+
+**Cube size note:** Use 1 tsp per cube — tadka is concentrated, 1 tsp is the correct serving dose for one bowl of chutney or one dish finish. Fill standard silicone tray cells to ~⅓ full, or use a small-cell tray.
 
 **Method:**
 1. Heat oil in small pan on medium-high until shimmering.
 2. Add mustard seeds — wait for them to pop (~20 sec).
 3. Add curry leaves, dried chili, hing — they will spit. Stand back. Bloom **15–20 sec exactly** until leaves are fragrant and slightly crispy.
 4. Remove from heat immediately.
-5. Cool 5 min. Pour into ice cube tray (~1 tbsp per cube). **~15 cubes.**
-6. Freeze. Transfer to labeled bag when set.
+5. Cool 5 min. Pour into tray at **1 tsp per cell**. **~21 cubes.**
+6. Freeze overnight. Transfer to labeled bag when set.
 
 **Why the tadka doesn't destroy the antioxidants — and why it's the right format:**
 
@@ -211,7 +215,7 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
 | Fresh cilantro | **4 cups packed (~2 bunches)** |
 | Fresh mint | **~4 cups packed (~2 bunches)** — 2 cups for chutney + 2 cups for Jaljeera |
-| Fresh curry leaves | **9–12 tbsp packed** (6–8 tbsp for chutney + 3–4 tbsp for tadka) |
+| Fresh curry leaves | **~1¾ cups packed total** (6–8 tbsp for chutney + 1 cup for tadka) |
 | Green chili | **~25 total** — 8–10 coconut + 4–5 cilantro + 10–12 Jaljeera |
 | Fresh ginger | **~400g total** — coconut + cilantro + Jaljeera combined |
 | Garlic | **4 cloves** |
