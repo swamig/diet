@@ -7,20 +7,71 @@ priority: 'reference'
 
 # Omega Load Balancing
 
-Fat quality is a primary driver of systemic inflammatory tone. This manual focuses on optimizing the Omega-3 to Omega-6 ratio to promote vascular elasticity.
+Fat quality is a primary driver of systemic inflammatory tone. This protocol closes the omega-3 gap through a three-layer food stack rather than fish oil supplementation.
 
-## The "1-1-1" Protocol Rotation
-To prevent chronic overexposure to a single fatty acid profile while hitting clinical ALA (Alpha-Linolenic Acid) targets, you must rotate your lipid anchors according to the **[14:30 Salad Window](../05-practical/daily-salad-layer.md#explicit-weekly-rotation-table)**:
+---
 
-1.  **[Sesame](../02-ingredients/sesame.md)** (Moderate omega-6, elite calcium/mineral density).
-2.  **[Pumpkin Seeds](../02-ingredients/pumpkin-seeds.md)** (High zinc and magnesium).
-3.  **[Walnuts](../02-ingredients/walnuts.md)** (High-potency ALA Omega-3).
-4.  **[Chia Seeds](../02-ingredients/chia.md)** (Elite-level ALA Omega-3 + mucilage).
+## Daily EPA/DHA Stack — Calculation
+
+The protocol targets ≥400mg EPA equivalent per day (above the 250–500mg minimum; below the 1,000mg cardiovascular-therapeutic ceiling). This is achieved through three stacked sources:
+
+| Source | Dose | ALA | Direct EPA | Direct DHA | EPA equivalent |
+|---|---|---|---|---|---|
+| Chlorella | 3g/day (14:30 salad) | ~50mg | ~30–50mg | ~10–20mg | **~40–70mg direct** |
+| Flax podi (ALA conversion at 7.5%) | 1 tbsp/day rotation | ~2,400mg | — | — | **~180mg** |
+| Chia pre-soak (recovery bowl) | 1 tbsp/day | ~2,500mg | — | — | **~188mg** |
+| **Total** | | | | | **~408–438mg EPA equivalent** |
+
+**Result:** protocol sits comfortably above the 250–500mg daily minimum. Algae oil supplementation is **not required** at this stack level. It remains optional for those targeting the 1,000mg cardiovascular-therapeutic dose.
+
+**Why chlorella provides direct EPA/DHA:** chlorella is a microalgae — the original source fish accumulate EPA/DHA from. Unlike flax and chia (ALA only, requiring hepatic conversion at 5–10% efficiency), chlorella delivers EPA and DHA directly with no conversion loss. Chlorella's primary protocol role is heavy metal chelation (see [Heavy Metals](heavy-metals.md)) — the omega-3 contribution is a secondary benefit.
+
+**ALA conversion caveat:** the 7.5% conversion rate assumes normal hepatic function. Chronic stress, inflammation, B6 deficiency, and zinc deficiency all suppress delta-6 desaturase activity and reduce conversion. On high-stress or high-training days, the direct chlorella EPA/DHA contribution becomes proportionally more important.
+
+---
+
+## Workout Day Iron + Omega Sequencing
+
+Heavy training days (Mon/Wed/Fri by default) create two compounding demands:
+
+**1. Hemolysis — iron loss**
+High-impact exercise physically ruptures red blood cells through foot-strike pressure and muscle compression. Iron is excreted in urine. Loss scales with session intensity.
+
+**2. Hepcidin spike — absorption block**
+Intense exercise triggers an inflammatory response → liver releases hepcidin 3–6h post-workout → blocks iron absorption from the gut for up to 6h.
+
+**Protocol response:** basil seeds (sabja) anchored to Mon/Wed/Fri in the 14:30 salad seed rotation. Basil seeds provide ~1.5mg iron/tbsp vs chia's ~1mg — a meaningful delta on the highest-demand days. See [Sunday Prep — Seed Rotation](../05-practical/sunday-prep.md#block-7).
+
+**Meal timing on workout days:** train before 12:00 where possible. The iron-optimised main meal (chickpeas/lentils + lemon + tamarind + ACV) hits during the post-workout window before hepcidin peaks.
+
+---
+
+## 7-Day Seed Rotation (14:30 Salad)
+
+Chia is removed from the salad rotation — it is now the fixed daily recovery bowl anchor (pre-soaked Sunday, 1 tbsp + 3 tbsp water × 7 containers). No double-dosing.
+
+| Day | Seed | Primary function |
+|---|---|---|
+| Monday | Basil seeds (sabja) | Workout day — iron (~1.5mg) + mucilage gut coating |
+| Tuesday | Sesame | Mineral density (calcium, magnesium), vascular signaling |
+| Wednesday | Basil seeds (sabja) | Workout day — iron + mucilage |
+| Thursday | Walnuts | ALA omega-3, vascular peak |
+| Friday | Basil seeds (sabja) | Workout day — iron + mucilage |
+| Saturday | Pumpkin seeds | Zinc, recovery |
+| Sunday | Hemp seeds | Complete protein (all essential amino acids), omega-6/3 balance |
+
+**Basil seed activation:** 5 min before eating, add ¼ cup water. Instant gel — toss directly into salad.
+**Chia (recovery bowl):** pre-soaked Sunday, fully gelled, drop container into yogurt at 17:50. See [Sunday Prep Block 7](../05-practical/sunday-prep.md#block-7).
+
+---
 
 ## The Lipid Anchors
-*   **Primary Culinary Fat:** **[Extra Virgin Olive Oil (EVOO)](../05-practical/sunday-prep.md#block-6-dressing-master-batch-5-min)** (Blueprint Hybrid) remains the non-negotiable anchor for its monounsaturated fats and polyphenol count.
-*   **The Seed Oil Proscription:** No industrial seed oils (Soy, Canola, Corn) are permitted. These are high in oxidized Omega-6s which degrade vascular integrity [[1]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
-*   **MCT Matrix:** **[Coconut Chutney](../05-practical/sunday-prep.md#2-mct-matrix-scaled-3-day-coconut-chutney)** provides immediate metabolic fuel without triggering standard lipid-storage pathways.
+
+- **Primary culinary fat:** EVOO (Blueprint Hybrid) — monounsaturated fats + oleocanthal. Always off-heat.
+- **High-heat cooking:** avocado oil only — stable at protocol temperatures.
+- **MCT matrix:** coconut chutney provides immediate ketone fuel without standard lipid-storage pathways.
+- **Seed oil proscription:** no industrial seed oils (soy, canola, corn) — high in oxidized omega-6 that degrades vascular integrity.
+- **Chia fat in cilantro chutney:** avocado (½ cup per Vitamix run) adds oleic acid (omega-9) and enhances absorption of fat-soluble compounds in the herb base. Emulsified with 1 tbsp aquafaba before blending. Not an omega-3 source — omega-9 only.
 
 ## Evidence Status
 

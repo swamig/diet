@@ -40,9 +40,11 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 
 ## 6. Daily Micro-Nutrient Stack
 
-### Omega-3 (Fish Oil/Algae Oil)
-*   **Timing:** Take with your **Main Meal (12:00)**.
-*   **Rationale:** Taking omega-3 with a meal containing fat fits normal lipid absorption and keeps the supplement block consolidated inside the feeding window.
+### Omega-3 (Algae Oil — conditional)
+*   **Status:** Optional at the base protocol stack level. The food-based omega-3 stack (chlorella 3g + flax podi ALA + chia recovery bowl) delivers ~408–438mg EPA equivalent/day — above the 250–500mg daily minimum. See full calculation: [Omega Load Balancing](omega-balance.md#daily-epadha-stack--calculation).
+*   **When to add algae oil:** if targeting the 1,000mg cardiovascular-therapeutic dose, add 1 algae oil softgel (Nordic Naturals Algae Omega ~650mg EPA+DHA, or equivalent) with the Main Meal (12:00). Fat in the meal enhances absorption.
+*   **Do not use fish oil:** algae oil is the direct source — fish accumulate EPA/DHA from microalgae. Algae oil eliminates the heavy metal and oxidation concerns of fish oil while delivering identical EPA/DHA.
+*   **Timing if used:** 12:00 Main Meal — fat present in meal (EVOO, avocado) ensures lipid absorption.
 
 ### Vitamin D3 (+ K2)
 *   **Timing:** Take with your **Main Meal (12:00)**.
