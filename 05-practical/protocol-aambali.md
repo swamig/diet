@@ -44,7 +44,7 @@ You do **not** ferment the entire week's batch at once, as it will turn excessiv
 2.  **The No-Heat Rule:** You must **NOT** add Chili, Ginger, or Habanero to this drink. This window requires a core-temperature drop for sleep.
 3.  **The Finish:** Stir in the Cumin, Black Salt, and the **Protein Scoop**. Whisk vigorously (or use a handheld frother) to integrate.
 4.  **The Menthol Pulse:** Add the muddled peppermint leaves for a deep internal cooling effect.
-5.  **Consumption:** Drink as your primary post-workout recovery anchor.
+5.  **Consumption:** Drink as your primary post-workout recovery anchor. Consume alongside the **Yogurt Recovery Bowl** (Greek yogurt + pre-soaked chia + blueberries) — together these form the complete 17:50 recovery stack: RS3 + probiotics (aambali) + casein + quercetin + anthocyanins (recovery bowl).
 
 ## 5. The Circadian Rationale (Why 17:50?)
 The protocol explicitly **rejects** the idea of alternating "Iron Weeks" and "Calcium Weeks." Aambali is placed at 17:50 for two critical biological reasons:
@@ -87,7 +87,42 @@ The 16-hour fasting window that begins at 17:50 is not just a metabolic event �
 
 ---
 
-## 8. 3-Month Batch Prep
+## 8. Ragi Muffin Base Method (Frozen Muffin → Fermented Drink)
+
+An alternative to the standard cube batch. If you have batch-frozen ragi muffins, each muffin = one complete aambali base serving. Skip the cook-and-portion step entirely.
+
+**Why this works:** Baking gelatinizes the ragi starch, making it *more* fermentable than raw flour — the exposed amylose chains are immediately accessible to *Lactobacillus*. Freezing after baking drives an additional retrogradation cycle, rebuilding some RS3. The muffin carries the spice layer (cumin, black salt) already baked in — no post-chill add step needed.
+
+**What you lose vs. standard cube:** The standard double-chill method (cook → 24h fridge → freeze) produces maximum RS3 before any baking heat. Baked muffins re-form RS3 via freeze-thaw, but the yield is lower than the double-chill base. Net RS3 is still meaningful — treat this as the "fast track" variant, not a downgrade.
+
+### Daily Use (Muffin Base)
+
+1. **Morning (~07:00):** Pull 1 frozen muffin. Break apart into a jar or bowl.
+2. **Thin:** Add ½–¾ cup warm water (under 110°F/43°C — protects cultures). Mash smooth with a fork or 20-sec immersion blend until slurry consistency.
+3. **Inoculate:** Add ¼ cup live-culture yogurt (standard) OR 1 tsp raw ACV with the mother OR 1 probiotic capsule content (iron-gate-safe — see [Section 6](#6-the-1200-failsafe-iron-safe-aambali)).
+4. **Ferment:** Cover loosely with a breathable cloth. Leave at room temp in a dark spot.
+   - Warm kitchen (75°F+): 10–12h
+   - Cool kitchen (65–70°F): 12–18h
+   - Ready when slightly sour and small bubbles visible at surface
+5. **17:50:** Stir in pea protein scoop (25g), add muddled peppermint. Drink alongside the yogurt recovery bowl.
+
+> **Do not heat the ferment.** Serving cool or at room temp preserves both RS3 and live LAB. The cooling matrix (cumin, black salt) is already baked into the muffin — no need to add separately.
+
+### Muffin Base vs. Standard Cube — Quick Comparison
+
+| | Standard cube | Muffin base |
+|---|---|---|
+| RS3 yield | Higher (double-chill optimized) | Moderate (freeze-thaw rebuild) |
+| Probiotic bloom | Identical — yogurt added fresh at 07:00 | Identical |
+| Spice layer | Whisked in after 24h chill | Baked in — skip the add step |
+| Daily friction | Pull cube, thaw, whisk, ferment | Break apart, add water, inoculate, ferment |
+| Batch complexity | 5 pot sessions + double-chill + mold | Bake muffins → freeze → done |
+
+**Practical rule:** use whichever you have. Both hit the 17:50 window correctly.
+
+---
+
+## 9. 3-Month Batch Prep
 
 Eliminates daily and weekly cooking. One session every 3 months — cook, double-chill, freeze into portioned cubes. Each cube = 1 complete serving base.
 
