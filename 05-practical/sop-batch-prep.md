@@ -46,10 +46,9 @@ Items produced once a month. On the 3-month batch day, the first monthly session
 | Item | Format | Tool |
 |---|---|---|
 | Rested garlic cubes | 1 tray | Hands (crush → rest → portion) |
-| Ginger cubes | 2 trays | Immersion blender |
+| Ginger cubes | 2 trays | Food processor (shredding disc) |
 | Toum base cubes | 1 tray | Immersion blender + beaker |
 | Fenugreek paste (hair) | 1 tray | Immersion blender |
-| Mint muddle | 2 trays | Immersion blender |
 | Aloe scalp gel | 1 glass jar | Immersion blender |
 | Rosemary oil infusion | 1 glass jar | Hands (cold infusion, start only) |
 
@@ -64,6 +63,7 @@ Items produced every 3 weeks. On the 3-month batch day, one session runs during 
 | Cilantro/mint chutney | ~16 cubes | Vitamix |
 | Coconut chutney (full, curry leaves blended) | ~48 cubes | Vitamix |
 | Jaljeera concentrate | ~21 cubes | Vitamix |
+| Mint muddle | ~8 cubes | Immersion blender (mint already blanched) |
 
 ---
 
@@ -79,8 +79,9 @@ All monthly + 3-week tasks complete during the 2-hour bean simmer. Stove Station
 | T+0:40–0:42 | Pour tadka into mini tray | 3-week |
 | T+0:42–0:52 | Blend Jaljeera → cilantro chutney → into trays | 3-week |
 | T+0:52–1:05 | Blend coconut chutney 2 runs → into trays | 3-week |
-| T+1:05–1:20 | Aloe scalp gel + rosemary oil start + fenugreek paste | Monthly |
-| T+1:20–1:50 | Ginger cubes → mint muddle → rested garlic (crush, 10-min rest, portion) | Monthly |
+| T+1:05–1:15 | Blend mint muddle → into mini tray (mint already blanched) | 3-week |
+| T+1:15–1:30 | Aloe scalp gel + rosemary oil start + fenugreek paste | Monthly |
+| T+1:30–2:00 | Ginger cubes (food processor) → rested garlic (crush, 10-min rest, portion) | Monthly |
 | T+1:50–2:00 | Toum base (aquafaba not yet available — skip, run at T+2:45 post-drain) | Monthly |
 | T+2:00–2:20 | Samosa dough on mixer (KitchenAid) | 3-month |
 

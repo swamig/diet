@@ -9,8 +9,8 @@ priority: 'supporting'
 
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
-**Total active time:** ~60 min
-**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes per session
+**Total active time:** ~70 min
+**Produces:** ~48 coconut cubes + ~16 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes per session
 
 ## Session Timeline
 
@@ -24,10 +24,11 @@ Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produ
 | T+0:22–0:27 | **Blend Jaljeera** concentrate → pour into tray | Rinse blender 10 sec between runs |
 | T+0:27–0:32 | **Blend cilantro chutney** → pour into tray | |
 | T+0:32–0:44 | **Blend coconut chutney** — 2 runs × 6 min each | 90 sec blend + pour + reload |
-| T+0:44–0:54 | **Label all trays**, move to freezer flat | 5 trays total — do not stack until frozen |
-| T+0:54–1:00 | Cleanup — blender, pan, cutting board, bowls | |
+| T+0:44–0:54 | **Blend mint muddle** → pour into mini tray | Same blender, mint already blanched |
+| T+0:54–1:04 | **Label all trays**, move to freezer flat | 6 trays total — do not stack until frozen |
+| T+1:04–1:10 | Cleanup — blender, pan, cutting board | |
 
-**Total: ~60 min. One person. No cooking required after the tadka pan.**
+**Total: ~70 min. One person. No cooking required after the tadka pan.**
 
 > For the 3-month freeze-stable versions (plain coconut base, tamarind), see [Coconut Chutney](coconut-chutney.md) and [Tamarind Chutney](tamarind-chutney.md).
 
@@ -194,7 +195,35 @@ This deactivates polyphenol oxidase (PPO) — the browning enzyme — without co
 
 ---
 
-### Step 5 — Freeze and label (5 min)
+### Step 5 — Mint Muddle (10 min)
+
+Fresh mint is already on the counter. Run this immediately after blending the cilantro chutney — same blender, no extra shopping.
+
+**Ingredients:**
+| Ingredient | Amount |
+|---|---|
+| Fresh mint leaves (blanched with the rest at Step 1) | ~45 leaves |
+| Thai bird's eye chili | 1.5 |
+| Fresh ginger (grated or from food processor run) | 1 thumb (~1 tbsp) |
+| Lemon juice (**Acid Lock**) | 1 tbsp |
+| Avocado oil (volatile oil trap) | 1 tsp |
+
+**Do NOT add:** black salt, roasted cumin, ACV, water — these are added fresh at serving (osmosis rule — salt bleeds water from paste even frozen).
+
+**Method:**
+1. Combine all ingredients in immersion blender beaker.
+2. Muddle/blend until a coarse paste — not completely smooth, some texture is correct.
+3. Taste: intensely minty, spicy, bright. Should feel almost medicinal.
+4. Pour into mini cube tray (~1 tbsp per cube). **~8 cubes = 4-week supply at 2/week.**
+5. Freeze. Transfer to labeled bag when set.
+
+**Label:** `Mint Muddle — [date] — use by [date +5 weeks]`
+
+**At serving:** Drop 1 cube into glass. Thaws in cold water in 5–10 min. Add roasted cumin powder, black salt, ACV, cold/sparkling water.
+
+---
+
+### Step 6 — Freeze and label (5 min)
 
 - Freeze all trays flat for 4 hours minimum
 - Pop cubes into **separate labeled zip-lock bags:**
