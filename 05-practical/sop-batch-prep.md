@@ -5,14 +5,88 @@ type: 'procedure'
 priority: 'high'
 ---
 
-# Batch Prep SOP — Hired Help
+# Batch Prep SOP — Combined Session
 
-Standard operating procedure for a 2-person team executing the 3-month batch prep cycle. This document is written for the helper — it assumes no prior knowledge of the protocol. All decisions are pre-made. Follow the steps exactly; do not improvise.
+Every 3 months, all three prep cadences are executed on the same day by the same two-person team. Tasks are separated by cadence below so it is always clear what belongs to what cycle — even though the equipment, timeline, and labor are shared.
 
-**Total session time:** ~7 hours active work across 2 calendar days (Day 0 + Day 1 morning)  
-**People:** 1 Stove Station + 1 Bench Station (Owner)  
+**Total session time:** ~7 hours elapsed across 2 calendar days (Day 0 + Day 1 morning)  
+**People:** 1 Stove Station (Helper) + 1 Bench Station (Owner)  
 **Critical temperature:** 130°F / 54°C is the ceiling for all legumes and quinoa after cooking. Use the probe thermometer. Do not guess.  
 **Shared equipment constraint:** One KitchenAid mixer — samosa dough runs at T+2:00, patty dough runs at T+3:30. Do not swap order.
+
+---
+
+## What Gets Done — By Cadence
+
+### 3-Month Tasks (Helper-driven, Stove Station)
+Items produced once every 3 months. The helper owns these.
+
+| Item | Format | Station |
+|---|---|---|
+| Chickpeas | Whole + mashed portions | Stove |
+| Black beans | Whole + mashed portions | Stove |
+| Lentils | Portioned bags | Stove |
+| Quinoa | Portioned containers | Stove |
+| Tofu | Frozen slabs | Bench |
+| Purple sweet potato | Roasted, cubed, bagged | Stove (oven) |
+| Samosa filling A/B/C/D | 52 parcels portioned + day-of jars | Both |
+| Vegan protein patties | 14 patties steamed + fridge RS3 chill | Bench (mixer) |
+| Samosa dough (Options 1+2) | Portioned disks, parchment-wrapped, frozen | Bench (mixer) |
+| Aloe vera cubes | 5 trays (consumption) | Bench |
+| Lemon juice cubes | 4 trays | Bench |
+| Imli cubes | 1 tray | Bench |
+| Aquafaba cubes | 1 tray | Bench |
+| Black bean liquid | Cubes + ¼-cup portions | Bench |
+
+---
+
+### Monthly Tasks (Owner-driven, Bench Station — during simmer window)
+Items produced once a month. On the 3-month batch day, the first monthly session runs during the 2-hour bean simmer. Owner does not need helper for these.
+
+| Item | Format | Tool |
+|---|---|---|
+| Rested garlic cubes | 1 tray | Hands (crush → rest → portion) |
+| Ginger cubes | 2 trays | Immersion blender |
+| Toum base cubes | 1 tray | Immersion blender + beaker |
+| Fenugreek paste (hair) | 1 tray | Immersion blender |
+| Mint muddle | 2 trays | Immersion blender |
+| Aloe scalp gel | 1 glass jar | Immersion blender |
+| Rosemary oil infusion | 1 glass jar | Hands (cold infusion, start only) |
+
+---
+
+### 3-Week Tasks (Owner-driven, Bench Station — during simmer window)
+Items produced every 3 weeks. On the 3-month batch day, one session runs during the 2-hour bean simmer alongside the monthly tasks. Owner does not need helper for these.
+
+| Item | Format | Tool |
+|---|---|---|
+| Curry leaf tadka | ~21 mini cubes (1 tsp each) | Sauté pan |
+| Cilantro/mint chutney | ~16 cubes | Vitamix |
+| Coconut chutney (full, curry leaves blended) | ~48 cubes | Vitamix |
+| Jaljeera concentrate | ~21 cubes | Vitamix |
+
+---
+
+### Owner Bench Station — Simmer Window Task Order (T+0:20 to T+2:20)
+
+All monthly + 3-week tasks complete during the 2-hour bean simmer. Stove Station monitors beans — owner runs bench independently.
+
+| Time | Task | Cadence |
+|---|---|---|
+| T+0:20–0:28 | Pre-chop curry leaves, break chili flakes | 3-week |
+| T+0:28–0:35 | Tadka pan → cool on counter | 3-week |
+| T+0:35–0:40 | Blanch mint + cilantro, ice bath, squeeze, separate | 3-week |
+| T+0:40–0:42 | Pour tadka into mini tray | 3-week |
+| T+0:42–0:52 | Blend Jaljeera → cilantro chutney → into trays | 3-week |
+| T+0:52–1:05 | Blend coconut chutney 2 runs → into trays | 3-week |
+| T+1:05–1:20 | Aloe scalp gel + rosemary oil start + fenugreek paste | Monthly |
+| T+1:20–1:50 | Ginger cubes → mint muddle → rested garlic (crush, 10-min rest, portion) | Monthly |
+| T+1:50–2:00 | Toum base (aquafaba not yet available — skip, run at T+2:45 post-drain) | Monthly |
+| T+2:00–2:20 | Samosa dough on mixer (KitchenAid) | 3-month |
+
+**Toum** runs at T+2:45 once aquafaba is available and cooled to ≤104°F.
+
+---
 
 ---
 
@@ -217,14 +291,14 @@ Pull 3 beans from each pot. Squeeze between thumb and finger.
 ### T+2:45 — Batch Assembly at 130°F (Both Stations)
 
 **For WHOLE bean portions:**
-1. Transfer beans into wide mixing bowl.
-2. Add 2 tbsp ACV per 5 cups + pinch of sea salt + batch-stable spices per recipe card.
-3. Toss to coat. Portion into labeled 1.5-cup freezer bags. Press flat. Stack in batch fridge.
+1. Beans stay in the drained pot — no transfer needed. Add 2 tbsp ACV per 5 cups + pinch of sea salt + batch-stable spices per recipe card directly into the pot.
+2. Toss with a large spoon to coat.
+3. Portion into labeled 1.5-cup freezer bags directly from the pot. Press flat. Stack in batch fridge.
 
 **For MASH portion (1/3 of chickpeas + 1/3 of black beans):**
-1. Transfer to separate bowl. Mash with potato masher until 90% smooth.
-2. Chickpea mash: add ¼ cup aquafaba + ACV + spices. Black bean mash: add ¼ cup black bean liquid + ACV + spices.
-3. Portion flat. Label. Stack in batch fridge.
+1. Scoop mash portion into the now-empty second pot (Pot 2 for chickpea mash, Pot 4 for black bean mash). Mash with potato masher in the pot until 90% smooth.
+2. Chickpea mash: add ¼ cup aquafaba + ACV + spices. Black bean mash: add ¼ cup black bean liquid + ACV + spices. Stir in pot.
+3. Portion flat from pot. Label. Stack in batch fridge.
 
 **For SAMOSA FILLING (from remaining mash — variants A/B/C from chickpea, D from black bean):**
 1. Divide mash across 4 bowls per variant.

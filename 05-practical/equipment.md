@@ -153,8 +153,24 @@ Covered silicone trays prevent freezer odour absorption and allow stacking. ~$8�
 
 ---
 
-## Total Equipment Budget
+## Additional Equipment — Monthly + 3-Week Tasks
 
+These items are owner bench station tools. Required on the combined batch day.
+
+| Item | Qty | Approx price | Used for |
+|---|---|---|---|
+| Vitamix or high-power blender | 1 | ~$350–500 (refurb ~$150) | Coconut chutney (2 runs), cilantro chutney, Jaljeera |
+| KitchenAid stand mixer + dough hook | 1 | ~$300–400 (refurb ~$200) | Samosa dough (T+2:00), patty dough (T+3:30) |
+| Steamer basket (fits large pot) | 1 | ~$15 | Patty steaming |
+| Small sauté pan (8–10 inch) | 1 | ~$20 | Curry leaf tadka |
+| Mini silicone cube trays (1 tsp cell, ~30-cell) | 2 | ~$8 each / ~$16 | Curry leaf tadka, ginger cubes |
+| Small glass jars (8 oz) | 4 | ~$2 each / ~$8 | Aloe scalp gel, rosemary oil infusion, toum, aquafaba |
+
+---
+
+## Total Equipment Budget — Combined Session
+
+### 3-Month Batch Equipment
 | Item | Qty | Unit price | Total |
 |---|---|---|---|
 | Winware 24 Qt Stock Pot | 4 | ~$45 | **~$180** |
@@ -162,12 +178,25 @@ Covered silicone trays prevent freezer odour absorption and allow stacking. ~$8�
 | Braun MultiQuick 5 Immersion Blender | 1 | ~$45 | **~$45** |
 | Half-sheet pans (18"×13") | 4 | ~$12 | **~$48** |
 | Probe thermometer | 1 | ~$35 | **~$35** |
-| Silicone ice cube trays (covered, 15-cube) | 14 | ~$10 | **~$140** |
+| Silicone cube trays (covered, 15-cell) | 14 | ~$10 | **~$140** |
 | Chest freezer (7 cu ft) | 1 | ~$225 | **~$225** |
 | Second full-size fridge (used) | 1 | ~$100 | **~$100** |
-| **Grand total** | | | **~$941** |
 
-The second fridge and chest freezer (~$325 combined used) are the highest-leverage purchases — they are what make single-day batch execution possible at 3-month scale.
+### Monthly + 3-Week Equipment (added on combined day)
+| Item | Qty | Unit price | Total |
+|---|---|---|---|
+| Vitamix (refurb) | 1 | ~$150 | **~$150** |
+| KitchenAid mixer + dough hook (refurb) | 1 | ~$200 | **~$200** |
+| Steamer basket | 1 | ~$15 | **~$15** |
+| Small sauté pan | 1 | ~$20 | **~$20** |
+| Mini silicone cube trays (1 tsp cell) | 2 | ~$8 | **~$16** |
+| Small glass jars (8 oz) | 4 | ~$2 | **~$8** |
+
+| | | **Grand total** | **~$1,350** |
+
+**Note on mixing bowls:** Bean assembly and samosa filling are done directly in the stock pots — no separate mixing bowls needed. The pots are already the right volume and save a wash step.
+
+The second fridge and chest freezer (~$325 combined used) remain the highest-leverage purchases. The Vitamix and KitchenAid unlock samosa dough, patties, and the full chutney system — both worthwhile refurb purchases.
 
 ---
 
