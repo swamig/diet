@@ -16,7 +16,7 @@ Total time commitment for the protocol once the batch system is running. No dail
 | Cadence | Who | Time | What |
 |---|---|---|---|
 | **Daily** | Owner | ~3 min active + 10 min passive | Garlic rest, cube pull, finish and plate |
-| **Weekly** | Owner | ~20 min | Salad infrastructure + thaw-refreeze RS3 boost |
+| **Weekly** | Owner | ~25 min | Salad + recovery bowl infrastructure + thaw-refreeze RS3 boost |
 | **Wednesday night** | Owner | 2 min | Pull next 3 days from freezer to fridge |
 | **Every 3 months** | Owner + Helper | ~7 hours (Day 0) + 20 min (Day 1) | Full batch — see [Batch Prep SOP](sop-batch-prep.md) |
 
@@ -49,7 +49,15 @@ The 10-minute garlic rest is passive — start it, walk away, come back.
 
 **Total meal active: ~5 min.** Timer handles the garlic window.
 
-**Total daily active: ~8 min.**
+### Recovery Bowl (17:50) — ~1 min active
+Everything pre-portioned Sunday. Pure assembly:
+1. Scoop Greek yogurt into bowl (fresh, weekly purchase).
+2. Add pre-portioned blueberry container (already thawed in fridge since Sunday).
+3. Add pre-portioned casein jar.
+4. Stir in 2 tbsp black bean liquid (thawed cube from fridge).
+5. Combine and eat immediately — do not pre-mix and store.
+
+**Total daily active: ~9 min across all three meals.**
 
 ---
 
@@ -58,13 +66,18 @@ The 10-minute garlic rest is passive — start it, walk away, come back.
 ### Sunday Morning (5 min — RS3 Boost)
 Pull full week supply of beans and samosa filling from chest freezer → batch fridge. Let thaw fully. Refreeze Sunday night except Mon/Tue portions. See [Freeze System — Sunday Morning Pull](freeze-system.md#sunday-morning-pull--refreeze-5-min--rs3-boost).
 
-### Sunday Salad Infrastructure (~15 min)
+### Sunday Salad + Recovery Infrastructure (~20 min)
 1. Wash and spin greens. Store with paper towel in airtight container.
 2. Chop green onions. Portion into small container.
 3. Pre-portion 5 seed rotation containers (sesame / basil seeds / walnuts / chia / pumpkin).
 4. Portion sauerkraut into 5 small cups.
 5. Portion 7 daily spice jars (turmeric, cumin, coriander, Kashmiri chili).
 6. Portion 7 morning activation packs (ajwain / jeera rotation).
+7. **Recovery bowl pre-portion:** Divide 375g frozen blueberries into 5 × 8oz containers → fridge to thaw over the week.
+8. **Casein pre-portion:** Measure 1 scoop casein into each of 5 dry jars. Seal.
+9. Pull 1 black bean liquid cube to fridge to thaw for Monday bowl. (Pull next day's cube each evening.)
+
+**Greek yogurt:** Fresh purchase weekly — no prep. Just keep stocked.
 
 That is the entire Sunday commitment. No cooking.
 
