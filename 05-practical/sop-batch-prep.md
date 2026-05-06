@@ -45,8 +45,8 @@ Items produced once a month. On the 3-month batch day, the first monthly session
 
 | Item | Format | Tool |
 |---|---|---|
-| Rested garlic cubes | 1 tray | Hands (crush → rest → portion) |
-| Ginger cubes | 2 trays | Food processor (shredding disc) |
+| Rested garlic cubes | 1 tray | Hands (shake-peel → crush → rest → portion) |
+| Ginger cubes | 2 trays | Food processor (shredding disc — no peeling needed) |
 | Toum base cubes | 1 tray | Immersion blender + beaker |
 | Fenugreek paste (hair) | 1 tray | Immersion blender |
 | Aloe scalp gel | 1 glass jar | Immersion blender |
@@ -121,6 +121,10 @@ Complete this the evening before batch day. Failures here delay the entire sessi
 - [ ] Tofu blocks — full 3-month quantity
 - [ ] Pea protein powder, vital wheat gluten, besan, nutritional yeast — for patties + samosa dough
 - [ ] Patty spice stack (per recipe card) — measured and ready
+
+### Prep Speed Notes
+- **Garlic peeling (batch):** Break heads into cloves → put all in a large metal bowl → place a second metal bowl on top → shake hard 20–30 sec → skins separate from cloves. Under 1 min for 3–4 heads. Do not soak in water — surface moisture interferes with alliinase activity.
+- **Ginger peeling:** Do not peel for food processor runs — shredding disc handles thin ginger skin cleanly. Spoon-scrape only if recipe requires clean presentation.
 
 ### Soaks to Start Tonight
 | Pot | Contents | Water ratio | Start time |
@@ -240,7 +244,7 @@ Confirm all three are set aside before starting the simmer window sequence below
 | T+1:28–1:38 | **Fenugreek paste (hair)** — drain soaked seeds → blend with 1–2 tbsp water to thick paste → fill tray | 🟢 Immersion blender beaker |
 | T+1:38–1:50 | **Aloe scalp gel** — drain latex (leaves already standing) → fillet → scoop gel → blend smooth in bowl → fill tray | 🟢 Immersion blender |
 | T+1:50–2:00 | **Ginger cubes** (shredding disc) → fill 2 trays; **swap to S-blade** → rough chop samosa filling chilies → set aside in bowl | 🟡 Food processor |
-| T+2:00–2:10 | **Rested garlic** — crush cloves → 10 min rest (timer) → portion into tray | ⚪ Hands |
+| T+2:00–2:10 | **Rested garlic** — shake-peel cloves → crush → 10 min rest (timer) → portion into tray | ⚪ Hands |
 | T+2:00–2:20 | **Samosa dough** — runs simultaneously with garlic rest; see Samosa Dough section below | 🔴 KitchenAid mixer |
 
 **Toum base** runs at T+2:45 once aquafaba has cooled to ≤104°F — immersion blender beaker.
