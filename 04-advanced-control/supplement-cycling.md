@@ -63,7 +63,7 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 
 ## Sources
 
-- Creatine safety, efficacy, and typical dosing in exercise contexts: [Kreider et al., 2017, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/28615996)
+- Creatine safety, efficacy, and typical dosing in exercise contexts: [Kreider et al., 2017, *Journal of the International Society of Sports Nutrition*](https://pubmed.ncbi.nlm.nih.gov/28615996/)
 - Vitamin C improves absorption of nonheme iron: [NIH Office of Dietary Supplements, *Vitamin C Fact Sheet for Health Professionals*](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)
 - Nonheme iron background and vitamin C interaction: [NIH Office of Dietary Supplements, *Iron Fact Sheet for Health Professionals*](https://ods.od.nih.gov/factsheets/iron-HealthProfessional/)
 - Vitamin D absorption can increase when taken with food or fat-containing meals: [Dawson-Hughes et al., 2015, *Journal of the Academy of Nutrition and Dietetics*](https://pubmed.ncbi.nlm.nih.gov/25441954/), [Mulligan and Licata, 2010, *Journal of Bone and Mineral Research*](https://pubmed.ncbi.nlm.nih.gov/20200983/)

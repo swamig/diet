@@ -22,7 +22,7 @@ Star Anise (*Illicium verum*) is utilized in this protocol as a potent **Rotatio
 *   **Quinoa/Bean Infusion:** Add 1 whole star anise to the boiling liquid for Quinoa or Beans. **The Rule:** Always remove the whole star anise before serving; do not consume the woody structure.
 
 ## Evidence Status
-*   **Antiviral Efficacy:** Patra et al., 2020, *Frontiers in Pharmacology*. "Star anise (Illicium verum): An updated review of its phytochemistry and biological activities." Validates the therapeutic potential of Shikimic Acid and its derivatives in immune modulation.
+*   **Antiviral Efficacy:** [[Patra et al., 2020]](../../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) — *Frontiers in Pharmacology*. "Star anise (Illicium verum): An updated review of its phytochemistry and biological activities." Validates the therapeutic potential of Shikimic Acid and its derivatives in immune modulation.
 
 ## Related Pages
 - [Gut Microbiome Hormesis](../01-foundations/03-microbiome-hormesis.md)

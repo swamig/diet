@@ -39,7 +39,7 @@ Ayurvedic topical ingredients operate on the same signaling logic as the dietary
 *   1 **Fenugreek Paste Cube** (thawed — see batch prep)
 *   1 **Aloe Cube** (thawed)
 *   1 tbsp **Coconut Oil** (melted)
-*   **3–5 drops Rosemary Essential Oil** — mix into the coconut oil before combining. Improves follicle microcirculation; equivalent to 2% minoxidil in 6-month study (Panahi et al., 2015). Do not exceed 5 drops — concentrated essential oil irritates scalp at high dose.
+*   **3–5 drops Rosemary Essential Oil** — mix into the coconut oil before combining. Improves follicle microcirculation; equivalent to 2% minoxidil in 6-month study ([[Panahi et al., 2015]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)). Do not exceed 5 drops — concentrated essential oil irritates scalp at high dose.
 *   Optional: 1/8 tsp turmeric (anti-inflammatory scalp pulse — omit if staining is a concern)
 
 ### Execution

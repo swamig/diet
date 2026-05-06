@@ -63,7 +63,7 @@ Microplastics that have already entered circulation generate oxidative stress an
 
 | Mechanism | Protocol Element |
 |---|---|
-| **NRF2 activation** | Sulforaphane — **primary source: broccoli sprouts in the 14:30 Daily Salad Layer** (daily, every day) [[Dinkova-Kostova & Talalay, 2008]](../07-appendices/master-citations.md#4-sulforaphane--nrf2-pathway); secondary: Variant C samosa on cardio/recovery days |
+| **NRF2 activation** | Sulforaphane — **primary source: broccoli sprouts in the 14:30 Daily Salad Layer** (daily, every day) [[Dinkova-Kostova & Talalay, 2008]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control); secondary: Variant C samosa on cardio/recovery days |
 | **Polyphenol antioxidant load** | EGCG (matcha), curcumin (turmeric), quercetin (cilantro, onion) — reduce oxidative damage from microplastic-induced ROS |
 | **Gut barrier integrity** | RS3 → butyrate → tight junction repair — reduces ongoing translocation [[Birt et al., 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3) |
 

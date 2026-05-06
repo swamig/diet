@@ -42,7 +42,7 @@ This protocol spaces high-intensity compounds across a 7-day cycle to prevent he
 The result:
 *   Sustained hormetic signaling
 *   Reduced detox bottleneck risk
-*   Lower gastrointestinal disruption [[12]](../07-appendices/master-citations.md#12-operational-mechanisms-bio-enhancement--degradation)
+*   Lower gastrointestinal disruption [[12]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation)
 
 ## Strategic Mitigation
 

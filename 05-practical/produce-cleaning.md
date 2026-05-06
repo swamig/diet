@@ -23,7 +23,7 @@ Even organic produce can contain soil-based contaminants or pesticide drift. The
 
 ## Evidence Status
 *   **Pesticide Removal:** Yang et al., 2017, *Journal of Agricultural and Food Chemistry*. "Effectiveness of Commercial and Homemade Washing Agents in Removing Pesticide Residues on and in Apples." Proves Sodium Bicarbonate (Baking Soda) is significantly more effective than plain water or bleach at removing surface and sub-surface pesticides [[13]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
-*   **Carcinogenic Cookware:** Lim et al., 2017, *Environmental Science and Pollution Research*. Documents the leaching of perfluorinated compounds from traditional non-stick surfaces into food matrices.
+*   **Carcinogenic Cookware:** [[Lim et al., 2017]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention) — *Environmental Science and Pollution Research*. Documents PFAS migration from non-stick cookware surfaces into food matrices at normal cooking temperatures.
 
 ## Related Pages
 - [Fridge Layout Optimization](fridge-storage.md)
