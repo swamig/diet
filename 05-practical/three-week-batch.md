@@ -33,12 +33,28 @@ Make this first while the coconut chutney ingredients are being prepped. Curry l
 **Method:**
 1. Heat oil in small pan on medium-high until shimmering.
 2. Add mustard seeds — wait for them to pop (~20 sec).
-3. Add curry leaves, dried chili, hing — they will spit. Stand back. Bloom 15–20 sec until leaves are fragrant and slightly crispy.
-4. Remove from heat immediately. Do not over-cook — carbazole alkaloids degrade with prolonged heat.
+3. Add curry leaves, dried chili, hing — they will spit. Stand back. Bloom **15–20 sec exactly** until leaves are fragrant and slightly crispy.
+4. Remove from heat immediately.
 5. Cool 5 min. Pour into ice cube tray (~1 tbsp per cube). **~15 cubes.**
 6. Freeze. Transfer to labeled bag when set.
 
-**Freeze stability:** 4–6 weeks. Fat carrier protects carbazole alkaloids. Matches 3-week cadence with buffer.
+**Why the tadka doesn't destroy the antioxidants — and why it's the right format:**
+
+Curry leaves contain two distinct compound classes that behave differently under heat:
+
+| Compound class | Heat sensitivity | Solubility | Tadka effect |
+|---|---|---|---|
+| Carbazole alkaloids (mahanimbine, girinimbine, koenimbine) | Heat-stable | Fat-soluble | **Extracted into oil** — bioavailability increases |
+| Volatile aromatics (linalool, terpinene, sabinene) | Heat-sensitive | Water-soluble | Partially lost during bloom |
+| Water-soluble flavonoids | Moderate heat sensitivity | Water-soluble | Partially degraded |
+
+The 15–20 second bloom is calibrated to extract the alkaloid fraction into the fat carrier without prolonged heat exposure that would destroy it. Beyond ~30 sec the alkaloids begin to degrade — this is why timing matters.
+
+**The volatile aromatics lost in the tadka are not wasted** — they are delivered via the raw blended curry leaves in the 3-week coconut chutney (same session, separate step). The two preparations are complementary:
+- **Blended into chutney (raw)** → volatile aromatics + water-soluble flavonoids
+- **Tadka (fat-bloomed)** → carbazole alkaloid fraction, fat-extracted and bioavailable
+
+**Freeze stability:** 4–6 weeks. The fat carrier encapsulates the extracted alkaloids and protects them from oxidation during freeze storage. Matches 3-week cadence with buffer.
 
 **At serving:** Drop 1 cube into a warm pan, let melt (10 sec), pour over thawed coconut chutney or use as tadka finish for any dish.
 
