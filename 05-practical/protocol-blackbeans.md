@@ -28,6 +28,23 @@ Black beans are the secondary legume anchor of the protocol. They provide the sa
 *   **The Acid Lock:** 2 tbsp Apple Cider Vinegar.
 
 
+## Batch Mode vs. Weekly Mode
+
+The protocol has two execution paths depending on who is cooking and why:
+
+| Mode | For | Allicin pulse timing | Chill passes | Package pass |
+|---|---|---|---|---|
+| **Weekly (self-prep)** | Sunday batch, 2–3 cups | Between first and second chill | 2 × 24h | 2 (after cook + after pulse) |
+| **Batch Mode (3-month freeze)** | Hired help, full 3-month batch | At 130°F immediately after cooking | 1 × 12–24h | 1 (at 130°F, then freeze) |
+
+**Why single-chill assembled works:** RS3 (amylose/amylopectin retrogradation) forms during any cooling cycle — the starch crystallization is indifferent to what else is present in the container. A single 12–24h chill of fully assembled beans builds the same RS3 density as two separate chills. The double-chill protocol exists because the weekly workflow already has that structure; for batch operations it introduces unnecessary re-warming and a second packaging pass.
+
+**RS3 loss from skipping the second chill:** Marginal — documented studies show a secondary chill increases RS3 yield by ~5–15% relative to single-chill. This trade-off is correct when eliminating a full re-assembly labor pass across 5 kg of beans.
+
+**Day-of finishers (never pre-assemble):** EVOO oxidizes frozen; black salt is a finishing element whose sulfurous volatiles degrade; fresh cilantro loses volatile oils; fresh lemon squeeze is always last-second. These four are added at serving time only.
+
+---
+
 ## The Weekly Workflow
 
 ### 1. The Anti-Phytic Soak
@@ -43,10 +60,24 @@ Black beans are the secondary legume anchor of the protocol. They provide the sa
 5.  **The Rapid Cool:** Spread hot beans on a stainless steel baking sheet.
 6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
-### 3. The Allicin Pulse & Second Chill
+### 3. The Allicin Pulse & Second Chill (Weekly Mode)
 1.  **The Mash (Optional):** Take 1/3 of the batch and mash for use in **Performance Refried Beans**. Keep the rest whole.
 2.  **The Allicin Pulse:** Gently warm the cold beans in a pan (stay below **130°F**). Fold in your **Rested Garlic** [[Song & Milner, 2001; Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), ACV, and a pinch of salt.
 3.  **Second Chill:** Return to the fridge for another 24 hours to maximize RS3 density [[PMC10987757; Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+
+### Batch Mode Substitution (3-Month Freeze)
+
+**The allicin pulse is a parallel track, not a batch step.** Rested garlic cubes (monthly batch) handle the allicin at serving time. The batch helper never touches garlic. Replace steps 3 above with this single-pass sequence:
+
+1. **Cool on sheet pans** after draining — spread in a single layer. Monitor with probe thermometer.
+2. **At 130°F:** Fold in ACV + pinch of salt directly in a wide bowl. If making mash portion: mash 1/3 of batch with black bean liquid + aquafaba now. Add all batch-stable spices (ajwain, chaat masala, achiote, amchur, cinnamon, cumin). **No garlic** — that's day-of via rested garlic cube.
+3. **Portion immediately** into 1.5-cup freezer bags or flat-sealed containers. Label with date and format (whole / mashed). Samosa filling goes into pre-weighed parcels now.
+4. **Single overnight chill** (12–24h, dedicated batch fridge). RS3 builds during this chill in the portioned, assembled form.
+5. **Transfer to chest freezer** the next morning.
+
+**What was eliminated:** The re-warm-from-cold → allicin pulse → re-mash → re-portion loop. With 5 kg of black beans, that loop costs 45–60 minutes of helper labor and risks overshooting 130°F during the re-warm.
+
+**Allicin parallel track:** Day-of, pull a rested garlic cube, drop into pan with the warming beans, fold through. No 10-min rest needed — allicin was formed at monthly batch time and is stable frozen. See [Freeze System — Rested Garlic Cubes](freeze-system.md).
 
 
 ## How Multi-Layer Flavor Absorption Works

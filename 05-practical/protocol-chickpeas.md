@@ -26,6 +26,23 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 *   **The Allicin Pulse:** 1 clove of Fresh Garlic per cup of cooked beans (Crushed and rested 10 min) [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule).
 *   **The Acid Lock:** 2 tbsp Apple Cider Vinegar.
 
+## Batch Mode vs. Weekly Mode
+
+The protocol has two execution paths:
+
+| Mode | For | Allicin pulse timing | Chill passes | Package pass |
+|---|---|---|---|---|
+| **Weekly (self-prep)** | Sunday batch, 2–3 cups | Between first and second chill | 2 × 24h | 2 |
+| **Batch Mode (3-month freeze)** | Hired help, full 3-month batch | At 130°F immediately after cooking | 1 × 12–24h | 1 |
+
+**Why single-chill assembled works:** RS3 retrogradation is a starch-only process — it doesn't require multiple chill passes and is not affected by ACV, garlic, or salt being present in the container. A single 12–24h chill of fully assembled chickpeas produces RS3 within ~5–15% of the double-chill yield. For batch operations, this trade-off is always correct.
+
+**Allicin is a parallel track, not a batch step.** The batch helper never touches garlic. Rested garlic cubes (monthly batch) deliver the allicin pulse at serving time — drop one cube into the warming beans day-of.
+
+**Day-of only (never pre-assemble):** Rested garlic cube (allicin — parallel monthly track), EVOO (oxidizes frozen), black salt (finishing), fresh cilantro (volatile oils destroyed by freezing), fresh lemon squeeze.
+
+---
+
 ## The Elite 72-Hour Workflow
 
 ### 1. Friday: The Anti-Phytic Soak
@@ -41,10 +58,22 @@ Chickpeas (Garbanzo beans) are the primary structural and prebiotic anchor of th
 5.  **The Rapid Cool:** Spread hot chickpeas on a stainless steel baking sheet.
 6.  **First Chill:** Refrigerate for 24 hours to initiate retrogradation [[Birt, 2013; Mohan, 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
-### 3. Sunday: The Double-Chill Activation (Allicin Pulse)
+### 3. Sunday: The Double-Chill Activation — Weekly Mode
 1.  **The Mash (Optional):** Take 1/3 of the batch and mash it for use in **Vegan Patties** or **Refried Beans**. Keep the rest whole for salads.
 2.  **The Allicin Pulse:** Gently warm the cold chickpeas in a pan (Stay below **130°F**). Fold in your **Rested Garlic** [[Song & Milner, 2001; Block, 1985]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule), ACV, and a pinch of salt. 
 3.  **Second Chill:** Return to the fridge for another 24 hours to maximize the RS3 density [[PMC10987757; Lattimer, 2010]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+
+### Batch Mode Substitution (3-Month Freeze)
+
+**Allicin is a parallel track — the batch helper never touches garlic.** Replace steps 3 above with:
+
+1. **Cool on sheet pans** after draining — spread in a single layer. Monitor with probe thermometer.
+2. **At 130°F:** Fold in ACV + pinch of salt. Mash 1/3 of batch with aquafaba if making patty mix or refried prep. Add batch-stable spices now. **No garlic** — delivered via rested garlic cube at serving.
+3. **Portion immediately** into 1.5-cup freezer bags or airtight containers. Label with format (whole / mashed / patty mix).
+4. **Single overnight chill** (12–24h). RS3 builds in assembled form.
+5. **Transfer to chest freezer** next morning. One packaging pass, done.
+
+**Day-of serving:** Pull frozen portion → warm to 130°F → fold in 1 rested garlic cube + EVOO + black salt + fresh cilantro + lemon squeeze.
 
 ## Samosa Filling Spice Split (3-Month Freeze)
 
