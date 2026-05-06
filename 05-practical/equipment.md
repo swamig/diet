@@ -137,19 +137,45 @@ The protocol's 3-month frozen stash (chickpeas, black beans, tofu, quinoa, sweet
 
 ## Cube Trays
 
-**Silicone ice cube trays (covered, 15-cube) — 11 minimum, 14 recommended**
+**Silicone ice cube trays (covered, 15-cell standard) — 25 required**
+**Mini silicone cube trays (1 tsp cell) — 1 required**
 
-The 3-month session fills trays simultaneously as follows:
+All trays fill on the same combined session day and freeze overnight simultaneously. You cannot stagger and reuse — trays need 8–12 hours to freeze solid before the cubes can be transferred to bags. Every tray must be in the kitchen freezer at the same time.
 
-| Session | Items | Trays needed |
-|---|---|---|
-| 3-month day | Aloe vera (5 trays) + Lemon juice (4 trays) + Imli (1 tray) + Aquafaba (1 tray minimum) | **11** |
-| Monthly | Ginger (2) + Rested garlic (1) + Toum base (1) + Curry leaf tadka (1) + Mint muddle (2) + Fenugreek paste (1) | **8** |
-| Sunday | Coconut chutney (1) + Cilantro/mint chutney (1) | **2** |
+### Standard 15-cell trays (1 tbsp per cell)
 
-With 8 trays (original recommendation) you cannot fill all 3-month items simultaneously — aloe and lemon have to be done in shifts overnight. **With 11 trays you fill everything in one go and transfer overnight.** 14 trays gives 3 spare for monthly session overlap.
+| Item | Trays | Cubes | Notes |
+|---|---|---|---|
+| Aloe vera — consumption | 5 | ~75 | 5 large leaves |
+| Lemon juice | 4 | ~60 | 4 trays of fresh-squeezed |
+| Coconut chutney (full) | 3 | ~48 | 2 tbsp per cube |
+| Jaljeera concentrate | 2 | ~21 | 2 tbsp per cube — 2 trays covers 21 cells |
+| Aloe vera — topical | 2 | ~28 | Separate from consumption — label clearly |
+| Ginger cubes | 2 | ~30 | Food processor shredding disc |
+| Cilantro/mint chutney | 1 | ~16 | 2 tbsp per cube |
+| Imli | 1 | ~15 | |
+| Aquafaba | 1 | ~15 | Must cool to ≤104°F before filling |
+| Fenugreek paste (hair) | 1 | ~12–14 | From overnight soak |
+| Rested garlic | 1 | ~15 | Crush → 10 min rest → portion |
+| Mint muddle | 1 | ~8 | 1 tbsp per cube |
+| Black bean liquid | 1 | ~15 | 2 tbsp cubes + some ¼-cup portions |
+| **Total standard trays** | **25** | | |
+
+### Mini trays (1 tsp per cell, ~30-cell)
+
+| Item | Trays | Cubes | Notes |
+|---|---|---|---|
+| Curry leaf tadka | 1 | ~21 | 1 tsp per cube — fat carrier, concentrated |
+| **Total mini trays** | **1** | | |
+
+### Kitchen Freezer Capacity Note
+
+25 covered standard trays stacked flat = approximately 25–30 inches of vertical space (covered trays ~1–1.5 inches each when stacked). A standard kitchen freezer with 2–3 shelves can hold this if the trays are the only items in it during batch night. Clear everything else out before batch day. The chest freezer handles all bulk stash — kitchen freezer is for cube trays only on batch night.
 
 Covered silicone trays prevent freezer odour absorption and allow stacking. ~$8–12 per tray.
+
+**Standard trays: 25 × ~$10 = ~$250**
+**Mini trays: 1 × ~$8 = ~$8**
 
 ---
 
@@ -161,10 +187,10 @@ These items are owner bench station tools. Required on the combined batch day.
 |---|---|---|---|
 | Vitamix or high-power blender | 1 | ~$350–500 (refurb ~$150) | Coconut chutney (2 runs), cilantro chutney, Jaljeera |
 | KitchenAid stand mixer + dough hook | 1 | ~$300–400 (refurb ~$200) | Samosa dough (T+2:00), patty dough (T+3:30) |
+| Food processor (with shredding disc) | 1 | ~$60–100 | Ginger cubes (shredding disc), chili flakes for samosa filling |
 | Steamer basket (fits large pot) | 1 | ~$15 | Patty steaming |
 | Small sauté pan (8–10 inch) | 1 | ~$20 | Curry leaf tadka |
-| Mini silicone cube trays (1 tsp cell, ~30-cell) | 2 | ~$8 each / ~$16 | Curry leaf tadka, ginger cubes |
-| Small glass jars (8 oz) | 4 | ~$2 each / ~$8 | Aloe scalp gel, rosemary oil infusion, toum, aquafaba |
+| Small glass jars (8 oz) | 4 | ~$2 each / ~$8 | Aloe scalp gel, toum, aquafaba |
 
 ---
 
@@ -178,7 +204,8 @@ These items are owner bench station tools. Required on the combined batch day.
 | Braun MultiQuick 5 Immersion Blender | 1 | ~$45 | **~$45** |
 | Half-sheet pans (18"×13") | 4 | ~$12 | **~$48** |
 | Probe thermometer | 1 | ~$35 | **~$35** |
-| Silicone cube trays (covered, 15-cell) | 14 | ~$10 | **~$140** |
+| Silicone cube trays (covered, 15-cell) | 25 | ~$10 | **~$250** |
+| Mini silicone cube tray (1 tsp cell) | 1 | ~$8 | **~$8** |
 | Chest freezer (7 cu ft) | 1 | ~$225 | **~$225** |
 | Second full-size fridge (used) | 1 | ~$100 | **~$100** |
 
@@ -187,12 +214,12 @@ These items are owner bench station tools. Required on the combined batch day.
 |---|---|---|---|
 | Vitamix (refurb) | 1 | ~$150 | **~$150** |
 | KitchenAid mixer + dough hook (refurb) | 1 | ~$200 | **~$200** |
+| Food processor (with shredding disc) | 1 | ~$80 | **~$80** |
 | Steamer basket | 1 | ~$15 | **~$15** |
 | Small sauté pan | 1 | ~$20 | **~$20** |
-| Mini silicone cube trays (1 tsp cell) | 2 | ~$8 | **~$16** |
 | Small glass jars (8 oz) | 4 | ~$2 | **~$8** |
 
-| | | **Grand total** | **~$1,350** |
+| | | **Grand total** | **~$1,540** |
 
 **Note on mixing bowls:** Bean assembly and samosa filling are done directly in the stock pots — no separate mixing bowls needed. The pots are already the right volume and save a wash step.
 

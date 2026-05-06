@@ -101,7 +101,8 @@ Complete this the evening before batch day. Failures here delay the entire sessi
 - [ ] Oven preheatable to 400°F — rack in middle position
 - [ ] Probe thermometer batteries good — test powers on and reads room temp (~68–72°F)
 - [ ] 4 half-sheet pans clean and dry
-- [ ] 14 silicone cube trays clean and dry
+- [ ] 26 silicone cube trays clean and dry (25 standard 15-cell + 1 mini 1-tsp-cell)
+  - **Repeat batch:** All 26 trays are in the chest freezer as bags. Pull them out the night before, pop cubes into their bags, and hand-wash trays. ~20 min. See [Cube Transfer — Repeat Batch](#cube-transfer--repeat-batch) below.
 - [ ] KitchenAid mixer + dough hook — clean and dry
 - [ ] Steamer basket or steamer insert — fits a large pot
 - [ ] All freezer bags/containers labeled (see Labeling section below)
@@ -509,6 +510,166 @@ Add to the Night Before checklist:
 - [ ] Dry mix jar ingredients (amla, brahmi/bhringraj, besan, turmeric, curry leaf powder, bay leaf powder) — weighed and ready
 - [ ] Rosemary essential oil (purchased) — confirm in stock. Not made on batch day.
 - [ ] Labels: `Aloe FOOD`, `Aloe TOPICAL`, `Fenugreek Paste HAIR`
+
+---
+
+## Cube Transfer — Repeat Batch
+
+On the second and subsequent 3-month batches, all 26 trays are stored in the chest freezer inside labeled gallon bags. You need them empty and clean before batch night. Do this the evening before pre-flight (2 nights before batch day).
+
+**Time: ~20 minutes**
+
+1. Pull all cube bags from chest freezer. Work one bag at a time.
+2. Pop cubes from tray into a new gallon freezer bag — label the new bag immediately (item name + best-by date, see Labeling Standard below).
+3. Hand-wash tray. Dry. Stack.
+4. Repeat for all 26 trays.
+
+**Labeling the transfer bags:**
+
+| Item | Best-by from transfer date |
+|---|---|
+| Aloe vera (consumption) | 3 months |
+| Aloe vera (topical) | 3 months |
+| Lemon juice | 3 months |
+| Imli | 6 months |
+| Aquafaba | 3 months |
+| Black bean liquid | 3 months |
+| Ginger cubes | 3 months |
+| Rested garlic | 1 month |
+| Fenugreek paste (hair) | 6 weeks |
+| Curry leaf tadka | 6 weeks |
+| Cilantro/mint chutney | 3 months |
+| Coconut chutney | 3 months |
+| Jaljeera concentrate | 3 months |
+| Mint muddle | 1 month |
+
+**Bag label format:** `[Item] — [transfer date] — Use by [date]`  
+Example: `Lemon Juice Cubes — 2026-08-05 — Use by 2026-11-05`
+
+---
+
+## Master Ingredient List
+
+Everything needed for the combined 3-month + monthly + 3-week session. Pull and weigh all items the night before (pre-flight). Items marked **(RC)** are exact quantities per recipe card — confirm against the card, not this list.
+
+---
+
+### 3-Month Batch Ingredients
+
+#### Proteins + Starches
+| Item | Quantity | Notes |
+|---|---|---|
+| Dry chickpeas | 5 kg | Split across 2 pots, ~2.5 kg each |
+| Dry black beans | 4.5 kg | Split across 2 pots, ~2.25 kg each |
+| Dry green/brown lentils | 1 kg | Sequential in Pot 1 post-chickpeas |
+| Dry quinoa | 1 kg | Sequential in Pot 3 post-black beans |
+| Purple sweet potato | 2–3 kg whole, unpeeled | Oven at T+0:20 |
+| Extra-firm tofu | Per 3-month supply (RC) | Drain, pat dry, freeze slabs flat |
+
+#### Samosa Filling (variants A/B/C use chickpea base; D uses black bean)
+| Item | Quantity | Notes |
+|---|---|---|
+| Frozen peas | ~2 cups | For filling A/B/C |
+| Carrots | 2–3 medium | Diced small |
+| Pea protein powder | RC | Binding agent |
+| Nutritional yeast | RC | Flavor + B12 |
+| Ajwain seeds | RC | Pre-measured day-of jar |
+| Amchur powder | RC | Pre-measured day-of jar |
+| Chaat masala | RC | Pre-measured day-of jar |
+| Kashmiri chili | RC | Pre-measured day-of jar |
+| Achiote | RC | Pre-measured day-of jar |
+| Cumin powder | RC | Pre-measured day-of jar |
+| Smoked paprika | RC | Pre-measured day-of jar |
+| Green chilies | 4–6 (fresh or frozen) | Chopped (food processor) |
+| Fresh ginger | 2 tbsp minced | Into filling |
+| Lemon juice | 2–3 tbsp | Into filling |
+| ACV | 2 tbsp | Into filling |
+
+#### Samosa Dough
+| Item | Quantity | Notes |
+|---|---|---|
+| Option 1: Vital wheat gluten (VWG) | RC | Pre-measured dry mix jar |
+| Option 1: Besan | RC | Pre-measured dry mix jar |
+| Option 2: Atta flour | RC | Pre-measured dry mix jar |
+| Option 2: VWG | RC | Pre-measured dry mix jar |
+
+#### Vegan Protein Patties
+| Item | Quantity | Notes |
+|---|---|---|
+| Chickpea mash | From batch (1/3 of chickpea mash portion) | |
+| Pea protein powder | RC | |
+| Vital wheat gluten | RC | |
+| Nutritional yeast | RC | |
+| Fresh ginger | 1 tbsp grated | Stable frozen |
+| Soy sauce / tamari | RC | |
+| Lemon juice | RC | |
+| ACV | RC | |
+| Patty spice stack | RC | |
+
+#### Cube Trays (3-month items made at T+0:00)
+| Item | Quantity | Notes |
+|---|---|---|
+| Aloe vera leaves | 10 large leaves | 5 consumption + 5 topical — label bags separately |
+| Lemons | ~20–25 | 4 trays lemon juice (~5 lemons/tray) |
+| Tamarind block | ~150g | Dissolve in warm water, strain → 1 tray |
+
+#### Boil Stack (goes into each pot)
+| Item | Per pot | Notes |
+|---|---|---|
+| Sea salt | 1 tsp (soak) + 1 tsp per quart at T+2:05 | |
+| Bay leaves | 2 | |
+| Onion | 1 medium, quartered | Discard after cook |
+| Kombu (optional) | 1 strip | Reduces lectins |
+
+---
+
+### Monthly Session Ingredients (run during simmer window)
+
+| Item | Quantity | Notes |
+|---|---|---|
+| Garlic heads | ~3–4 heads | Crush → 10-min rest → portion into 1 tray (~15 cubes) |
+| Fresh ginger | ~300–400g | Food processor shredding disc → 2 trays (~30 cubes) |
+| Aquafaba | From batch (cooled) | For toum base — available ~T+2:45 |
+| Avocado oil | ~½ cup | For toum emulsification |
+| Lemon juice | 2 tbsp | For toum |
+| Fenugreek seeds | 4 tbsp | Soak overnight; blend morning of batch |
+
+---
+
+### 3-Week Session Ingredients (run during simmer window)
+
+| Item | Quantity | Notes |
+|---|---|---|
+| Fresh curry leaves | ~1¾ cups packed | Pre-chop to ½-inch pieces before pan |
+| Dried red chilies | 5–7 whole | Break to flakes before pan |
+| Mustard seeds | 1 tbsp | |
+| Neutral/avocado oil | 7 tbsp | For tadka |
+| Hing (asafoetida) | ¼ tsp | |
+| Fresh cilantro | 2 large bunches | For cilantro/mint chutney |
+| Fresh mint | 2 large bunches | For cilantro/mint chutney + mint muddle |
+| Green chilies | 4–6 | For chutneys |
+| Garlic cloves | 6–8 | For chutneys |
+| Lemons | 4–5 | For chutneys + muddle (beyond the 20–25 for cubes) |
+| Frozen/fresh grated coconut | ~8 cups | For coconut chutney (2 Vitamix runs) |
+| Jaljeera spice base | RC | Cumin, black salt, mint, ACV, water, ginger |
+| ACV | RC | For chutneys, muddle, jaljeera |
+
+---
+
+### Skincare Ingredients (3-month + monthly — run during simmer window)
+
+| Item | Quantity | Cadence | Notes |
+|---|---|---|---|
+| Aloe vera (topical) | 5 large leaves | 3-month | Already counted in cube tray section above |
+| Fenugreek seeds | 4 tbsp | Monthly | Soak overnight — already counted in monthly section |
+| Amla powder | 12 tbsp | 3-month | For hair dry mix jar |
+| Brahmi or Bhringraj powder | 12 tbsp | 3-month | Rotate monthly in working jar |
+| Dry fenugreek powder | 6 tbsp | 3-month | Backup in hair jar |
+| Curry leaf powder (air-dried) | 3 tsp | 3-month | For hair jar |
+| Besan | 30 tbsp total | 3-month | 12 (hair) + 12 (face) + 18 (body) — can use one bulk bag |
+| Turmeric powder | 2.5 tbsp total | 3-month | 1 tbsp (face) + 1.5 tbsp (body) |
+| Bay leaf powder | ¾ tsp | 3-month | For face jar — do not exceed |
+| Rosemary essential oil | Purchased | Ongoing | Not made on batch day — confirm in stock |
 
 ---
 
