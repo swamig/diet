@@ -24,7 +24,7 @@ This is the high-performance protein system that replaces meat in the protocol. 
 **🫘 Protein Base (Balanced for Digestion + Texture):**
 *   1 cup cooked chickpeas (from dry, slightly firm - cooled 24h for resistant starch [[Birt 2013, Mohan 2015]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3))
 *   2.5 tbsp pea protein (high lysine, low methionine)
-*   2.5 tbsp vital wheat gluten (high methionine, low lysine — combined with pea protein creates a complete EAA matrix [[Gorissen 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
+*   2.5 tbsp vital wheat gluten (high methionine, low lysine (USDA Nutrient Database) — combined with pea protein creates a complete EAA matrix [[Gorissen 2018]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
 *   2 tbsp nutritional yeast (bioavailable B12 and additional protein [[Watanabe 2013]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling))
 
 **🌿 Fresh Herbs (Flavor + Digestion):**
@@ -73,7 +73,7 @@ To achieve both the "meat-like" gluten texture and the prebiotic Resistant Starc
     *   **KitchenAid (Elite Hack):** Use a dough hook on **Speed 2 for 3–5 minutes**. Stop when the dough forms a cohesive, elastic ball that "bounces back" when poked.
 6.  **Create Fibers:** Flatten the dough, fold it over itself, and flatten again. Repeat 2–3x to build "meat-like" muscular striations.
 7.  **Shape:** Form into 4 large burger patties.
-8.  **The Steam (The RS3 Melt):** Steam the patties for 15 minutes. *Biochemical Note:* Hitting 160°F+ is required to activate and set the wheat gluten, giving the patty its structural "chew." This heat will temporarily melt the resistant starch in the chickpeas back into simple starch [[Birt 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
+8.  **The Steam (The RS3 Melt):** Steam the patties for 15 minutes. *Biochemical Note:* Hitting 160°F+ is required to activate and set the wheat gluten, giving the patty its structural "chew" [[Wieser, 2007]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling). This heat will temporarily melt the resistant starch in the chickpeas back into simple starch [[Birt 2013]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 9.  **The Post-Cook Chill (RS3 Re-formation):** Remove the steamed patties and let them cool for 20 minutes. **Place them in an airtight glass container in the fridge for 12-24 hours.** *Biochemical Note:* This is where the magic happens. The starches will retrograde *again*, locking into an even tighter, more dense RS3 crystalline matrix than before [[Mohan 2015, PMC10987757]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3).
 
 ## Execution (The Daily Meal)

@@ -12,14 +12,14 @@ To maintain the biochemical integrity of the protocol (Sulforaphane, Resistant S
 ## The Glass Mandate (Endocrine & Volatile Oil Protection)
 **This protocol strictly mandates the use of Glass containers (e.g., Pyrex or Mason Jars) for all food and spice storage.** 
 Do not use plastic Tupperware. The biochemical rationale is threefold:
-1.  **Endocrine Disruption:** You are eating 2x a week Tofu to *protect* your hormonal profile. Storing food in plastic (especially if slightly warm) leaches microplastics and xenoestrogens (BPA/BPS/Phthalates) into the food, which act as endocrine disruptors and completely sabotage the protocol's hormonal goals.
-2.  **Acidic Leaching:** The protocol uses high-acid liquids (Lemon juice, Apple Cider Vinegar, Balsamic) to protect antioxidants and activate Agni. Acids degrade plastic rapidly, pulling chemical plasticizers directly into your dressing and Jaljeera base.
-3.  **Volatile Oil Absorption:** Plastic is highly porous. The volatile oils in your spices (Menthol, Cuminaldehyde, Eugenol) and the organosulfur compounds in your garlic will permanently absorb into plastic walls, stealing the signaling potency from your food and making the containers smell forever. Glass is non-porous and creates a perfect biological lock.
+1.  **Endocrine Disruption:** You are eating 2x a week Tofu to *protect* your hormonal profile. Storing food in plastic (especially if slightly warm) leaches microplastics and xenoestrogens (BPA/BPS/Phthalates) into the food [[Halden, 2010]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), which act as endocrine disruptors and completely sabotage the protocol's hormonal goals.
+2.  **Acidic Leaching:** The protocol uses high-acid liquids (Lemon juice, Apple Cider Vinegar, Balsamic) to protect antioxidants and activate Agni. Acids degrade plastic rapidly, pulling chemical plasticizers directly into your dressing and Jaljeera base [[Muncke, 2014]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
+3.  **Volatile Oil Absorption:** Plastic is highly porous. The volatile oils in your spices (Menthol, Cuminaldehyde, Eugenol) and the organosulfur compounds in your garlic will permanently absorb into plastic walls [[Sajilata, 2007]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation), stealing the signaling potency from your food and making the containers smell forever. Glass is non-porous and creates a perfect biological lock.
 
 ## The Hardware Mandate (Stainless Steel & Ceramic)
 Beyond storage, the preparation hardware must be non-reactive to prevent heavy metal leaching and endocrine disruption:
-1.  **Stainless Steel:** Use for all boiling (beans/lentils) and searing (tofu/patties). It is bio-inert and does not leach aluminum or PFAS into the food at high temperatures.
-2.  **Ceremonial Ceramic:** For non-stick needs, use high-quality ceramic-coated pans. Strictly avoid "Teflon" or traditional non-stick coatings, which release PFOA/PFAS when heated, acting as potent carcinogens and endocrine disruptors.
+1.  **Stainless Steel:** Use for all boiling (beans/lentils) and searing (tofu/patties). It is bio-inert and leaches only trace nickel and chromium at normal cooking temperatures — significantly safer than PFAS or BPA plastics [[Kamerud, 2013]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
+2.  **Ceremonial Ceramic:** For non-stick needs, use high-quality ceramic-coated pans. Strictly avoid "Teflon" or traditional non-stick coatings, which release PFOA/PFAS when heated, acting as potent carcinogens and endocrine disruptors [[Lim, 2017]](../07-appendices/master-citations.md#13-metabolic-oncology--chemoprevention).
 3.  **The Glass Standard:** As previously mandated, all storage remains Glass.
 
 ## Shopping List

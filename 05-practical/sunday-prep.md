@@ -45,7 +45,7 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 2.  Lay flat in a freezer bag. Freeze.
 3.  **Shelf life frozen:** 3–4 months.
 4.  **Thaw:** Fridge overnight, or submerge sealed bag in cold water for 30–60 min.
-5.  **The freeze upgrade:** Ice crystals rupture the protein matrix, creating a spongier, more porous structure. This means faster pressing on thaw (water comes out on its own), deeper marinade absorption, and more surface area for the allicin crust during the Flash Sear. Strictly better than fridge-only storage.
+5.  **The freeze upgrade:** Ice crystals rupture the protein matrix, creating a spongier, more porous structure [[PMC10494460]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). This means faster pressing on thaw (water comes out on its own), deeper marinade absorption, and more surface area for the allicin crust during the Flash Sear. Strictly better than fridge-only storage.
 6.  **Fridge-only fallback (short week):** Press water out, slice into slabs, store submerged in water, change water daily. Use within 4–5 days.
 
 **Lentils:**
@@ -167,8 +167,8 @@ Basil seeds anchor the 3 heavy training days (Mon/Wed/Fri) — iron demand and h
 *   **Blueberries:** Portion 75g (Total: 375g for 5 days) of frozen blueberries into 5 separate 8 oz containers. Store in the fridge to thaw.
 *   **Casein:** Portion 1 scoop into 5 separate dry jars.
 *   **Chia (pre-soak — omega-3 anchor):** Into each of 7 small lidded containers, add **1 tbsp chia seeds + 3 tbsp cold water**. Stir once. Let sit 20 min at room temp until gel begins to form, then refrigerate. One container per day into the recovery bowl. **Do not pre-mix with yogurt** — add at assembly and eat immediately.
-    *   Why pre-soak: chia needs 20–30 min to fully gel in thick yogurt. Pre-soaking on Sunday means zero daily wait — drop the container in, stir, eat.
-    *   Why daily vs. salad rotation only: pre-soaked chia in the recovery bowl is the fixed daily EPA/DHA precursor stack (ALA + chlorella = full omega-3 coverage). Salad rotation Day 4 chia remains independent.
+    *   Why pre-soak: chia needs 20–30 min to fully gel in thick yogurt [[Muñoz, 2012]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). Pre-soaking on Sunday means zero daily wait — drop the container in, stir, eat.
+    *   Why daily vs. salad rotation only: pre-soaked chia in the recovery bowl is the fixed daily EPA/DHA precursor stack (ALA + chlorella; note: hepatic ALA→EPA/DHA conversion is only 0.5–7.5%, while chlorella provides direct EPA/DHA — the stack meets the 250–500mg minimum but is not "full coverage" in the therapeutic sense) [[See Omega Load Balancing](../04-advanced-control/omega-balance.md)]. Salad rotation Day 4 chia remains independent.
 *   (Combine with Greek Yogurt fresh at the time of eating to manage oxalate binding).
 
 ## Nutritional Enhancement through Proper Prep
@@ -183,7 +183,7 @@ To convert simple starches into **Resistant Starch Type 3**:
 
 ### 2. Sulforaphane Activation (Broccoli)
 *   **The Workflow:** Mature broccoli is replaced with **Broccoli Microgreens**.
-*   **The Benefit:** Microgreens contain up to 50x the glucoraphanin of mature broccoli. Because they are eaten raw in the salad, the myrosinase enzyme remains 100% intact, requiring no chopping, resting, or heat management.
+*   **The Benefit:** Microgreens contain up to 50x the glucoraphanin of mature broccoli [[Fahey, 1997]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control). Because they are eaten raw in the salad, the myrosinase enzyme remains maximally (~74%) intact, requiring no chopping, resting, or heat management [[Vermeulen, 2008]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
 ## Storage Logic
 *   **Fridge:** Vegan Patties (3–4 days), Chickpeas/Black Beans (3–4 days), Lentils (5–6 days), Quinoa (5 days), Greens (4–5 days).
