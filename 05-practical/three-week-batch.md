@@ -10,7 +10,7 @@ priority: 'supporting'
 Run this every 3 weeks to maintain fresh-tier chutney and Jaljeera supply. Produces cilantro chutney, full coconut chutney (curry leaves blended in), and Jaljeera concentrate cubes — all optimized for 3-week freeze stability.
 
 **Total active time:** ~85 min
-**Produces:** ~48 coconut cubes + ~17–18 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~8 mint muddle cubes + ~12 fenugreek paste cubes + aloe topical refresh (if needed) per session
+**Produces:** ~48 coconut cubes + ~17–18 cilantro cubes + ~21 Jaljeera cubes + ~21 curry leaf tadka cubes + ~21 mint muddle cubes + ~12 fenugreek paste cubes + aloe topical refresh (if needed) per session
 
 **Pre-flight (night before):** Soak 4 tbsp fenugreek seeds in water overnight.
 
@@ -213,22 +213,22 @@ Fresh mint is already on the counter. Run this immediately after blending the ci
 **Ingredients:**
 | Ingredient | Amount |
 |---|---|
-| Fresh mint leaves (blanched with the rest at Step 1) | ~45 leaves |
-| Thai bird's eye chili | 1.5 |
-| Fresh ginger (grated or from food processor run) | 1 thumb (~1 tbsp) |
-| Lemon juice (**Acid Lock**) | 1 tbsp |
-| Avocado oil (volatile oil trap) | 1 tsp |
+| Fresh mint leaves (blanched with the rest at Step 1) | ~117 leaves (~1 cup packed) |
+| Thai bird's eye chili | 4 |
+| Fresh ginger (grated or from food processor run) | 2.5 tbsp |
+| Lemon juice (**Acid Lock**) | 2.5 tbsp |
+| Avocado oil (volatile oil trap) | 2.5 tsp |
 
 **Do NOT add:** black salt, roasted cumin, ACV, water — these are added fresh at serving (osmosis rule — salt bleeds water from paste even frozen).
 
 **Method:**
-1. Combine all ingredients in immersion blender beaker.
-2. Muddle/blend until a coarse paste — not completely smooth, some texture is correct.
+1. Combine all ingredients in Vitamix or immersion blender beaker.
+2. Blend until a coarse paste — not completely smooth, some texture is correct.
 3. Taste: intensely minty, spicy, bright. Should feel almost medicinal.
-4. Pour into mini cube tray (~1 tbsp per cube). **~8 cubes = 4-week supply at 2/week.**
+4. Pour into mini cube tray (~1 tbsp per cube). **~21 cubes = exact 3-week supply at 1/day.**
 5. Freeze. Transfer to labeled bag when set.
 
-**Label:** `Mint Muddle — [date] — use by [date +5 weeks]`
+**Label:** `Mint Muddle — [date] — use by [date +3 weeks]`
 
 **At serving:** Drop 1 cube into glass. Thaws in cold water in 5–10 min. Add roasted cumin powder, black salt, ACV, cold/sparkling water.
 
@@ -318,14 +318,14 @@ For the coconut chutney: still add the **fresh tadka** (mustard seeds + curry le
 | Fresh grated coconut (unsweetened) | **8 cups (~800g)** |
 | **Frozen avocado** | **½ cup** — for cilantro chutney |
 | Fresh cilantro | **4 cups packed (~2 bunches)** |
-| Fresh mint | **~4 cups packed (~2 bunches)** — 2 cups for chutney + 2 cups for Jaljeera |
+| Fresh mint | **~5 cups packed (~3 bunches)** — 2 cups for chutney + 2 cups for Jaljeera + 1 cup for mint muddle |
 | Fresh curry leaves | **~1¾ cups packed total** (6–8 tbsp for chutney + 1 cup for tadka) |
-| Green chili | **~25 total** — 8–10 coconut + 4–5 cilantro + 10–12 Jaljeera |
-| Fresh ginger | **~400g total** — coconut + cilantro + Jaljeera combined |
+| Green chili | **~29 total** — 8–10 coconut + 4–5 cilantro + 10–12 Jaljeera + 4 mint muddle |
+| Fresh ginger | **~430g total** — coconut + cilantro + Jaljeera + mint muddle combined |
 | Garlic | **4 cloves** |
 | Lemons | **~10** — 8 tbsp coconut + 4 tbsp cilantro + ~9 tbsp Jaljeera |
 | ACV (raw) | **~1¼ cups** |
-| Avocado oil | **3½ tbsp** |
+| Avocado oil | **~4 tbsp** — 3½ tbsp Jaljeera + 2.5 tsp mint muddle |
 | Hing | **½ tsp** |
 | **Fenugreek seeds** | **4 tbsp** |
 | **Fresh aloe vera leaves** | **1–2 large** (topical refresh — only if running low) |
