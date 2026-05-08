@@ -49,6 +49,13 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 ### Vitamin D3 (+ K2)
 *   **Timing:** Take with your **Main Meal (12:00)**.
 *   **Rationale:** Vitamin D is fat-soluble. Some studies find better absorption when supplements are taken with a meal, especially one containing fat.
+*   **Dose:**
+    - **Maintenance (no bloodwork):** 2,000 IU D3 + 100–200 mcg K2 (MK-7 form) daily
+    - **Correction dose (known deficiency, serum 25(OH)D < 30 ng/mL):** 4,000–5,000 IU D3 daily for 8–12 weeks, then retest
+    - **Upper safe limit:** 10,000 IU/day (short-term correction only — do not sustain without bloodwork)
+*   **K2 rationale:** K2 (MK-7) directs calcium deposited by D3 into bones rather than arterial walls. Always pair D3 with K2 on a plant-based protocol — dietary K2 from fermented foods (natto, some cheeses) is absent from this diet.
+*   **Food sources in this protocol:** None reliable. Mushrooms provide D2 only if UV-exposed — not a consistent source. Supplementation is non-negotiable on this protocol.
+*   **Bloodwork trigger:** Test serum 25(OH)D every 90 days until stable. Target range: **40–60 ng/mL** (optimal; above the 30 ng/mL sufficiency floor). Adjust dose based on results — do not guess.
 
 ### Vitamin C
 *   **Timing:** Take with your **Main Meal (12:00)**.
