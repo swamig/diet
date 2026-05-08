@@ -13,8 +13,10 @@ This manual acknowledges the hormetic benefit of plant compounds while actively 
 
 1.  **The Calcium Shield:** The protocol utilizes the **[17:50 Recovery Bowl](../03-execution/week-01/day-01.md#recovery-bowl)** as a primary mineral anchor. Consuming food-based calcium (Greek Yogurt) alongside high-oxalate pulses (Cacao) allows calcium to bind oxalates in the GI tract before they can reach the kidneys.
 2.  **Low-Oxalate Green Rotation:** High-oxalate spinach is strictly excluded. The manual rotates **Arugula** and **Kale** in the **[Salad Layer](../05-practical/daily-salad-layer.md)** to provide fiber and sulforaphane with a lower aggregate oxalate load.
-3.  **Hydration (The Clearance Vector):** Maintaining **[Circadian Hydration](../01-foundations/04-hydration.md)** (2.5L+ daily) ensures sufficient urinary volume to keep minerals in solution, preventing crystallization.
+3.  **Hydration (The Clearance Vector):** Maintaining ≥**3L total fluid intake daily** (targeting ≥**2.5L urine output**) — the NIDDK threshold for oxalate-stone risk reduction [[Nouvenne et al., 2014]](../07-appendices/master-citations.md#oxalate-management). See **[Circadian Hydration](../01-foundations/04-hydration.md)** for timing rules.
 4.  **Cacao Pulsing:** Consuming **[Cacao](../02-ingredients/cacao.md)** is limited to 2–3x per week and is NEVER stacked with other high-oxalate seeds like Sesame or Chia on the same day.
+
+**Minimum effective calcium dose:** ~**200–300mg calcium** consumed *with* the high-oxalate food is required for gut-lumen binding. The Recovery Bowl's Greek yogurt provides ~200mg calcium per 200g serving — this meets the threshold when consumed alongside cacao nibs [[von Unruh et al., 2004]](../07-appendices/master-citations.md#sources) [[Liebman & Chai, 1997]](../07-appendices/master-citations.md#sources).
 
 ## Stacking Rules (Conflict Mitigation)
 *   **The No-Stack Rule:** Sesame, Chia, and Cacao are not assigned on the same day to prevent cumulative oxalate pressure.

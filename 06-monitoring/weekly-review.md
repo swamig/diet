@@ -31,7 +31,7 @@ Use this at the end of each week to convert daily notes into decisions before th
 ### Digestion
 
 - **Bloating / gas:**
-- **Stool regularity:**
+- **Stool regularity:** Target: **Bristol Stool Scale type 3–4**, frequency **1–2x daily** on this high-fiber protocol. Type 1–2 (constipation) → increase hydration and psyllium dose. Type 6–7 (loose) → reduce psyllium, check chlorella dose if recently increased.
 - **Fiber tolerance:**
 - **Ferment response:**
 
@@ -45,7 +45,7 @@ Use this at the end of each week to convert daily notes into decisions before th
 
 ### Recovery
 
-- **Sleep quality:**
+- **Sleep quality:** Target: **≥7 hours total sleep**, **≥15–20% deep sleep (N3)** if tracked via wearable, HRV stable or trending upward week-over-week. Flag if <7 hours on ≥3 nights this week. [[AASM/AHA Consensus, 2016 — 7-hour minimum for adults](https://pubmed.ncbi.nlm.nih.gov/27091092/)]
 - **Morning readiness:**
 - **Soreness / inflammation:**
 - **Stress load:**
@@ -83,6 +83,16 @@ If your primary goal is fat loss and measurements have plateaued, DO NOT add mor
 - Fill this at the end of each week while the details are still fresh.
 - Pull in actual log examples instead of relying on memory.
 - Use the decision section to create one concrete change for the next week rather than a full rewrite.
+
+## Bloodwork Scheduler
+Check if any test is due this week or within the next 14 days:
+| Test | Frequency | Last tested | Due |
+|---|---|---|---|
+| Serum 25(OH)D (Vitamin D) | Every 90 days | ___ | ___ |
+| Serum ferritin + iron panel | Every 90 days | ___ | ___ |
+| Serum B12 | Annually | ___ | ___ |
+| Omega-3 Index (RBC EPA+DHA%) | Every 6 months | ___ | ___ |
+| Heavy metals (if on chlorella) | At baseline + 90 days | ___ | ___ |
 
 ## Related Pages
 

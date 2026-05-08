@@ -13,6 +13,7 @@ Sleep is the primary window for endocrine repair and memory consolidation. This 
 *   **The Mechanism:** The brain's suprachiasmatic nucleus initiates sleep signaling (melatonin release) when it detects a rapid drop in core body temperature. 
 *   **Protocol Execution:** 
     *   **[Evening Sauna & Contrast Therapy](../05-practical/thermal-hormesis.md):** The protocol uses intense heat exposure followed by a brief cold/lukewarm rinse. This pulls blood from the core to the extremities (vasodilation). When you step out of the shower, the heat radiates off your skin rapidly, forcing a steep drop in core body temp that acts as a biological "sleep switch."
+    *   **Sauna parameters:** **15–20 minutes at 80–100°C (176–212°F)**. Target core temperature drop: **~1–1.5°C (1.8–2.7°F) within 30 minutes** of exiting — this magnitude of drop accelerates sleep onset and improves slow-wave sleep [[Haghayegh et al., 2019]](../07-appendices/master-citations.md#2-thermal-hormesis--training-integration).
 
 ## 2. "Net 8" Alkaline Hydration (The Chemical Counterweight)
 *   **The Mechanism:** Intense physical training and high protein intake create systemic metabolic acidity (lactic acid, uric acid). The body uses rapid, shallow breathing (sympathetic) to clear this acidity. 
@@ -23,8 +24,8 @@ Sleep is the primary window for endocrine repair and memory consolidation. This 
 *   **The Mechanism:** Gamma-aminobutyric acid (GABA) is the brain's primary inhibitory neurotransmitter. It slows neuronal firing and reduces anxiety.
 *   **Protocol Execution:**
     *   **[Ashwagandha (Withania somnifera)](../02-ingredients/ashwagandha.md):** The primary adaptogen. Used 2–3x a week in the 21:00 Night Infusion to modulate GABA receptors and suppress the adrenal release of cortisol.
-    *   **[Saffron (Crocus sativus)](../02-ingredients/saffron.md):** Microdosed in the 21:00 window to inhibit serotonin/dopamine reuptake, providing neuroprotection and deepening non-REM sleep architecture.
-    *   **[Tulsi (Holy Basil)](../02-ingredients/tulsi.md):** Used on non-Ashwagandha nights for mild, non-sedative anxiolytic support.
+    *   **[Saffron (Crocus sativus)](../02-ingredients/saffron.md):** Microdosed in the 21:00 window to inhibit serotonin/dopamine reuptake, providing neuroprotection and deepening non-REM sleep architecture. **Dose:** **3–5 threads (~15–30mg dry weight)** steeped in warm alkaline water 5–10 minutes. Clinical trials on saffron for sleep quality used 14–28mg extract [[Lopresti et al., 2021, *Journal of Clinical Sleep Medicine*](https://pubmed.ncbi.nlm.nih.gov/32845244/)].
+    *   **[Tulsi (Holy Basil)](../02-ingredients/tulsi.md):** Used on non-Ashwagandha nights for mild, non-sedative anxiolytic support. **Dose:** **1 tsp dried tulsi leaves** (or 300–600mg extract) steeped in **250ml warm alkaline water for 5–10 minutes**. Adaptogenic, non-sedative — safe on consecutive nights unlike ashwagandha [[Jamshidi & Cohen, 2017, *Journal of Evidence-Based Integrative Medicine*](https://pubmed.ncbi.nlm.nih.gov/28480531/)].
 
 ## 4. HPA Axis Shutdown (Vagal Tone & Mantra)
 *   **The Mechanism:** The Hypothalamic-Pituitary-Adrenal (HPA) axis governs the stress response. If the brain is ruminating, the HPA axis remains active, releasing cortisol that overrides the melatonin signal.

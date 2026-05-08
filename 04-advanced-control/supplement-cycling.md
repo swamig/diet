@@ -22,7 +22,7 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 ## 2. Creatine Monohydrate
 *   **Dose:** 5g daily.
 *   **Timing:** Taken with your post-workout Whey (17:30). This manual places creatine here for consistency and adherence; the exact minute matters less than taking it regularly.
-*   **Hydration:** Maintain adequate fluid intake across the day and around training.
+*   **Hydration:** Maintain adequate fluid intake: target **3–4L total daily fluid** on training days, **2.5–3L on rest days**. Creatine draws water into muscle cells — under-hydration on creatine increases cramping risk [[Kreider et al., 2017]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
 
 ## 3. "Mud Water" (Turmeric/Cacao Blends)
 *   **The Conflict:** Mud Water combines turmeric and cacao into a system that already spaces both deliberately.
@@ -36,6 +36,7 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 *   **The Mechanism:** Ashwagandha is an adaptogen that modulates the HPA axis to lower cortisol. In this protocol, it acts as the parasympathetic ("alkalizing") counterweight to the metabolic intensity of the midday Habanero/Garlic pulse.
 *   **The Rule (Rotation):** **Cycle 2-3x weekly maximum.** Do NOT take Ashwagandha daily. Chronic daily use leads to receptor down-regulation and potential emotional blunting. Reserve it for high-stress or high-training days. Alternate with Tulsi or Saffron on other nights.
 *   **Timing:** **21:00 (Night Infusion Window).** 
+*   **Dose:** **300–600mg KSM-66 or Sensoril extract**, OR **¼–½ tsp (~300–600mg) ashwagandha root powder**. Clinical trials use 300mg twice daily (600mg total); a single 300–600mg evening dose is sufficient for the HPA-dampening effect at 21:00 [[Chandrasekhar et al., 2012]](../07-appendices/master-citations.md#5-adaptogens--parasympathetic-alignment-ashwagandha).
 *   **The Execution:** Mix the powder or extract into warm **Alkaline Water (pH 8+)**. Because the stomach is mostly empty at this time, the alkaline water and the herbal alkaloids create a systemic "Net 8" cooling state right before sleep without disrupting the midday digestive acids.
 
 ## 6. Daily Micro-Nutrient Stack
@@ -59,11 +60,14 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 
 ### Vitamin C
 *   **Timing:** Take with your **Main Meal (12:00)**.
+*   **Dose:** 250–500mg with the Main Meal (12:00). Higher doses (>500mg) show diminishing return on non-heme iron absorption — the binding sites saturate. [[NIH Office of Dietary Supplements, *Vitamin C Fact Sheet*]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule)
 *   **Rationale:** Vitamin C significantly increases the absorption of **non-heme iron** from your beans and lentils. By taking it with your main meal, you maximize the nutritional value of your legumes.
 
 ### Daily Multivitamin
 *   **Timing:** Take with your **Main Meal (12:00)** or **Salad (14:30)**.
 *   **Rationale:** This manual places the multivitamin with food to reduce GI irritation and to keep supplement use consolidated inside the feeding window.
+*   **B12 (critical):** This protocol contains zero dietary B12. Select a multivitamin containing at least **25–100 mcg methylcobalamin** (preferred form) or supplement separately with **1,000 mcg cyanocobalamin 3x/week**. Target serum B12: **>400 pg/mL**. Test annually. [[NIH Office of Dietary Supplements, *Vitamin B12 Fact Sheet*](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/)]
+*   **Iron:** Choose a multivitamin WITHOUT added iron. The protocol's legume + Vitamin C stack already delivers substantial non-heme iron. Stacking supplemental iron risks over-loading ferritin. Test serum ferritin every 90 days — target **30–150 ng/mL** for active athletes [[Burden et al., 2015, *International Journal of Sport Nutrition and Exercise Metabolism*](https://pubmed.ncbi.nlm.nih.gov/25015648/)].
 
 ## Evidence Status
 

@@ -35,13 +35,17 @@ You must perform your 06:30 Fasted Cardio (or VO2 Max intervals) **before** drin
 
 **The "Net 8" Execution Rules:** 
 Do not pre-batch night infusions. Alkaline water loses its pH when exposed to air, and warm water is required for vasodilation before sleep. Make them fresh nightly based on the day's rotation:
-1.  **Ashwagandha (High Stress):** Intensely bitter. Requires masking. Mix powder into warm alkaline water + Ceylon Cinnamon + Cardamom + **1/4 tsp Pure Madagascar Vanilla Extract** + a splash of unsweetened almond milk. (No sugar). The vanillin provides "phantom sweetness" and neuro-calming olfactory signals without spiking insulin.
-2.  **Tulsi (Moderate Stress):** Peppery and aromatic. No masking needed. Steep dried leaves in warm alkaline water. (Optional: add a pinch of cinnamon).
-3.  **Saffron (Low Stress/Reset):** Delicate and floral. **Zero masking.** Steep threads in pure warm alkaline water only. Do not add spices or milk, as they will obliterate the fragile neuro-modulatory compounds (safranal).
+1.  **Ashwagandha (High Stress):** Intensely bitter. Requires masking. **Dose: 300–600mg KSM-66 or Sensoril extract, or ¼–½ tsp (~300–600mg) ashwagandha root powder.** Mix powder into warm alkaline water + Ceylon Cinnamon + Cardamom + **1/4 tsp Pure Madagascar Vanilla Extract** + a splash of unsweetened almond milk. (No sugar). The vanillin provides "phantom sweetness" and neuro-calming olfactory signals without spiking insulin.
+2.  **Tulsi (Moderate Stress):** Peppery and aromatic. No masking needed. **Dose: 1 tsp dried tulsi leaves (or 300–600mg extract).** Steep in **250ml warm alkaline water for 5–10 minutes**. (Optional: add a pinch of cinnamon).
+3.  **Saffron (Low Stress/Reset):** Delicate and floral. **Zero masking.** **Dose: 3–5 threads (~15–30mg dry weight)** steeped in pure warm alkaline water for 5–10 minutes only. Do not add spices or milk, as they will obliterate the fragile neuro-modulatory compounds (safranal).
 
 These support nervous system downregulation, glucose stability, and recovery.
 
 Hydration timing is therefore a signaling tool, not merely fluid replacement.
+
+## Daily Fluid Target
+
+**Daily total target:** 3–4L total fluid on training days, 2.5–3L on rest days. This exceeds the IOM adequate intake (3.7L total water for active adult males) at the upper end and ensures urine output ≥2.5L/day for oxalate clearance [[NASEM, 2005, *Dietary Reference Intakes for Water*](https://www.ncbi.nlm.nih.gov/books/NBK225390/)].
 
 ## Water pH and Digestion (The Alkaline Rule)
 

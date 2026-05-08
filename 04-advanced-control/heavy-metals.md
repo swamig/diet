@@ -11,7 +11,7 @@ Environmental heavy metal exposure (Cadmium, Lead, Arsenic) and microplastic/nan
 
 ## 1. Produce Mitigation (The Baking Soda Soak)
 *   **The Mechanism:** Most heavy metals and organophosphate pesticides are surface-level contaminants. 
-*   **The Action:** All produce (Greens, Microgreens, Herbs) MUST undergo a 12-minute **[Baking Soda Soak](../05-practical/produce-cleaning.md)** to neutralize alkaline-sensitive toxins before consumption.
+*   **The Action:** All produce (Greens, Microgreens, Herbs) MUST undergo a 12-minute **[Baking Soda Soak](../05-practical/produce-cleaning.md)** (**1 tbsp baking soda per gallon of water**, or ~¼ tsp per cup — ~1% solution) for 12–15 minutes to neutralize alkaline-sensitive toxins before consumption.
 
 ## 2. Enteric Binding (The Imlee Hack)
 *   **The Mechanism:** Tamarind pulp is rich in pectin and mucilage which act as "enteric sweeps."
@@ -145,10 +145,18 @@ If you run Detox Week **without chlorella**, follow this sequencing rule to prev
 Chlorella is the strongest food-based binder for deep-tissue metals — more potent than tamarind pectin, and also binds microplastics. It is the missing piece that upgrades this protocol from "food-dose mitigation" to "active deep-tissue clearance."
 
 - **Dose:** 3–5g/day (tablet or powder)
+- **Titration protocol:** Start at **1–2g/day for the first 3 days**, then escalate to the full **3–5g/day** dose. Rapid introduction can cause detox response (loose stools, fatigue) as chlorella mobilizes stored metals. The titration allows the gut to adapt before the full chelation load begins.
 - **Timing:** With the 14:30 salad (after cilantro has had time to mobilize)
 - **Cycle:** 3 weeks on, 1 week off — liver and kidneys need recovery
 - **Sourcing:** Must be **broken cell wall** chlorella for bioavailability. Brands: Sun Chlorella, NOW Foods Chlorella.
 - **Side effects in first week:** Loose stools, fatigue — normal detox response, reduce dose if severe
+
+**Baseline bloodwork (before starting chlorella cycling):**
+- Whole-blood lead: target **<5 µg/dL** (CDC reference value)
+- Whole-blood mercury: target **<5 µg/L** (EPA reference dose)
+- Urinary arsenic: target **<35 µg/L** (95th percentile reference)
+- Retest after **90 days** of chlorella cycling to verify reduction.
+[[CDC Blood Lead Reference Value, 2021](https://www.cdc.gov/niosh/topics/ables/description.html)] [[EPA Mercury Reference Dose](https://www.epa.gov/mercury/how-people-are-exposed-mercury)]
 
 ---
 

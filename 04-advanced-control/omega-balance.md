@@ -24,9 +24,13 @@ The protocol targets ≥400mg EPA equivalent per day (above the 250–500mg mini
 
 **Result:** protocol sits comfortably above the 250–500mg daily minimum. Algae oil supplementation is **not required** at this stack level. It remains optional for those targeting the 1,000mg cardiovascular-therapeutic dose.
 
+**Bloodwork verification:** The food-stack calculation above is theoretical. Actual omega-3 status varies by individual ALA conversion efficiency. Test **Omega-3 Index (RBC EPA+DHA %)** at baseline and every 6 months. Target: **≥8%** (associated with lowest cardiovascular risk). Below 4% = high risk; 4–8% = intermediate. If index is <6% after 3 months on the full stack, add 1 algae oil softgel daily [[Harris & Von Schacky, 2004, *Preventive Medicine*](https://pubmed.ncbi.nlm.nih.gov/15208005/)].
+
 **Why chlorella provides direct EPA/DHA:** chlorella is a microalgae — the original source fish accumulate EPA/DHA from. Unlike flax and chia (ALA only, requiring hepatic conversion at 5–10% efficiency), chlorella delivers EPA and DHA directly with no conversion loss. Chlorella's primary protocol role is heavy metal chelation (see [Heavy Metals](heavy-metals.md)) — the omega-3 contribution is a secondary benefit.
 
 **ALA conversion caveat:** the 7.5% conversion rate assumes normal hepatic function. Chronic stress, inflammation, B6 deficiency, and zinc deficiency all suppress delta-6 desaturase activity and reduce conversion. On high-stress or high-training days, the direct chlorella EPA/DHA contribution becomes proportionally more important.
+
+**Escalation rule:** If any of the following apply for >2 consecutive weeks, add algae oil supplementation (650mg EPA+DHA daily): training frequency ≥5x/week; sustained high-stress period; known B6 or zinc deficiency; serum Omega-3 Index <6%. Remove algae oil when the stressor resolves and index recovers to ≥8%.
 
 ---
 
