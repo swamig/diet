@@ -16,7 +16,7 @@ Purchase **Certified Organic** for the "Dirty Dozen" (Kale, Arugula, Spinach, Bl
 Even organic produce can contain soil-based contaminants or pesticide drift. The Baking Soda wash is peer-reviewed to remove up to 96% of certain pesticides.
 
 **Protocol:**
-1.  **The Soak:** Fill a glass bowl or stainless sink with cold water. Add **1 tablespoon of Baking Soda (Sodium Bicarbonate) per gallon of water**.
+1.  **The Soak:** Fill a glass bowl or stainless sink with cold water. Add **1 tablespoon of Baking Soda (Sodium Bicarbonate) per gallon of water** (~¼ tsp per cup).
 2.  **The Time:** Submerge produce for **12-15 minutes**. 
 3.  **The Acid Rinse:** Soak in a fresh bowl of cold water with **1–2 tbsp white or ACV vinegar per cup of water** for **2–3 minutes**. Two mechanisms: (a) acetic acid drops surface pH → kills residual bacteria and mold spores; (b) neutralizes alkaline baking soda residue that would otherwise accelerate chlorophyll breakdown in storage. Do not skip or shorten to a splash — 30 seconds shows weak E. coli reduction; 3 minutes at 5% acetic acid is the peer-reviewed effective window. Finish with a plain cold water rinse.
 4.  **The Dry (Mandatory):** Spin dry or pat with paper towels. Storing produce wet causes rapid oxidation and nutrient loss.
