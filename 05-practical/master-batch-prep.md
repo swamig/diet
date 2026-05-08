@@ -536,11 +536,21 @@ Pull ingredients from the 3-month freezer stash. Make all 5 cube types in one se
 **Ginger Cubes**
 *Makes 1–2 trays (~14–28 cubes) | Shelf life frozen: 3 months*
 1. Pull 2–3 ginger knobs from the freezer. Let sit 5 min — semi-frozen is easiest to peel.
-2. Peel (skin slips off easily when semi-frozen).
-3. Grate on a fine grater or blend with minimal water into a smooth paste.
-4. Portion into ice cube tray (~1 tbsp per cube).
+2. Peel (skin slips off easily when semi-frozen). No peeling needed if running through food processor shredding disc for other recipes — peel only for the paste method.
+3. **Paste method (recommended for matcha):** Add ginger to Vitamix with 2–3 tbsp cold water. Blend 60 sec until completely smooth. Strain through fine mesh if zero fiber desired.
+4. Portion into ice cube tray — **~1 tbsp per cube**.
 5. Freeze overnight, transfer to labeled bag.
-6. **Daily use:** 1 cube = 1 tbsp = ~1 daily thumb. Drop into a warm pan or add to recipes directly.
+
+**Label:** `Ginger — [date] — use by [date +3 months]`
+
+**Matcha use (morning):**
+1. Boil water. Drop 1 frozen ginger cube into cup.
+2. Pour near-boiling water over cube — the frozen cube pulls temp down toward 170°F (76°C) naturally.
+3. Let cube fully melt, stir to incorporate (~30 sec).
+4. Confirm temp is at or below 170°F, then whisk in matcha powder.
+5. **Rationale:** 170°F protects L-theanine and EGCG from heat degradation. The ginger cube acts as both flavor infusion and temperature regulator in one step.
+
+**Other use:** 1 cube = 1 tbsp = ~1 inch knob equivalent. Drop directly into warm pan or recipes from frozen.
 
 ---
 
