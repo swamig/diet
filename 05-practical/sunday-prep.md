@@ -46,7 +46,8 @@ Clear counters. Layout containers. Preheat oven to 400°F (if baking).
 3.  **Shelf life frozen:** 3–4 months.
 4.  **Thaw:** Fridge overnight, or submerge sealed bag in cold water for 30–60 min.
 5.  **The freeze upgrade:** Ice crystals rupture the protein matrix, creating a spongier, more porous structure [[PMC10494460]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation). This means faster pressing on thaw (water comes out on its own), deeper marinade absorption, and more surface area for the allicin crust during the Flash Sear. Strictly better than fridge-only storage.
-6.  **Fridge-only fallback (short week):** Press water out, slice into slabs, store submerged in water, change water daily. Use within 4–5 days.
+6.  **Salt brine (day of — after thaw):** After thawing, submerge tofu slabs in **salted boiling water (1 tsp salt per 4 cups water) for 3–5 minutes**. The boil expels residual ice-crystal water and opens the pores further; the salt penetrates the interior, seasoning from inside rather than just the surface. Remove, press briefly, then marinate or sear. Net result: seasoned through, drier surface, better crust.
+7.  **Fridge-only fallback (short week):** Press water out, slice into slabs, store submerged in water, change water daily. Use within 4–5 days.
 
 **Lentils:**
 1.  Cook 3-4 cups dry. Simmer 20-25 min. Drain, cool, store.

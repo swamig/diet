@@ -21,6 +21,22 @@ Even organic produce can contain soil-based contaminants or pesticide drift. The
 3.  **The Acid Rinse:** Soak in a fresh bowl of cold water with **1–2 tbsp white or ACV vinegar per cup of water** for **2–3 minutes**. Two mechanisms: (a) acetic acid drops surface pH → kills residual bacteria and mold spores; (b) neutralizes alkaline baking soda residue that would otherwise accelerate chlorophyll breakdown in storage. Do not skip or shorten to a splash — 30 seconds shows weak E. coli reduction; 3 minutes at 5% acetic acid is the peer-reviewed effective window. Finish with a plain cold water rinse.
 4.  **The Dry (Mandatory):** Spin dry or pat with paper towels. Storing produce wet causes rapid oxidation and nutrient loss.
 
+## 3. Blanching (For Freezing Only)
+If the produce will be frozen (herbs for batch prep, greens for long storage), blanch immediately after the acid rinse and dry step.
+
+**Protocol:**
+1. Bring a pot of water to a **rolling boil** — not a simmer, a full boil
+2. Submerge produce for **exactly 10–15 seconds** — set a timer
+3. Immediately transfer to an **ice bath** (large bowl, water + ice cubes) — the ice bath stops the cooking instantly. Leave in ice bath for **at least 60 seconds** until fully cold
+4. Remove, squeeze out excess water firmly — do not leave waterlogged
+5. Proceed to freeze or blend immediately
+
+**Why blanch before freezing:** deactivates polyphenol oxidase (PPO) — the enzyme that causes grey, mushy, flat-tasting frozen herbs. 10–15 seconds is calibrated to deactivate PPO only — heat-stable chelation compounds (cilantro 2-decenal, terpenoids) are preserved at this exposure. Color, flavor, and function significantly better than raw-freeze.
+
+**Ice bath ratio:** at least 1:1 ice to water by volume. Insufficient ice means the bath warms up before the produce is fully chilled — PPO continues acting during that window.
+
+**Do not blanch:** garlic, ginger, raw herbs going into same-day recipes. Blanching is only for produce being frozen for long-term batch storage.
+
 **Bath reuse rule — both baths are single use only:**
 - **Baking soda bath:** discard after each batch. The water accumulates extracted pesticides, wax, and soil contaminants from the produce surface — reusing it reintroduces those contaminants onto the next batch.
 - **Acid (vinegar) rinse:** discard after each batch. The rinse water accumulates neutralized baking soda residue and surface bacteria from the first batch. A second batch going into this water defeats the antimicrobial purpose.
