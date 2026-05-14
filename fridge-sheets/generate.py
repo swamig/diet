@@ -1464,6 +1464,125 @@ def card_recovery_bowl():
     print("✓ 15-recovery-bowl.pdf  (duplex: bowl+phantom sweetness+cacao / aambali+day rules+chaas)")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 16 — Supplement Cycling
+# ─────────────────────────────────────────────────────────────────────────────
+
+def card_supplements():
+    d = mk_doc("fridge-sheets/16-supplement-cycling.pdf")
+    s = []
+    s.append(Paragraph("Supplement Cycling", TITLE))
+    s.append(Paragraph("What cycles · what's daily · what conflicts with what", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Cacao Nibs — 2–3× per week MAX", H2))
+    s.append(tbl([
+        ["Rule",                          "Detail"],
+        [b("Frequency"),                   b("2–3× per week — never daily. Pulsing prevents receptor downregulation.")],
+        [b("Window"),                      "17:50 Recovery Bowl only — yogurt MUST be present (~200mg Ca binds oxalates)"],
+        [b("Vanilla pairing"),             "Add vanilla extract ONLY on cacao days — not daily baseline"],
+        [w("Chocolate whey (17:30)"),      w("Counts as one cacao exposure → skip nibs at 17:50 that day")],
+        [w("Cacao + MudWtr Original same day"), w("Double exposure — skip one. MudWtr Original has both cacao AND turmeric.")],
+    ], [2.1*inch, 5.5*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER),
+     ("BACKGROUND", (0,5), (-1,5), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② MudWtr — Formulation Guide", H2))
+    s.append(tbl([
+        ["Formulation",           "Turmeric", "Cacao", "Caffeine", "Protocol fit"],
+        [b("Matcha :rise\n★ Best fit"), w("None"),  w("None"),  "55mg\n(matcha)", b("Slots into 09:15 matcha rotation. Zero new conflicts.\nMushrooms: lion's mane + chaga + reishi + cordyceps.")],
+        [b("Turmeric\n(caffeine-free)"), "Yes",  w("None"),  "0mg",      "Manageable — pull back salad turmeric dose that day. Flexible timing (no caffeine)."],
+        [b("Original :rise"),     "Yes",       "Yes",       "35mg\n(black tea)", "Most conflicted — eats cacao allocation + turmeric slot. Max 1–2×/week, skip evening nibs."],
+        [w(":rest (evening)"),    "?",         "?",         "0mg",      w("Avoid — likely contains ashwagandha → stacks on 21:00 night infusion rotation. HPA axis risk.")],
+    ], [1.5*inch, 0.75*inch, 0.65*inch, 0.85*inch, 3.85*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,4), (-1,4), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "MudWtr Matcha :rise on matcha days = swap in, not add on. "
+        "Tannin rule still applies — use before 10:00 tannin deadline.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Night Infusion Rotation (21:00) — never daily", H2))
+    s.append(tbl([
+        ["Infusion",        "Freq/week",    "When",                                          "Dose"],
+        [b("Ashwagandha"),   w("2–3× MAX"),  "High-cortisol · VO2 Max days (Tue mandatory) · tofu pulse days", "300–600mg KSM-66 or ¼–½ tsp powder in warm alkaline water"],
+        [b("Tulsi"),         "2–3×",         "Standard recovery nights · lower stimulation",  "1 tsp dried leaves steeped 5–10 min"],
+        [b("Saffron"),       "1–2×",         "Parasympathetic emphasis · Week 4 washout",      "3–5 threads in warm alkaline water 5–10 min"],
+    ], [1.4*inch, 0.85*inch, 2.7*inch, 2.65*inch],
+    [("BACKGROUND", (0,1), (-1,1), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Chronic daily ashwagandha → HPA receptor downregulation + emotional blunting. "
+        "Rotate with tulsi/saffron on off-days.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("④ Chlorella — 3 weeks on / 1 week off", H2))
+    s.append(tbl([
+        ["Rule",              "Detail"],
+        [b("Dose"),            "3–5g/day — broken cell wall only (Sun Chlorella, NOW Foods)"],
+        [b("Window"),          "14:30 salad — adds direct EPA/DHA (~40–70mg) + heavy metal binding"],
+        [b("Titrate first"),   "Start 1–2g/day for first 3 days then escalate. Fast intro = detox response (loose stools, fatigue)."],
+        [b("Cycle"),           "3 weeks on → 1 week off (Week 4 washout aligns with 4-week protocol cycle)"],
+    ], [1.5*inch, 6.1*inch]))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Supplement Cycling (continued)", TITLE))
+    s.append(Paragraph("Daily anchors · timing map · conflict matrix", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("⑤ Daily / Always-On Supplements", H2))
+    s.append(tbl([
+        ["Supplement",          "Dose",           "Window",    "Notes"],
+        [b("Creatine monohydrate"), b("5g daily"), "17:30",    "With post-workout whey. Consistency > timing. 3–4L fluid on training days."],
+        [b("Vitamin D3 + K2"),  b("2,000 IU D3\n+ 100–200mcg K2 MK-7"), "12:00", "Fat-soluble — take with meal. K2 directs Ca into bone not arteries."],
+        [b("Vitamin C"),         b("250–500mg"),  "12:00",     "Boosts non-heme iron absorption 2–3×. Don't exceed 500mg — binding sites saturate."],
+        [b("Multivitamin"),      b("1 serving"),  "12:00 or 14:30", "Must contain B12 (≥25–100mcg methylcobalamin). Choose NO added iron."],
+    ], [1.8*inch, 1.7*inch, 0.75*inch, 3.4*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑥ Post-Workout Protein (17:30) — Whey Rules", H2))
+    s.append(tbl([
+        ["Whey type",                "Rule"],
+        [b("Unflavored isolate\n(target state)"), "Flavor with pinch sea salt + Ceylon cinnamon. No conflicts."],
+        [b("Chocolate whey\n(finishing stash)"),  w("= 1 cacao exposure → skip evening cacao nibs. Keep strictly in 17:30 window.")],
+        [b("Vanilla/flavored whey"),  "Artificial sweeteners — keep in 17:30 only, phase toward unflavored."],
+    ], [2.1*inch, 5.5*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑦ Daily Timing Map", H2))
+    s.append(tbl([
+        ["Window",   "What goes here"],
+        [b("09:15"), "Ajwain OR Jeera OR Matcha (OR MudWtr Matcha :rise on swap days)"],
+        [b("12:00"), "D3+K2 · Vitamin C · Multivitamin · Algae oil (if using)"],
+        [b("14:30"), "Chlorella 3–5g (in salad · 3 weeks on / 1 week off)"],
+        [b("17:30"), "Whey isolate + Creatine 5g"],
+        [b("17:50"), "Cacao nibs (2–3×/wk only · with yogurt · vanilla same day)"],
+        [b("21:00"), "Ashwagandha OR Tulsi OR Saffron (rotate · never all-ashwagandha)"],
+    ], [0.85*inch, 6.75*inch],
+    [("BACKGROUND", (0,1), (-1,1), LIGHT),
+     ("BACKGROUND", (0,3), (-1,3), LIGHT),
+     ("BACKGROUND", (0,5), (-1,5), LIGHT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Tannin deadline 10:00 — all tea/caffeine must finish before 10:00 to protect 12:00 iron absorption. "
+        "Alkaline water: do NOT use within 60 min before/during/after 12:00 meal — neutralizes gastric acid needed for legume digestion.", WARN_S))
+
+    _build(d, s, f"{GITHUB_BASE}/blob/master/04-advanced-control/supplement-cycling.md")
+    print("✓ 16-supplement-cycling.pdf  (duplex: cacao+mudwtr+nightinfusion+chlorella / daily anchors+timing)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1482,4 +1601,5 @@ if __name__ == "__main__":
     card_imli_chutney()
     card_black_beans()
     card_recovery_bowl()
-    print("\nAll 15 fridge cards written to fridge-sheets/")
+    card_supplements()
+    print("\nAll 16 fridge cards written to fridge-sheets/")
