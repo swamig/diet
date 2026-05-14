@@ -1194,6 +1194,122 @@ def card_imli_chutney():
     print("✓ 13-imli-chutney.pdf  (duplex: single recipe / 24 qt 3-month batch)")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 14 — Black Bean Prep (Soak → Boil → Chill → Day-Of)
+# ─────────────────────────────────────────────────────────────────────────────
+def card_black_beans():
+    d = mk_doc("fridge-sheets/14-black-beans.pdf")
+    s = []
+    s.append(Paragraph("Black Bean Prep", TITLE))
+    s.append(Paragraph("RS3 + anthocyanin matrix · soak → boil → chill → freeze", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Overnight Soak", H2))
+    s.append(tbl([
+        ["",                          "3-Month Batch",                               "Weekly Mode"],
+        [b("Soak liquid"),             b("Baking soda water\n¼ tsp per quart"),       b("Filtered water\n+ 1 tsp sea salt")],
+        [b("Time"),                    b("Overnight (8–12h) at room temp"),           b("12–16h at room temp")],
+        [b("After"),                   "Drain + rinse thoroughly — discard soak water", "Drain + rinse thoroughly"],
+        [b("Why baking soda"),         sm("Reduces oligosaccharides ~70% + softens skins.\nNEVER cook in soak water — degrades aquafaba emulsifiers."), sm("Salt alone softens skins less aggressively.\nSame discard rule applies.")],
+    ], [1.4*inch, 2.7*inch, 2.5*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Optional kombu: add a 2–3 inch strip of dried kombu to the SOAK water (remove before cooking). "
+        "Kombu contains alpha-galactosidase — same mechanism as hing — breaks down raffinose and stachyose "
+        "oligosaccharides that cause gas. Complements rather than duplicates the hing in the boil stack. "
+        "Not for daily use if thyroid-sensitive (iodine load).", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② Ayurvedic Boil Stack", H2))
+    s.append(Paragraph(
+        "Add ALL aromatics to COLD water before turning on heat. "
+        "Cook in a separate pot from chickpeas — keep liquid completely separate.", BODY))
+    s.append(tbl([
+        ["Ingredient",                    "Amount (weekly 2–3 cups dry)", "Why"],
+        [b("Hing (asafoetida)"),           b("⅛ tsp"),                    "Anti-flatulent (gentler than chickpeas — do NOT use ¼ tsp)"],
+        [b("Fresh ginger (smashed)"),      b("1 inch knob"),              "Pro-kinetic, anti-nausea — whole for easy removal"],
+        [b("Whole cumin seeds (jeera)"),   b("1 tsp"),                    "Digestive enzyme stimulation"],
+        [b("Ajwain"),                      b("½ tsp"),                    "Thymol — strongest carminative in the stack"],
+        [b("Fennel seeds"),                b("1 tsp"),                    "Anethole — carminative, anti-spasmodic"],
+        [b("Coriander seeds"),             b("1 tbsp"),                   "Digestive, pairs with cumin"],
+        [b("Bay leaves"),                  b("2"),                        "Linalool + eugenol — anti-inflammatory"],
+        [b("Whole cloves"),                b("3–4"),                      "Eugenol — antimicrobial, anti-inflammatory"],
+        [b("Green cardamom (crushed)"),    b("1 tsp / ~6 pods"),          "Cineole — digestive, carminative"],
+        [b("Black cardamom (crushed)"),    b("½ tsp / ~1 pod"),           "Smoky digestive depth"],
+        [b("Star anise"),                  b("½ tsp / ~1 point"),         "Anethole — carminative, stronger than fennel"],
+        [b("Ceylon cinnamon stick"),       b("1 small"),                  "Cinnamaldehyde — glycemic anchor"],
+        [b("Onion"),                       b("1 medium, quartered\nOR 2 tbsp onion powder"), "Quercetin + prebiotic FOS. Whole preferred — powder clouds the liquid"],
+        [b("Garlic (lightly crushed)"),    b("6 whole cloves"),           "Aromatic infusion (ajoene/DAS) — reserve for mash after boil"],
+        [b("Black pepper (coarse crack)"), b("1 tbsp"),                   "Piperine into liquid — fat-soluble absorption enhancer. Coarse prevents gritty texture."],
+        [w("Sea salt"),                    w("1 tsp per quart — LAST 15 MIN ONLY"), "Early salt = tough skins. Last 15 min opens pectin so aromatics penetrate."],
+    ], [1.85*inch, 1.85*inch, 3.95*inch],
+    [
+        ("BACKGROUND", (0,14), (-1,14), AMBER),
+        ("BACKGROUND", (0,16), (-1,16), AMBER),
+    ]))
+
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("Boil: bring to boil → skim foam → simmer 60–90 min until tender but not mushy.", BODY))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Black Bean Prep (continued)", TITLE))
+    s.append(Paragraph("Anthocyanin liquid · chill → freeze · day-of fat bloom", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("③ Anthocyanin Liquid — Reserve Before Draining", H2))
+    s.append(tbl([
+        ["Step", "Action"],
+        [b("Reserve"), "Before draining — ladle out the dark purple cooking liquid into a separate bowl"],
+        [b("Do NOT"), w("Do NOT reduce or boil down — anthocyanins (cyanidin-3-glucoside) concentrate quickly and turn bitter")],
+        [b("Cool"),   "Cool at room temp as-is after straining beans out"],
+        [b("Freeze"), "2 tbsp cubes (regular tray) + some ¼ cup portions. Label: 'Black Bean Liquid'"],
+        [b("Use"),    sm("Recovery bowl (2 tbsp into yogurt at 17:50) · Refried beans base · Samosa filling mash (2 tbsp)\nThe dark purple color IS the signal compound — not a flaw.")],
+    ], [0.75*inch, 6.8*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("④ Chill → Freeze (RS3 Formation)", H2))
+    s.append(tbl([
+        ["Mode",              "After draining",                                 "Chill",           "Freeze"],
+        [b("Weekly"),         "Spread on stainless tray · cool · refrigerate",  b("24h RS3 build"), "After allicin pulse + 2nd chill"],
+        [b("3-Month batch"),  "Spread on sheet pans · cool to 130°F · fold in ACV + pinch salt\n→ portion into 1.5-cup bags immediately", b("Single 12–24h chill\nin portioned bags"), "Transfer to chest freezer next morning"],
+    ], [1.0*inch, 2.8*inch, 1.5*inch, 2.25*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Single chill builds same RS3 as double-chill (starch retrogradation is indifferent to what else "
+        "is in the container). Double-chill for weekly mode already has that structure; "
+        "batch mode eliminates the re-warm loop across 5 kg.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑤ Day-Of: Allicin Pulse + Fat Bloom + Finishers", H2))
+    s.append(tbl([
+        ["Step",                   "Action",                                                 "Temp / Rule"],
+        [b("Warm"),                "Gently warm beans in skillet on LOW",                    w("Stay below 130°F — RS3 collapses above this")],
+        [b("Allicin pulse"),       "Drop 1 rested garlic cube (or crush + rest 10 min fresh)\nFold through warm beans with ACV + pinch salt", "Fold gently — don't mash"],
+        [b("Fat bloom"),           "Drizzle 1–2 tsp EVOO or avocado oil over warm beans\nAdd day-of spices: Kashmiri chili powder + cumin + freshly cracked black pepper\nStir to coat — fat carries fat-soluble compounds (capsaicin, piperine, curcumin)", "Add AFTER allicin cube\nEVOO oxidizes frozen — always day-of only"],
+        [b("Finishers\n(last second)"), w("Black salt (kala namak) · fresh lemon squeeze · fresh cilantro (chopped)"), w("NEVER pre-assemble or freeze these in\nVolatile oils + sulfurous compounds degrade")],
+    ], [1.1*inch, 3.6*inch, 2.85*inch],
+    [
+        ("BACKGROUND", (0,3), (-1,3), AMBER),
+        ("BACKGROUND", (0,4), (-1,4), AMBER),
+    ]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  130°F CEILING — never microwave on high or re-boil after RS3 is built. "
+        "Reheat gently on low (warm to touch). "
+        "Salt LAST 15 MIN during boil — early salt toughens skins and slows cooking by 20–30%.", WARN_S))
+
+    _build(d, s)
+    print("✓ 14-black-beans.pdf  (duplex: soak+boil / anthocyanin+day-of)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1210,7 +1326,8 @@ if __name__ == "__main__":
     card_chutney()
     card_ginger_storage()
     card_imli_chutney()
-    print("\nAll 13 fridge cards written to fridge-sheets/")
+    card_black_beans()
+    print("\nAll 14 fridge cards written to fridge-sheets/")
 
     # Clean up temp QR file
     try:
