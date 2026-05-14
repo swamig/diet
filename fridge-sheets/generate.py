@@ -255,7 +255,7 @@ def card_salad():
     s.append(tbl([
         ["Layer",             "What",                              "Amount"],
         [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
-        [b("② Anchors"),      b("Broccoli Microgreens"),           "1 cup"],
+        [b("② Anchors"),      b("Broccoli Sprouts"),               "1 cup"],
         ["",                  "Fresh Cilantro",                    "¼ cup"],
         [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
         [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
@@ -456,7 +456,7 @@ def card_batch_flip():
         [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
         [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
         [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
-        [b("6th"), "Make imli (tamarind) cubes — 1 tray, freeze",                  "No chill needed"],
+        [b("6th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
         [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
     ], [0.5*inch, 4.2*inch, 2.85*inch],
     [("BACKGROUND", (0,1), (-1,3), AMBER)]))
@@ -911,22 +911,53 @@ def card_chutney():
     s.append(Paragraph("Coconut chutney · Jaljeera concentrate", SUB))
     s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    s.append(Paragraph("④ Coconut Chutney — 2 Vitamix runs · ~48 cubes total", H2))
+    s.append(Paragraph("④ Coconut Chutney — 3-Week vs 3-Month", H2))
     s.append(tbl([
-        ["Ingredient",            "Per Vitamix run", "× 2 runs total"],
-        [b("Fresh grated coconut"), b("4 cups"),       b("8 cups total")],
-        [b("Fresh curry leaves"),   b("3–4 tbsp"),     b("6–8 tbsp")],
-        [b("Green chili"),          b("4–5"),          b("8–10")],
-        [b("Fresh ginger"),         b("2 inch knob"),  b("~180g total")],
-        [b("Roasted cumin powder"), b("2 tsp"),        b("4 tsp")],
-        [b("Lemon juice"),          b("4 tbsp"),       b("8 tbsp")],
-        [b("Water or aquafaba"),    b("½ cup"),        b("1 cup")],
-        [b("Salt"),                 b("1 tsp"),        b("2 tsp")],
-    ], [2.1*inch, 1.8*inch, 2.65*inch]))
+        ["",                        "3-Week Batch",                             "3-Month Batch"],
+        [b("Curry leaves\nin blend"), b("YES — raw into Vitamix\n(volatile aromatics)"), b("NO — plain base only\n(leaves go in tadka cubes only)")],
+        [b("Vitamix runs"),          b("2 runs × 4 cups coconut\n+ curry leaves → 48 cubes"), b("2–3 runs × 4–6 cups coconut\n(no leaves) → ~128 cubes")],
+        [b("Tadka\n(separate)"),     sm("7 tbsp oil · 1 cup fresh curry leaves\n1 tbsp mustard seeds · 1½ tsp chili flakes · ¼ tsp hing\n→ 21 mini cubes (1 tsp each)"), sm("4 tbsp oil · frozen curry leaves\n½ tsp mustard seeds · 20–30 sec bloom\n→ ~14 mini cubes (1 tsp each)")],
+        [b("Freeze life"),           "3 weeks",                                  "3 months"],
+    ], [1.3*inch, 3.0*inch, 2.25*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,1), MINT),
+        ("BACKGROUND", (0,3), (-1,3), AMBER),
+    ]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "Blend 90 sec per run until smooth. Pour ~2 tbsp per cube. "
-        "Rinse blender 10 sec between runs. Yield ~24 cubes per run.", NOTE))
+        "Why the difference: at the 3-week session fresh curry leaves are available — "
+        "some go raw into the Vitamix (volatile aromatics + flavonoids), "
+        "some go into the tadka (alkaloid extraction into oil). "
+        "At the 3-month session only frozen leaves are on hand → tadka only.", NOTE))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("Tadka at Serving (Always Separate — Never Freeze Into Base)", H2))
+    s.append(tbl([
+        ["Format",                  "How to use"],
+        [b("Tadka cube\n(from batch)"), "Drop 1 cube into warm pan · melt 10 sec · pour immediately over thawed coconut chutney. Stir and serve within 5 min — volatile aromatics dissipate fast."],
+        [b("Fresh tadka\n(day-of)"),  "1 tsp oil · 8–10 curry leaves · ¼ tsp mustard seeds → heat until seeds pop + leaves crisp (15–20 sec) → pour over thawed base. Dried chili optional."],
+        [b("Frozen curry leaves\n(no cube)"), "Crumble 4–5 frozen leaves directly into hot oil — same effect as fresh tadka. Always end tadka on the chutney, not in it."],
+    ], [1.5*inch, 6.05*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("3-Week Coconut Chutney — per Vitamix run (do 2 runs)", H2))
+    s.append(tbl([
+        ["Ingredient",            "Per run", "× 2 runs"],
+        [b("Fresh grated coconut"), b("4 cups"),      b("8 cups")],
+        [b("Fresh curry leaves"),   b("3–4 tbsp"),    b("6–8 tbsp")],
+        [b("Green chili"),          b("4–5"),         b("8–10")],
+        [b("Fresh ginger"),         b("2 inch knob"), b("~180g")],
+        [b("Roasted cumin powder"), b("2 tsp"),       b("4 tsp")],
+        [b("Lemon juice"),          b("4 tbsp"),      b("8 tbsp")],
+        [b("Water or aquafaba"),    b("½ cup"),       b("1 cup")],
+        [b("Salt"),                 b("1 tsp"),       b("2 tsp")],
+    ], [2.2*inch, 1.6*inch, 1.75*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Blend 90 sec per run until smooth. ~24 cubes per run. "
+        "Rinse blender 10 sec between runs.", NOTE))
 
     s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
@@ -963,10 +994,13 @@ def card_chutney():
         [b("Tadka cubes"),         "4–6 weeks",         "1 tsp (mini tray)"],
         [b("Jaljeera cubes"),      "3 weeks",           "~2 tbsp (regular tray)"],
         [b("Cilantro chutney"),    "3 weeks",           "~2 tbsp (regular tray)"],
-        [b("Coconut chutney"),     "3 weeks",           "~2 tbsp (regular tray)"],
+        [b("Coconut chutney\n(3-week / with curry leaves)"), "3 weeks", "~2 tbsp (regular tray)"],
+        [b("Coconut chutney\n(3-month plain base)"), b("3 months"), "~2 tbsp (regular tray)"],
+        [b("Imli-Khajur chutney"), b("6 months"),       "~2 tbsp (regular tray) — see card 13"],
         [b("Mint muddle cubes"),   "4–6 weeks",         "1 tbsp (mini tray)"],
         [b("Fenugreek paste"),     "4–6 weeks",         "1 tbsp (mini tray)"],
-    ], [2.0*inch, 1.8*inch, 2.75*inch]))
+    ], [2.5*inch, 1.5*inch, 2.55*inch],
+    [("BACKGROUND", (0,5), (-1,5), AMBER)]))
 
     _build(d, s)
     print("✓ 11-chutney-prep.pdf")
@@ -1047,6 +1081,235 @@ def card_ginger_storage():
     print("✓ 12-ginger-storage.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 13 — Imli-Khajur Chutney (Tamarind-Date)
+# ─────────────────────────────────────────────────────────────────────────────
+def card_imli_chutney():
+    d = mk_doc("fridge-sheets/13-imli-chutney.pdf")
+    s = []
+    s.append(Paragraph("Imli-Khajur Chutney", TITLE))
+    s.append(Paragraph("Tamarind-Date · sweet-sour-spiced · 6-month freeze stability", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("Single Batch (~16 cubes — day-of or small top-up)", H2))
+    s.append(tbl([
+        ["Ingredient",                   "Amount",          "Notes"],
+        [b("Medjool dates (pitted)"),     b("10–12"),        "Blend with water until completely smooth"],
+        [b("Tropica concentrated tamarind"), b("3 tbsp"),   "3–4× more concentrated than raw block — do not sub 1:1"],
+        [b("Water"),                      b("1.5 cups"),     ""],
+        [b("Salt"),                       b("1 tsp"),        ""],
+        [b("Black salt (kala namak)"),    b("½ tsp"),        ""],
+        [b("Roasted cumin powder"),       b("2 tsp"),        ""],
+        [b("Ginger — dry powder"),        b("1 tsp"),        "OR: blend 1.5–2 inch fresh knob into dates in step 1"],
+        [b("Star anise (ground)"),        b("1/16 tsp"),     "Preferred over fennel — same family, more depth. ~4× potent: do not exceed."],
+        [b("Red chili powder"),           b("½ tsp"),        ""],
+        [b("Cinnamon"),                   b("¼ tsp"),        "Bridges dates + tamarind"],
+        [b("Black pepper"),               b("¼ tsp"),        ""],
+        [b("Hing (asafoetida)"),          b("⅛ tsp"),        ""],
+    ], [2.2*inch, 1.3*inch, 4.05*inch]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Method (single batch or 24 qt pot batch)", H2))
+    s.append(tbl([
+        ["Step", "Action"],
+        [b("1"),  "Blend pitted dates + water (+ fresh ginger if using) until completely smooth — no chunks"],
+        [b("2"),  "Pour date paste into pot. Add Tropica tamarind, stir to dissolve."],
+        [b("3"),  "Add all spices + salts. Stir to combine."],
+        [b("4"),  "Medium heat — stir frequently — 15–20 min until ribbon consistency (coats back of spoon)"],
+        [b("5"),  "Taste: equal sweet-sour-spiced. More tamarind if too sweet; pinch salt if flat."],
+        [b("6"),  sm("Optional: push through mesh strainer for silky texture — removes date fiber pulp.")],
+        [b("7"),  w("Cool COMPLETELY before portioning. Looks thin hot — thickens as it cools.")],
+        [b("8"),  "Pour ~2 tbsp per cube into ice cube trays. Freeze solid (~4 hrs). Bag + label."],
+    ], [0.4*inch, 7.15*inch],
+    [("BACKGROUND", (0,7), (-1,7), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Freeze stability: 6 months (high acid pH ~2.5 + natural sugar creates hostile environment for microbes). "
+        "Thaw: 1 cube at room temp 20 min, or 30 sec microwave.", NOTE))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("3-Month Batch (24 qt Pot — One Cook)", TITLE))
+    s.append(Paragraph("×6 single batch · 2 Vitamix blend runs → combine into 24 qt pot → one cook", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("Step 1 — Blend (2 Vitamix runs)", H2))
+    s.append(tbl([
+        ["Ingredient",                       "Per Vitamix run (×3 batch)", "× 2 runs = full 3-month batch"],
+        [b("Medjool dates (pitted)"),         b("30–36 dates (~600g)"),    b("60–72 dates (~1.2 kg)")],
+        [b("Water"),                          b("4.5 cups"),               b("9 cups total")],
+        [b("Fresh ginger (blend in step 1)"), b("5 tsp grated\n(~5–6 inch knob)"), b("~200g total")],
+    ], [2.2*inch, 2.2*inch, 2.65*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph("Blend each run until completely smooth. Pour both into the 24 qt pot.", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(Paragraph("Step 2 — Cook in 24 qt Pot (once, combined)", H2))
+    s.append(tbl([
+        ["Ingredient",                       "Amount for full batch",       "Notes"],
+        [b("Tropica tamarind"),               b("18 tbsp (~1.1 cups)"),     "Stir into combined date paste until dissolved"],
+        [b("Salt"),                           b("2 tbsp"),                  ""],
+        [b("Black salt (kala namak)"),        b("1 tbsp"),                  ""],
+        [b("Roasted cumin powder"),           b("4 tbsp"),                  ""],
+        [b("Star anise (ground)"),            b("⅜ tsp"),                   "Do not exceed — potent"],
+        [b("Red chili powder"),               b("1 tbsp"),                  ""],
+        [b("Cinnamon"),                       b("¾ tsp"),                   ""],
+        [b("Black pepper"),                   b("¾ tsp"),                   ""],
+        [b("Hing"),                           b("⅜ tsp"),                   ""],
+    ], [2.2*inch, 2.0*inch, 2.45*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "24 qt pot note: the pre-cook liquid (~10–12 cups) sits shallow in a 24 qt pot — "
+        "stir more frequently than normal (every 2–3 min) to prevent hotspots. "
+        "Medium heat only. Cook 15–20 min until ribbon consistency.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(tbl([
+        ["Output",                    "Volume",       "Cubes",     "Supply"],
+        [b("Full 3-month batch"),      "~2 liters",    b("~96"),    "~3 months at 1/day"],
+    ], [2.0*inch, 1.5*inch, 1.0*inch, 2.0*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Jaggery Variant (Traditional — thinner)", H2))
+    s.append(tbl([
+        ["Change",            "Amount (single)", "Amount (×6 batch)"],
+        [b("Remove: dates"),   "—",               "—"],
+        [b("Add: jaggery"),    b("80–100g"),       b("480–600g")],
+        [b("Extra water"),     b("+½ cup"),         b("+3 cups")],
+    ], [2.0*inch, 2.0*inch, 2.55*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Jaggery: dissolve directly in water in pot (no blending). "
+        "Result: thinner, more pourable, slightly higher GI, trace iron/potassium from molasses.", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  Cool COMPLETELY before portioning — hot chutney in ice trays cracks the tray. "
+        "Tropica concentrate is 3–4× more potent than raw block tamarind — never substitute 1:1.", WARN_S))
+
+    _build(d, s)
+    print("✓ 13-imli-chutney.pdf  (duplex: single recipe / 24 qt 3-month batch)")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CARD 14 — Black Bean Prep (Soak → Boil → Chill → Day-Of)
+# ─────────────────────────────────────────────────────────────────────────────
+def card_black_beans():
+    d = mk_doc("fridge-sheets/14-black-beans.pdf")
+    s = []
+    s.append(Paragraph("Black Bean Prep", TITLE))
+    s.append(Paragraph("RS3 + anthocyanin matrix · soak → boil → chill → freeze", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Overnight Soak", H2))
+    s.append(tbl([
+        ["",                          "3-Month Batch",                               "Weekly Mode"],
+        [b("Soak liquid"),             b("Baking soda water\n¼ tsp per quart"),       b("Filtered water\n+ 1 tsp sea salt")],
+        [b("Time"),                    b("Overnight (8–12h) at room temp"),           b("12–16h at room temp")],
+        [b("After"),                   "Drain + rinse thoroughly — discard soak water", "Drain + rinse thoroughly"],
+        [b("Why baking soda"),         sm("Reduces oligosaccharides ~70% + softens skins.\nNEVER cook in soak water — degrades aquafaba emulsifiers."), sm("Salt alone softens skins less aggressively.\nSame discard rule applies.")],
+    ], [1.4*inch, 2.7*inch, 2.5*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Optional kombu: add a 2–3 inch strip of dried kombu to the SOAK water (remove before cooking). "
+        "Kombu contains alpha-galactosidase — same mechanism as hing — breaks down raffinose and stachyose "
+        "oligosaccharides that cause gas. Complements rather than duplicates the hing in the boil stack. "
+        "Not for daily use if thyroid-sensitive (iodine load).", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② Ayurvedic Boil Stack", H2))
+    s.append(Paragraph(
+        "Add ALL aromatics to COLD water before turning on heat. "
+        "Cook in a separate pot from chickpeas — keep liquid completely separate.", BODY))
+    s.append(tbl([
+        ["Ingredient",                    "Amount (weekly 2–3 cups dry)", "Why"],
+        [b("Hing (asafoetida)"),           b("⅛ tsp"),                    "Anti-flatulent (gentler than chickpeas — do NOT use ¼ tsp)"],
+        [b("Fresh ginger (smashed)"),      b("1 inch knob"),              "Pro-kinetic, anti-nausea — whole for easy removal"],
+        [b("Whole cumin seeds (jeera)"),   b("1 tsp"),                    "Digestive enzyme stimulation"],
+        [b("Ajwain"),                      b("½ tsp"),                    "Thymol — strongest carminative in the stack"],
+        [b("Fennel seeds"),                b("1 tsp"),                    "Anethole — carminative, anti-spasmodic"],
+        [b("Coriander seeds"),             b("1 tbsp"),                   "Digestive, pairs with cumin"],
+        [b("Bay leaves"),                  b("2"),                        "Linalool + eugenol — anti-inflammatory"],
+        [b("Whole cloves"),                b("3–4"),                      "Eugenol — antimicrobial, anti-inflammatory"],
+        [b("Green cardamom (crushed)"),    b("1 tsp / ~6 pods"),          "Cineole — digestive, carminative"],
+        [b("Black cardamom (crushed)"),    b("½ tsp / ~1 pod"),           "Smoky digestive depth"],
+        [b("Star anise"),                  b("½ tsp / ~1 point"),         "Anethole — carminative, stronger than fennel"],
+        [b("Ceylon cinnamon stick"),       b("1 small"),                  "Cinnamaldehyde — glycemic anchor"],
+        [b("Onion"),                       b("1 medium, quartered\nOR 2 tbsp onion powder"), "Quercetin + prebiotic FOS. Whole preferred — powder clouds the liquid"],
+        [b("Garlic (lightly crushed)"),    b("6 whole cloves"),           "Aromatic infusion (ajoene/DAS) — reserve for mash after boil"],
+        [b("Black pepper (coarse crack)"), b("1 tbsp"),                   "Piperine into liquid — fat-soluble absorption enhancer. Coarse prevents gritty texture."],
+        [w("Sea salt"),                    w("1 tsp per quart — LAST 15 MIN ONLY"), "Early salt = tough skins. Last 15 min opens pectin so aromatics penetrate."],
+    ], [1.85*inch, 1.85*inch, 3.95*inch],
+    [
+        ("BACKGROUND", (0,14), (-1,14), AMBER),
+        ("BACKGROUND", (0,16), (-1,16), AMBER),
+    ]))
+
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("Boil: bring to boil → skim foam → simmer 60–90 min until tender but not mushy.", BODY))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Black Bean Prep (continued)", TITLE))
+    s.append(Paragraph("Anthocyanin liquid · chill → freeze · day-of fat bloom", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("③ Anthocyanin Liquid — Reserve Before Draining", H2))
+    s.append(tbl([
+        ["Step", "Action"],
+        [b("Reserve"), "Before draining — ladle out the dark purple cooking liquid into a separate bowl"],
+        [b("Do NOT"), w("Do NOT reduce or boil down — anthocyanins (cyanidin-3-glucoside) concentrate quickly and turn bitter")],
+        [b("Cool"),   "Cool at room temp as-is after straining beans out"],
+        [b("Freeze"), "2 tbsp cubes (regular tray) + some ¼ cup portions. Label: 'Black Bean Liquid'"],
+        [b("Use"),    sm("Recovery bowl (2 tbsp into yogurt at 17:50) · Refried beans base · Samosa filling mash (2 tbsp)\nThe dark purple color IS the signal compound — not a flaw.")],
+    ], [0.75*inch, 6.8*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("④ Chill → Freeze (RS3 Formation)", H2))
+    s.append(tbl([
+        ["Mode",              "After draining",                                 "Chill",           "Freeze"],
+        [b("Weekly"),         "Spread on stainless tray · cool · refrigerate",  b("24h RS3 build"), "After allicin pulse + 2nd chill"],
+        [b("3-Month batch"),  "Spread on sheet pans · cool to 130°F · fold in ACV + pinch salt\n→ portion into 1.5-cup bags immediately", b("Single 12–24h chill\nin portioned bags"), "Transfer to chest freezer next morning"],
+    ], [1.0*inch, 2.8*inch, 1.5*inch, 2.25*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Single chill builds same RS3 as double-chill (starch retrogradation is indifferent to what else "
+        "is in the container). Double-chill for weekly mode already has that structure; "
+        "batch mode eliminates the re-warm loop across 5 kg.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑤ Day-Of: Allicin Pulse + Fat Bloom + Finishers", H2))
+    s.append(tbl([
+        ["Step",                   "Action",                                                 "Temp / Rule"],
+        [b("Warm"),                "Gently warm beans in skillet on LOW",                    w("Stay below 130°F — RS3 collapses above this")],
+        [b("Allicin pulse"),       "Drop 1 rested garlic cube (or crush + rest 10 min fresh)\nFold through warm beans with ACV + pinch salt", "Fold gently — don't mash"],
+        [b("Fat bloom"),           "Drizzle 1–2 tsp EVOO or avocado oil over warm beans\nAdd day-of spices: Kashmiri chili powder + cumin + freshly cracked black pepper\nStir to coat — fat carries fat-soluble compounds (capsaicin, piperine, curcumin)", "Add AFTER allicin cube\nEVOO oxidizes frozen — always day-of only"],
+        [b("Finishers\n(last second)"), w("Black salt (kala namak) · fresh lemon squeeze · fresh cilantro (chopped)"), w("NEVER pre-assemble or freeze these in\nVolatile oils + sulfurous compounds degrade")],
+    ], [1.1*inch, 3.6*inch, 2.85*inch],
+    [
+        ("BACKGROUND", (0,3), (-1,3), AMBER),
+        ("BACKGROUND", (0,4), (-1,4), AMBER),
+    ]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  130°F CEILING — never microwave on high or re-boil after RS3 is built. "
+        "Reheat gently on low (warm to touch). "
+        "Salt LAST 15 MIN during boil — early salt toughens skins and slows cooking by 20–30%.", WARN_S))
+
+    _build(d, s)
+    print("✓ 14-black-beans.pdf  (duplex: soak+boil / anthocyanin+day-of)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1062,7 +1325,9 @@ if __name__ == "__main__":
     card_workout()
     card_chutney()
     card_ginger_storage()
-    print("\nAll 12 fridge cards written to fridge-sheets/")
+    card_imli_chutney()
+    card_black_beans()
+    print("\nAll 14 fridge cards written to fridge-sheets/")
 
     # Clean up temp QR file
     try:
