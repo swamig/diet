@@ -911,22 +911,53 @@ def card_chutney():
     s.append(Paragraph("Coconut chutney · Jaljeera concentrate", SUB))
     s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    s.append(Paragraph("④ Coconut Chutney — 2 Vitamix runs · ~48 cubes total", H2))
+    s.append(Paragraph("④ Coconut Chutney — 3-Week vs 3-Month", H2))
     s.append(tbl([
-        ["Ingredient",            "Per Vitamix run", "× 2 runs total"],
-        [b("Fresh grated coconut"), b("4 cups"),       b("8 cups total")],
-        [b("Fresh curry leaves"),   b("3–4 tbsp"),     b("6–8 tbsp")],
-        [b("Green chili"),          b("4–5"),          b("8–10")],
-        [b("Fresh ginger"),         b("2 inch knob"),  b("~180g total")],
-        [b("Roasted cumin powder"), b("2 tsp"),        b("4 tsp")],
-        [b("Lemon juice"),          b("4 tbsp"),       b("8 tbsp")],
-        [b("Water or aquafaba"),    b("½ cup"),        b("1 cup")],
-        [b("Salt"),                 b("1 tsp"),        b("2 tsp")],
-    ], [2.1*inch, 1.8*inch, 2.65*inch]))
+        ["",                        "3-Week Batch",                             "3-Month Batch"],
+        [b("Curry leaves\nin blend"), b("YES — raw into Vitamix\n(volatile aromatics)"), b("NO — plain base only\n(leaves go in tadka cubes only)")],
+        [b("Vitamix runs"),          b("2 runs × 4 cups coconut\n+ curry leaves → 48 cubes"), b("2–3 runs × 4–6 cups coconut\n(no leaves) → ~128 cubes")],
+        [b("Tadka\n(separate)"),     sm("7 tbsp oil · 1 cup fresh curry leaves\n1 tbsp mustard seeds · 1½ tsp chili flakes · ¼ tsp hing\n→ 21 mini cubes (1 tsp each)"), sm("4 tbsp oil · frozen curry leaves\n½ tsp mustard seeds · 20–30 sec bloom\n→ ~14 mini cubes (1 tsp each)")],
+        [b("Freeze life"),           "3 weeks",                                  "3 months"],
+    ], [1.3*inch, 3.0*inch, 2.25*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,1), MINT),
+        ("BACKGROUND", (0,3), (-1,3), AMBER),
+    ]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "Blend 90 sec per run until smooth. Pour ~2 tbsp per cube. "
-        "Rinse blender 10 sec between runs. Yield ~24 cubes per run.", NOTE))
+        "Why the difference: at the 3-week session fresh curry leaves are available — "
+        "some go raw into the Vitamix (volatile aromatics + flavonoids), "
+        "some go into the tadka (alkaloid extraction into oil). "
+        "At the 3-month session only frozen leaves are on hand → tadka only.", NOTE))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("Tadka at Serving (Always Separate — Never Freeze Into Base)", H2))
+    s.append(tbl([
+        ["Format",                  "How to use"],
+        [b("Tadka cube\n(from batch)"), "Drop 1 cube into warm pan · melt 10 sec · pour immediately over thawed coconut chutney. Stir and serve within 5 min — volatile aromatics dissipate fast."],
+        [b("Fresh tadka\n(day-of)"),  "1 tsp oil · 8–10 curry leaves · ¼ tsp mustard seeds → heat until seeds pop + leaves crisp (15–20 sec) → pour over thawed base. Dried chili optional."],
+        [b("Frozen curry leaves\n(no cube)"), "Crumble 4–5 frozen leaves directly into hot oil — same effect as fresh tadka. Always end tadka on the chutney, not in it."],
+    ], [1.5*inch, 6.05*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("3-Week Coconut Chutney — per Vitamix run (do 2 runs)", H2))
+    s.append(tbl([
+        ["Ingredient",            "Per run", "× 2 runs"],
+        [b("Fresh grated coconut"), b("4 cups"),      b("8 cups")],
+        [b("Fresh curry leaves"),   b("3–4 tbsp"),    b("6–8 tbsp")],
+        [b("Green chili"),          b("4–5"),         b("8–10")],
+        [b("Fresh ginger"),         b("2 inch knob"), b("~180g")],
+        [b("Roasted cumin powder"), b("2 tsp"),       b("4 tsp")],
+        [b("Lemon juice"),          b("4 tbsp"),      b("8 tbsp")],
+        [b("Water or aquafaba"),    b("½ cup"),       b("1 cup")],
+        [b("Salt"),                 b("1 tsp"),       b("2 tsp")],
+    ], [2.2*inch, 1.6*inch, 1.75*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Blend 90 sec per run until smooth. ~24 cubes per run. "
+        "Rinse blender 10 sec between runs.", NOTE))
 
     s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
@@ -963,10 +994,13 @@ def card_chutney():
         [b("Tadka cubes"),         "4–6 weeks",         "1 tsp (mini tray)"],
         [b("Jaljeera cubes"),      "3 weeks",           "~2 tbsp (regular tray)"],
         [b("Cilantro chutney"),    "3 weeks",           "~2 tbsp (regular tray)"],
-        [b("Coconut chutney"),     "3 weeks",           "~2 tbsp (regular tray)"],
+        [b("Coconut chutney\n(3-week / with curry leaves)"), "3 weeks", "~2 tbsp (regular tray)"],
+        [b("Coconut chutney\n(3-month plain base)"), b("3 months"), "~2 tbsp (regular tray)"],
+        [b("Imli-Khajur chutney"), b("6 months"),       "~2 tbsp (regular tray) — see card 13"],
         [b("Mint muddle cubes"),   "4–6 weeks",         "1 tbsp (mini tray)"],
         [b("Fenugreek paste"),     "4–6 weeks",         "1 tbsp (mini tray)"],
-    ], [2.0*inch, 1.8*inch, 2.75*inch]))
+    ], [2.5*inch, 1.5*inch, 2.55*inch],
+    [("BACKGROUND", (0,5), (-1,5), AMBER)]))
 
     _build(d, s)
     print("✓ 11-chutney-prep.pdf")
