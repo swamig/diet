@@ -46,9 +46,28 @@ Ginger is the protocol's premier pro-kinetic, but its application is divided by 
 *   **The 10:00 AM Tannin Deadline:** Must be finished by 10:00 AM to prevent the catechin-iron blockade [[Zijp, 2000]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule). *(Exception: Suspended on Heme-Iron/Meat days).*
 *   **The Fatigue Failsafe:** If you wake up feeling "fried" or systemic stress is high, **skip the Matcha entirely**. Replace with Warm Jeera Water to protect your adrenals.
 
+## 6. MudWtr Matcha :rise — Optional Mushroom Swap
+
+On any matcha day, MudWtr Matcha :rise can replace the standard matcha entirely. It is a swap, not an add-on — do not add separate matcha powder on top.
+
+**What it adds over plain matcha:**
+- 3,000mg adaptogenic mushroom blend: lion's mane + chaga + reishi + cordyceps
+- Chai spice layer: ginger, black pepper, cardamom (aligns with the Masala Matcha recipe)
+- No turmeric, no cacao — zero additional cycling conflicts
+
+**What stays the same:**
+- 10:00 tannin deadline still applies — finish before 10:00
+- Warm start rule — not boiling, same temperature care as matcha
+- Fatigue failsafe — if feeling fried, skip and use plain jeera water instead
+
+**Prep:** 1 tbsp MudWtr Matcha :rise in warm water (~80°C / 175°F). Whisk or froth. No spice extraction step needed — spices are already in the blend.
+
+**Cycling:** No separate cycling rule required. Use on any matcha day. Entirely optional — plain matcha and jeera water remain the protocol defaults.
+
 ## Related Pages
 - [Circadian Hydration Physiology](../01-foundations/04-hydration.md)
 - [Peppermint Jaljeera](peppermint-jaljeera.md)
+- [Supplement Cycling](../04-advanced-control/supplement-cycling.md)
 - [Master Citations (AMPK/Tannins)](../07-appendices/master-citations.md)
 
 ## References

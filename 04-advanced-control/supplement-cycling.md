@@ -24,9 +24,33 @@ If you currently have flavored whey (Chocolate, Vanilla, etc.), you can finish t
 *   **Timing:** Taken with your post-workout Whey (17:30). This manual places creatine here for consistency and adherence; the exact minute matters less than taking it regularly.
 *   **Hydration:** Maintain adequate fluid intake: target **3–4L total daily fluid** on training days, **2.5–3L on rest days**. Creatine draws water into muscle cells — under-hydration on creatine increases cramping risk [[Kreider et al., 2017]](../07-appendices/master-citations.md#8-protein-architecture-muscle-protein-synthesis-mps--the-soy-ceiling).
 
-## 3. "Mud Water" (Turmeric/Cacao Blends)
-*   **The Conflict:** Mud Water combines turmeric and cacao into a system that already spaces both deliberately.
-*   **The Rule:** **Do not consume daily.** If used at all, treat it as an occasional replacement rather than an add-on. Skip the normal cacao layer that day, and treat the turmeric contribution as redundant rather than stacking it blindly.
+## 3. MudWtr Formulations — Which to Use
+
+### MudWtr Matcha :rise *(optional — preferred formulation)*
+
+The recommended formulation for this protocol. Contains Japanese matcha + lion's mane + chaga + reishi + cordyceps (3,000mg total) + chai spices (ginger, black pepper, cardamom). **No turmeric, no cacao** — zero additional cycling conflicts.
+
+*   **Protocol placement:** 09:15 morning window. Swap in on any matcha day. Replaces plain matcha entirely — do not add matcha powder on top.
+*   **Prep:** 1 tbsp in warm water (~80°C / 175°F). Whisk or froth.
+*   **Cycling:** No extra cycling rule required. Use on any matcha day. Entirely optional — plain matcha and jeera water remain protocol defaults.
+*   **Same rules apply:** 10:00 tannin deadline · warm start (not boiling) · fatigue failsafe: if fried, skip to plain jeera.
+
+### MudWtr Original :rise *(finish your existing stash — then switch)*
+
+Contains turmeric + cacao + black tea base (35mg caffeine). Both compounds are already spaced deliberately in the protocol, so this formulation requires management.
+
+*   **Frequency:** Max 1–2× per week. Not daily.
+*   **Window:** 09:15 morning slot. Finish before 10:00 (black tea tannins).
+*   **On Original days:** Skip evening cacao nibs (Original counts as one cacao exposure) · no chocolate whey at 17:30 · reduce salad turmeric to ¼ tsp.
+*   **Target:** Once stash is depleted, transition to Matcha :rise.
+
+### MudWtr :rest *(avoid)*
+
+Evening blend, likely contains ashwagandha — stacks directly on the 21:00 night infusion rotation (ashwagandha already cycles 2–3×/week max). HPA axis downregulation risk.
+
+### MudWtr Turmeric *(manageable, no cacao conflict)*
+
+Zero caffeine, rooibos base, contains turmeric. No cacao conflict. Reduce salad turmeric to ¼ tsp on days of use. Flexible timing (no tannin concern). Pre-workout use viable.
 
 ## 4. Moringa Powder
 *   **The Mechanism:** This manual treats moringa as a nutrient-dense rotator rather than a daily baseline ingredient.

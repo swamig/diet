@@ -381,6 +381,18 @@ def card_morning_drink():
         [b("Star Anise"),              "1 whole",  "Antiviral pulse\n(rotator)","Add to steep — strong flavour, use sparingly"],
     ], [1.8*inch, 0.9*inch, 1.4*inch, 3.45*inch]))
 
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Optional — MudWtr Matcha :rise (mushroom swap)", H2))
+    s.append(tbl([
+        ["Rule",         "Detail"],
+        [b("What it is"), "Matcha + lion's mane + chaga + reishi + cordyceps (3,000mg) + chai spices. No turmeric, no cacao."],
+        [b("How to use"), "1 tbsp in warm water (~80°C). Whisk or froth. REPLACES plain matcha — do not add matcha powder on top."],
+        [b("When"),       "Any day that would be a matcha day. No extra cycling rules. Entirely optional — jeera/ajwain remain the defaults."],
+        [w("Same rules apply"), w("10:00 tannin deadline · warm start (not boiling) · fatigue failsafe: if fried, drop to plain jeera")],
+    ], [1.5*inch, 6.1*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
     s.append(Spacer(1, 14))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
     s.append(Paragraph(
