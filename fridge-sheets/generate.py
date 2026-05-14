@@ -456,7 +456,7 @@ def card_batch_flip():
         [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
         [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
         [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
-        [b("6th"), "Make imli (tamarind) cubes — 1 tray, freeze",                  "No chill needed"],
+        [b("6th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
         [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
     ], [0.5*inch, 4.2*inch, 2.85*inch],
     [("BACKGROUND", (0,1), (-1,3), AMBER)]))
@@ -1047,6 +1047,119 @@ def card_ginger_storage():
     print("✓ 12-ginger-storage.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 13 — Imli-Khajur Chutney (Tamarind-Date)
+# ─────────────────────────────────────────────────────────────────────────────
+def card_imli_chutney():
+    d = mk_doc("fridge-sheets/13-imli-chutney.pdf")
+    s = []
+    s.append(Paragraph("Imli-Khajur Chutney", TITLE))
+    s.append(Paragraph("Tamarind-Date · sweet-sour-spiced · 6-month freeze stability", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("Single Batch (~16 cubes — day-of or small top-up)", H2))
+    s.append(tbl([
+        ["Ingredient",                   "Amount",          "Notes"],
+        [b("Medjool dates (pitted)"),     b("10–12"),        "Blend with water until completely smooth"],
+        [b("Tropica concentrated tamarind"), b("3 tbsp"),   "3–4× more concentrated than raw block — do not sub 1:1"],
+        [b("Water"),                      b("1.5 cups"),     ""],
+        [b("Salt"),                       b("1 tsp"),        ""],
+        [b("Black salt (kala namak)"),    b("½ tsp"),        ""],
+        [b("Roasted cumin powder"),       b("2 tsp"),        ""],
+        [b("Ginger — dry powder"),        b("1 tsp"),        "OR: blend 1.5–2 inch fresh knob into dates in step 1"],
+        [b("Star anise (ground)"),        b("1/16 tsp"),     "Preferred over fennel — same family, more depth. ~4× potent: do not exceed."],
+        [b("Red chili powder"),           b("½ tsp"),        ""],
+        [b("Cinnamon"),                   b("¼ tsp"),        "Bridges dates + tamarind"],
+        [b("Black pepper"),               b("¼ tsp"),        ""],
+        [b("Hing (asafoetida)"),          b("⅛ tsp"),        ""],
+    ], [2.2*inch, 1.3*inch, 4.05*inch]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Method (single batch or 24 qt pot batch)", H2))
+    s.append(tbl([
+        ["Step", "Action"],
+        [b("1"),  "Blend pitted dates + water (+ fresh ginger if using) until completely smooth — no chunks"],
+        [b("2"),  "Pour date paste into pot. Add Tropica tamarind, stir to dissolve."],
+        [b("3"),  "Add all spices + salts. Stir to combine."],
+        [b("4"),  "Medium heat — stir frequently — 15–20 min until ribbon consistency (coats back of spoon)"],
+        [b("5"),  "Taste: equal sweet-sour-spiced. More tamarind if too sweet; pinch salt if flat."],
+        [b("6"),  sm("Optional: push through mesh strainer for silky texture — removes date fiber pulp.")],
+        [b("7"),  w("Cool COMPLETELY before portioning. Looks thin hot — thickens as it cools.")],
+        [b("8"),  "Pour ~2 tbsp per cube into ice cube trays. Freeze solid (~4 hrs). Bag + label."],
+    ], [0.4*inch, 7.15*inch],
+    [("BACKGROUND", (0,7), (-1,7), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Freeze stability: 6 months (high acid pH ~2.5 + natural sugar creates hostile environment for microbes). "
+        "Thaw: 1 cube at room temp 20 min, or 30 sec microwave.", NOTE))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("3-Month Batch (24 qt Pot — One Cook)", TITLE))
+    s.append(Paragraph("×6 single batch · 2 Vitamix blend runs → combine into 24 qt pot → one cook", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("Step 1 — Blend (2 Vitamix runs)", H2))
+    s.append(tbl([
+        ["Ingredient",                       "Per Vitamix run (×3 batch)", "× 2 runs = full 3-month batch"],
+        [b("Medjool dates (pitted)"),         b("30–36 dates (~600g)"),    b("60–72 dates (~1.2 kg)")],
+        [b("Water"),                          b("4.5 cups"),               b("9 cups total")],
+        [b("Fresh ginger (blend in step 1)"), b("5 tsp grated\n(~5–6 inch knob)"), b("~200g total")],
+    ], [2.2*inch, 2.2*inch, 2.65*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph("Blend each run until completely smooth. Pour both into the 24 qt pot.", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(Paragraph("Step 2 — Cook in 24 qt Pot (once, combined)", H2))
+    s.append(tbl([
+        ["Ingredient",                       "Amount for full batch",       "Notes"],
+        [b("Tropica tamarind"),               b("18 tbsp (~1.1 cups)"),     "Stir into combined date paste until dissolved"],
+        [b("Salt"),                           b("2 tbsp"),                  ""],
+        [b("Black salt (kala namak)"),        b("1 tbsp"),                  ""],
+        [b("Roasted cumin powder"),           b("4 tbsp"),                  ""],
+        [b("Star anise (ground)"),            b("⅜ tsp"),                   "Do not exceed — potent"],
+        [b("Red chili powder"),               b("1 tbsp"),                  ""],
+        [b("Cinnamon"),                       b("¾ tsp"),                   ""],
+        [b("Black pepper"),                   b("¾ tsp"),                   ""],
+        [b("Hing"),                           b("⅜ tsp"),                   ""],
+    ], [2.2*inch, 2.0*inch, 2.45*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "24 qt pot note: the pre-cook liquid (~10–12 cups) sits shallow in a 24 qt pot — "
+        "stir more frequently than normal (every 2–3 min) to prevent hotspots. "
+        "Medium heat only. Cook 15–20 min until ribbon consistency.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(tbl([
+        ["Output",                    "Volume",       "Cubes",     "Supply"],
+        [b("Full 3-month batch"),      "~2 liters",    b("~96"),    "~3 months at 1/day"],
+    ], [2.0*inch, 1.5*inch, 1.0*inch, 2.0*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Jaggery Variant (Traditional — thinner)", H2))
+    s.append(tbl([
+        ["Change",            "Amount (single)", "Amount (×6 batch)"],
+        [b("Remove: dates"),   "—",               "—"],
+        [b("Add: jaggery"),    b("80–100g"),       b("480–600g")],
+        [b("Extra water"),     b("+½ cup"),         b("+3 cups")],
+    ], [2.0*inch, 2.0*inch, 2.55*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Jaggery: dissolve directly in water in pot (no blending). "
+        "Result: thinner, more pourable, slightly higher GI, trace iron/potassium from molasses.", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  Cool COMPLETELY before portioning — hot chutney in ice trays cracks the tray. "
+        "Tropica concentrate is 3–4× more potent than raw block tamarind — never substitute 1:1.", WARN_S))
+
+    _build(d, s)
+    print("✓ 13-imli-chutney.pdf  (duplex: single recipe / 24 qt 3-month batch)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1062,7 +1175,8 @@ if __name__ == "__main__":
     card_workout()
     card_chutney()
     card_ginger_storage()
-    print("\nAll 12 fridge cards written to fridge-sheets/")
+    card_imli_chutney()
+    print("\nAll 13 fridge cards written to fridge-sheets/")
 
     # Clean up temp QR file
     try:
