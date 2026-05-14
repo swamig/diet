@@ -85,16 +85,16 @@ def tbl(rows, col_widths, cmds=None):
     return t
 
 # ── QR code + footer ──────────────────────────────────────────────────────────
-GITHUB_URL = "https://github.com/swamig/bluevedaprotocol"
+GITHUB_BASE = "https://github.com/swamig/bluevedaprotocol"
 
-def _build_qr_file():
+def _make_qr(url):
     qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_M,
         box_size=6,
         border=1,
     )
-    qr.add_data(GITHUB_URL)
+    qr.add_data(url)
     qr.make(fit=True)
     img = qr.make_image(fill_color="black", back_color="white")
     tmp = tempfile.NamedTemporaryFile(suffix=".png", delete=False)
@@ -102,30 +102,30 @@ def _build_qr_file():
     tmp.close()
     return tmp.name
 
-_QR_PATH = _build_qr_file()
-
-def _footer(canvas, doc):
-    canvas.saveState()
-    w_page = doc.pagesize[0]
-    lm = doc.leftMargin
-    rm = doc.rightMargin
-    qr_size = 0.48 * inch
-    footer_y = 0.22 * inch
-    line_y   = 0.42 * inch
-    canvas.setStrokeColor(colors.HexColor("#bbbbbb"))
-    canvas.setLineWidth(0.5)
-    canvas.line(lm, line_y, w_page - rm, line_y)
-    canvas.setFont("Helvetica", 8)
-    canvas.setFillColor(colors.HexColor("#555555"))
-    canvas.drawString(lm, footer_y, GITHUB_URL)
-    canvas.drawImage(
-        _QR_PATH,
-        w_page - rm - qr_size,
-        0.04 * inch,
-        width=qr_size, height=qr_size,
-        preserveAspectRatio=True,
-    )
-    canvas.restoreState()
+def _make_footer(qr_path, url):
+    def _footer(canvas, doc):
+        canvas.saveState()
+        w_page = doc.pagesize[0]
+        lm = doc.leftMargin
+        rm = doc.rightMargin
+        qr_size = 0.48 * inch
+        footer_y = 0.22 * inch
+        line_y   = 0.42 * inch
+        canvas.setStrokeColor(colors.HexColor("#bbbbbb"))
+        canvas.setLineWidth(0.5)
+        canvas.line(lm, line_y, w_page - rm, line_y)
+        canvas.setFont("Helvetica", 8)
+        canvas.setFillColor(colors.HexColor("#555555"))
+        canvas.drawString(lm, footer_y, url)
+        canvas.drawImage(
+            qr_path,
+            w_page - rm - qr_size,
+            0.04 * inch,
+            width=qr_size, height=qr_size,
+            preserveAspectRatio=True,
+        )
+        canvas.restoreState()
+    return _footer
 
 def mk_doc(path, margins=0.55):
     m = margins * inch
@@ -133,8 +133,16 @@ def mk_doc(path, margins=0.55):
                              leftMargin=m, rightMargin=m,
                              topMargin=m, bottomMargin=0.65 * inch)
 
-def _build(doc, story):
-    doc.build(story, onFirstPage=_footer, onLaterPages=_footer)
+def _build(doc, story, url):
+    qr_path = _make_qr(url)
+    footer = _make_footer(qr_path, url)
+    try:
+        doc.build(story, onFirstPage=footer, onLaterPages=footer)
+    finally:
+        try:
+            os.unlink(qr_path)
+        except OSError:
+            pass
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 1 — Produce Cleaning
@@ -185,7 +193,7 @@ def card_produce():
         "Kale · Arugula · Spinach · Blueberries · Strawberries · Peaches · "
         "Pears · Nectarines · Apples · Grapes · Bell Peppers · Cherries", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/produce-cleaning.md")
     print("✓ 01-produce-cleaning.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -238,7 +246,7 @@ def card_dressing():
         "If you add Coconut Milk to your 12:00 Chaas, subtract 1–2 tbsp oil from "
         "the 14:30 dressing to keep total lipid load balanced.", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/daily-salad-layer.md")
     print("✓ 02-salad-dressing.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -256,14 +264,16 @@ def card_salad():
         ["Layer",             "What",                              "Amount"],
         [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
         [b("② Anchors"),      b("Broccoli Sprouts"),               "1 cup"],
-        ["",                  "Fresh Cilantro",                    "¼ cup"],
+        ["",                  b("Fresh Cilantro"),                 b("¼ cup")],
+        ["",                  sm("Chlorella powder (broken cell wall)\noptional — 3 weeks on / 1 week off"), sm("3–5g\nStart 1–2g first 3 days then escalate\nHeavy metal binder + direct EPA/DHA")],
         [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
         [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
         [b("⑤ Dressing"),     "Master dressing from fridge jar",   "4 tbsp"],
         [w("⑥ Activate"),     w("Turmeric (ground)"),              w("½ tsp")],
         ["",                  w("Black Pepper — grind FRESH"),     w("¼ tsp")],
     ], [1.3*inch, 3.3*inch, 1.8*inch],
-    [("BACKGROUND", (0,7), (-1,8), AMBER)]))
+    [("BACKGROUND", (0,4), (-1,4), MINT),
+     ("BACKGROUND", (0,8), (-1,9), AMBER)]))
     s.append(Spacer(1, 5))
     s.append(Paragraph("* Kale: massage with lemon + salt 60 sec to break cell walls.", NOTE))
     s.append(Paragraph(
@@ -293,7 +303,7 @@ def card_salad():
         "⚠  Never put seeds in the 17:30 post-workout shake — "
         "mucilage gel slows protein absorption.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/daily-salad-layer.md")
     print("✓ 03-salad-assembly.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -341,7 +351,7 @@ def card_timing():
         "⚠  NEVER cold plunge immediately after a heavy lift — "
         "blunts mTOR / growth signal. Keep cold exposure to 06:30 AM only.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/07-appendices/daily-timing-cheat-sheet.md")
     print("✓ 04-daily-timing.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -371,6 +381,18 @@ def card_morning_drink():
         [b("Star Anise"),              "1 whole",  "Antiviral pulse\n(rotator)","Add to steep — strong flavour, use sparingly"],
     ], [1.8*inch, 0.9*inch, 1.4*inch, 3.45*inch]))
 
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Optional — MudWtr Matcha :rise (mushroom swap)", H2))
+    s.append(tbl([
+        ["Rule",         "Detail"],
+        [b("What it is"), "Matcha + lion's mane + chaga + reishi + cordyceps (3,000mg) + chai spices. No turmeric, no cacao."],
+        [b("How to use"), "1 tbsp in warm water (~80°C). Whisk or froth. REPLACES plain matcha — do not add matcha powder on top."],
+        [b("When"),       "Any day that would be a matcha day. No extra cycling rules. Entirely optional — jeera/ajwain remain the defaults."],
+        [w("Same rules apply"), w("10:00 tannin deadline · warm start (not boiling) · fatigue failsafe: if fried, drop to plain jeera")],
+    ], [1.5*inch, 6.1*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
     s.append(Spacer(1, 14))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
     s.append(Paragraph(
@@ -389,7 +411,7 @@ def card_morning_drink():
         "Pre-portion 7 small containers on Sunday — each holds one day's base spice. "
         "Alternates automatically. Add 1 tsp Matcha to each pack if using.", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-matcha.md")
     print("✓ 05-morning-drink.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -450,20 +472,22 @@ def card_batch_flip():
 
     s.append(Paragraph("Day 1 — Cook & Chill (~4h active)", H2))
     s.append(tbl([
-        ["Order", "Task",                                                          "RS3 Rule"],
+        ["Order", "Task",                                                          "RS3 / Chill Rule"],
         [b("1st"), "Cook chickpeas + black beans — pressure cook or boil until tender", w("CHILL 24h in fridge before freezing")],
         [b("2nd"), "Cook quinoa — 1 cup dry : 1.75 cups water, simmer 12 min, spread thin in 88oz Pyrex", w("CHILL 24h in fridge before freezing")],
         [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
-        [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
-        [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
-        [b("6th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
-        [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
-    ], [0.5*inch, 4.2*inch, 2.85*inch],
-    [("BACKGROUND", (0,1), (-1,3), AMBER)]))
+        [b("4th"), "Aambali — 5 pot batches: 4 cups ragi flour + 14–16 cups cold water per pot\n→ whisk → medium heat → stir constantly ~10 min until thick + glossy → spread in glass containers", w("CHILL 24h — spices + portioning happens Day 2")],
+        [b("5th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
+        [b("6th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
+        [b("7th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
+        [b("8th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
+    ], [0.5*inch, 4.1*inch, 2.95*inch],
+    [("BACKGROUND", (0,1), (-1,4), AMBER)]))
 
     s.append(Paragraph("Day 2 — Portion & Freeze (~2h)", H2))
     s.append(tbl([
         ["Task",                                         "Portion",       "Into"],
+        [b("Aambali — finish + portion"),                sm("Whisk ½ tsp cumin + ¼ tsp black salt per serving into cold paste → scoop ½ cup per muffin mold → freeze 4h → bag"), sm("Silicone muffin molds\n→ zip-lock 'Aambali Base'\n~90 cubes total")],
         [b("Chickpeas"),                                  "1.5 cups cooked","Flat freezer bags"],
         [b("Black beans"),                                "1.5 cups cooked","Flat freezer bags"],
         [b("Quinoa"),                                     "½ cup cooked",  "Flat freezer bags"],
@@ -473,7 +497,8 @@ def card_batch_flip():
         [b("Cilantro — blanch 10–15 sec then freeze"),   "15 large bunches","Bags by batch"],
         [b("Mint — blanch 10–15 sec then freeze"),        "8 large bunches","Bags by batch"],
         [b("Chilies — freeze whole"),                     "All varieties", "Labeled bags"],
-    ], [3.3*inch, 1.8*inch, 2.45*inch]))
+    ], [3.1*inch, 2.0*inch, 2.45*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
@@ -489,7 +514,7 @@ def card_batch_flip():
         "Cumin powder (~100g), Coriander powder (~100g), Black pepper whole (~100g), "
         "Ajwain (~50g), Nigella (~50g), Mustard seeds (~50g), Hing (~10g).", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/three-week-batch.md")
     print("✓ 06-batch-session.pdf  (duplex: front=3-week, back=3-month)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -563,7 +588,7 @@ def card_tofu():
         "At 00:25: add 2–3 tbsp coconut milk, stir 30–60 sec into a glaze. "
         "Subtract 1 tbsp oil from the 14:30 salad dressing (Lipid Substitution Rule).", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-tofu.md")
     print("✓ 07-tofu-prep.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -635,7 +660,7 @@ def card_rotations():
         "⚠  Daily anchors never rotate: Broccoli microgreens · Fresh cilantro · "
         "Turmeric + black pepper · Ginger · Brazil nut (1–2/day).", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/07-appendices/daily-timing-cheat-sheet.md")
     print("✓ 08-rotations.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -655,6 +680,21 @@ def card_skincare():
         [b("Sunday"),     b("✓"),      b("✓"),      "—",          "Hair 30–45 min · Face 10–15 min"],
     ], [0.9*inch, 0.8*inch, 0.8*inch, 0.9*inch, 5.15*inch],
     [("ALIGN", (1,0), (3,2), "CENTER")]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Day-Of Assembly — 2 Minutes (Always Fresh)", H2))
+    s.append(tbl([
+        ["Step",                "Action"],
+        [b("Night before\n(or 30 min before)"), "Move 1–2 aloe cubes + 1 fenugreek cube (hair only) from freezer to fridge to thaw."],
+        [b("At time of use"),   "Scoop dry mix from jar → add thawed cubes → add oil → mix into paste. Done."],
+        [w("Never pre-assemble"), w("Wet + dry combined will ferment within hours even refrigerated.\nAssemble only when you're about to apply. No weekly batch of mixed paste.")],
+    ], [1.7*inch, 5.9*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "The 2-minute prep IS the batch payoff — the heavy work (jars + cubes) is already done. "
+        "You are just scooping and combining.", NOTE))
 
     s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
@@ -720,8 +760,19 @@ def card_skincare():
     ]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "3-month supply: ~65 aloe cubes (5 tray batches, 5 leaves) · "
-        "~26 fenugreek cubes (4 tbsp seeds every 6 weeks).", NOTE))
+        "3-month supply: ~65 aloe cubes (5 tray batches from 5 large leaves) · "
+        "~26 fenugreek cubes (rebatch every 4–6 weeks from 4 tbsp seeds).", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Batch Cadence — What's 3-Month vs Monthly", H2))
+    s.append(tbl([
+        ["Item",                            "Batch every",      "Shelf life",         "Notes"],
+        [b("Dry jars — Hair, Face, Body"),   b("3 months"),      b("Shelf-stable"),    "One bulk prep session (~20 min). Refill your small working jar monthly from the bulk jar."],
+        [b("Aloe vera cubes"),               b("3 months"),      b("3–4 months frozen"), "5 large leaves → ~65 cubes. Do on 3-month day alongside dry jars."],
+        [w("Fenugreek paste cubes"),         w("Every 4–6 weeks"), w("4–6 weeks frozen"), "Soak overnight before batching. Mucilage + lecithin don't survive longer freezing."],
+    ], [1.9*inch, 1.3*inch, 1.5*inch, 3.0*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
@@ -730,7 +781,7 @@ def card_skincare():
         "Bay leaf ¼ tsp max — sensitizer at high dose. "
         "Turmeric stains hair yellow — omit or 1/8 tsp max.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/topical-protocols.md")
     print("✓ 09-skincare.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -837,7 +888,7 @@ def card_workout():
         "core cooling triggers the sustained dopamine/noradrenaline spike and BAT activation. "
         "Cryo creates an insulating skin boundary layer and cannot replicate this.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/04-advanced-control/training-hormesis-integration.md")
     print("✓ 10-workout.pdf  (duplex: front=weekly split, back=yoga+thermal)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1002,7 +1053,7 @@ def card_chutney():
     ], [2.5*inch, 1.5*inch, 2.55*inch],
     [("BACKGROUND", (0,5), (-1,5), AMBER)]))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/coconut-chutney.md")
     print("✓ 11-chutney-prep.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1077,7 +1128,7 @@ def card_ginger_storage():
         "⚠  Blanching cilantro + mint: 10 seconds only — stops browning (PPO deactivation) "
         "without cooking the herb. Longer exposure degrades the chelation compounds.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/master-batch-prep.md")
     print("✓ 12-ginger-storage.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1190,7 +1241,7 @@ def card_imli_chutney():
         "⚠  Cool COMPLETELY before portioning — hot chutney in ice trays cracks the tray. "
         "Tropica concentrate is 3–4× more potent than raw block tamarind — never substitute 1:1.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/tamarind-chutney.md")
     print("✓ 13-imli-chutney.pdf  (duplex: single recipe / 24 qt 3-month batch)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1306,8 +1357,242 @@ def card_black_beans():
         "Reheat gently on low (warm to touch). "
         "Salt LAST 15 MIN during boil — early salt toughens skins and slows cooking by 20–30%.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-blackbeans.md")
     print("✓ 14-black-beans.pdf  (duplex: soak+boil / anthocyanin+day-of)")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CARD 15 — Recovery Bowl (17:50)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def card_recovery_bowl():
+    d = mk_doc("fridge-sheets/15-recovery-bowl.pdf")
+    s = []
+    s.append(Paragraph("Recovery Bowl — 17:50", TITLE))
+    s.append(Paragraph("Casein anchor · yogurt-berry base · phantom sweetness", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Base Bowl", H2))
+    s.append(tbl([
+        ["Ingredient",                        "Amount",                    "Role"],
+        [b("Full-fat Greek yogurt"),           b("200g (~¾ cup)"),         "Casein anchor + calcium shield (~200mg Ca)"],
+        [b("Blueberries"),                     b("¾ cup"),                 "Anthocyanin + polyphenol pulse"],
+        [b("Casein protein\n(or pea + rice protein)"), b("1 scoop"),      "Slow-release MPS overnight — pea/rice combo is full vegan equivalent"],
+        [b("Black bean liquid"),               sm("2 tbsp (frozen cube)\noptional"),  sm("Cyanidin-3-glucoside boost — the purple cooking liquid from batch")],
+        [b("Black garlic"),                    b("2–3 cloves, sliced"),    "SAC — sustained cardiovascular protection"],
+    ], [2.0*inch, 1.9*inch, 3.7*inch],
+    [("BACKGROUND", (0,4), (-1,4), MINT),
+     ("BACKGROUND", (0,5), (-1,5), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② Phantom Sweetness Stack", H2))
+    s.append(tbl([
+        ["Spice",                                    "Amount",              "Why"],
+        [b("Ceylon Cinnamon"),                        b("pinch (~⅛ tsp)"),  "Glycemic anchor · olfactory sweetness signal"],
+        [b("Cardamom (ground)"),                      b("pinch"),           "Parasympathetic calm · neuro-modulator"],
+        [b("Nutmeg (fresh-grated preferred)"),        b("pinch"),           "Warming aromatic depth"],
+        [w("Pure Madagascar Vanilla Extract"),        w("¼ tsp\nCACAO DAYS ONLY"),
+         sm("Anti-mutagenic vanillin · phantom sweetness\nPaired with cacao — NOT a daily baseline")],
+    ], [2.3*inch, 1.6*inch, 3.7*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Olfactory sweetness trick: these compounds signal sweetness to the brain via aroma "
+        "without triggering an insulin response. No sugar, no stevia, no artificial sweeteners.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Cacao Rule — 2–3× per week MAX, never daily", H2))
+    s.append(tbl([
+        ["Rule",                                    "Detail"],
+        [b("Amount"),                                "½–1 tsp raw cacao nibs stirred into bowl"],
+        [b("Calcium shield"),                        b("Greek yogurt MUST be in the bowl — ~200mg Ca binds cacao oxalates in the gut before kidneys")],
+        [b("Vanilla pairing"),                       "Vanilla Extract goes in ON CACAO DAYS — not daily (prevents receptor downregulation)"],
+        [w("Chocolate whey day"),                   w("Skip raw cacao nibs — chocolate whey already counts as one cacao exposure")],
+    ], [1.9*inch, 5.7*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER),
+     ("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Recovery Bowl (continued)", TITLE))
+    s.append(Paragraph("Aambali companion · day-type rules · chaas variant · black garlic", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("④ Aambali — The Probiotic Companion (17:50)", H2))
+    s.append(tbl([
+        ["",                         "Action"],
+        [b("What it is"),             "Fermented ragi (finger millet) drink — RS3 + live LAB probiotics. Drunk alongside the bowl at 17:50."],
+        [b("07:00 prep"),             "Scoop ½ cup chilled ragi paste into a jar. Whisk with ¼ cup live yogurt + splash water → buttermilk consistency. Leave covered 10–12h."],
+        [b("Sunday batch cook"),      "Whisk 1 cup ragi flour into 3–4 cups cold water → cook to thick paste → refrigerate (lasts 5 days). Scoop daily at 07:00."],
+        [b("Finish at 17:50"),        "Stir in: ½ tsp cumin powder + pinch black salt + 25g pea/rice protein. Froth. Add 5–10 fresh peppermint leaves muddled."],
+        [w("No-heat rule"),           w("NO chili · ginger · habanero — this window is core-temp drop for sleep. Not spicy.")],
+        [w("Starch split rule"),      w("If taking Aambali → reduce 12:00 quinoa/starch by 50%.\nAambali IS your evening starch anchor — don't double it.")],
+    ], [1.7*inch, 5.9*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT),
+     ("BACKGROUND", (0,5), (-1,5), AMBER),
+     ("BACKGROUND", (0,6), (-1,6), AMBER)]))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑤ Day-Type Rules", H2))
+    s.append(tbl([
+        ["Day Type",              "Casein",               "Notes"],
+        [b("Training day"),       b("1 scoop"),            "Full bowl — casein + berries + phantom sweetness"],
+        [b("Rest / Cardio day"),  w("SKIP casein"),       "Yogurt + berries + cinnamon + cardamom + nutmeg only"],
+        [b("Missed 17:30"),       b("+ 1 scoop Unflavored Whey"), "Add on top of casein if post-workout window missed"],
+    ], [1.7*inch, 1.7*inch, 4.2*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑥ Savory Chaas (replaces bowl — hot weather / digestive rest)", H2))
+    s.append(tbl([
+        ["Ingredient",               "Amount",    ""],
+        [b("Greek yogurt"),           b("100g"),   ""],
+        [b("Cold water"),             b("½ cup"),  ""],
+        [b("Roasted cumin powder"),   b("¼ tsp"),  ""],
+        [b("Black salt (kala namak)"), b("pinch"), ""],
+        [b("Unflavored protein"),     b("1 scoop"), ""],
+        [w("MUST NOT be spicy"),      w("No chili · no hing · no pepper"), ""],
+    ], [2.2*inch, 1.4*inch, 4.0*inch],
+    [("BACKGROUND", (0,6), (-1,6), AMBER)]))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑦ Black Garlic vs Raw Allicin — Different Compounds, Both Running", H2))
+    s.append(tbl([
+        ["",              "Black Garlic (bowl)",                      "Rested Raw Garlic (beans)"],
+        [b("Compound"),    b("SAC — heat-stable, long half-life"),     b("Allicin — rest 10 min after crush")],
+        [b("Mechanism"),   "Sustained H₂S · antioxidant · cardiovascular", "Acute anti-platelet · immediate H₂S"],
+        [b("Use"),         "2–3 cloves sliced into yogurt (or chaas)", "Day-of fat bloom — never freeze before rest"],
+    ], [1.1*inch, 3.25*inch, 3.25*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT)]))
+
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/recovery-bowl.md")
+    print("✓ 15-recovery-bowl.pdf  (duplex: bowl+phantom sweetness+cacao / aambali+day rules+chaas)")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CARD 16 — Supplement Cycling
+# ─────────────────────────────────────────────────────────────────────────────
+
+def card_supplements():
+    d = mk_doc("fridge-sheets/16-supplement-cycling.pdf")
+    s = []
+    s.append(Paragraph("Supplement Cycling", TITLE))
+    s.append(Paragraph("What cycles · what's daily · what conflicts with what", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Cacao Nibs — 2–3× per week MAX", H2))
+    s.append(tbl([
+        ["Rule",                          "Detail"],
+        [b("Frequency"),                   b("2–3× per week — never daily. Pulsing prevents receptor downregulation.")],
+        [b("Window"),                      "17:50 Recovery Bowl only — yogurt MUST be present (~200mg Ca binds oxalates)"],
+        [b("Vanilla pairing"),             "Add vanilla extract ONLY on cacao days — not daily baseline"],
+        [w("Chocolate whey (17:30)"),      w("Counts as one cacao exposure → skip nibs at 17:50 that day")],
+        [w("Cacao + MudWtr Original same day"), w("Double exposure — skip one. MudWtr Original has both cacao AND turmeric.")],
+    ], [2.1*inch, 5.5*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER),
+     ("BACKGROUND", (0,5), (-1,5), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② MudWtr — Formulation Guide", H2))
+    s.append(tbl([
+        ["Formulation",           "Turmeric", "Cacao", "Caffeine", "Protocol fit"],
+        [b("Matcha :rise\n★ Best fit"), w("None"),  w("None"),  "55mg\n(matcha)", b("Slots into 09:15 matcha rotation. Zero new conflicts.\nMushrooms: lion's mane + chaga + reishi + cordyceps.")],
+        [b("Turmeric\n(caffeine-free)"), "Yes",  w("None"),  "0mg",      "Manageable — pull back salad turmeric dose that day. Flexible timing (no caffeine)."],
+        [b("Original :rise"),     "Yes",       "Yes",       "35mg\n(black tea)", "Most conflicted — eats cacao allocation + turmeric slot. Max 1–2×/week, skip evening nibs."],
+        [w(":rest (evening)"),    "?",         "?",         "0mg",      w("Avoid — likely contains ashwagandha → stacks on 21:00 night infusion rotation. HPA axis risk.")],
+    ], [1.5*inch, 0.75*inch, 0.65*inch, 0.85*inch, 3.85*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,4), (-1,4), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "MudWtr Matcha :rise on matcha days = swap in, not add on. "
+        "Tannin rule still applies — use before 10:00 tannin deadline.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Night Infusion Rotation (21:00) — never daily", H2))
+    s.append(tbl([
+        ["Infusion",        "Freq/week",    "When",                                          "Dose"],
+        [b("Ashwagandha"),   w("2–3× MAX"),  "High-cortisol · VO2 Max days (Tue mandatory) · tofu pulse days", "300–600mg KSM-66 or ¼–½ tsp powder in warm alkaline water"],
+        [b("Tulsi"),         "2–3×",         "Standard recovery nights · lower stimulation",  "1 tsp dried leaves steeped 5–10 min"],
+        [b("Saffron"),       "1–2×",         "Parasympathetic emphasis · Week 4 washout",      "3–5 threads in warm alkaline water 5–10 min"],
+    ], [1.4*inch, 0.85*inch, 2.7*inch, 2.65*inch],
+    [("BACKGROUND", (0,1), (-1,1), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Chronic daily ashwagandha → HPA receptor downregulation + emotional blunting. "
+        "Rotate with tulsi/saffron on off-days.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("④ Chlorella — 3 weeks on / 1 week off", H2))
+    s.append(tbl([
+        ["Rule",              "Detail"],
+        [b("Dose"),            "3–5g/day — broken cell wall only (Sun Chlorella, NOW Foods)"],
+        [b("Window"),          "14:30 salad — adds direct EPA/DHA (~40–70mg) + heavy metal binding"],
+        [b("Titrate first"),   "Start 1–2g/day for first 3 days then escalate. Fast intro = detox response (loose stools, fatigue)."],
+        [b("Cycle"),           "3 weeks on → 1 week off (Week 4 washout aligns with 4-week protocol cycle)"],
+    ], [1.5*inch, 6.1*inch]))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Supplement Cycling (continued)", TITLE))
+    s.append(Paragraph("Daily anchors · timing map · conflict matrix", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("⑤ Daily / Always-On Supplements", H2))
+    s.append(tbl([
+        ["Supplement",          "Dose",           "Window",    "Notes"],
+        [b("Creatine monohydrate"), b("5g daily"), "17:30",    "With post-workout whey. Consistency > timing. 3–4L fluid on training days."],
+        [b("Vitamin D3 + K2"),  b("2,000 IU D3\n+ 100–200mcg K2 MK-7"), "12:00", "Fat-soluble — take with meal. K2 directs Ca into bone not arteries."],
+        [b("Vitamin C"),         b("250–500mg"),  "12:00",     "Boosts non-heme iron absorption 2–3×. Don't exceed 500mg — binding sites saturate."],
+        [b("Multivitamin"),      b("1 serving"),  "12:00 or 14:30", "Must contain B12 (≥25–100mcg methylcobalamin). Choose NO added iron."],
+    ], [1.8*inch, 1.7*inch, 0.75*inch, 3.4*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑥ Post-Workout Protein (17:30) — Whey Rules", H2))
+    s.append(tbl([
+        ["Whey type",                "Rule"],
+        [b("Unflavored isolate\n(target state)"), "Flavor with pinch sea salt + Ceylon cinnamon. No conflicts."],
+        [b("Chocolate whey\n(finishing stash)"),  w("= 1 cacao exposure → skip evening cacao nibs. Keep strictly in 17:30 window.")],
+        [b("Vanilla/flavored whey"),  "Artificial sweeteners — keep in 17:30 only, phase toward unflavored."],
+    ], [2.1*inch, 5.5*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑦ Daily Timing Map", H2))
+    s.append(tbl([
+        ["Window",   "What goes here"],
+        [b("09:15"), "Ajwain OR Jeera OR Matcha (OR MudWtr Matcha :rise on swap days)"],
+        [b("12:00"), "D3+K2 · Vitamin C · Multivitamin · Algae oil (if using)"],
+        [b("14:30"), "Chlorella 3–5g (in salad · 3 weeks on / 1 week off)"],
+        [b("17:30"), "Whey isolate + Creatine 5g"],
+        [b("17:50"), "Cacao nibs (2–3×/wk only · with yogurt · vanilla same day)"],
+        [b("21:00"), "Ashwagandha OR Tulsi OR Saffron (rotate · never all-ashwagandha)"],
+    ], [0.85*inch, 6.75*inch],
+    [("BACKGROUND", (0,1), (-1,1), LIGHT),
+     ("BACKGROUND", (0,3), (-1,3), LIGHT),
+     ("BACKGROUND", (0,5), (-1,5), LIGHT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Tannin deadline 10:00 — all tea/caffeine must finish before 10:00 to protect 12:00 iron absorption. "
+        "Alkaline water: do NOT use within 60 min before/during/after 12:00 meal — neutralizes gastric acid needed for legume digestion.", WARN_S))
+
+    _build(d, s, f"{GITHUB_BASE}/blob/master/04-advanced-control/supplement-cycling.md")
+    print("✓ 16-supplement-cycling.pdf  (duplex: cacao+mudwtr+nightinfusion+chlorella / daily anchors+timing)")
 
 # ─────────────────────────────────────────────────────────────────────────────
 
@@ -1327,10 +1612,6 @@ if __name__ == "__main__":
     card_ginger_storage()
     card_imli_chutney()
     card_black_beans()
-    print("\nAll 14 fridge cards written to fridge-sheets/")
-
-    # Clean up temp QR file
-    try:
-        os.unlink(_QR_PATH)
-    except OSError:
-        pass
+    card_recovery_bowl()
+    card_supplements()
+    print("\nAll 16 fridge cards written to fridge-sheets/")
