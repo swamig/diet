@@ -1366,64 +1366,63 @@ def card_recovery_bowl():
     s.append(PageBreak())
 
     s.append(Paragraph("Recovery Bowl (continued)", TITLE))
-    s.append(Paragraph("Day-type rules · savory chaas variant · conflict rules", SUB))
+    s.append(Paragraph("Aambali companion · day-type rules · chaas variant · black garlic", SUB))
     s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    s.append(Paragraph("④ Day-Type Rules", H2))
+    s.append(Paragraph("④ Aambali — The Probiotic Companion (17:50)", H2))
+    s.append(tbl([
+        ["",                         "Action"],
+        [b("What it is"),             "Fermented ragi (finger millet) drink — RS3 + live LAB probiotics. Drunk alongside the bowl at 17:50."],
+        [b("07:00 prep"),             "Scoop ½ cup chilled ragi paste into a jar. Whisk with ¼ cup live yogurt + splash water → buttermilk consistency. Leave covered 10–12h."],
+        [b("Sunday batch cook"),      "Whisk 1 cup ragi flour into 3–4 cups cold water → cook to thick paste → refrigerate (lasts 5 days). Scoop daily at 07:00."],
+        [b("Finish at 17:50"),        "Stir in: ½ tsp cumin powder + pinch black salt + 25g pea/rice protein. Froth. Add 5–10 fresh peppermint leaves muddled."],
+        [w("No-heat rule"),           w("NO chili · ginger · habanero — this window is core-temp drop for sleep. Not spicy.")],
+        [w("Starch split rule"),      w("If taking Aambali → reduce 12:00 quinoa/starch by 50%.\nAambali IS your evening starch anchor — don't double it.")],
+    ], [1.7*inch, 5.9*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT),
+     ("BACKGROUND", (0,5), (-1,5), AMBER),
+     ("BACKGROUND", (0,6), (-1,6), AMBER)]))
+
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑤ Day-Type Rules", H2))
     s.append(tbl([
         ["Day Type",              "Casein",               "Notes"],
         [b("Training day"),       b("1 scoop"),            "Full bowl — casein + berries + phantom sweetness"],
-        [b("Rest / Cardio day"),  w("SKIP casein scoop"), "Yogurt + berries + cinnamon + cardamom + nutmeg only"],
-        [b("Missed 17:30 window"), b("+ 1 scoop\nUnflavored Whey"), "Add unflavored whey on top of casein if post-workout window was missed"],
-    ], [1.9*inch, 1.8*inch, 3.95*inch],
+        [b("Rest / Cardio day"),  w("SKIP casein"),       "Yogurt + berries + cinnamon + cardamom + nutmeg only"],
+        [b("Missed 17:30"),       b("+ 1 scoop Unflavored Whey"), "Add on top of casein if post-workout window missed"],
+    ], [1.7*inch, 1.7*inch, 4.2*inch],
     [("BACKGROUND", (0,2), (-1,2), AMBER)]))
 
-    s.append(Spacer(1, 8))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    s.append(Paragraph("⑤ Savory Chaas Variant (hot weather / digestive rest)", H2))
-    s.append(Paragraph(
-        "Replaces the sweet bowl entirely. Blend all together until smooth:", BODY))
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑥ Savory Chaas (replaces bowl — hot weather / digestive rest)", H2))
     s.append(tbl([
-        ["Ingredient",             "Amount"],
-        [b("Greek yogurt"),         b("100g")],
-        [b("Cold water"),           b("½ cup")],
-        [b("Roasted cumin powder"), b("¼ tsp")],
-        [b("Black salt (kala namak)"), b("pinch")],
-        [b("Unflavored protein"),   b("1 scoop")],
-        [w("MUST NOT be spicy"),    w("No chili · no hing · no pepper — no exceptions")],
-    ], [2.2*inch, 5.4*inch],
+        ["Ingredient",               "Amount",    ""],
+        [b("Greek yogurt"),           b("100g"),   ""],
+        [b("Cold water"),             b("½ cup"),  ""],
+        [b("Roasted cumin powder"),   b("¼ tsp"),  ""],
+        [b("Black salt (kala namak)"), b("pinch"), ""],
+        [b("Unflavored protein"),     b("1 scoop"), ""],
+        [w("MUST NOT be spicy"),      w("No chili · no hing · no pepper"), ""],
+    ], [2.2*inch, 1.4*inch, 4.0*inch],
     [("BACKGROUND", (0,6), (-1,6), AMBER)]))
 
-    s.append(Spacer(1, 4))
-    s.append(Paragraph(
-        "Chaas is gut-safe on hard days. The tangy + cumin profile "
-        "satisfies the recovery-signal without heaviness. "
-        "Unflavored protein keeps it savory — flavored whey wrecks the profile.", NOTE))
-
-    s.append(Spacer(1, 8))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    s.append(Paragraph("⑥ Black Garlic — Why It's Here", H2))
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
+    s.append(Paragraph("⑦ Black Garlic vs Raw Allicin — Different Compounds, Both Running", H2))
     s.append(tbl([
-        ["",         "Black Garlic (SAC)",                            "Raw Rested Garlic (Allicin)"],
-        [b("Compound"), b("S-allyl cysteine (SAC)"),                 b("Allicin — formed after 10-min rest")],
-        [b("Heat stable"), "Yes — survives cooking, survives the bowl", "No — degrades above 60°C / 140°F"],
-        [b("Mechanism"), "H₂S donor · antioxidant · long half-life cardiovascular protection",
-         "Acute H₂S generation · anti-platelet · immediate signal"],
-        [b("Source"), "Fermented 3–4 weeks at 140–170°F in rice cooker (set to Keep Warm)",
-         "Frozen rested-garlic cubes — day-of only"],
-        [b("Protocol use"), "Slice 2–3 cloves directly into yogurt bowl\nOR mince into chaas", "Day-of fat bloom with beans"],
-    ], [1.1*inch, 3.15*inch, 3.35*inch],
+        ["",              "Black Garlic (bowl)",                      "Rested Raw Garlic (beans)"],
+        [b("Compound"),    b("SAC — heat-stable, long half-life"),     b("Allicin — rest 10 min after crush")],
+        [b("Mechanism"),   "Sustained H₂S · antioxidant · cardiovascular", "Acute anti-platelet · immediate H₂S"],
+        [b("Use"),         "2–3 cloves sliced into yogurt (or chaas)", "Day-of fat bloom — never freeze before rest"],
+    ], [1.1*inch, 3.25*inch, 3.25*inch],
     [("BACKGROUND", (0,1), (-1,1), MINT),
-     ("BACKGROUND", (0,3), (-1,3), MINT),
-     ("BACKGROUND", (0,5), (-1,5), MINT)]))
-
-    s.append(Spacer(1, 4))
-    s.append(Paragraph(
-        "These are different compounds with different mechanisms — no redundancy. "
-        "Run both: black garlic in the bowl (daily), rested garlic cubes in the beans (day-of).", NOTE))
+     ("BACKGROUND", (0,3), (-1,3), MINT)]))
 
     _build(d, s)
-    print("✓ 15-recovery-bowl.pdf  (duplex: base bowl + day rules / chaas + black garlic)")
+    print("✓ 15-recovery-bowl.pdf  (duplex: bowl+phantom sweetness+cacao / aambali+day rules+chaas)")
 
 # ─────────────────────────────────────────────────────────────────────────────
 
