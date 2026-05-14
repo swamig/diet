@@ -85,16 +85,16 @@ def tbl(rows, col_widths, cmds=None):
     return t
 
 # ── QR code + footer ──────────────────────────────────────────────────────────
-GITHUB_URL = "https://github.com/swamig/bluevedaprotocol"
+GITHUB_BASE = "https://github.com/swamig/bluevedaprotocol"
 
-def _build_qr_file():
+def _make_qr(url):
     qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_M,
         box_size=6,
         border=1,
     )
-    qr.add_data(GITHUB_URL)
+    qr.add_data(url)
     qr.make(fit=True)
     img = qr.make_image(fill_color="black", back_color="white")
     tmp = tempfile.NamedTemporaryFile(suffix=".png", delete=False)
@@ -102,30 +102,30 @@ def _build_qr_file():
     tmp.close()
     return tmp.name
 
-_QR_PATH = _build_qr_file()
-
-def _footer(canvas, doc):
-    canvas.saveState()
-    w_page = doc.pagesize[0]
-    lm = doc.leftMargin
-    rm = doc.rightMargin
-    qr_size = 0.48 * inch
-    footer_y = 0.22 * inch
-    line_y   = 0.42 * inch
-    canvas.setStrokeColor(colors.HexColor("#bbbbbb"))
-    canvas.setLineWidth(0.5)
-    canvas.line(lm, line_y, w_page - rm, line_y)
-    canvas.setFont("Helvetica", 8)
-    canvas.setFillColor(colors.HexColor("#555555"))
-    canvas.drawString(lm, footer_y, GITHUB_URL)
-    canvas.drawImage(
-        _QR_PATH,
-        w_page - rm - qr_size,
-        0.04 * inch,
-        width=qr_size, height=qr_size,
-        preserveAspectRatio=True,
-    )
-    canvas.restoreState()
+def _make_footer(qr_path, url):
+    def _footer(canvas, doc):
+        canvas.saveState()
+        w_page = doc.pagesize[0]
+        lm = doc.leftMargin
+        rm = doc.rightMargin
+        qr_size = 0.48 * inch
+        footer_y = 0.22 * inch
+        line_y   = 0.42 * inch
+        canvas.setStrokeColor(colors.HexColor("#bbbbbb"))
+        canvas.setLineWidth(0.5)
+        canvas.line(lm, line_y, w_page - rm, line_y)
+        canvas.setFont("Helvetica", 8)
+        canvas.setFillColor(colors.HexColor("#555555"))
+        canvas.drawString(lm, footer_y, url)
+        canvas.drawImage(
+            qr_path,
+            w_page - rm - qr_size,
+            0.04 * inch,
+            width=qr_size, height=qr_size,
+            preserveAspectRatio=True,
+        )
+        canvas.restoreState()
+    return _footer
 
 def mk_doc(path, margins=0.55):
     m = margins * inch
@@ -133,8 +133,16 @@ def mk_doc(path, margins=0.55):
                              leftMargin=m, rightMargin=m,
                              topMargin=m, bottomMargin=0.65 * inch)
 
-def _build(doc, story):
-    doc.build(story, onFirstPage=_footer, onLaterPages=_footer)
+def _build(doc, story, url):
+    qr_path = _make_qr(url)
+    footer = _make_footer(qr_path, url)
+    try:
+        doc.build(story, onFirstPage=footer, onLaterPages=footer)
+    finally:
+        try:
+            os.unlink(qr_path)
+        except OSError:
+            pass
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 1 — Produce Cleaning
@@ -185,7 +193,7 @@ def card_produce():
         "Kale · Arugula · Spinach · Blueberries · Strawberries · Peaches · "
         "Pears · Nectarines · Apples · Grapes · Bell Peppers · Cherries", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/produce-cleaning.md")
     print("✓ 01-produce-cleaning.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -238,7 +246,7 @@ def card_dressing():
         "If you add Coconut Milk to your 12:00 Chaas, subtract 1–2 tbsp oil from "
         "the 14:30 dressing to keep total lipid load balanced.", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/daily-salad-layer.md")
     print("✓ 02-salad-dressing.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -293,7 +301,7 @@ def card_salad():
         "⚠  Never put seeds in the 17:30 post-workout shake — "
         "mucilage gel slows protein absorption.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/daily-salad-layer.md")
     print("✓ 03-salad-assembly.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -341,7 +349,7 @@ def card_timing():
         "⚠  NEVER cold plunge immediately after a heavy lift — "
         "blunts mTOR / growth signal. Keep cold exposure to 06:30 AM only.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/07-appendices/daily-timing-cheat-sheet.md")
     print("✓ 04-daily-timing.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -389,7 +397,7 @@ def card_morning_drink():
         "Pre-portion 7 small containers on Sunday — each holds one day's base spice. "
         "Alternates automatically. Add 1 tsp Matcha to each pack if using.", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-matcha.md")
     print("✓ 05-morning-drink.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -489,7 +497,7 @@ def card_batch_flip():
         "Cumin powder (~100g), Coriander powder (~100g), Black pepper whole (~100g), "
         "Ajwain (~50g), Nigella (~50g), Mustard seeds (~50g), Hing (~10g).", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/three-week-batch.md")
     print("✓ 06-batch-session.pdf  (duplex: front=3-week, back=3-month)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -563,7 +571,7 @@ def card_tofu():
         "At 00:25: add 2–3 tbsp coconut milk, stir 30–60 sec into a glaze. "
         "Subtract 1 tbsp oil from the 14:30 salad dressing (Lipid Substitution Rule).", BODY))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-tofu.md")
     print("✓ 07-tofu-prep.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -635,7 +643,7 @@ def card_rotations():
         "⚠  Daily anchors never rotate: Broccoli microgreens · Fresh cilantro · "
         "Turmeric + black pepper · Ginger · Brazil nut (1–2/day).", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/07-appendices/daily-timing-cheat-sheet.md")
     print("✓ 08-rotations.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -730,7 +738,7 @@ def card_skincare():
         "Bay leaf ¼ tsp max — sensitizer at high dose. "
         "Turmeric stains hair yellow — omit or 1/8 tsp max.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/topical-protocols.md")
     print("✓ 09-skincare.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -837,7 +845,7 @@ def card_workout():
         "core cooling triggers the sustained dopamine/noradrenaline spike and BAT activation. "
         "Cryo creates an insulating skin boundary layer and cannot replicate this.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/04-advanced-control/training-hormesis-integration.md")
     print("✓ 10-workout.pdf  (duplex: front=weekly split, back=yoga+thermal)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1002,7 +1010,7 @@ def card_chutney():
     ], [2.5*inch, 1.5*inch, 2.55*inch],
     [("BACKGROUND", (0,5), (-1,5), AMBER)]))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/coconut-chutney.md")
     print("✓ 11-chutney-prep.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1077,7 +1085,7 @@ def card_ginger_storage():
         "⚠  Blanching cilantro + mint: 10 seconds only — stops browning (PPO deactivation) "
         "without cooking the herb. Longer exposure degrades the chelation compounds.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/master-batch-prep.md")
     print("✓ 12-ginger-storage.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1190,7 +1198,7 @@ def card_imli_chutney():
         "⚠  Cool COMPLETELY before portioning — hot chutney in ice trays cracks the tray. "
         "Tropica concentrate is 3–4× more potent than raw block tamarind — never substitute 1:1.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/tamarind-chutney.md")
     print("✓ 13-imli-chutney.pdf  (duplex: single recipe / 24 qt 3-month batch)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1306,7 +1314,7 @@ def card_black_beans():
         "Reheat gently on low (warm to touch). "
         "Salt LAST 15 MIN during boil — early salt toughens skins and slows cooking by 20–30%.", WARN_S))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-blackbeans.md")
     print("✓ 14-black-beans.pdf  (duplex: soak+boil / anthocyanin+day-of)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1421,7 +1429,7 @@ def card_recovery_bowl():
     [("BACKGROUND", (0,1), (-1,1), MINT),
      ("BACKGROUND", (0,3), (-1,3), MINT)]))
 
-    _build(d, s)
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/recovery-bowl.md")
     print("✓ 15-recovery-bowl.pdf  (duplex: bowl+phantom sweetness+cacao / aambali+day rules+chaas)")
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1444,9 +1452,3 @@ if __name__ == "__main__":
     card_black_beans()
     card_recovery_bowl()
     print("\nAll 15 fridge cards written to fridge-sheets/")
-
-    # Clean up temp QR file
-    try:
-        os.unlink(_QR_PATH)
-    except OSError:
-        pass
