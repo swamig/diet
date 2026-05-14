@@ -264,14 +264,16 @@ def card_salad():
         ["Layer",             "What",                              "Amount"],
         [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
         [b("② Anchors"),      b("Broccoli Sprouts"),               "1 cup"],
-        ["",                  "Fresh Cilantro",                    "¼ cup"],
+        ["",                  b("Fresh Cilantro"),                 b("¼ cup")],
+        ["",                  sm("Chlorella powder (broken cell wall)\noptional — 3 weeks on / 1 week off"), sm("3–5g\nStart 1–2g first 3 days then escalate\nHeavy metal binder + direct EPA/DHA")],
         [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
         [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
         [b("⑤ Dressing"),     "Master dressing from fridge jar",   "4 tbsp"],
         [w("⑥ Activate"),     w("Turmeric (ground)"),              w("½ tsp")],
         ["",                  w("Black Pepper — grind FRESH"),     w("¼ tsp")],
     ], [1.3*inch, 3.3*inch, 1.8*inch],
-    [("BACKGROUND", (0,7), (-1,8), AMBER)]))
+    [("BACKGROUND", (0,4), (-1,4), MINT),
+     ("BACKGROUND", (0,8), (-1,9), AMBER)]))
     s.append(Spacer(1, 5))
     s.append(Paragraph("* Kale: massage with lemon + salt 60 sec to break cell walls.", NOTE))
     s.append(Paragraph(
@@ -458,20 +460,22 @@ def card_batch_flip():
 
     s.append(Paragraph("Day 1 — Cook & Chill (~4h active)", H2))
     s.append(tbl([
-        ["Order", "Task",                                                          "RS3 Rule"],
+        ["Order", "Task",                                                          "RS3 / Chill Rule"],
         [b("1st"), "Cook chickpeas + black beans — pressure cook or boil until tender", w("CHILL 24h in fridge before freezing")],
         [b("2nd"), "Cook quinoa — 1 cup dry : 1.75 cups water, simmer 12 min, spread thin in 88oz Pyrex", w("CHILL 24h in fridge before freezing")],
         [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
-        [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
-        [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
-        [b("6th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
-        [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
-    ], [0.5*inch, 4.2*inch, 2.85*inch],
-    [("BACKGROUND", (0,1), (-1,3), AMBER)]))
+        [b("4th"), "Aambali — 5 pot batches: 4 cups ragi flour + 14–16 cups cold water per pot\n→ whisk → medium heat → stir constantly ~10 min until thick + glossy → spread in glass containers", w("CHILL 24h — spices + portioning happens Day 2")],
+        [b("5th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
+        [b("6th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
+        [b("7th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
+        [b("8th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
+    ], [0.5*inch, 4.1*inch, 2.95*inch],
+    [("BACKGROUND", (0,1), (-1,4), AMBER)]))
 
     s.append(Paragraph("Day 2 — Portion & Freeze (~2h)", H2))
     s.append(tbl([
         ["Task",                                         "Portion",       "Into"],
+        [b("Aambali — finish + portion"),                sm("Whisk ½ tsp cumin + ¼ tsp black salt per serving into cold paste → scoop ½ cup per muffin mold → freeze 4h → bag"), sm("Silicone muffin molds\n→ zip-lock 'Aambali Base'\n~90 cubes total")],
         [b("Chickpeas"),                                  "1.5 cups cooked","Flat freezer bags"],
         [b("Black beans"),                                "1.5 cups cooked","Flat freezer bags"],
         [b("Quinoa"),                                     "½ cup cooked",  "Flat freezer bags"],
@@ -481,7 +485,8 @@ def card_batch_flip():
         [b("Cilantro — blanch 10–15 sec then freeze"),   "15 large bunches","Bags by batch"],
         [b("Mint — blanch 10–15 sec then freeze"),        "8 large bunches","Bags by batch"],
         [b("Chilies — freeze whole"),                     "All varieties", "Labeled bags"],
-    ], [3.3*inch, 1.8*inch, 2.45*inch]))
+    ], [3.1*inch, 2.0*inch, 2.45*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
