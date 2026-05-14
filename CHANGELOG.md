@@ -11,6 +11,41 @@ This document tracks the evolution of the High Signaling Performance Manual. It 
 
 ## Recent Updates (Last 50 Commits)
 
+- **2026-05-08 22:14** | [3697cc0](https://github.com/swamig/bluevedaprotocol/commit/3697cc0997a6399790431e72b948f2451a8194b4) | docs(protocol-tofu): add full tofu prep document
+- **2026-05-08 22:07** | [11e49df](https://github.com/swamig/bluevedaprotocol/commit/11e49dfe56d2bf43fe12af992a8eb550b8a2a0b1) | docs(produce-cleaning, sunday-prep): add blanching protocol + tofu salt brine
+- **2026-05-08 22:03** | [318dc12](https://github.com/swamig/bluevedaprotocol/commit/318dc127f391f56643d25de6ea85b2a365d38089) | docs(produce-cleaning): add single-use rule for baking soda and acid baths
+- **2026-05-08 15:06** | [92bb4c9](https://github.com/swamig/bluevedaprotocol/commit/92bb4c97d81aa39642fd94230e91f1e2de31e2c0) | docs(protocol): add missing doses, thresholds, bloodwork triggers + citations across 7 files
+- **2026-05-08 14:21** | [a83943e](https://github.com/swamig/bluevedaprotocol/commit/a83943e10f2b281e242f9c37ea00d848349903c3) | docs(supplement-cycling): add vitamin D3 dose range, K2 pairing, and bloodwork trigger
+- **2026-05-08 14:17** | [59f94af](https://github.com/swamig/bluevedaprotocol/commit/59f94af0d82b1cbb4d1d52c91d79084ec7fc597d) | docs(citations): fix overstatements + add missing citations across procedure files
+- **2026-05-08 09:46** | [a2ab9ca](https://github.com/swamig/bluevedaprotocol/commit/a2ab9ca56299f77f6d7999ab96623880093e0fd5) | docs(citations): add vinegar acid rinse citations to master-citations + fix inline links
+- **2026-05-08 09:22** | [f1c6987](https://github.com/swamig/bluevedaprotocol/commit/f1c698749325381545cd979db7685fb9dc2d8d91) | docs(produce-cleaning): clarify baking soda dose as 1/4 tsp per cup
+- **2026-05-08 09:21** | [e5effd7](https://github.com/swamig/bluevedaprotocol/commit/e5effd7316a60813485b420787eb62bb2cd44b3c) | docs(produce-cleaning): add duration + citations for acid rinse step
+- **2026-05-08 09:19** | [0d96c43](https://github.com/swamig/bluevedaprotocol/commit/0d96c437dd405f3f5a59d1b81759a09fc8ba5c51) | docs(ginger-cubes): add Vitamix paste method + matcha temperature regulator use
+- **2026-05-07 22:45** | [5fb0c1a](https://github.com/swamig/bluevedaprotocol/commit/5fb0c1ab534d912318ad4d0d35ba0993153ad287) | docs(three-week-batch): scale mint muddle to 21 cubes (1/day, full 3-week supply)
+- **2026-05-06 17:10** | [f395fc2](https://github.com/swamig/bluevedaprotocol/commit/f395fc258cbe690da7bf5aedb8635dca2452c74f) | docs(aambali): add ragi muffin base method + confirm 17:50 recovery bowl pairing
+- **2026-05-06 15:11** | [e15ef54](https://github.com/swamig/bluevedaprotocol/commit/e15ef549987ddef03b6db38afc1403f184453336) | SOP: add shake-peel method for garlic + no-peel note for ginger
+- **2026-05-06 15:09** | [692d133](https://github.com/swamig/bluevedaprotocol/commit/692d1332e39326d52368a260ad13013eb0886667) | SOP: add imli + aloe + lemon confirmation block before simmer window
+- **2026-05-06 15:08** | [6b819d8](https://github.com/swamig/bluevedaprotocol/commit/6b819d81e4d56fe50b9804cb04419ccb3f1ecc22) | SOP: add chili food processor step + KitchenAid to tool legend
+- **2026-05-06 15:03** | [6c147ad](https://github.com/swamig/bluevedaprotocol/commit/6c147ad0cc0e1d21fa9274abb2a99e6ecbc3baa7) | fix SOP simmer window: full 3-tool blender sequence with skincare
+- **2026-05-06 15:02** | [c80b3ab](https://github.com/swamig/bluevedaprotocol/commit/c80b3abd3bc0bc65f60bed671c07e6390c00ba7f) | encode omega-3 stack calculation into protocol pages
+- **2026-05-06 12:37** | [b12d252](https://github.com/swamig/bluevedaprotocol/commit/b12d252efaa3de699b8070405871de92010ef192) | equipment + SOP: fix tray count to 26, add food processor, ingredient list, cube transfer
+- **2026-05-06 12:37** | [9f8fba6](https://github.com/swamig/bluevedaprotocol/commit/9f8fba6514713d2df00e5b7f8ce46fc118271a44) | omega-3 stack overhaul: chia recovery bowl anchor + workout-day basil seed rotation
+- **2026-05-06 08:58** | [ac3f7fb](https://github.com/swamig/bluevedaprotocol/commit/ac3f7fbd4949ab9a684f25f1e2babb2c9c5d3805) | add fenugreek paste + aloe topical refresh to 3-week session
+- **2026-05-06 08:58** | [33923db](https://github.com/swamig/bluevedaprotocol/commit/33923dba015a73bc9da31fe8eac08e0b6481bea4) | overhaul skincare section in SOP with full procedures and quantities
+- **2026-05-06 08:55** | [f14eb0f](https://github.com/swamig/bluevedaprotocol/commit/f14eb0f37c17812c12b006cca9837699a372ebc4) | move mint muddle to 3-week session; remove from monthly tasks
+- **2026-05-06 08:51** | [dc2b0b2](https://github.com/swamig/bluevedaprotocol/commit/dc2b0b2d6723a71d6b2aefcc317a6be13fbc3e0c) | restructure SOP by cadence; update equipment for combined session; eliminate mixing bowls
+- **2026-05-06 08:49** | [8b0d45b](https://github.com/swamig/bluevedaprotocol/commit/8b0d45b78a41e9c44034f6d1faa267eb068bfec5) | fix tadka portioning: pre-chop curry leaves + chili, mini cube tray, session timeline
+- **2026-05-06 08:47** | [d3cf93e](https://github.com/swamig/bluevedaprotocol/commit/d3cf93eebda81115355e7cd7bbfce036cfc6fc49) | fix curry leaf tadka recipe quantities and cube sizing
+- **2026-05-06 08:43** | [8e31c48](https://github.com/swamig/bluevedaprotocol/commit/8e31c48be0dfd6d6a1d778db8a3dfd8f32cdec2b) | add biochemical rationale for curry leaf tadka antioxidant preservation
+- **2026-05-06 08:41** | [95514a2](https://github.com/swamig/bluevedaprotocol/commit/95514a2b8480fd1812b23eae0531bacb2b0688b0) | add curry leaf tadka to 3-week batch session
+- **2026-05-06 08:39** | [418c21b](https://github.com/swamig/bluevedaprotocol/commit/418c21b3617589b71620083e3fe8504db72eec3d) | add yogurt recovery bowl to daily and weekly prep breakdown
+- **2026-05-06 08:38** | [7d7b29c](https://github.com/swamig/bluevedaprotocol/commit/7d7b29c545b54aee3589aad20fe85e3b23bb68b3) | add prep-time-overview.md — full cadence breakdown with time estimates
+- **2026-05-06 08:36** | [cb01add](https://github.com/swamig/bluevedaprotocol/commit/cb01add387402a0e315659172e433ab68c7d5b81) | update SOP: 2h simmer, mixer sequencing, patties, samosa dough, sweet potato, skincare
+- **2026-05-06 08:24** | [a34aea5](https://github.com/swamig/bluevedaprotocol/commit/a34aea5a1c942abb3ca4448d8533e703fbbb6ec8) | add weekly freeze-thaw RS3 boost cycle to freeze system
+- **2026-05-06 08:21** | [26b2b72](https://github.com/swamig/bluevedaprotocol/commit/26b2b72e55d7a8c84e32fc07be0c0ff6b7163817) | add hired-help batch SOP; codify single-chill assembled batch method
+- **2026-05-06 08:13** | [1e5a11b](https://github.com/swamig/bluevedaprotocol/commit/1e5a11b2efa058516bc938301ff9aaaf3c0b560e) | docs(batch): add parallel execution plan, equipment gaps, fridge/tray requirements
+- **2026-05-06 08:08** | [ebc8a5e](https://github.com/swamig/bluevedaprotocol/commit/ebc8a5e3cea6bab3baa2d89d8994b95666fd0851) | docs(garlic): codify frozen whole clove storage, shelf life, and day-of bloom protocol
+- **2026-05-05 22:45** | [a4ea0f6](https://github.com/swamig/bluevedaprotocol/commit/a4ea0f6eed235c5c2309136648d2a7b585287f58) | docs(citations): add links, fix broken anchors, update changelog, remove stale scripts
 - **2026-05-04 19:29** | [3d37860](https://github.com/swamig/bluevedaprotocol/commit/3d3786059163a11aae3cd0a015defe0c0977a790) | docs(aambali): move spice addition to after 24h chill, before portioning
 - **2026-05-04 19:04** | [a30103d](https://github.com/swamig/bluevedaprotocol/commit/a30103d462138240c7ce8a2fe958dbf04444143a) | docs(aambali): add spices to cooking water, not per-mold — simpler and more even
 - **2026-05-04 18:42** | [f726a07](https://github.com/swamig/bluevedaprotocol/commit/f726a07740fe4bb1a540fe2581f481ccc4074f01) | docs(aambali): correct wet batter cook time to 10-15 min (empirical)
