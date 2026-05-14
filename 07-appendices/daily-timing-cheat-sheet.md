@@ -67,6 +67,15 @@ This is the compressed version of the daily rhythm used across the 28-day cycle.
 | **Tulsi infusion** | Lower-stimulation recovery nights |
 | **Saffron infusion** | Parasympathetic emphasis and end-of-day downshift |
 
+## Midday Heat Pulse — Garlic & Capsaicin Cadence (12:00)
+
+| Compound | Cadence | Rule |
+| :--- | :--- | :--- |
+| **Raw garlic (allicin)** | Daily — 12:00 meal | Crush · rest 10 min before any heat. Allicin forms at room temp — add to heat immediately and it's destroyed. |
+| **Thai bird's eye chili** | Daily — jaljeera + sear | Standard TRPV1 activation. Consistent, not rotated. |
+| **Habanero (peak TRPV1)** | Lift days M/W/F only | Max capsaicinoid density — ¼–½ habanero in sear or samosa. Heavy lift days only. |
+| **Tofu TRP peak** | 2×/week — tofu days | Extra chili in sear + jaljeera chili + menthol = peak TRPV1+TRPM8 synergy. Do not replicate daily. |
+
 ## When to Reopen a Full Day Page
 
 - A day includes explicit exclusions like "no cacao" or "no pomegranate."
