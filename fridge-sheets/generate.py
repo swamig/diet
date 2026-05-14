@@ -1310,6 +1310,122 @@ def card_black_beans():
     print("✓ 14-black-beans.pdf  (duplex: soak+boil / anthocyanin+day-of)")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 15 — Recovery Bowl (17:50)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def card_recovery_bowl():
+    d = mk_doc("fridge-sheets/15-recovery-bowl.pdf")
+    s = []
+    s.append(Paragraph("Recovery Bowl — 17:50", TITLE))
+    s.append(Paragraph("Casein anchor · yogurt-berry base · phantom sweetness", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Base Bowl", H2))
+    s.append(tbl([
+        ["Ingredient",                        "Amount",                    "Role"],
+        [b("Full-fat Greek yogurt"),           b("200g (~¾ cup)"),         "Casein anchor + calcium shield (~200mg Ca)"],
+        [b("Blueberries"),                     b("¾ cup"),                 "Anthocyanin + polyphenol pulse"],
+        [b("Casein protein\n(or pea + rice protein)"), b("1 scoop"),      "Slow-release MPS overnight — pea/rice combo is full vegan equivalent"],
+        [b("Black bean liquid"),               sm("2 tbsp (frozen cube)\noptional"),  sm("Cyanidin-3-glucoside boost — the purple cooking liquid from batch")],
+        [b("Black garlic"),                    b("2–3 cloves, sliced"),    "SAC — sustained cardiovascular protection"],
+    ], [2.0*inch, 1.9*inch, 3.7*inch],
+    [("BACKGROUND", (0,4), (-1,4), MINT),
+     ("BACKGROUND", (0,5), (-1,5), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② Phantom Sweetness Stack", H2))
+    s.append(tbl([
+        ["Spice",                                    "Amount",              "Why"],
+        [b("Ceylon Cinnamon"),                        b("pinch (~⅛ tsp)"),  "Glycemic anchor · olfactory sweetness signal"],
+        [b("Cardamom (ground)"),                      b("pinch"),           "Parasympathetic calm · neuro-modulator"],
+        [b("Nutmeg (fresh-grated preferred)"),        b("pinch"),           "Warming aromatic depth"],
+        [w("Pure Madagascar Vanilla Extract"),        w("¼ tsp\nCACAO DAYS ONLY"),
+         sm("Anti-mutagenic vanillin · phantom sweetness\nPaired with cacao — NOT a daily baseline")],
+    ], [2.3*inch, 1.6*inch, 3.7*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Olfactory sweetness trick: these compounds signal sweetness to the brain via aroma "
+        "without triggering an insulin response. No sugar, no stevia, no artificial sweeteners.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Cacao Rule — 2–3× per week MAX, never daily", H2))
+    s.append(tbl([
+        ["Rule",                                    "Detail"],
+        [b("Amount"),                                "½–1 tsp raw cacao nibs stirred into bowl"],
+        [b("Calcium shield"),                        b("Greek yogurt MUST be in the bowl — ~200mg Ca binds cacao oxalates in the gut before kidneys")],
+        [b("Vanilla pairing"),                       "Vanilla Extract goes in ON CACAO DAYS — not daily (prevents receptor downregulation)"],
+        [w("Chocolate whey day"),                   w("Skip raw cacao nibs — chocolate whey already counts as one cacao exposure")],
+    ], [1.9*inch, 5.7*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER),
+     ("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Recovery Bowl (continued)", TITLE))
+    s.append(Paragraph("Day-type rules · savory chaas variant · conflict rules", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("④ Day-Type Rules", H2))
+    s.append(tbl([
+        ["Day Type",              "Casein",               "Notes"],
+        [b("Training day"),       b("1 scoop"),            "Full bowl — casein + berries + phantom sweetness"],
+        [b("Rest / Cardio day"),  w("SKIP casein scoop"), "Yogurt + berries + cinnamon + cardamom + nutmeg only"],
+        [b("Missed 17:30 window"), b("+ 1 scoop\nUnflavored Whey"), "Add unflavored whey on top of casein if post-workout window was missed"],
+    ], [1.9*inch, 1.8*inch, 3.95*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑤ Savory Chaas Variant (hot weather / digestive rest)", H2))
+    s.append(Paragraph(
+        "Replaces the sweet bowl entirely. Blend all together until smooth:", BODY))
+    s.append(tbl([
+        ["Ingredient",             "Amount"],
+        [b("Greek yogurt"),         b("100g")],
+        [b("Cold water"),           b("½ cup")],
+        [b("Roasted cumin powder"), b("¼ tsp")],
+        [b("Black salt (kala namak)"), b("pinch")],
+        [b("Unflavored protein"),   b("1 scoop")],
+        [w("MUST NOT be spicy"),    w("No chili · no hing · no pepper — no exceptions")],
+    ], [2.2*inch, 5.4*inch],
+    [("BACKGROUND", (0,6), (-1,6), AMBER)]))
+
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Chaas is gut-safe on hard days. The tangy + cumin profile "
+        "satisfies the recovery-signal without heaviness. "
+        "Unflavored protein keeps it savory — flavored whey wrecks the profile.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑥ Black Garlic — Why It's Here", H2))
+    s.append(tbl([
+        ["",         "Black Garlic (SAC)",                            "Raw Rested Garlic (Allicin)"],
+        [b("Compound"), b("S-allyl cysteine (SAC)"),                 b("Allicin — formed after 10-min rest")],
+        [b("Heat stable"), "Yes — survives cooking, survives the bowl", "No — degrades above 60°C / 140°F"],
+        [b("Mechanism"), "H₂S donor · antioxidant · long half-life cardiovascular protection",
+         "Acute H₂S generation · anti-platelet · immediate signal"],
+        [b("Source"), "Fermented 3–4 weeks at 140–170°F in rice cooker (set to Keep Warm)",
+         "Frozen rested-garlic cubes — day-of only"],
+        [b("Protocol use"), "Slice 2–3 cloves directly into yogurt bowl\nOR mince into chaas", "Day-of fat bloom with beans"],
+    ], [1.1*inch, 3.15*inch, 3.35*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT),
+     ("BACKGROUND", (0,3), (-1,3), MINT),
+     ("BACKGROUND", (0,5), (-1,5), MINT)]))
+
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "These are different compounds with different mechanisms — no redundancy. "
+        "Run both: black garlic in the bowl (daily), rested garlic cubes in the beans (day-of).", NOTE))
+
+    _build(d, s)
+    print("✓ 15-recovery-bowl.pdf  (duplex: base bowl + day rules / chaas + black garlic)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1327,7 +1443,8 @@ if __name__ == "__main__":
     card_ginger_storage()
     card_imli_chutney()
     card_black_beans()
-    print("\nAll 14 fridge cards written to fridge-sheets/")
+    card_recovery_bowl()
+    print("\nAll 15 fridge cards written to fridge-sheets/")
 
     # Clean up temp QR file
     try:
