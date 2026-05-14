@@ -665,6 +665,21 @@ def card_skincare():
     [("ALIGN", (1,0), (3,2), "CENTER")]))
 
     s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Day-Of Assembly — 2 Minutes (Always Fresh)", H2))
+    s.append(tbl([
+        ["Step",                "Action"],
+        [b("Night before\n(or 30 min before)"), "Move 1–2 aloe cubes + 1 fenugreek cube (hair only) from freezer to fridge to thaw."],
+        [b("At time of use"),   "Scoop dry mix from jar → add thawed cubes → add oil → mix into paste. Done."],
+        [w("Never pre-assemble"), w("Wet + dry combined will ferment within hours even refrigerated.\nAssemble only when you're about to apply. No weekly batch of mixed paste.")],
+    ], [1.7*inch, 5.9*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "The 2-minute prep IS the batch payoff — the heavy work (jars + cubes) is already done. "
+        "You are just scooping and combining.", NOTE))
+
+    s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
     s.append(Paragraph("Per-Application Recipe", H2))
     s.append(tbl([
