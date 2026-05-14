@@ -263,17 +263,15 @@ def card_salad():
     s.append(tbl([
         ["Layer",             "What",                              "Amount"],
         [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
-        [b("② Anchors"),      b("Broccoli Sprouts"),               "1 cup"],
-        ["",                  b("Fresh Cilantro"),                 b("¼ cup")],
-        ["",                  sm("Chlorella powder (broken cell wall)\noptional — 3 weeks on / 1 week off"), sm("3–5g\nStart 1–2g first 3 days then escalate\nHeavy metal binder + direct EPA/DHA")],
+        [b("② Anchors"),      b("Broccoli Sprouts"),                "1 cup"],
+        ["",                  "Fresh Cilantro",                    "¼ cup"],
         [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
         [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
         [b("⑤ Dressing"),     "Master dressing from fridge jar",   "4 tbsp"],
         [w("⑥ Activate"),     w("Turmeric (ground)"),              w("½ tsp")],
         ["",                  w("Black Pepper — grind FRESH"),     w("¼ tsp")],
     ], [1.3*inch, 3.3*inch, 1.8*inch],
-    [("BACKGROUND", (0,4), (-1,4), MINT),
-     ("BACKGROUND", (0,8), (-1,9), AMBER)]))
+    [("BACKGROUND", (0,7), (-1,8), AMBER)]))
     s.append(Spacer(1, 5))
     s.append(Paragraph("* Kale: massage with lemon + salt 60 sec to break cell walls.", NOTE))
     s.append(Paragraph(
@@ -381,18 +379,6 @@ def card_morning_drink():
         [b("Star Anise"),              "1 whole",  "Antiviral pulse\n(rotator)","Add to steep — strong flavour, use sparingly"],
     ], [1.8*inch, 0.9*inch, 1.4*inch, 3.45*inch]))
 
-    s.append(Spacer(1, 10))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    s.append(Paragraph("Optional — MudWtr Matcha :rise (mushroom swap)", H2))
-    s.append(tbl([
-        ["Rule",         "Detail"],
-        [b("What it is"), "Matcha + lion's mane + chaga + reishi + cordyceps (3,000mg) + chai spices. No turmeric, no cacao."],
-        [b("How to use"), "1 tbsp in warm water (~80°C). Whisk or froth. REPLACES plain matcha — do not add matcha powder on top."],
-        [b("When"),       "Any day that would be a matcha day. No extra cycling rules. Entirely optional — jeera/ajwain remain the defaults."],
-        [w("Same rules apply"), w("10:00 tannin deadline · warm start (not boiling) · fatigue failsafe: if fried, drop to plain jeera")],
-    ], [1.5*inch, 6.1*inch],
-    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
-
     s.append(Spacer(1, 14))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
     s.append(Paragraph(
@@ -411,8 +397,55 @@ def card_morning_drink():
         "Pre-portion 7 small containers on Sunday — each holds one day's base spice. "
         "Alternates automatically. Add 1 tsp Matcha to each pack if using.", BODY))
 
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Signal Rotation Schedule (weekly pattern)", H2))
+    s.append(tbl([
+        ["Rotation",              "Freq",           "Spice Focus",                   "Goal"],
+        [b("Baseline"),           b("3 days/week"), "Plain matcha or jeera only",    "Baseline fat-oxidation (EGCG). No add-ons."],
+        [b("Agni Pulse"),         b("2 days/week"), "Ginger ¼ inch + Cardamom 1 pod (crushed)", "High digestive fire + anti-nausea. Add to steep."],
+        [b("Antiviral Pulse"),    b("2 days/week"), w("Clove 1 whole — Week 2 only"),w("Eugenol pulse + immune support. Week 2 matcha days only.")],
+    ], [1.5*inch, 1.1*inch, 2.3*inch, 2.65*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Rotate to prevent receptor down-regulation (signaling fatigue). "
+        "Never use clove daily — eugenol accumulates.", NOTE))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Morning Drink (continued)", TITLE))
+    s.append(Paragraph("Ginger logic · MudWtr Matcha :rise swap", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+
+    s.append(Paragraph("Ginger Logic — Fasted vs. Fed", H2))
+    s.append(tbl([
+        ["Window",               "Dose",              "Mechanism",                          "Rule"],
+        [b("Morning matcha\n09:15 (fasted)"), b("¼ inch coin"),  "Stimulates Migrating Motor Complex (MMC) — gut housekeeping wave on empty stomach", "Rotate — prevents gut reliance on external motility signal"],
+        [b("Midday jaljeera\n12:00 (fed)"),   b("⅓ thumb knob"), "Enzymatic support — assists immediate protein breakdown (especially meat days)",       "Consistent daily — structural digestion, not autonomic"],
+    ], [1.6*inch, 1.0*inch, 2.9*inch, 2.1*inch]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("MudWtr Matcha :rise — Optional Mushroom Swap ★", H2))
+    s.append(tbl([
+        ["",             "Detail"],
+        [b("What it is"),  "Swap for plain matcha on any matcha day — not an add-on. Do not add matcha powder on top."],
+        [b("Prep"),        "1 tbsp in warm water (~80°C / 175°F). Whisk or froth. No separate spice extraction needed."],
+        [b("What it adds"), "3,000mg mushroom blend: lion's mane + chaga + reishi + cordyceps. Chai layer: ginger, black pepper, cardamom."],
+        [b("Conflicts"),   w("None — no turmeric, no cacao. Zero new cycling rules. Entirely optional.")],
+        [b("Same rules"),  "10:00 tannin deadline still applies · warm start (not boiling) · fatigue failsafe: if fried, skip to plain jeera"],
+    ], [1.3*inch, 6.3*inch],
+    [("BACKGROUND", (0,4), (-1,4), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Fatigue failsafe: if you wake up feeling fried or stress is high, skip everything — matcha, spices, MudWtr. "
+        "Replace with plain warm jeera water to protect your adrenals.", WARN_S))
+
     _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/protocol-matcha.md")
-    print("✓ 05-morning-drink.pdf")
+    print("✓ 05-morning-drink.pdf  (duplex: ajwain/jeera+upgrades+rotation / ginger logic+mudwtr swap)")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 6 — Batch Session Flip (front=3-week, back=3-month)
@@ -472,22 +505,20 @@ def card_batch_flip():
 
     s.append(Paragraph("Day 1 — Cook & Chill (~4h active)", H2))
     s.append(tbl([
-        ["Order", "Task",                                                          "RS3 / Chill Rule"],
+        ["Order", "Task",                                                          "RS3 Rule"],
         [b("1st"), "Cook chickpeas + black beans — pressure cook or boil until tender", w("CHILL 24h in fridge before freezing")],
         [b("2nd"), "Cook quinoa — 1 cup dry : 1.75 cups water, simmer 12 min, spread thin in 88oz Pyrex", w("CHILL 24h in fridge before freezing")],
         [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
-        [b("4th"), "Aambali — 5 pot batches: 4 cups ragi flour + 14–16 cups cold water per pot\n→ whisk → medium heat → stir constantly ~10 min until thick + glossy → spread in glass containers", w("CHILL 24h — spices + portioning happens Day 2")],
-        [b("5th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
-        [b("6th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
-        [b("7th"), "Imli-Khajur chutney — Medjool dates + Tropica tamarind\n→ blend → 24 qt pot → cook 15–20 min → cool → freeze (card 13)", "~96 cubes"],
-        [b("8th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
-    ], [0.5*inch, 4.1*inch, 2.95*inch],
-    [("BACKGROUND", (0,1), (-1,4), AMBER)]))
+        [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
+        [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
+        [b("6th"), "Make imli (tamarind) cubes — 1 tray, freeze",                  "No chill needed"],
+        [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
+    ], [0.5*inch, 4.2*inch, 2.85*inch],
+    [("BACKGROUND", (0,1), (-1,3), AMBER)]))
 
     s.append(Paragraph("Day 2 — Portion & Freeze (~2h)", H2))
     s.append(tbl([
         ["Task",                                         "Portion",       "Into"],
-        [b("Aambali — finish + portion"),                sm("Whisk ½ tsp cumin + ¼ tsp black salt per serving into cold paste → scoop ½ cup per muffin mold → freeze 4h → bag"), sm("Silicone muffin molds\n→ zip-lock 'Aambali Base'\n~90 cubes total")],
         [b("Chickpeas"),                                  "1.5 cups cooked","Flat freezer bags"],
         [b("Black beans"),                                "1.5 cups cooked","Flat freezer bags"],
         [b("Quinoa"),                                     "½ cup cooked",  "Flat freezer bags"],
@@ -497,8 +528,7 @@ def card_batch_flip():
         [b("Cilantro — blanch 10–15 sec then freeze"),   "15 large bunches","Bags by batch"],
         [b("Mint — blanch 10–15 sec then freeze"),        "8 large bunches","Bags by batch"],
         [b("Chilies — freeze whole"),                     "All varieties", "Labeled bags"],
-    ], [3.1*inch, 2.0*inch, 2.45*inch],
-    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    ], [3.3*inch, 1.8*inch, 2.45*inch]))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
@@ -660,6 +690,18 @@ def card_rotations():
         "⚠  Daily anchors never rotate: Broccoli microgreens · Fresh cilantro · "
         "Turmeric + black pepper · Ginger · Brazil nut (1–2/day).", WARN_S))
 
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Midday Heat Pulse — Garlic & Capsaicin Cadence (12:00)", H2))
+    s.append(tbl([
+        ["Compound",                  "Cadence",              "Rule"],
+        [b("Raw garlic (allicin)"),   b("Daily — 12:00"),     "Crush · rest 10 min before any heat. Allicin forms at room temp — add to heat immediately and it's destroyed."],
+        [b("Thai bird's eye chili"),  b("Daily — jaljeera + sear"), "Standard TRPV1 activation. Consistent, not rotated."],
+        [b("Habanero (peak TRPV1)"),  b("Lift days M/W/F"),   w("Max capsaicinoid density — ¼–½ habanero in sear or samosa. Heavy lift days only.")],
+        [b("Tofu TRP peak"),          b("2×/week — tofu days"), "Extra chili in sear + jaljeera chili + menthol = peak TRPV1+TRPM8 synergy. Do not replicate daily."],
+    ], [1.8*inch, 1.8*inch, 4.05*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+
     _build(d, s, f"{GITHUB_BASE}/blob/master/07-appendices/daily-timing-cheat-sheet.md")
     print("✓ 08-rotations.pdf")
 
@@ -680,21 +722,6 @@ def card_skincare():
         [b("Sunday"),     b("✓"),      b("✓"),      "—",          "Hair 30–45 min · Face 10–15 min"],
     ], [0.9*inch, 0.8*inch, 0.8*inch, 0.9*inch, 5.15*inch],
     [("ALIGN", (1,0), (3,2), "CENTER")]))
-
-    s.append(Spacer(1, 10))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    s.append(Paragraph("Day-Of Assembly — 2 Minutes (Always Fresh)", H2))
-    s.append(tbl([
-        ["Step",                "Action"],
-        [b("Night before\n(or 30 min before)"), "Move 1–2 aloe cubes + 1 fenugreek cube (hair only) from freezer to fridge to thaw."],
-        [b("At time of use"),   "Scoop dry mix from jar → add thawed cubes → add oil → mix into paste. Done."],
-        [w("Never pre-assemble"), w("Wet + dry combined will ferment within hours even refrigerated.\nAssemble only when you're about to apply. No weekly batch of mixed paste.")],
-    ], [1.7*inch, 5.9*inch],
-    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
-    s.append(Spacer(1, 4))
-    s.append(Paragraph(
-        "The 2-minute prep IS the batch payoff — the heavy work (jars + cubes) is already done. "
-        "You are just scooping and combining.", NOTE))
 
     s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
@@ -760,19 +787,8 @@ def card_skincare():
     ]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "3-month supply: ~65 aloe cubes (5 tray batches from 5 large leaves) · "
-        "~26 fenugreek cubes (rebatch every 4–6 weeks from 4 tbsp seeds).", NOTE))
-
-    s.append(Spacer(1, 10))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    s.append(Paragraph("Batch Cadence — What's 3-Month vs Monthly", H2))
-    s.append(tbl([
-        ["Item",                            "Batch every",      "Shelf life",         "Notes"],
-        [b("Dry jars — Hair, Face, Body"),   b("3 months"),      b("Shelf-stable"),    "One bulk prep session (~20 min). Refill your small working jar monthly from the bulk jar."],
-        [b("Aloe vera cubes"),               b("3 months"),      b("3–4 months frozen"), "5 large leaves → ~65 cubes. Do on 3-month day alongside dry jars."],
-        [w("Fenugreek paste cubes"),         w("Every 4–6 weeks"), w("4–6 weeks frozen"), "Soak overnight before batching. Mucilage + lecithin don't survive longer freezing."],
-    ], [1.9*inch, 1.3*inch, 1.5*inch, 3.0*inch],
-    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+        "3-month supply: ~65 aloe cubes (5 tray batches, 5 leaves) · "
+        "~26 fenugreek cubes (4 tbsp seeds every 6 weeks).", NOTE))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
@@ -962,53 +978,22 @@ def card_chutney():
     s.append(Paragraph("Coconut chutney · Jaljeera concentrate", SUB))
     s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    s.append(Paragraph("④ Coconut Chutney — 3-Week vs 3-Month", H2))
+    s.append(Paragraph("④ Coconut Chutney — 2 Vitamix runs · ~48 cubes total", H2))
     s.append(tbl([
-        ["",                        "3-Week Batch",                             "3-Month Batch"],
-        [b("Curry leaves\nin blend"), b("YES — raw into Vitamix\n(volatile aromatics)"), b("NO — plain base only\n(leaves go in tadka cubes only)")],
-        [b("Vitamix runs"),          b("2 runs × 4 cups coconut\n+ curry leaves → 48 cubes"), b("2–3 runs × 4–6 cups coconut\n(no leaves) → ~128 cubes")],
-        [b("Tadka\n(separate)"),     sm("7 tbsp oil · 1 cup fresh curry leaves\n1 tbsp mustard seeds · 1½ tsp chili flakes · ¼ tsp hing\n→ 21 mini cubes (1 tsp each)"), sm("4 tbsp oil · frozen curry leaves\n½ tsp mustard seeds · 20–30 sec bloom\n→ ~14 mini cubes (1 tsp each)")],
-        [b("Freeze life"),           "3 weeks",                                  "3 months"],
-    ], [1.3*inch, 3.0*inch, 2.25*inch],
-    [
-        ("BACKGROUND", (0,1), (-1,1), MINT),
-        ("BACKGROUND", (0,3), (-1,3), AMBER),
-    ]))
+        ["Ingredient",            "Per Vitamix run", "× 2 runs total"],
+        [b("Fresh grated coconut"), b("4 cups"),       b("8 cups total")],
+        [b("Fresh curry leaves"),   b("3–4 tbsp"),     b("6–8 tbsp")],
+        [b("Green chili"),          b("4–5"),          b("8–10")],
+        [b("Fresh ginger"),         b("2 inch knob"),  b("~180g total")],
+        [b("Roasted cumin powder"), b("2 tsp"),        b("4 tsp")],
+        [b("Lemon juice"),          b("4 tbsp"),       b("8 tbsp")],
+        [b("Water or aquafaba"),    b("½ cup"),        b("1 cup")],
+        [b("Salt"),                 b("1 tsp"),        b("2 tsp")],
+    ], [2.1*inch, 1.8*inch, 2.65*inch]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "Why the difference: at the 3-week session fresh curry leaves are available — "
-        "some go raw into the Vitamix (volatile aromatics + flavonoids), "
-        "some go into the tadka (alkaloid extraction into oil). "
-        "At the 3-month session only frozen leaves are on hand → tadka only.", NOTE))
-
-    s.append(Spacer(1, 6))
-    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=6))
-    s.append(Paragraph("Tadka at Serving (Always Separate — Never Freeze Into Base)", H2))
-    s.append(tbl([
-        ["Format",                  "How to use"],
-        [b("Tadka cube\n(from batch)"), "Drop 1 cube into warm pan · melt 10 sec · pour immediately over thawed coconut chutney. Stir and serve within 5 min — volatile aromatics dissipate fast."],
-        [b("Fresh tadka\n(day-of)"),  "1 tsp oil · 8–10 curry leaves · ¼ tsp mustard seeds → heat until seeds pop + leaves crisp (15–20 sec) → pour over thawed base. Dried chili optional."],
-        [b("Frozen curry leaves\n(no cube)"), "Crumble 4–5 frozen leaves directly into hot oil — same effect as fresh tadka. Always end tadka on the chutney, not in it."],
-    ], [1.5*inch, 6.05*inch],
-    [("BACKGROUND", (0,1), (-1,1), MINT)]))
-
-    s.append(Spacer(1, 6))
-    s.append(Paragraph("3-Week Coconut Chutney — per Vitamix run (do 2 runs)", H2))
-    s.append(tbl([
-        ["Ingredient",            "Per run", "× 2 runs"],
-        [b("Fresh grated coconut"), b("4 cups"),      b("8 cups")],
-        [b("Fresh curry leaves"),   b("3–4 tbsp"),    b("6–8 tbsp")],
-        [b("Green chili"),          b("4–5"),         b("8–10")],
-        [b("Fresh ginger"),         b("2 inch knob"), b("~180g")],
-        [b("Roasted cumin powder"), b("2 tsp"),       b("4 tsp")],
-        [b("Lemon juice"),          b("4 tbsp"),      b("8 tbsp")],
-        [b("Water or aquafaba"),    b("½ cup"),       b("1 cup")],
-        [b("Salt"),                 b("1 tsp"),       b("2 tsp")],
-    ], [2.2*inch, 1.6*inch, 1.75*inch]))
-    s.append(Spacer(1, 4))
-    s.append(Paragraph(
-        "Blend 90 sec per run until smooth. ~24 cubes per run. "
-        "Rinse blender 10 sec between runs.", NOTE))
+        "Blend 90 sec per run until smooth. Pour ~2 tbsp per cube. "
+        "Rinse blender 10 sec between runs. Yield ~24 cubes per run.", NOTE))
 
     s.append(Spacer(1, 10))
     s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
@@ -1045,13 +1030,10 @@ def card_chutney():
         [b("Tadka cubes"),         "4–6 weeks",         "1 tsp (mini tray)"],
         [b("Jaljeera cubes"),      "3 weeks",           "~2 tbsp (regular tray)"],
         [b("Cilantro chutney"),    "3 weeks",           "~2 tbsp (regular tray)"],
-        [b("Coconut chutney\n(3-week / with curry leaves)"), "3 weeks", "~2 tbsp (regular tray)"],
-        [b("Coconut chutney\n(3-month plain base)"), b("3 months"), "~2 tbsp (regular tray)"],
-        [b("Imli-Khajur chutney"), b("6 months"),       "~2 tbsp (regular tray) — see card 13"],
+        [b("Coconut chutney"),     "3 weeks",           "~2 tbsp (regular tray)"],
         [b("Mint muddle cubes"),   "4–6 weeks",         "1 tbsp (mini tray)"],
         [b("Fenugreek paste"),     "4–6 weeks",         "1 tbsp (mini tray)"],
-    ], [2.5*inch, 1.5*inch, 2.55*inch],
-    [("BACKGROUND", (0,5), (-1,5), AMBER)]))
+    ], [2.0*inch, 1.8*inch, 2.75*inch]))
 
     _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/coconut-chutney.md")
     print("✓ 11-chutney-prep.pdf")
@@ -1595,6 +1577,67 @@ def card_supplements():
     print("✓ 16-supplement-cycling.pdf  (duplex: cacao+mudwtr+nightinfusion+chlorella / daily anchors+timing)")
 
 # ─────────────────────────────────────────────────────────────────────────────
+# CARD 17 — Infuser Spa Waters
+# ─────────────────────────────────────────────────────────────────────────────
+def card_spa_water():
+    d = mk_doc("fridge-sheets/17-spa-water.pdf")
+    s = []
+    s.append(Paragraph("Infuser Spa Waters", TITLE))
+    s.append(Paragraph("Protocol-compatible hydration · helps reach 3–4L daily target", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+
+    s.append(Paragraph("① Waters & Recipes", H2))
+    s.append(tbl([
+        ["Water",                    "Ingredients",                           "Window",             "Notes"],
+        [b("Cucumber + Mint"),       "1 cucumber sliced\n+ 10 mint leaves",   c("All day"),         "Zero conflicts. Classic cooling. Best daily driver — fill and refill."],
+        [b("Fennel + Lemon"),        "1 tsp fennel seeds\n+ lemon slices",    c("Between meals"),   "Pro-kinetic, digestive. Good in the 12:00–17:50 gap."],
+        [b("Tulsi + Lemon"),         "8–10 tulsi leaves\n+ lemon slices",     c("11:00–16:00"),     "Adaptogenic daytime water. Distinct from 21:00 night infusion — no cycling conflict at this dose."],
+        [b("Rose + Cardamom"),       "10 dried rose petals\n+ 2 cardamom pods (cracked)", c("Afternoon"), "Phantom sweetness. Anti-inflammatory. Zero protocol conflicts."],
+        [b("Hibiscus cold brew"),    "1 tsp dried hibiscus\n+ cold water, steep 2h", w("Before 10:00\nor after 14:30"), w("Mild tannins — keep away from 12:00 iron window.")],
+        [b("Ginger + Lemon"),        "Thin ginger coins\n+ lemon slices",     c("Morning / midday"), "Mild pro-kinetic. Lower potency than 09:15 hot pulse — not a replacement."],
+    ], [1.55*inch, 1.9*inch, 1.25*inch, 2.7*inch],
+    [("BACKGROUND", (0,5), (-1,5), AMBER)]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② The Tannin Rule", H2))
+    s.append(Paragraph(
+        "Avoid hibiscus (and rosehip) in the <b>11:00–13:00</b> window. "
+        "Vitamin C from your 12:00 meal is actively pulling non-heme iron from legumes. "
+        "Tannins block iron absorption at the same binding sites — you undo the Vitamin C work. "
+        "Consume hibiscus before 10:00 or after 14:30.", BODY))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Infuser Tips", H2))
+    s.append(tbl([
+        ["Tip",                    "Detail"],
+        [b("Cold steep"),          "Refrigerate 1–2h for full flavor. Prep at 07:00, ready at 09:00."],
+        [b("Immediate use"),       "Cucumber + mint release quickly — cold water works right away."],
+        [b("Refill rule"),         "One fill of ingredients → 2–3 refills of water. Discard after 8h (tulsi/fennel) or 24h (cucumber)."],
+        [b("No sweeteners"),       "Cardamom + rose + fennel provide phantom sweetness — no honey, no stevia."],
+    ], [1.7*inch, 5.7*inch]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("④ Daily Fluid Targets", H2))
+    s.append(tbl([
+        ["Day type",              "Target"],
+        [b("Training day"),       "3–4L total (water + infusions + meals). Stay at upper end on creatine days — it draws water into muscle cells."],
+        [b("Rest day"),           "2.5–3L total."],
+    ], [1.7*inch, 5.7*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=TEAL, spaceAfter=6))
+    s.append(Paragraph(
+        "Daily driver: <b>Cucumber + Mint</b> — fill the infuser in the morning, carry it, refill throughout the day. "
+        "Everything else is rotation or occasion-specific.", NOTE))
+
+    _build(d, s, f"{GITHUB_BASE}/blob/master/05-practical/infuser-spa-waters.md")
+    print("✓ 17-spa-water.pdf  (single page: waters + tannin rule + tips + targets)")
+
+# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     os.makedirs("fridge-sheets", exist_ok=True)
@@ -1614,4 +1657,5 @@ if __name__ == "__main__":
     card_black_beans()
     card_recovery_bowl()
     card_supplements()
-    print("\nAll 16 fridge cards written to fridge-sheets/")
+    card_spa_water()
+    print("\nAll 17 fridge cards written to fridge-sheets/")
