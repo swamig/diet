@@ -1,1110 +1,1055 @@
 #!/usr/bin/env python3
-"""Generate fridge reference cards as PDFs using reportlab."""
+"""Fridge reference cards — Paragraph-based cells, QR footer."""
 
-from reportlab.lib.pagesizes import letter
+import io
+import os
+import tempfile
+
+import qrcode
 from reportlab.lib import colors
-from reportlab.lib.units import inch
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable
-from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
-
-W, H = letter  # 8.5 x 11
+from reportlab.lib.pagesizes import letter
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.units import inch
+from reportlab.lib.utils import ImageReader
+from reportlab.platypus import (HRFlowable, PageBreak, Paragraph, SimpleDocTemplate,
+                                Spacer, Table, TableStyle)
 
 # ── Colours ──────────────────────────────────────────────────────────────────
-TEAL   = colors.HexColor("#1a6b5a")
-CREAM  = colors.HexColor("#fdf8f0")
-GOLD   = colors.HexColor("#c9a846")
-LIGHT  = colors.HexColor("#e8f4f0")
-DARK   = colors.HexColor("#1a2e2a")
-WARN   = colors.HexColor("#8b2020")
+TEAL  = colors.HexColor("#1a6b5a")
+CREAM = colors.HexColor("#fdf8f0")
+GOLD  = colors.HexColor("#c9a846")
+LIGHT = colors.HexColor("#e8f4f0")
+DARK  = colors.HexColor("#1a2e2a")
+WARN  = colors.HexColor("#8b2020")
+AMBER = colors.HexColor("#fff3cd")
+MINT  = colors.HexColor("#d4edda")
 
-# ── Styles ────────────────────────────────────────────────────────────────────
-ss = getSampleStyleSheet()
+# ── Section styles ────────────────────────────────────────────────────────────
+def _s(name, **kw): return ParagraphStyle(name, **kw)
 
-def style(name, **kw):
-    s = ParagraphStyle(name, **kw)
-    return s
+TITLE = _s("T",  fontSize=32, fontName="Helvetica-Bold", textColor=TEAL,
+            alignment=TA_CENTER, spaceAfter=6)
+SUB   = _s("S",  fontSize=14, fontName="Helvetica", textColor=DARK,
+            alignment=TA_CENTER, spaceAfter=18)
+H2    = _s("H2", fontSize=20, fontName="Helvetica-Bold", textColor=TEAL,
+            spaceBefore=14, spaceAfter=6)
+BODY  = _s("B",  fontSize=14, fontName="Helvetica", textColor=DARK, leading=22)
+NOTE  = _s("N",  fontSize=11, fontName="Helvetica-Oblique",
+            textColor=colors.HexColor("#555555"), leading=17)
+WARN_S= _s("W",  fontSize=13, fontName="Helvetica-Bold", textColor=WARN, leading=20)
 
-TITLE  = style("title",  fontSize=32, fontName="Helvetica-Bold",
-               textColor=TEAL, alignment=TA_CENTER, spaceAfter=6)
-SUB    = style("sub",    fontSize=14, fontName="Helvetica",
-               textColor=DARK, alignment=TA_CENTER, spaceAfter=18)
-H2     = style("h2",     fontSize=20, fontName="Helvetica-Bold",
-               textColor=TEAL, spaceBefore=14, spaceAfter=6)
-BODY   = style("body",   fontSize=14, fontName="Helvetica",
-               textColor=DARK, leading=22)
-WARN_S = style("warn",   fontSize=13, fontName="Helvetica-Bold",
-               textColor=WARN, leading=20)
-NOTE   = style("note",   fontSize=11, fontName="Helvetica-Oblique",
-               textColor=colors.HexColor("#555555"), leading=17)
-BIG    = style("big",    fontSize=48, fontName="Helvetica-Bold",
-               textColor=TEAL, alignment=TA_CENTER, spaceAfter=4)
-MED    = style("med",    fontSize=28, fontName="Helvetica-Bold",
-               textColor=DARK, alignment=TA_CENTER, spaceAfter=4)
+# ── Cell paragraph styles ─────────────────────────────────────────────────────
+_TCH  = _s("TCH",  fontSize=13, fontName="Helvetica-Bold",
+            textColor=colors.white, leading=18)
+_TC   = _s("TC",   fontSize=13, fontName="Helvetica",
+            textColor=DARK, leading=18)
+_TCB  = _s("TCB",  fontSize=13, fontName="Helvetica-Bold",
+            textColor=DARK, leading=18)
+_TCSM = _s("TCSM", fontSize=11, fontName="Helvetica",
+            textColor=DARK, leading=16)
+_TCSMB= _s("TCSMB",fontSize=11, fontName="Helvetica-Bold",
+            textColor=DARK, leading=16)
+_TCW  = _s("TCW",  fontSize=12, fontName="Helvetica-Bold",
+            textColor=WARN, leading=17)
 
-def tbl(data, col_widths, style_cmds=None):
+# ── Cell helpers ──────────────────────────────────────────────────────────────
+def _p(t, s): return Paragraph(str(t).replace("\n", "<br/>"), s)
+def c(t):   return _p(t, _TC)
+def b(t):   return _p(t, _TCB)
+def sm(t):  return _p(t, _TCSM)
+def smb(t): return _p(t, _TCSMB)
+def w(t):   return _p(t, _TCW)
+
+def tbl(rows, col_widths, cmds=None):
+    """Build a Table; all string cells become Paragraphs for correct alignment."""
+    def wrap(cell, hdr):
+        if isinstance(cell, str):
+            return _p(cell, _TCH if hdr else _TC)
+        return cell
+    data = [[wrap(cell, r == 0) for cell in row] for r, row in enumerate(rows)]
     base = [
-        ("FONTNAME",  (0,0), (-1,-1), "Helvetica"),
-        ("FONTSIZE",  (0,0), (-1,-1), 14),
-        ("ROWBACKGROUNDS", (0,0), (-1,-1), [CREAM, LIGHT]),
-        ("GRID",      (0,0), (-1,-1), 0.5, colors.HexColor("#cccccc")),
-        ("VALIGN",    (0,0), (-1,-1), "MIDDLE"),
-        ("TOPPADDING",(0,0), (-1,-1), 8),
-        ("BOTTOMPADDING",(0,0),(-1,-1), 8),
-        ("LEFTPADDING",(0,0),(-1,-1), 10),
+        ("ROWBACKGROUNDS",  (0,0), (-1,-1), [CREAM, LIGHT]),
+        ("BACKGROUND",      (0,0), (-1,0),  TEAL),
+        ("GRID",            (0,0), (-1,-1), 0.5, colors.HexColor("#cccccc")),
+        ("VALIGN",          (0,0), (-1,-1), "MIDDLE"),
+        ("TOPPADDING",      (0,0), (-1,-1), 7),
+        ("BOTTOMPADDING",   (0,0), (-1,-1), 7),
+        ("LEFTPADDING",     (0,0), (-1,-1), 8),
+        ("RIGHTPADDING",    (0,0), (-1,-1), 8),
     ]
-    if style_cmds:
-        base += style_cmds
+    if cmds:
+        base += cmds
     t = Table(data, colWidths=col_widths)
     t.setStyle(TableStyle(base))
     return t
 
-def header_row_style(n_cols):
-    return [
-        ("BACKGROUND",  (0,0), (-1,0), TEAL),
-        ("TEXTCOLOR",   (0,0), (-1,0), colors.white),
-        ("FONTNAME",    (0,0), (-1,0), "Helvetica-Bold"),
-        ("FONTSIZE",    (0,0), (-1,0), 14),
-    ]
+# ── QR code + footer ──────────────────────────────────────────────────────────
+GITHUB_URL = "https://github.com/swamig/bluevedaprotocol"
 
-def make_doc(path, margins=0.55):
+def _build_qr_file():
+    qr = qrcode.QRCode(
+        version=1,
+        error_correction=qrcode.constants.ERROR_CORRECT_M,
+        box_size=6,
+        border=1,
+    )
+    qr.add_data(GITHUB_URL)
+    qr.make(fit=True)
+    img = qr.make_image(fill_color="black", back_color="white")
+    tmp = tempfile.NamedTemporaryFile(suffix=".png", delete=False)
+    img.save(tmp.name)
+    tmp.close()
+    return tmp.name
+
+_QR_PATH = _build_qr_file()
+
+def _footer(canvas, doc):
+    canvas.saveState()
+    w_page = doc.pagesize[0]
+    lm = doc.leftMargin
+    rm = doc.rightMargin
+    qr_size = 0.48 * inch
+    footer_y = 0.22 * inch
+    line_y   = 0.42 * inch
+    canvas.setStrokeColor(colors.HexColor("#bbbbbb"))
+    canvas.setLineWidth(0.5)
+    canvas.line(lm, line_y, w_page - rm, line_y)
+    canvas.setFont("Helvetica", 8)
+    canvas.setFillColor(colors.HexColor("#555555"))
+    canvas.drawString(lm, footer_y, GITHUB_URL)
+    canvas.drawImage(
+        _QR_PATH,
+        w_page - rm - qr_size,
+        0.04 * inch,
+        width=qr_size, height=qr_size,
+        preserveAspectRatio=True,
+    )
+    canvas.restoreState()
+
+def mk_doc(path, margins=0.55):
     m = margins * inch
     return SimpleDocTemplate(path, pagesize=letter,
                              leftMargin=m, rightMargin=m,
-                             topMargin=m, bottomMargin=m)
+                             topMargin=m, bottomMargin=0.65 * inch)
+
+def _build(doc, story):
+    doc.build(story, onFirstPage=_footer, onLaterPages=_footer)
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 1 — Produce Cleaning
 # ─────────────────────────────────────────────────────────────────────────────
 def card_produce():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/01-produce-cleaning.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/01-produce-cleaning.pdf")
+    s = []
+    s.append(Paragraph("Produce Cleaning", TITLE))
+    s.append(Paragraph("Mandatory before every batch — both baths single-use only", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
 
-    story.append(Paragraph("Produce Cleaning", TITLE))
-    story.append(Paragraph("Mandatory before every batch — both baths single-use only", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+    s.append(Paragraph("① Alkaline Soak", H2))
+    s.append(tbl([
+        ["Water",    "Baking Soda", "Soak Time"],
+        ["1 gallon", "1 tbsp",      "12–15 min"],
+        ["1 quart",  "¾ tsp",       "12–15 min"],
+        ["1 cup",    "¼ tsp",       "12–15 min"],
+    ], [2.2*inch, 2.2*inch, 2.2*inch]))
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("Use cold water. Fully submerge. Removes up to 96% of surface pesticides.", NOTE))
 
-    # Step 1 — baking soda
-    story.append(Paragraph("① Alkaline Soak", H2))
-    story.append(tbl(
-        [
-            ["Water",        "Baking Soda",    "Soak Time"],
-            ["1 gallon",     "1 tbsp",         "12–15 min"],
-            ["1 quart",      "¾ tsp",          "12–15 min"],
-            ["1 cup",        "¼ tsp",          "12–15 min"],
-        ],
-        [2.2*inch, 2.2*inch, 2.2*inch],
-        header_row_style(3),
-    ))
-    story.append(Spacer(1, 6))
-    story.append(Paragraph(
-        "Use cold water. Fully submerge. Removes up to 96% of surface pesticides.", NOTE))
-
-    # Step 2 — vinegar
-    story.append(Paragraph("② Acid Rinse (fresh bowl, fresh water)", H2))
-    story.append(tbl(
-        [
-            ["Water",        "Vinegar",        "Rinse Time"],
-            ["1 cup",        "1–2 tbsp",       "2–3 min"],
-            ["1 quart",      "4–8 tbsp",       "2–3 min"],
-        ],
-        [2.2*inch, 2.2*inch, 2.2*inch],
-        header_row_style(3),
-    ))
-    story.append(Spacer(1, 6))
-    story.append(Paragraph(
+    s.append(Paragraph("② Acid Rinse (fresh bowl, fresh water)", H2))
+    s.append(tbl([
+        ["Water",   "Vinegar",   "Rinse Time"],
+        ["1 cup",   "1–2 tbsp",  "2–3 min"],
+        ["1 quart", "4–8 tbsp",  "2–3 min"],
+    ], [2.2*inch, 2.2*inch, 2.2*inch]))
+    s.append(Spacer(1, 6))
+    s.append(Paragraph(
         "White vinegar or ACV. Kills residual bacteria; neutralises baking soda residue. "
-        "Do not shorten to a splash — minimum 2 min at this dilution.", NOTE))
+        "Minimum 2 min at this dilution — do not shorten.", NOTE))
 
-    # Step 3
-    story.append(Paragraph("③ Plain Cold Water Rinse", H2))
-    story.append(Paragraph("30-second rinse to remove vinegar taste.", BODY))
+    s.append(Paragraph("③ Plain Cold Water Rinse", H2))
+    s.append(Paragraph("30-second rinse to remove vinegar taste.", BODY))
 
-    # Step 4
-    story.append(Paragraph("④ Dry — Mandatory", H2))
-    story.append(Paragraph(
-        "Spin dry or pat with paper towels. Storing wet causes rapid oxidation and nutrient loss.", BODY))
+    s.append(Paragraph("④ Dry — Mandatory", H2))
+    s.append(Paragraph("Spin dry or pat with paper towels. Storing wet causes rapid oxidation.", BODY))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
         "⚠  BOTH BATHS ARE SINGLE-USE — discard after every batch. "
         "Reusing recontaminates the next batch.", WARN_S))
 
-    story.append(Spacer(1, 12))
-    story.append(Paragraph("Buy Organic for the Dirty Dozen", H2))
-    story.append(Paragraph(
-        "Kale · Arugula · Spinach · Blueberries · Strawberries · "
-        "Peaches · Pears · Nectarines · Apples · Grapes · Bell Peppers · Cherries", BODY))
+    s.append(Spacer(1, 12))
+    s.append(Paragraph("Buy Organic for the Dirty Dozen", H2))
+    s.append(Paragraph(
+        "Kale · Arugula · Spinach · Blueberries · Strawberries · Peaches · "
+        "Pears · Nectarines · Apples · Grapes · Bell Peppers · Cherries", BODY))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 01-produce-cleaning.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
-# CARD 2 — Master Salad Dressing
+# CARD 2 — Salad Dressing
 # ─────────────────────────────────────────────────────────────────────────────
 def card_dressing():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/02-salad-dressing.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/02-salad-dressing.pdf")
+    s = []
+    s.append(Paragraph("Master Salad Dressing", TITLE))
+    s.append(Paragraph("7-day batch — make every Sunday", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=18))
 
-    story.append(Paragraph("Master Salad Dressing", TITLE))
-    story.append(Paragraph("7-day batch — make every Sunday", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=18))
-
-    story.append(Paragraph("Sunday Batch (glass mason jar)", H2))
-    story.append(tbl(
-        [
-            ["Ingredient",          "Amount",    "Notes"],
-            ["Olive Oil",           "14 tbsp",   "Or: 7 tbsp Terra Delyssa + 7 tbsp Snake Oil"],
-            ["Balsamic Vinegar",    "7 tbsp",    "Just under ½ cup"],
-            ["Tomato Puree",        "7 tbsp",    "Just under ½ cup"],
-            ["Dijon Mustard",       "7 tsp",     "Sugar-free"],
-        ],
-        [2.6*inch, 1.4*inch, 3.0*inch],
-        header_row_style(3) + [
-            ("FONTSIZE", (0,1), (-1,-1), 15),
-            ("FONTNAME", (0,1), (1,-1), "Helvetica-Bold"),
-        ],
-    ))
-    story.append(Spacer(1, 6))
-    story.append(Paragraph(
+    s.append(Paragraph("Sunday Batch (glass mason jar)", H2))
+    s.append(tbl([
+        ["Ingredient",        "Amount",  "Notes"],
+        [b("Olive Oil"),        b("14 tbsp"), "Or: 7 tbsp Terra Delyssa + 7 tbsp Snake Oil"],
+        [b("Balsamic Vinegar"), b("7 tbsp"),  "Just under ½ cup"],
+        [b("Tomato Puree"),     b("7 tbsp"),  "Just under ½ cup"],
+        [b("Dijon Mustard"),    b("7 tsp"),   "Sugar-free"],
+    ], [2.6*inch, 1.4*inch, 3.0*inch]))
+    s.append(Spacer(1, 6))
+    s.append(Paragraph(
         "Whisk or shake vigorously until fully emulsified. "
         "Store in a dark spot in the fridge if using Snake Oil.", NOTE))
 
-    story.append(Spacer(1, 16))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=16))
+    s.append(Spacer(1, 16))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=16))
 
-    story.append(Paragraph("Daily Use (at 14:30 — each serving)", H2))
-    story.append(tbl(
-        [
-            ["What",                "Amount",    "How"],
-            ["Dressing from jar",   "4 tbsp",    "Pour over assembled greens"],
-            ["Turmeric (ground)",   "½ tsp",     "Sprinkle on WET dressing before tossing"],
-            ["Black Pepper",        "¼ tsp",     "Grind FRESH — sprinkle on wet dressing"],
-        ],
-        [2.6*inch, 1.4*inch, 3.0*inch],
-        header_row_style(3) + [
-            ("FONTSIZE", (0,1), (-1,-1), 15),
-            ("FONTNAME", (0,1), (1,-1), "Helvetica-Bold"),
-            ("BACKGROUND", (0,3), (-1,3), colors.HexColor("#fff3cd")),
-        ],
-    ))
-    story.append(Spacer(1, 8))
-    story.append(Paragraph(
-        "Turmeric and pepper go on the wet dressing — never pre-mixed into the jar. "
-        "Lipid suspension in the oil is what makes curcumin absorb.", NOTE))
+    s.append(Paragraph("Daily Use (at 14:30 — each serving)", H2))
+    s.append(tbl([
+        ["What",                 "Amount",    "How"],
+        [b("Dressing from jar"),  b("4 tbsp"),  "Pour over assembled greens"],
+        [b("Turmeric (ground)"),  b("½ tsp"),   "Sprinkle on WET dressing before tossing"],
+        [b("Black Pepper"),       b("¼ tsp"),   "Grind FRESH — sprinkle on wet dressing"],
+    ], [2.6*inch, 1.4*inch, 3.0*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+    s.append(Spacer(1, 8))
+    s.append(Paragraph(
+        "Turmeric and pepper go on the wet dressing — never pre-mixed into the jar.", NOTE))
 
-    story.append(Spacer(1, 14))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
+    s.append(Spacer(1, 14))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
         "⚠  Do NOT add Turmeric or Black Pepper to the master jar — "
         "they go on fresh at eating time only.", WARN_S))
 
-    story.append(Spacer(1, 16))
-    story.append(Paragraph("Lipid Lever (Coconut Milk days)", H2))
-    story.append(Paragraph(
+    s.append(Spacer(1, 16))
+    s.append(Paragraph("Lipid Lever (Coconut Milk days)", H2))
+    s.append(Paragraph(
         "If you add Coconut Milk to your 12:00 Chaas, subtract 1–2 tbsp oil from "
         "the 14:30 dressing to keep total lipid load balanced.", BODY))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 02-salad-dressing.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 3 — Salad Assembly + Seed Rotation
 # ─────────────────────────────────────────────────────────────────────────────
 def card_salad():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/03-salad-assembly.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/03-salad-assembly.pdf")
+    s = []
+    s.append(Paragraph("14:30 Salad Assembly", TITLE))
+    s.append(Paragraph("Build in a 56 oz glass container", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
 
-    story.append(Paragraph("14:30 Salad Assembly", TITLE))
-    story.append(Paragraph("Build in a 56 oz glass container", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+    s.append(Paragraph("Assembly Order", H2))
+    s.append(tbl([
+        ["Layer",             "What",                              "Amount"],
+        [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
+        [b("② Anchors"),      b("Broccoli Microgreens"),           "1 cup"],
+        ["",                  "Fresh Cilantro",                    "¼ cup"],
+        [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
+        [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
+        [b("⑤ Dressing"),     "Master dressing from fridge jar",   "4 tbsp"],
+        [w("⑥ Activate"),     w("Turmeric (ground)"),              w("½ tsp")],
+        ["",                  w("Black Pepper — grind FRESH"),     w("¼ tsp")],
+    ], [1.3*inch, 3.3*inch, 1.8*inch],
+    [("BACKGROUND", (0,7), (-1,8), AMBER)]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph("* Kale: massage with lemon + salt 60 sec to break cell walls.", NOTE))
+    s.append(Paragraph(
+        "⑥ Sprinkle turmeric and fresh-ground pepper on the wet dressing before tossing.", NOTE))
 
-    # Assembly layers
-    story.append(Paragraph("Assembly Order", H2))
-    story.append(tbl(
-        [
-            ["Layer",              "What",                             "Amount"],
-            ["① Bitter Green",    "Arugula / Watercress / Kale*",    "2 cups"],
-            ["② Daily Anchors",   "Broccoli Microgreens",             "1 cup"],
-            ["",                  "Fresh Cilantro",                   "¼ cup"],
-            ["③ Probiotic",       "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
-            ["④ Seed",            "Day's seed (see table below)",     "1 tbsp"],
-            ["⑤ Dressing",        "Master dressing from fridge jar",  "4 tbsp"],
-            ["⑥ Activate",        "Turmeric (ground)",                "½ tsp"],
-            ["",                  "Black Pepper — grind FRESH",       "¼ tsp"],
-        ],
-        [1.3*inch, 3.3*inch, 1.8*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 14),
-            ("FONTNAME",  (0,1), (1,1),   "Helvetica-Bold"),
-            ("FONTNAME",  (0,3), (1,3),   "Helvetica-Bold"),
-            ("BACKGROUND",(0,4), (-1,5),  colors.HexColor("#e8f4f0")),
-            ("BACKGROUND",(0,6), (-1,7),  colors.HexColor("#fff8e1")),
-            ("FONTNAME",  (0,6), (-1,7),  "Helvetica-Bold"),
-            ("TEXTCOLOR", (0,6), (-1,7),  WARN),
-        ],
-    ))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph(
-        "* Kale must be massaged with lemon + salt for 60 seconds to break cell walls.", NOTE))
-    story.append(Paragraph(
-        "⑥ Sprinkle turmeric and fresh-ground pepper directly onto the wet dressing "
-        "before tossing — do not pre-mix into the dressing jar.", NOTE))
+    s.append(Spacer(1, 14))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
 
-    story.append(Spacer(1, 14))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
+    s.append(Paragraph("Weekly Seed Rotation (1 tbsp each)", H2))
+    s.append(tbl([
+        ["Mon",          "Tue",    "Wed",          "Thu",     "Fri",          "Sat",     "Sun"],
+        [b("Basil\nSeeds"),b("Sesame"),b("Basil\nSeeds"),b("Walnuts"),b("Basil\nSeeds"),b("Pumpkin"),b("Hemp")],
+        [sm("Iron/\nCooling"),sm("Mineral"),sm("Iron/\nCooling"),sm("Omega-3"),sm("Iron/\nCooling"),sm("Zinc"),sm("Protein")],
+    ], [0.93*inch]*7,
+    [
+        ("BACKGROUND", (0,1), (0,1), MINT),
+        ("BACKGROUND", (2,1), (2,1), MINT),
+        ("BACKGROUND", (4,1), (4,1), MINT),
+        ("ALIGN", (0,0), (-1,-1), "CENTER"),
+    ]))
+    s.append(Spacer(1, 6))
+    s.append(Paragraph("Green = workout days (Mon/Wed/Fri).", NOTE))
 
-    # Seed rotation
-    story.append(Paragraph("Weekly Seed Rotation (1 tbsp each)", H2))
-    story.append(tbl(
-        [
-            ["Mon",          "Tue",     "Wed",         "Thu",    "Fri",         "Sat",      "Sun"],
-            ["Basil Seeds\n(Sabja)",
-             "Sesame",
-             "Basil Seeds\n(Sabja)",
-             "Walnuts",
-             "Basil Seeds\n(Sabja)",
-             "Pumpkin\nSeeds",
-             "Hemp\nSeeds"],
-            ["Iron/\nCooling",
-             "Mineral\nDensity",
-             "Iron/\nCooling",
-             "Omega-3/\nVascular",
-             "Iron/\nCooling",
-             "Zinc/\nRecovery",
-             "Complete\nProtein"],
-        ],
-        [0.93*inch]*7,
-        header_row_style(7) + [
-            ("FONTSIZE",     (0,0), (-1,-1), 12),
-            ("FONTNAME",     (0,1), (-1,1),  "Helvetica-Bold"),
-            ("FONTSIZE",     (0,1), (-1,1),  13),
-            ("FONTNAME",     (0,2), (-1,2),  "Helvetica-Oblique"),
-            ("FONTSIZE",     (0,2), (-1,2),  11),
-            ("TEXTCOLOR",    (0,2), (-1,2),  colors.HexColor("#555555")),
-            ("ALIGN",        (0,0), (-1,-1), "CENTER"),
-            ("BACKGROUND",   (0,1), (0,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (2,1), (2,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (4,1), (4,1),   colors.HexColor("#d4edda")),
-        ],
-    ))
-    story.append(Spacer(1, 6))
-    story.append(Paragraph("Green = workout days (Mon/Wed/Fri).", NOTE))
-
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
         "⚠  Never put seeds in the 17:30 post-workout shake — "
         "mucilage gel slows protein absorption.", WARN_S))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 03-salad-assembly.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 4 — Daily Timing
 # ─────────────────────────────────────────────────────────────────────────────
 def card_timing():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/04-daily-timing.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/04-daily-timing.pdf")
+    s = []
+    s.append(Paragraph("Daily Rhythm", TITLE))
+    s.append(Paragraph("Protocol at a glance", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
 
-    story.append(Paragraph("Daily Rhythm", TITLE))
-    story.append(Paragraph("Protocol at a glance", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+    s.append(tbl([
+        ["Time",     "Action",            "Key Detail"],
+        [b("06:30"), b("Morning Anchor"),  "Cold Plunge — swap Yoga if exhausted"],
+        [b("09:15"), b("Morning Hydration"),"Warm Ajwain / Jeera / Matcha"],
+        [b("10:00"), b("Tannin Deadline"), "Stop all tea & caffeine"],
+        [b("12:00"), b("Main Meal"),       "Protein + starch + spice stack + Jaljeera"],
+        [b("13:00"), b("Enzyme Pulse"),    "Papaya ½ cup — must follow heavy meal"],
+        [b("14:30"), b("Salad Layer"),     "Greens + ferment + seeds + dressing"],
+        [b("16:30"), b("Training"),        "Lift (M/W/F) · VO2 Max (Tue) · Rest (Thu/Sat)"],
+        [b("17:30"), b("Post-Workout"),    "Whey isolate + creatine"],
+        [b("17:50"), b("Recovery Bowl"),   "Yogurt + blueberries + casein"],
+        [b("18:30"), b("Heat Rotation"),   "Sauna (Tue/Thu/Sat) · Epsom Bath (M/W/F)"],
+        [b("21:00"), b("Night Infusion"),  "Tulsi / Saffron / Ashwagandha"],
+    ], [0.75*inch, 1.7*inch, 5.1*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,1), colors.HexColor("#e3f2fd")),
+        ("BACKGROUND", (0,6), (-1,6), MINT),
+    ]))
 
-    story.append(tbl(
-        [
-            ["Time",    "Action",               "Key Detail"],
-            ["06:30",   "Morning Anchor",        "Cold Plunge — swap Yoga if exhausted"],
-            ["09:15",   "Morning Hydration",     "Warm Ajwain / Jeera / Matcha"],
-            ["10:00",   "Tannin Deadline",       "Stop all tea & caffeine"],
-            ["12:00",   "Main Meal",             "Protein + starch + spice stack + Jaljeera"],
-            ["13:00",   "Enzyme Pulse",          "Papaya ½ cup — must follow heavy meal"],
-            ["14:30",   "Salad Layer",           "Greens + ferment + seeds + dressing"],
-            ["16:30",   "Training",              "Lift (M/W/F) · VO2 Max (Tue) · Rest (Thu/Sat)"],
-            ["17:30",   "Post-Workout",          "Whey isolate + creatine"],
-            ["17:50",   "Recovery Bowl",         "Yogurt + blueberries + casein"],
-            ["18:30",   "Heat Rotation",         "Sauna (Tue/Thu/Sat) · Epsom Bath (M/W/F)"],
-            ["21:00",   "Night Infusion",        "Tulsi / Saffron / Ashwagandha"],
-        ],
-        [0.75*inch, 1.7*inch, 5.1*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",  (0,0), (-1,-1), 14),
-            ("FONTNAME",  (0,1), (1,-1),  "Helvetica-Bold"),
-            ("FONTSIZE",  (0,1), (1,-1),  15),
-            ("BACKGROUND",(0,5), (-1,5),  colors.HexColor("#d4edda")),
-            ("BACKGROUND",(0,1), (-1,1),  colors.HexColor("#e3f2fd")),
-        ],
-    ))
+    s.append(Spacer(1, 14))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
+    s.append(Paragraph("Macro Adjustments by Day Type", H2))
+    s.append(tbl([
+        ["Day Type",        "Quinoa (12:00)", "Casein (17:50)", "Salad Dressing"],
+        [b("Heavy Lift"),    "½ cup",          "1 scoop",         "4 tbsp"],
+        [b("VO2 Max (Tue)"), "¾ cup",          "1 scoop",         "4 tbsp"],
+        [b("Rest / Cardio"), "¼ cup",          w("SKIP"),         "2–4 tbsp"],
+    ], [2.0*inch, 1.6*inch, 1.6*inch, 2.2*inch]))
 
-    story.append(Spacer(1, 14))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
-
-    story.append(Paragraph("Macro Adjustments by Day Type", H2))
-    story.append(tbl(
-        [
-            ["Day Type",       "Quinoa (12:00)", "Casein (17:50)", "Salad Dressing"],
-            ["Heavy Lift",     "½ cup",          "1 scoop",        "4 tbsp"],
-            ["VO2 Max (Tue)",  "¾ cup",          "1 scoop",        "4 tbsp"],
-            ["Rest / Cardio",  "¼ cup",          "SKIP",           "2–4 tbsp"],
-        ],
-        [2.0*inch, 1.6*inch, 1.6*inch, 2.2*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 14),
-            ("FONTNAME",  (0,1), (0,-1),  "Helvetica-Bold"),
-            ("TEXTCOLOR", (1,3), (1,3),   WARN),
-            ("FONTNAME",  (1,3), (1,3),   "Helvetica-Bold"),
-        ],
-    ))
-
-    story.append(Spacer(1, 12))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
+    s.append(Spacer(1, 12))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
         "⚠  NEVER cold plunge immediately after a heavy lift — "
         "blunts mTOR / growth signal. Keep cold exposure to 06:30 AM only.", WARN_S))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 04-daily-timing.pdf")
-
-# ─────────────────────────────────────────────────────────────────────────────
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 5 — Morning Drink
 # ─────────────────────────────────────────────────────────────────────────────
 def card_morning_drink():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/05-morning-drink.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/05-morning-drink.pdf")
+    s = []
+    s.append(Paragraph("Morning Drink", TITLE))
+    s.append(Paragraph("09:15 — must be warm/hot — finish by 10:00 AM", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=18))
 
-    story.append(Paragraph("Morning Drink", TITLE))
-    story.append(Paragraph("09:15 — must be warm/hot — finish by 10:00 AM", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=18))
+    s.append(tbl([
+        ["Day",                       "Base Spice",              "Amount",   "Method"],
+        [b("Odd days\n(1 · 3 · 5 · 7)"), b("Ajwain seeds"),     b("¼ tsp"), "Boil 1–2 cups water · add seeds · steep 5 min · strain"],
+        [b("Even days\n(2 · 4 · 6)"),    b("Whole Jeera\n(cumin seeds)"), b("½ tsp"), "Boil 1–2 cups water · add seeds · steep 5 min"],
+    ], [1.5*inch, 1.6*inch, 0.9*inch, 3.55*inch]))
 
-    story.append(tbl(
-        [
-            ["Day",                     "Base Spice",           "Amount",   "Method"],
-            ["Odd days\n(1 · 3 · 5 · 7)",  "Ajwain seeds",     "¼ tsp",    "Boil 1–2 cups water · add seeds · steep 5 min · strain"],
-            ["Even days\n(2 · 4 · 6)",     "Whole Jeera\n(cumin seeds)", "½ tsp", "Boil 1–2 cups water · add seeds · steep 5 min"],
-        ],
-        [1.5*inch, 1.6*inch, 0.9*inch, 3.55*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 14),
-            ("FONTNAME",  (0,1), (1,-1),  "Helvetica-Bold"),
-            ("FONTSIZE",  (0,1), (1,-1),  15),
-            ("ROWBACKGROUNDS", (0,1), (-1,-1), [CREAM, LIGHT]),
-        ],
-    ))
+    s.append(Spacer(1, 18))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
+    s.append(Paragraph("Optional Upgrades", H2))
+    s.append(tbl([
+        ["Add-on",                    "Amount",   "When",                      "How"],
+        [b("Matcha powder"),           "1 tsp",    "Any day",                   "Whisk into warm (not boiling) water separately, stir in after steeping"],
+        [b("Whole Clove"),             "1 clove",  "Week 2 only\n(replace Jeera day)", "Add to water with seeds, steep together"],
+        [b("Cardamom pod (crushed)"),  "1 pod",    "Any day\n(rotator)",        "Crush pod, add to steep"],
+        [b("Star Anise"),              "1 whole",  "Antiviral pulse\n(rotator)","Add to steep — strong flavour, use sparingly"],
+    ], [1.8*inch, 0.9*inch, 1.4*inch, 3.45*inch]))
 
-    story.append(Spacer(1, 18))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=14))
-    story.append(Paragraph("Optional Upgrades", H2))
-    story.append(tbl(
-        [
-            ["Add-on",                  "Amount",   "When",             "How"],
-            ["Matcha powder",           "1 tsp",    "Any day",          "Whisk into warm (not boiling) water separately, stir into drink after steeping"],
-            ["Whole Clove",             "1 clove",  "Week 2 only\n(replace a Jeera day)", "Add to water with the seeds, steep together"],
-            ["Cardamom pod (crushed)",  "1 pod",    "Any day\n(rotator)", "Crush pod, add to steep"],
-            ["Star Anise",              "1 whole",  "Antiviral pulse\n(rotator)", "Add to steep — strong flavour, use sparingly"],
-        ],
-        [1.8*inch, 0.9*inch, 1.4*inch, 3.45*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 13),
-            ("FONTNAME",  (0,1), (0,-1),  "Helvetica-Bold"),
-        ],
-    ))
-
-    story.append(Spacer(1, 14))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
-        "⚠  TANNIN DEADLINE — 10:00 AM. "
-        "Matcha catechins block iron absorption by up to 3×. "
+    s.append(Spacer(1, 14))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  TANNIN DEADLINE — 10:00 AM. Matcha catechins block iron absorption by up to 3×. "
         "All tea/caffeine must be finished 2 hours before the 12:00 main meal.", WARN_S))
 
-    story.append(Spacer(1, 12))
-    story.append(Paragraph("The Warm Start Rule", H2))
-    story.append(Paragraph(
+    s.append(Spacer(1, 12))
+    s.append(Paragraph("The Warm Start Rule", H2))
+    s.append(Paragraph(
         "Must be consumed warm to hot — never cold before 10:00. "
-        "Warm water vasodilates, stimulates peristalsis, and preps the gut for the 12:00 feeding window. "
         "Do NOT use alkaline water — it neutralises the acids needed for Agni.", BODY))
 
-    story.append(Spacer(1, 14))
-    story.append(Paragraph("Sunday Prep Shortcut", H2))
-    story.append(Paragraph(
-        "Pre-portion 7 small containers on Sunday: each holds the week's base spice. "
-        "Alternates automatically — no measuring during the week. "
-        "If adding Matcha, include 1 tsp in each pack.", BODY))
+    s.append(Spacer(1, 14))
+    s.append(Paragraph("Sunday Prep Shortcut", H2))
+    s.append(Paragraph(
+        "Pre-portion 7 small containers on Sunday — each holds one day's base spice. "
+        "Alternates automatically. Add 1 tsp Matcha to each pack if using.", BODY))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 05-morning-drink.pdf")
 
-
 # ─────────────────────────────────────────────────────────────────────────────
-# CARD 6 — Batch Session Flip Card (front = 3-week, back = 3-month)
+# CARD 6 — Batch Session Flip (front=3-week, back=3-month)
 # ─────────────────────────────────────────────────────────────────────────────
 def card_batch_flip():
-    # ── PAGE 1: 3-Week Chutney & Cube Session ────────────────────────────────
-    from reportlab.platypus import PageBreak
+    d = mk_doc("fridge-sheets/06-batch-session.pdf")
+    s = []
 
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/06-batch-session.pdf")
-    story = []
+    s.append(Paragraph("3-Week Batch Session", TITLE))
+    s.append(Paragraph("Run every 3 weeks · ~85 min · one person · no cooking after tadka", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    story.append(Paragraph("3-Week Batch Session", TITLE))
-    story.append(Paragraph("Run every 3 weeks · ~85 min · one person · no cooking after tadka", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(Paragraph("Night Before", H2))
+    s.append(Paragraph("Soak 4 tbsp fenugreek seeds in water overnight.", BODY))
 
-    story.append(Paragraph("Night Before", H2))
-    story.append(Paragraph("Soak 4 tbsp fenugreek seeds in water overnight.", BODY))
+    s.append(Paragraph("Session Timeline", H2))
+    s.append(tbl([
+        ["Time",      "Step",                                                  "Output"],
+        ["T+0:00",    "Setup — ingredients out, start water boiling",           "—"],
+        ["T+0:05",    "Pre-chop: curry leaves (½\" pieces), break chili to flakes","—"],
+        [b("T+0:08"), w("Tadka — mustard seeds pop → curry leaves + chili + hing\n→ BLOOM 15–20 SEC EXACTLY → off heat → cool 5 min"), w("~21 cubes")],
+        ["T+0:15",    "Blanch mint + cilantro together — 10–15 SEC, ice bath, squeeze, separate into two piles","—"],
+        ["T+0:20",    "Pour cooled tadka into mini tray (1 tsp per cell)",      "21 cubes"],
+        ["T+0:22",    "Blend Jaljeera concentrate → pour into tray",            "21 cubes"],
+        ["T+0:27",    "Blend cilantro chutney → pour into tray",               "17–18 cubes"],
+        ["T+0:32",    "Blend coconut chutney — 2 Vitamix runs × 6 min",        "48 cubes"],
+        ["T+0:44",    "Blend mint muddle → pour into mini tray",               "21 cubes"],
+        ["T+0:54",    "Fenugreek paste — drain seeds, blend immersion, pour",   "12–14 cubes"],
+        ["T+1:04",    "Aloe topical refresh (only if running low)",             "~14–28 cubes"],
+        ["T+1:19",    "Label all trays, freeze flat — do NOT stack until frozen","—"],
+        ["T+1:24",    "Cleanup",                                                "Done"],
+    ], [0.7*inch, 4.3*inch, 1.5*inch],
+    [("BACKGROUND", (0,3), (-1,4), AMBER)]))
 
-    story.append(Paragraph("Session Timeline", H2))
-    story.append(tbl(
-        [
-            ["Time",        "Step",                                         "Output"],
-            ["T+0:00",      "Setup — ingredients out, start water boiling", "—"],
-            ["T+0:05",      "Pre-chop: curry leaves (½\" pieces), break chili to flakes", "—"],
-            ["T+0:08",      "Tadka — heat oil, mustard seeds pop → curry leaves + chili + hing\n→ BLOOM 15–20 SEC EXACTLY → remove from heat → cool 5 min", "~21 tadka cubes"],
-            ["T+0:15",      "Blanch mint + cilantro together — 10–15 SEC, ice bath, squeeze, separate into two piles", "—"],
-            ["T+0:20",      "Pour cooled tadka into mini tray (1 tsp per cell)", "21 cubes"],
-            ["T+0:22",      "Blend Jaljeera concentrate → pour into tray", "21 cubes"],
-            ["T+0:27",      "Blend cilantro chutney → pour into tray", "17–18 cubes"],
-            ["T+0:32",      "Blend coconut chutney — 2 runs × 6 min each", "48 cubes"],
-            ["T+0:44",      "Blend mint muddle → pour into mini tray", "21 cubes"],
-            ["T+0:54",      "Fenugreek paste — drain seeds, blend immersion, pour into tray", "12–14 cubes"],
-            ["T+1:04",      "Aloe topical refresh (only if running low — check freezer first)", "~14–28 cubes"],
-            ["T+1:19",      "Label all trays, freeze flat — do NOT stack until frozen", "—"],
-            ["T+1:24",      "Cleanup", "Done"],
-        ],
-        [0.7*inch, 4.3*inch, 1.5*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 12),
-            ("FONTNAME",  (0,3), (1,3),   "Helvetica-Bold"),
-            ("TEXTCOLOR", (0,3), (1,3),   WARN),
-            ("BACKGROUND",(0,3), (-1,3),  colors.HexColor("#fff3cd")),
-            ("BACKGROUND",(0,4), (-1,4),  colors.HexColor("#fff3cd")),
-        ],
-    ))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Key Ratios & Rules", H2))
+    s.append(tbl([
+        ["Item",                    "Critical Number",     "Rule"],
+        [b("Tadka bloom"),           b("15–20 sec exactly"),"Beyond 30 sec → alkaloids degrade. Use a timer."],
+        [b("Blanch time"),           b("10–15 sec"),        "Set timer. Ice bath ≥1:1 ice:water ratio."],
+        [b("Coconut per Vitamix"),   b("4 cups max"),       "One run = 4 cups → ~24 cubes. 2 runs = 48."],
+        [b("Mini cube size"),        b("1 tsp per cell"),   "Tadka, mint muddle, fenugreek, ginger cubes."],
+        [b("Regular cube size"),     b("~2 tbsp per cell"), "Jaljeera, cilantro chutney, coconut chutney."],
+        [b("Freeze stability"),      b("3 weeks"),          "Cilantro, coconut, Jaljeera, mint muddle."],
+    ], [1.6*inch, 1.6*inch, 4.3*inch]))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
-    story.append(Paragraph("Key Ratios & Rules", H2))
-    story.append(tbl(
-        [
-            ["Item",                "Critical Number",      "Rule"],
-            ["Tadka bloom",         "15–20 sec exactly",    "Beyond 30 sec → alkaloids degrade. Use a timer."],
-            ["Blanch time",         "10–15 sec",            "Set timer. Ice bath must be ≥1:1 ice:water."],
-            ["Coconut per Vitamix", "4 cups max",           "One run = 4 cups → ~24 cubes. 2 runs = 48 cubes."],
-            ["Cube size — mini",    "1 tsp per cell",       "Tadka, mint muddle, fenugreek, ginger cubes."],
-            ["Cube size — regular", "~2 tbsp per cell",     "Jaljeera, cilantro chutney, coconut chutney."],
-            ["Freeze stability",    "3 weeks",              "Cilantro, coconut, Jaljeera, mint muddle."],
-        ],
-        [1.6*inch, 1.6*inch, 4.3*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 13),
-            ("FONTNAME",  (0,1), (1,-1),  "Helvetica-Bold"),
-        ],
-    ))
+    s.append(PageBreak())
 
-    # ── PAGE 2: 3-Month Big Session (flip side) ───────────────────────────────
-    story.append(PageBreak())
+    s.append(Paragraph("3-Month Big Session", TITLE))
+    s.append(Paragraph("Run every 3 months · ~half day across 2 days · RS3 chill is the bottleneck", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    story.append(Paragraph("3-Month Big Session", TITLE))
-    story.append(Paragraph("Run every 3 months · ~half day across 2 days · RS3 chill is the bottleneck", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(Paragraph("Night Before Day 1", H2))
+    s.append(Paragraph(
+        "Clear chest freezer. Soak chickpeas (5 kg) and black beans (4.5 kg) separately overnight.", BODY))
 
-    story.append(Paragraph("Night Before Day 1", H2))
-    story.append(Paragraph(
-        "Clear chest freezer. Soak chickpeas (5 kg) and black beans (4.5 kg) separately in large pots overnight.", BODY))
+    s.append(Paragraph("Day 1 — Cook & Chill (~4h active)", H2))
+    s.append(tbl([
+        ["Order", "Task",                                                          "RS3 Rule"],
+        [b("1st"), "Cook chickpeas + black beans — pressure cook or boil until tender", w("CHILL 24h in fridge before freezing")],
+        [b("2nd"), "Cook quinoa — 1 cup dry : 1.75 cups water, simmer 12 min, spread thin in 88oz Pyrex", w("CHILL 24h in fridge before freezing")],
+        [b("3rd"), "Cook lentils — simmer 20–25 min, spread thin to cool",         w("Chill 12–24h")],
+        [b("4th"), "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat bags","No chill needed"],
+        [b("5th"), "Juice 50 lemons → ice cube trays → freeze",                    "No chill needed"],
+        [b("6th"), "Make imli (tamarind) cubes — 1 tray, freeze",                  "No chill needed"],
+        [b("7th"), "Aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray","No chill needed"],
+    ], [0.5*inch, 4.2*inch, 2.85*inch],
+    [("BACKGROUND", (0,1), (-1,3), AMBER)]))
 
-    story.append(Paragraph("Day 1 — Cook & Chill (~4h active)", H2))
-    story.append(tbl(
-        [
-            ["Order", "Task",                                         "RS3 Rule"],
-            ["1st",   "Cook chickpeas + black beans — pressure cook or boil until just tender", "CHILL in fridge 24h before freezing"],
-            ["2nd",   "Cook quinoa — 1 cup dry : 1.75 cups water, simmer 12 min, spread thin in 88oz Pyrex to cool fast", "CHILL in fridge 24h before freezing"],
-            ["3rd",   "Cook lentils — simmer 20–25 min, spread thin to cool", "Chill 12–24h"],
-            ["4th",   "Freeze tofu slabs raw — slice 400g block into 4–6 slabs, flat in bags", "No chill needed"],
-            ["5th",   "Make lemon juice cubes — juice 50 lemons → ice cube trays → freeze", "No chill needed"],
-            ["6th",   "Make imli (tamarind) cubes — 1 tray, freeze", "No chill needed"],
-            ["7th",   "Make aloe gel cubes — drain latex 10–15 min → fillet → scoop → blend → tray", "No chill needed"],
-        ],
-        [0.5*inch, 4.0*inch, 3.05*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 12),
-            ("FONTNAME",   (2,1), (2,3),   "Helvetica-Bold"),
-            ("TEXTCOLOR",  (2,1), (2,3),   WARN),
-            ("BACKGROUND", (0,1), (-1,3),  colors.HexColor("#fff3cd")),
-        ],
-    ))
+    s.append(Paragraph("Day 2 — Portion & Freeze (~2h)", H2))
+    s.append(tbl([
+        ["Task",                                         "Portion",       "Into"],
+        [b("Chickpeas"),                                  "1.5 cups cooked","Flat freezer bags"],
+        [b("Black beans"),                                "1.5 cups cooked","Flat freezer bags"],
+        [b("Quinoa"),                                     "½ cup cooked",  "Flat freezer bags"],
+        [b("Lentils"),                                    "½ cup cooked",  "Flat freezer bags"],
+        [b("Ginger knobs (freeze whole)"),                "~2 kg total",   "One large bag"],
+        [b("Garlic (freeze peeled cloves)"),              "~25 heads",     "One bag"],
+        [b("Cilantro — blanch 10–15 sec then freeze"),   "15 large bunches","Bags by batch"],
+        [b("Mint — blanch 10–15 sec then freeze"),        "8 large bunches","Bags by batch"],
+        [b("Chilies — freeze whole"),                     "All varieties", "Labeled bags"],
+    ], [3.3*inch, 1.8*inch, 2.45*inch]))
 
-    story.append(Paragraph("Day 2 — Portion & Freeze (~2h)", H2))
-    story.append(tbl(
-        [
-            ["Task",                                            "Portion size",         "Into"],
-            ["Chickpeas — portion into bags",                  "1.5 cups cooked",      "Flat freezer bags"],
-            ["Black beans — portion into bags",                "1.5 cups cooked",      "Flat freezer bags"],
-            ["Quinoa — portion into bags",                     "½ cup cooked",         "Flat freezer bags"],
-            ["Lentils — portion into bags",                    "½ cup cooked",         "Flat freezer bags"],
-            ["Freeze whole ginger knobs",                      "~2 kg total",          "One large bag"],
-            ["Freeze peeled garlic cloves",                    "~25 heads",            "One bag"],
-            ["Blanch + freeze cilantro (15 large bunches)",    "10–15 sec blanch",     "Bags by batch"],
-            ["Blanch + freeze mint (8 large bunches)",         "10–15 sec blanch",     "Bags by batch"],
-            ["Freeze chilies whole",                           "All varieties",        "Labeled bags"],
-        ],
-        [3.3*inch, 1.8*inch, 2.45*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 12),
-            ("FONTNAME",  (0,1), (0,-1),  "Helvetica-Bold"),
-        ],
-    ))
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  RS3 RULE — chickpeas, black beans, quinoa, lentils MUST chill 12–24h in the fridge "
+        "before going into the freezer. This is the hard bottleneck. Fridge must be fully cleared "
+        "the night before Day 1.", WARN_S))
 
-    story.append(Spacer(1, 8))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
-        "⚠  RS3 RULE — chickpeas, black beans, quinoa, lentils MUST chill in the fridge 12–24h "
-        "before going into the freezer. This is the hard bottleneck. Do not skip. "
-        "The fridge needs to be fully cleared on night before Day 1 to fit everything.", WARN_S))
-
-    story.append(Spacer(1, 8))
-    story.append(Paragraph("Spice Jars — Refill on 3-Month Day", H2))
-    story.append(Paragraph(
+    s.append(Spacer(1, 8))
+    s.append(Paragraph("Spice Jars — Refill on 3-Month Day", H2))
+    s.append(Paragraph(
         "Check dry jars: Kashmiri chili (~50g), Turmeric (~150g), Cumin seeds (~200g), "
         "Cumin powder (~100g), Coriander powder (~100g), Black pepper whole (~100g), "
-        "Ajwain (~50g), Nigella (~50g), Mustard seeds (~50g), Hing (~10g). "
-        "Refill any that are below 2-week supply.", BODY))
+        "Ajwain (~50g), Nigella (~50g), Mustard seeds (~50g), Hing (~10g).", BODY))
 
-    doc.build(story)
-    print("✓ 06-batch-session.pdf  (page 1 = 3-week front, page 2 = 3-month back — print duplex)")
-
-
-# ─────────────────────────────────────────────────────────────────────────────
+    _build(d, s)
+    print("✓ 06-batch-session.pdf  (duplex: front=3-week, back=3-month)")
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CARD 7 — Tofu Day-Of Prep
 # ─────────────────────────────────────────────────────────────────────────────
 def card_tofu():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/07-tofu-prep.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/07-tofu-prep.pdf")
+    s = []
+    s.append(Paragraph("Tofu Day-Of Prep", TITLE))
+    s.append(Paragraph("Extra-firm only · freeze-thaw → brine → press → sear · 2×/week", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
 
-    story.append(Paragraph("Tofu Day-Of Prep", TITLE))
-    story.append(Paragraph("Extra-firm only · freeze-thaw → brine → press → sear · 2×/week", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=14))
+    s.append(Paragraph("Step 1 — Thaw", H2))
+    s.append(tbl([
+        ["Method",             "Time",      "Notes"],
+        [b("Fridge overnight"), "8–12 h",   "Preferred — slow thaw preserves texture best"],
+        [b("Cold water fast"),  "30–60 min", "Submerge sealed bag in cold water"],
+    ], [2.0*inch, 1.2*inch, 4.35*inch]))
 
-    story.append(Paragraph("Step 1 — Thaw", H2))
-    story.append(tbl(
-        [
-            ["Method",              "Time",         "Notes"],
-            ["Fridge overnight",    "8–12 h",       "Preferred — slow thaw preserves texture best"],
-            ["Cold water fast",     "30–60 min",    "Submerge sealed bag in cold water"],
-        ],
-        [2.0*inch, 1.2*inch, 4.35*inch],
-        header_row_style(3),
-    ))
+    s.append(Paragraph("Step 2 — Salt Brine", H2))
+    s.append(tbl([
+        ["Water",    "Salt",   "Boil Level",        "Time"],
+        [b("4 cups"), b("1 tsp"), b("Full rolling boil"), b("3–5 min")],
+        ["2 cups",   "½ tsp",  "Full rolling boil", "3–5 min"],
+        ["8 cups",   "2 tsp",  "Full rolling boil", "3–5 min"],
+    ], [1.5*inch, 1.2*inch, 2.5*inch, 1.8*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph(
+        "Full boil expels ice-crystal water and opens pores — salt seasons from inside out. "
+        "Remove slabs, transfer to clean surface.", NOTE))
 
-    story.append(Paragraph("Step 2 — Salt Brine", H2))
-    story.append(tbl(
-        [
-            ["Water",       "Salt",     "Boil Level",       "Time"],
-            ["4 cups",      "1 tsp",    "Full rolling boil", "3–5 min"],
-            ["2 cups",      "½ tsp",    "Full rolling boil", "3–5 min"],
-            ["8 cups",      "2 tsp",    "Full rolling boil", "3–5 min"],
-        ],
-        [1.5*inch, 1.2*inch, 2.5*inch, 1.8*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",  (0,1), (-1,-1), 16),
-            ("FONTNAME",  (0,1), (-1,1),  "Helvetica-Bold"),
-            ("BACKGROUND",(0,1), (-1,1),  colors.HexColor("#d4edda")),
-        ],
-    ))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph(
-        "Full boil expels residual ice-crystal water and opens pores — "
-        "salt seasons from the inside out. Remove slabs, transfer to clean surface.", NOTE))
+    s.append(Paragraph("Step 3 — Press", H2))
+    s.append(Paragraph(
+        "5 minutes — slabs on a clean towel, heavy pan on top. "
+        "Most water exits during the brine; this is the final dry.", BODY))
 
-    story.append(Paragraph("Step 3 — Press", H2))
-    story.append(Paragraph(
-        "5 minutes — lay slabs on a clean towel, place a heavy pan on top. "
-        "Most water exits during the brine; this is just the final dry.", BODY))
+    s.append(Paragraph("Step 4 — Marinate (Optional — 15–20 min)", H2))
+    s.append(tbl([
+        ["Option",         "Recipe"],
+        [b("Tamari"),       "2 tbsp tamari + 1 ginger cube (melted) + 1 tsp ACV — soak 15 min"],
+        [b("Dry rub"),      "Spice mix (turmeric + cumin + coriander + Kashmiri chili) rubbed onto slab — no wait time"],
+    ], [1.5*inch, 6.05*inch]))
 
-    story.append(Paragraph("Step 4 — Marinate (Optional — 15–20 min)", H2))
-    story.append(tbl(
-        [
-            ["Option",          "Recipe"],
-            ["Tamari marinade", "2 tbsp tamari + 1 ginger cube (melted) + 1 tsp ACV — soak 15 min"],
-            ["Dry rub",         "Protocol spice mix (turmeric + cumin + coriander + Kashmiri chili) rubbed directly onto slab — no wait time needed"],
-        ],
-        [1.5*inch, 6.05*inch],
-        header_row_style(2) + [("FONTSIZE", (0,1), (-1,-1), 13)],
-    ))
+    s.append(Spacer(1, 14))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Step 5 — Flash Sear (Allicin Pulse)", H2))
+    s.append(tbl([
+        ["Clock",     "Action"],
+        [b("00:00"),  w("Crush 2–3 garlic cloves — REST 10 MINUTES (allicin formation — non-negotiable)")],
+        [b("00:10"),  "COLD START — 2 tbsp avocado oil + methi seeds + chili + rested garlic into COLD pan"],
+        [b("00:11"),  "Turn to LOW — bloom 5 min until garlic barely sizzles"],
+        [b("00:16"),  "Turn to MEDIUM-HIGH — add tofu slabs — sear 60–90 sec per side until golden crust"],
+        [b("00:25"),  "Off heat — tear 5–6 fresh mint (Mentha arvensis) leaves over hot tofu"],
+        [b("00:26"),  "Serve immediately with Peppermint Jaljeera"],
+    ], [0.75*inch, 6.8*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,1), AMBER),
+        ("BACKGROUND", (0,5), (-1,5), LIGHT),
+    ]))
 
-    story.append(Spacer(1, 14))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  10-minute garlic rest is non-negotiable — alliinase needs time to convert "
+        "alliin → allicin before heat destroys it. Crush first, then prep everything else.", WARN_S))
 
-    story.append(Paragraph("Step 5 — Flash Sear (Allicin Pulse)", H2))
-    story.append(tbl(
-        [
-            ["Clock",   "Action"],
-            ["00:00",   "Crush 2–3 garlic cloves — REST 10 MINUTES (allicin formation — non-negotiable)"],
-            ["00:10",   "COLD START — add 2 tbsp avocado oil + methi seeds + chili + rested garlic to COLD pan"],
-            ["00:11",   "Turn to LOW — bloom 5 min until garlic barely sizzles (extracts capsaicin + sulfur into fat)"],
-            ["00:16",   "Turn to MEDIUM-HIGH — add tofu slabs — sear 60–90 sec per side until golden crust"],
-            ["00:25",   "Off heat — tear 5–6 fresh Mentha arvensis (mint) leaves over hot tofu"],
-            ["00:26",   "Serve immediately with Peppermint Jaljeera"],
-        ],
-        [0.75*inch, 6.8*inch],
-        header_row_style(2) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 14),
-            ("FONTNAME",   (0,1), (-1,1),  "Helvetica-Bold"),
-            ("TEXTCOLOR",  (0,1), (-1,1),  WARN),
-            ("BACKGROUND", (0,1), (-1,1),  colors.HexColor("#fff3cd")),
-            ("FONTNAME",   (0,4), (-1,4),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,5), (-1,5),  LIGHT),
-        ],
-    ))
-
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
-    story.append(Paragraph(
-        "⚠  The 10-minute garlic rest is non-negotiable — "
-        "crushing activates alliinase; the enzyme needs time to convert alliin → allicin before heat destroys it. "
-        "Crush first, prep everything else, then start the pan.", WARN_S))
-
-    story.append(Spacer(1, 10))
-    story.append(Paragraph("Wet Curry Variant", H2))
-    story.append(Paragraph(
-        "At step 00:25: add 2–3 tbsp coconut milk, stir 30–60 sec into a glaze. "
+    s.append(Spacer(1, 10))
+    s.append(Paragraph("Wet Curry Variant", H2))
+    s.append(Paragraph(
+        "At 00:25: add 2–3 tbsp coconut milk, stir 30–60 sec into a glaze. "
         "Subtract 1 tbsp oil from the 14:30 salad dressing (Lipid Substitution Rule).", BODY))
 
-    doc.build(story)
+    _build(d, s)
     print("✓ 07-tofu-prep.pdf")
 
-
 # ─────────────────────────────────────────────────────────────────────────────
-
-# ─────────────────────────────────────────────────────────────────────────────
-# CARD 8 — Daily / Weekly / 4-Week Rotations
+# CARD 8 — Rotations
 # ─────────────────────────────────────────────────────────────────────────────
 def card_rotations():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/08-rotations.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/08-rotations.pdf")
+    s = []
+    s.append(Paragraph("Protocol Rotations", TITLE))
+    s.append(Paragraph("Daily · Weekly · 4-Week cycle", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    story.append(Paragraph("Protocol Rotations", TITLE))
-    story.append(Paragraph("Daily · Weekly · 4-Week cycle", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(Paragraph("Daily Rotations", H2))
+    s.append(tbl([
+        ["What",               "Mon",          "Tue",       "Wed",          "Thu",       "Fri",          "Sat",       "Sun"],
+        [b("Morning\n09:15"),  b("Ajwain\n¼ tsp"),b("Jeera\n½ tsp"),b("Ajwain\n¼ tsp"),b("Jeera\n½ tsp"),b("Ajwain\n¼ tsp"),b("Jeera\n½ tsp"),b("Ajwain\n¼ tsp")],
+        [b("Seed\n1 tbsp"),    sm("Basil"),    sm("Sesame"),sm("Basil"),    sm("Walnuts"),sm("Basil"),    sm("Pumpkin"),sm("Hemp")],
+        [b("Heat\n18:30"),     sm("Epsom"),    sm("Sauna"), sm("Epsom"),    sm("Sauna"), sm("Epsom"),    sm("Sauna"), sm("—")],
+        [b("Training\n16:30"), sm("Lift"),     sm("VO2"),   sm("Lift"),     sm("Rest"),  sm("Lift"),     sm("Rest"),  sm("—")],
+    ], [1.3*inch] + [0.89*inch]*7,
+    [
+        ("BACKGROUND", (1,1), (1,1), MINT),
+        ("BACKGROUND", (3,1), (3,1), MINT),
+        ("BACKGROUND", (5,1), (5,1), MINT),
+        ("BACKGROUND", (7,1), (7,1), MINT),
+        ("BACKGROUND", (1,3), (1,3), MINT),
+        ("BACKGROUND", (3,3), (3,3), MINT),
+        ("BACKGROUND", (5,3), (5,3), MINT),
+        ("ALIGN", (0,0), (-1,-1), "CENTER"),
+    ]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph("Green = workout days.", NOTE))
 
-    # ── DAILY ────────────────────────────────────────────────────────────────
-    story.append(Paragraph("Daily Rotations", H2))
-    story.append(tbl(
-        [
-            ["What",                "Mon",          "Tue",          "Wed",              "Thu",          "Fri",          "Sat",          "Sun"],
-            ["Morning drink\n09:15","Ajwain\n¼ tsp","Jeera\n½ tsp", "Ajwain\n¼ tsp",   "Jeera\n½ tsp", "Ajwain\n¼ tsp","Jeera\n½ tsp", "Ajwain\n¼ tsp"],
-            ["Salad seed\n1 tbsp",  "Basil\nseeds", "Sesame",       "Basil\nseeds",     "Walnuts",      "Basil\nseeds", "Pumpkin\nseeds","Hemp\nseeds"],
-            ["Heat 18:30",          "Epsom\nbath",  "Sauna",        "Epsom\nbath",      "Sauna",        "Epsom\nbath",  "Sauna",        "—"],
-            ["Training\n16:30",     "Lift",         "VO2 Max",      "Lift",             "Rest",         "Lift",         "Rest",         "—"],
-        ],
-        [1.3*inch] + [0.89*inch]*7,
-        header_row_style(8) + [
-            ("FONTSIZE",     (0,0), (-1,-1), 11),
-            ("FONTNAME",     (0,1), (0,-1),  "Helvetica-Bold"),
-            ("BACKGROUND",   (1,1), (1,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (3,1), (3,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (5,1), (5,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (7,1), (7,1),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (1,3), (1,3),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (3,3), (3,3),   colors.HexColor("#d4edda")),
-            ("BACKGROUND",   (5,3), (5,3),   colors.HexColor("#d4edda")),
-            ("ALIGN",        (0,0), (-1,-1), "CENTER"),
-        ],
-    ))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph("Green = workout days.", NOTE))
+    s.append(Paragraph("Night Infusion (21:00) — pick by day type", H2))
+    s.append(tbl([
+        ["Infusion",        "When to use"],
+        [b("Ashwagandha"),   "High-cortisol days · tofu-pulse days · VO2 Max (Tue) — mandatory. Do NOT use daily."],
+        [b("Tulsi"),         "Lower-stimulation recovery nights · standard rest recovery"],
+        [b("Saffron"),       "Parasympathetic emphasis · end-of-day downshift · Week 4 washout"],
+    ], [1.5*inch, 6.05*inch]))
 
-    # ── NIGHT INFUSIONS ───────────────────────────────────────────────────────
-    story.append(Paragraph("Night Infusion (21:00) — pick by day type", H2))
-    story.append(tbl(
-        [
-            ["Infusion",        "When to use"],
-            ["Ashwagandha",     "High-cortisol days · tofu-pulse days · VO2 Max (Tue) — mandatory. Do NOT use daily."],
-            ["Tulsi",           "Lower-stimulation recovery nights · standard rest recovery"],
-            ["Saffron",         "Parasympathetic emphasis · end-of-day downshift · Week 4 washout"],
-        ],
-        [1.5*inch, 6.05*inch],
-        header_row_style(2) + [("FONTSIZE", (0,1), (-1,-1), 13), ("FONTNAME", (0,1), (0,-1), "Helvetica-Bold")],
-    ))
+    s.append(Paragraph("Weekly Rotations — pick one per category per week", H2))
+    s.append(tbl([
+        ["Category",                    "Option A",                        "Option B",                          "Option C"],
+        [b("Bitter green\n(2 cups)"),    "Arugula\n(high nitrate/NO)",       "Watercress\n(PEITC / dense)",       "Kale*\n(massage 60 sec)"],
+        [b("Dry Podi\n(1 tbsp/day)"),   sm("Hormonal Buffer Podi\n(flax + moringa + cumin)"), sm("Vascular Podi\n(sesame + curry leaf + bay leaf + cumin)"), sm("—")],
+        [b("Chutney\n(1–2 tbsp)"),       "Coconut\n(MCT + curry leaf)",      "Cilantro/Mint TRP",                "—"],
+        [b("Recovery\nextras"),          w("Cacao + vanilla\n(2–3×/week MAX — never daily)"), "Plain bowl\n(rest days)", "—"],
+    ], [1.4*inch, 2.1*inch, 2.1*inch, 2.0*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph("* Tofu: 2×/week ceiling — never more. Phytoestrogen accumulation risk.", WARN_S))
 
-    # ── WEEKLY ────────────────────────────────────────────────────────────────
-    story.append(Paragraph("Weekly Rotations — pick one per category per week", H2))
-    story.append(tbl(
-        [
-            ["Category",            "Option A",                     "Option B",                     "Option C"],
-            ["Bitter green\n(2 cups)","Arugula\n(high nitrate/NO)", "Watercress\n(PEITC / dense)",  "Kale*\n(massage 60 sec)"],
-            ["Dry Podi\n(1 tbsp/day)","Hormonal Buffer Podi\n(flax + moringa + cumin)", "Vascular Podi\n(sesame + curry leaf + bay leaf + cumin)", "—"],
-            ["Chutney\n(1–2 tbsp/meal)","Coconut chutney\n(MCT + curry leaf)","Cilantro/Mint TRP\n(4 cups cilantro + mint)","—"],
-            ["Recovery bowl\nextras","Cacao nibs + vanilla\n(2–3×/week MAX — never daily)","Plain bowl\n(rest days)", "—"],
-        ],
-        [1.4*inch, 2.1*inch, 2.1*inch, 2.0*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 11),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("TEXTCOLOR",  (1,4), (2,4),   WARN),
-        ],
-    ))
-    story.append(Spacer(1, 4))
-    story.append(Paragraph("* Tofu: 2×/week ceiling — never more. Phytoestrogen accumulation risk.", WARN_S))
+    s.append(Paragraph("4-Week Cycle — what shifts each week", H2))
+    s.append(tbl([
+        ["Week",     "Theme",                     "Morning drink",                       "Special rules"],
+        [b("Wk 1"),  b("Baseline &\nAnti-inflam."), "Ajwain / Jeera basic rotation",     "No clove. Establish timing. Follow daily anchors strictly."],
+        [b("Wk 2"),  b("Antimicrobial\nPeak"),      "Add Clove 2 mornings\n(replace 2 Jeera days)", "Clove only on Day 9 + Day 12. Sulfur emphasis. Watch gut."],
+        [b("Wk 3"),  b("Vascular &\nNitric Peak"),  "Ajwain / Jeera basic rotation",     "Arugula/Watercress priority for NO. Omega-3 week. Monitor logs."],
+        [b("Wk 4"),  b("Washout &\nReset"),         "Ajwain / Jeera basic rotation",     "REMOVE all heavy antimicrobials. Tulsi/Saffron at night. Optional: Detox Week (chlorella + double cilantro + extra tamarind)."],
+    ], [0.65*inch, 1.3*inch, 1.9*inch, 3.8*inch],
+    [
+        ("BACKGROUND", (0,2), (-1,2), AMBER),
+        ("BACKGROUND", (0,4), (-1,4), LIGHT),
+    ]))
 
-    # ── 4-WEEK ────────────────────────────────────────────────────────────────
-    story.append(Paragraph("4-Week Cycle — what shifts each week", H2))
-    story.append(tbl(
-        [
-            ["Week",    "Theme",                    "Morning drink",                    "Special rules"],
-            ["Week 1",  "Baseline &\nAnti-inflammatory","Ajwain / Jeera basic rotation", "No clove. Establish timing. Follow daily anchors strictly."],
-            ["Week 2",  "Antimicrobial\nPeak",      "Add Clove 2 mornings\n(replace 2 Jeera days)", "Clove only on Day 9 + Day 12. Sulfur emphasis. Watch gut."],
-            ["Week 3",  "Vascular &\nNitric Peak",  "Ajwain / Jeera basic rotation","Arugula/Watercress priority for NO. Omega-3 week. Monitor logs."],
-            ["Week 4",  "Washout &\nReset",         "Ajwain / Jeera basic rotation","REMOVE all heavy antimicrobials (no clove, no star anise). "
-                                                                                    "Low stimulation — Tulsi/Saffron at night, skip Ashwagandha unless high-cortisol. "
-                                                                                    "Optional: run Detox Week (chlorella + double cilantro + extra tamarind)."],
-        ],
-        [0.65*inch, 1.3*inch, 1.9*inch, 3.8*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 11),
-            ("FONTNAME",   (0,1), (1,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,2), (-1,2),  colors.HexColor("#fff3cd")),
-            ("BACKGROUND", (0,4), (-1,4),  colors.HexColor("#e8f4f0")),
-        ],
-    ))
+    s.append(Spacer(1, 6))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Daily anchors never rotate: Broccoli microgreens · Fresh cilantro · "
+        "Turmeric + black pepper · Ginger · Brazil nut (1–2/day).", WARN_S))
 
-    story.append(Spacer(1, 6))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
-    story.append(Paragraph(
-        "⚠  Daily anchors never rotate: Broccoli microgreens · Fresh cilantro · Turmeric + black pepper · Ginger · Brazil nut (1–2/day).", WARN_S))
-
-    doc.build(story)
+    _build(d, s)
     print("✓ 08-rotations.pdf")
 
-
 # ─────────────────────────────────────────────────────────────────────────────
-# CARD 9 — Skincare (Topical Protocols)
+# CARD 9 — Skincare
 # ─────────────────────────────────────────────────────────────────────────────
 def card_skincare():
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/09-skincare.pdf")
-    story = []
+    d = mk_doc("fridge-sheets/09-skincare.pdf")
+    s = []
+    s.append(Paragraph("Skincare & Hair", TITLE))
+    s.append(Paragraph("Ayurvedic topical protocols — batch system", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    story.append(Paragraph("Skincare & Hair", TITLE))
-    story.append(Paragraph("Ayurvedic topical protocols — batch system", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(Paragraph("Weekly Schedule", H2))
+    s.append(tbl([
+        ["Day",           "Hair Mask", "Face Mask", "Body Ubtan", "Leave time"],
+        [b("Wednesday"),  b("✓"),      b("✓"),      b("✓"),       "Hair 30–45 min · Face 10–15 min · Body 5–10 min (pre-shower)"],
+        [b("Sunday"),     b("✓"),      b("✓"),      "—",          "Hair 30–45 min · Face 10–15 min"],
+    ], [0.9*inch, 0.8*inch, 0.8*inch, 0.9*inch, 5.15*inch],
+    [("ALIGN", (1,0), (3,2), "CENTER")]))
 
-    # Weekly schedule
-    story.append(Paragraph("Weekly Schedule", H2))
-    story.append(tbl(
-        [
-            ["Day",         "Hair Mask",    "Face Mask",    "Body Ubtan",   "Leave time"],
-            ["Wednesday",   "✓",            "✓",            "✓",            "Hair 30–45 min · Face 10–15 min · Body 5–10 min (pre-shower)"],
-            ["Sunday",      "✓",            "✓",            "—",            "Hair 30–45 min · Face 10–15 min"],
-        ],
-        [0.9*inch, 0.8*inch, 0.8*inch, 0.9*inch, 5.15*inch],
-        header_row_style(5) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 13),
-            ("FONTNAME",   (1,1), (3,2),   "Helvetica-Bold"),
-            ("TEXTCOLOR",  (3,2), (3,2),   colors.HexColor("#888888")),
-            ("ALIGN",      (1,0), (3,2),   "CENTER"),
-        ],
-    ))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Per-Application Recipe", H2))
+    s.append(tbl([
+        ["Protocol",      "Dry mix",              "Wet cubes",                                 "Oil",                      "Extra"],
+        [b("Hair Mask"),  b("2 tbsp\nDry Hair"),   "1 fenugreek cube (thawed)\n1 aloe cube (thawed)", "1 tbsp coconut\n(melted)",  "3–5 drops Rosemary EO\nmixed into oil first"],
+        [b("Face Mask"),  b("1 tsp\nDry Face"),    "1 aloe cube (thawed)\nor rose water to bind",     sm("Tiny drop coconut\n(dry skin only)"), "Avoid eye area.\n10–15 min."],
+        [b("Body Ubtan"), b("2 tbsp\nDry Body"),   "1 aloe cube (thawed)",                      "1 tbsp coconut\nor sesame oil",sm("Apply to damp skin,\ncircular motions.\nScrub off in shower.")],
+    ], [1.1*inch, 1.4*inch, 1.9*inch, 1.5*inch, 1.75*inch]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph(
+        "Hair mask: scalp first, massage 2–3 min, then through lengths. "
+        "Rinse while still slightly damp — do NOT let fully dry/harden.", NOTE))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Dry Mix Jar Recipes", H2))
+    s.append(tbl([
+        ["Jar",             "Ingredient",                                "Amount"],
+        [b("DRY HAIR MIX"), b("Amla powder"),                            "4 tbsp"],
+        ["",                "Curry Leaf Powder (air-dried)",              "1 tsp"],
+        ["",                "Rotating powder — see 3-month cycle below", "4 tbsp"],
+        ["",                sm("Fenugreek powder (backup if no cubes)"),  sm("2 tbsp")],
+        [b("DRY FACE MIX"), b("Besan (chickpea flour)"),                 "4 tbsp"],
+        ["",                "Amla powder",                               "2 tbsp"],
+        ["",                "Turmeric",                                  "1 tsp"],
+        ["",                w("Bay Leaf Powder (tejpatta)"),              w("¼ tsp MAX")],
+        [b("DRY BODY MIX"), b("Besan (chickpea flour)"),                 "6 tbsp"],
+        ["",                "Amla powder",                               "2 tbsp"],
+        ["",                "Turmeric",                                  "1.5 tsp"],
+        ["",                w("Neem powder (Month 3 only)"),             w("3 tbsp")],
+    ], [1.4*inch, 4.0*inch, 1.25*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,4),  CREAM),
+        ("BACKGROUND", (0,5), (-1,8),  LIGHT),
+        ("BACKGROUND", (0,9), (-1,12), CREAM),
+    ]))
 
-    # Per-application recipes
-    story.append(Paragraph("Per-Application Recipe", H2))
-    story.append(tbl(
-        [
-            ["Protocol",        "Dry mix",          "Wet cubes",                    "Oil",              "Extra"],
-            ["Hair Mask",       "2 tbsp Dry Hair Mix","1 fenugreek cube (thawed)\n1 aloe cube (thawed)","1 tbsp coconut oil\n(melted)", "3–5 drops Rosemary EO\nmixed into oil first"],
-            ["Face Mask",       "1 tsp Dry Face Mix","1 aloe cube (thawed)\n— or rose water to bind","Tiny drop coconut oil\n(dry skin only)", "Avoid eye area.\nLeave 10–15 min."],
-            ["Body Ubtan",      "2 tbsp Dry Body Mix","1 aloe cube (thawed)",        "1 tbsp coconut\nor sesame oil", "Apply to damp skin,\ncircular motions.\nScrub off in shower."],
-        ],
-        [1.1*inch, 1.5*inch, 1.8*inch, 1.5*inch, 1.75*inch],
-        header_row_style(5) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 11),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (4,1), (4,1),   colors.HexColor("#e8f4f0")),
-        ],
-    ))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph(
-        "Hair mask: apply to scalp first, massage 2–3 min, then work through lengths. "
-        "Do NOT let mask fully dry and harden — rinse while still slightly damp.", NOTE))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("3-Month Hair Powder Cycle (the 4 tbsp rotating slot)", H2))
+    s.append(tbl([
+        ["Month",    "Powder",                       "What it does"],
+        [b("Month 1"), b("Brahmi\n(Bacopa monnieri)"), "Reduces scalp inflammation, strengthens shaft, cortisol-driven hair loss"],
+        [b("Month 2"), b("Bhringraj\n(Eclipta alba)"),  "Stimulates follicles, reduces shedding"],
+        [b("Month 3"), b("Neem\n(Azadirachta indica)"), "Antifungal, anti-dandruff, clears scalp bacteria\n→ also add 3 tbsp Neem to Dry Body Mix this month"],
+    ], [0.9*inch, 1.7*inch, 5.05*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Spacer(1, 8))
+    s.append(Paragraph("Cube Consumption (per week)", H2))
+    s.append(tbl([
+        ["Protocol",         "Freq/week",    "Aloe cubes", "Fenugreek cubes"],
+        [b("Hair mask"),      "2× (Wed+Sun)", b("2"),       "2"],
+        [b("Face mask"),      "2× (Wed+Sun)", b("2"),       "0"],
+        [b("Body ubtan"),     "1× (Wed)",     b("1"),       "0"],
+        [b("TOTAL / week"),   "",             b("5"),       b("2")],
+    ], [1.8*inch, 1.6*inch, 1.6*inch, 2.55*inch],
+    [
+        ("BACKGROUND", (0,4), (-1,4), LIGHT),
+        ("ALIGN", (2,0), (3,4), "CENTER"),
+    ]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "3-month supply: ~65 aloe cubes (5 tray batches, 5 leaves) · "
+        "~26 fenugreek cubes (4 tbsp seeds every 6 weeks).", NOTE))
 
-    # Dry mix jar recipes
-    story.append(Paragraph("Dry Mix Jar Recipes (make once, top up monthly)", H2))
-    story.append(tbl(
-        [
-            ["Jar",             "Ingredient",                       "Amount"],
-            # Hair
-            ["DRY HAIR MIX",   "Amla powder",                      "4 tbsp"],
-            ["",               "Curry Leaf Powder (air-dried)",     "1 tsp"],
-            ["",               "Rotating powder — see 3-month cycle below", "4 tbsp"],
-            ["",               "Fenugreek powder (backup if no cubes)", "2 tbsp"],
-            # Face
-            ["DRY FACE MIX",   "Besan (chickpea flour)",            "4 tbsp"],
-            ["",               "Amla powder",                       "2 tbsp"],
-            ["",               "Turmeric",                          "1 tsp"],
-            ["",               "Bay Leaf Powder (tejpatta)",         "¼ tsp MAX"],
-            # Body
-            ["DRY BODY MIX",   "Besan (chickpea flour)",            "6 tbsp"],
-            ["",               "Amla powder",                       "2 tbsp"],
-            ["",               "Turmeric",                          "1.5 tsp"],
-            ["",               "Neem powder (Month 3 only)",        "3 tbsp"],
-        ],
-        [1.4*inch, 4.0*inch, 1.25*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",     (0,0), (-1,-1), 12),
-            ("FONTNAME",     (0,1), (0,4),   "Helvetica-Bold"),
-            ("BACKGROUND",   (0,1), (-1,4),  CREAM),
-            ("FONTNAME",     (0,5), (0,8),   "Helvetica-Bold"),
-            ("BACKGROUND",   (0,5), (-1,8),  LIGHT),
-            ("FONTNAME",     (0,9), (0,12),  "Helvetica-Bold"),
-            ("BACKGROUND",   (0,9), (-1,12), CREAM),
-            ("TEXTCOLOR",    (1,4), (2,4),   WARN),
-            ("TEXTCOLOR",    (1,8), (2,8),   WARN),
-            ("TEXTCOLOR",    (1,12),(2,12),  WARN),
-            ("FONTNAME",     (1,4), (2,4),   "Helvetica-Bold"),
-            ("FONTNAME",     (1,8), (2,8),   "Helvetica-Bold"),
-            ("FONTNAME",     (1,12),(2,12),  "Helvetica-Bold"),
-        ],
-    ))
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Aloe — drain latex 10–15 min (stand cut-end down) before scooping gel. Aloin irritates skin. "
+        "Bay leaf ¼ tsp max — sensitizer at high dose. "
+        "Turmeric stains hair yellow — omit or 1/8 tsp max.", WARN_S))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
-
-    # 3-month rotating powder
-    story.append(Paragraph("3-Month Hair Powder Cycle (rotating 4 tbsp in Dry Hair Mix)", H2))
-    story.append(tbl(
-        [
-            ["Month",   "Powder",       "What it does"],
-            ["Month 1", "Brahmi\n(Bacopa monnieri)", "Reduces scalp inflammation, strengthens shaft, cortisol-driven hair loss"],
-            ["Month 2", "Bhringraj\n(Eclipta alba)",  "Stimulates follicles, reduces shedding"],
-            ["Month 3", "Neem\n(Azadirachta indica)", "Antifungal, anti-dandruff, clears scalp bacteria\n→ also add 3 tbsp Neem to Dry Body Mix this month"],
-        ],
-        [0.9*inch, 1.7*inch, 5.05*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 13),
-            ("FONTNAME",   (0,1), (1,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,3), (-1,3),  colors.HexColor("#fff3cd")),
-            ("FONTNAME",   (0,3), (-1,3),  "Helvetica-Bold"),
-        ],
-    ))
-
-    story.append(Spacer(1, 8))
-    story.append(Paragraph("Cube Consumption (per week)", H2))
-    story.append(tbl(
-        [
-            ["Protocol",    "Freq/week",    "Aloe cubes",   "Fenugreek cubes"],
-            ["Hair mask",   "2× (Wed+Sun)", "2",            "2"],
-            ["Face mask",   "2× (Wed+Sun)", "2",            "0"],
-            ["Body ubtan",  "1× (Wed)",     "1",            "0"],
-            ["TOTAL/week",  "",             "5",            "2"],
-        ],
-        [1.8*inch, 1.6*inch, 1.6*inch, 2.55*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 13),
-            ("FONTNAME",   (0,4), (-1,4),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,4), (-1,4),  LIGHT),
-            ("ALIGN",      (2,0), (3,4),   "CENTER"),
-        ],
-    ))
-    story.append(Spacer(1, 4))
-    story.append(Paragraph(
-        "3-month supply: ~65 aloe cubes (5 tray batches from 5 leaves) · "
-        "~26 fenugreek cubes (1 batch from 4 tbsp seeds every 6 weeks).", NOTE))
-
-    story.append(Spacer(1, 8))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
-    story.append(Paragraph(
-        "⚠  Aloe — drain latex 10–15 min (stand cut-end down) before scooping gel. "
-        "Aloin irritates skin. "
-        "Bay leaf max ¼ tsp in face mix — sensitizer at high dose. "
-        "Turmeric stains hair yellow — omit or use 1/8 tsp max in hair mask.", WARN_S))
-
-    doc.build(story)
+    _build(d, s)
     print("✓ 09-skincare.pdf")
 
-
 # ─────────────────────────────────────────────────────────────────────────────
-
-# ─────────────────────────────────────────────────────────────────────────────
-# CARD 10 — Workout & Yoga (front = weekly split, back = yoga + thermal)
+# CARD 10 — Workout (front=weekly split, back=yoga+thermal)
 # ─────────────────────────────────────────────────────────────────────────────
 def card_workout():
-    from reportlab.platypus import PageBreak
+    d = mk_doc("fridge-sheets/10-workout.pdf")
+    s = []
 
-    doc = make_doc("/home/user/bluevedaprotocol/fridge-sheets/10-workout.pdf")
-    story = []
+    s.append(Paragraph("Weekly Training Split", TITLE))
+    s.append(Paragraph("The Operator Split — Legs / Push / Pull / VO2 / Recovery", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    # ── PAGE 1: Weekly Training Split ─────────────────────────────────────────
-    story.append(Paragraph("Weekly Training Split", TITLE))
-    story.append(Paragraph("The Operator Split — Legs / Push / Pull / VO2 / Recovery", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(tbl([
+        ["Day",     "06:30 – 09:00",              "16:30 – 18:00",              "21:00 Night",          "Yoga pairing"],
+        [b("MON"),  b("Cold Plunge"),              b("HEAVY LEGS"),              "Tulsi",                sm("Half Pigeon\n(hip flexors)")],
+        [b("TUE"),  sm("Fasted Cardio\n(Zone 2)"),b("PUSH DAY"),                "Tulsi",                sm("Cobra / Upward Dog\n(chest/shoulders)")],
+        [b("WED"),  b("Cold Plunge"),              b("PULL DAY"),                "Saffron",              sm("Thread the Needle\n(thoracic/biceps)")],
+        [b("THU"),  b("VO2 Max 4×4"),              "Active Recovery / Walk",     w("Ashwagandha\n(mandatory)"), sm("Legs Up the Wall\n(vagal tone)")],
+        [b("FRI"),  b("Cold Plunge"),              b("LIFT ROTATOR\n+ Tofu Pulse"),w("Ashwagandha\n(mandatory)"), sm("Full Body Flush")],
+        [b("SAT"),  sm("Active Yoga\n(15–20 min)"),"3-Cycle Contrast Therapy",  "Saffron",              sm("CNS Reset")],
+        [b("SUN"),  sm("Batch Meal Prep"),          "Rest / Walk",               "Tulsi",                sm("Gentle Mobility")],
+    ], [0.55*inch, 1.5*inch, 1.9*inch, 1.3*inch, 2.35*inch],
+    [
+        ("BACKGROUND", (0,4), (-1,4), AMBER),
+        ("BACKGROUND", (0,7), (-1,7), LIGHT),
+        ("ALIGN", (0,0), (-1,-1), "CENTER"),
+    ]))
 
-    story.append(tbl(
-        [
-            ["Day",         "06:30 – 09:00",            "16:30 – 18:00",                "21:00 Night",  "Yoga pairing"],
-            ["MON",         "Cold Plunge",               "HEAVY LEGS",                   "Tulsi",        "Half Pigeon\n(hip flexors)"],
-            ["TUE",         "Fasted Cardio\n(Zone 2)",   "PUSH DAY",                     "Tulsi",        "Cobra / Upward Dog\n(chest/shoulders)"],
-            ["WED",         "Cold Plunge",               "PULL DAY",                     "Saffron",      "Thread the Needle\n(thoracic/biceps)"],
-            ["THU",         "VO2 Max 4×4\n(full intervals)",  "Active Recovery / Walk",  "Ashwagandha\n(mandatory)",  "Legs Up the Wall\n(vagal tone)"],
-            ["FRI",         "Cold Plunge",               "LIFT ROTATOR\n+ Tofu Pulse",   "Ashwagandha\n(mandatory)",  "Full Body Flush\n(Legs Up the Wall)"],
-            ["SAT",         "Active Yoga\n(15–20 min)",  "3-Cycle Contrast Therapy",     "Saffron",      "CNS Reset"],
-            ["SUN",         "Batch Meal Prep",           "Rest / Walk",                  "Tulsi",        "Gentle Mobility"],
-        ],
-        [0.55*inch, 1.5*inch, 1.9*inch, 1.3*inch, 2.35*inch],
-        header_row_style(5) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 12),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("FONTNAME",   (1,1), (2,1),   "Helvetica-Bold"),  # Mon
-            ("FONTNAME",   (2,2), (2,2),   "Helvetica-Bold"),  # Tue push
-            ("FONTNAME",   (2,3), (2,3),   "Helvetica-Bold"),  # Wed pull
-            ("FONTNAME",   (1,4), (2,4),   "Helvetica-Bold"),  # Thu VO2
-            ("FONTNAME",   (2,5), (2,5),   "Helvetica-Bold"),  # Fri
-            ("BACKGROUND", (0,4), (-1,4),  colors.HexColor("#fff3cd")),  # Thu highlight
-            ("TEXTCOLOR",  (3,4), (3,5),   WARN),  # Ashwagandha mandatory
-            ("FONTNAME",   (3,4), (3,5),   "Helvetica-Bold"),
-            ("BACKGROUND", (0,7), (-1,7),  LIGHT),  # Sunday
-            ("ALIGN",      (0,0), (-1,-1), "CENTER"),
-        ],
-    ))
+    s.append(Spacer(1, 12))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Diet Adjustments by Day Type", H2))
+    s.append(tbl([
+        ["Day type",         "12:00 Quinoa",  "17:30",                           "17:50 Casein",                   "14:30 Dressing"],
+        [b("Heavy Lift"),    b("½ cup"),       "Whey + creatine\n(strict window)", "1 scoop",                        "4 tbsp"],
+        [b("VO2 Max (Thu)"), b("¾ cup\n+50%"),"Whey + creatine",                  "1 scoop",                        "4 tbsp"],
+        [b("Rest / Cardio"), b("¼ cup"),       "Whey + creatine",                  w("SKIP\n(no mechanical damage)"), "2–4 tbsp"],
+    ], [1.3*inch, 1.1*inch, 2.1*inch, 1.4*inch, 1.65*inch]))
 
-    story.append(Spacer(1, 12))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
-
-    story.append(Paragraph("Diet Adjustments by Day Type", H2))
-    story.append(tbl(
-        [
-            ["Day type",        "12:00 Quinoa",     "17:30",                "17:50 Casein", "14:30 Dressing"],
-            ["Heavy Lift",      "½ cup",            "Whey + creatine\n(mandatory — strict window)", "1 scoop",   "4 tbsp"],
-            ["VO2 Max (Thu)",   "¾ cup\n(+50%)",    "Whey + creatine",      "1 scoop",      "4 tbsp"],
-            ["Rest / Cardio",   "¼ cup",            "Whey + creatine",      "SKIP\n(no mechanical damage)", "2–4 tbsp"],
-        ],
-        [1.3*inch, 1.1*inch, 2.1*inch, 1.4*inch, 1.65*inch],
-        header_row_style(5) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 12),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("FONTNAME",   (1,2), (1,2),   "Helvetica-Bold"),
-            ("TEXTCOLOR",  (3,3), (3,3),   WARN),
-            ("FONTNAME",   (3,3), (3,3),   "Helvetica-Bold"),
-        ],
-    ))
-
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
-    story.append(Paragraph(
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
         "⚠  COLD PLUNGE RULE — NEVER immediately after heavy lifting. "
-        "Blunts mTOR / muscle growth signal. "
-        "Minimum 6 hours between cold plunge and lift (cold at 06:30 → lift at 16:30 is correct). "
-        "If you feel 'fried' in the morning — swap cold plunge for restorative yoga, skip Matcha.", WARN_S))
+        "Blunts mTOR / growth signal. Min 6 hours separation "
+        "(cold 06:30 → lift 16:30 is correct). "
+        "Morning 'fried'? Swap cold plunge for restorative yoga, skip Matcha.", WARN_S))
 
-    story.append(Spacer(1, 8))
-    story.append(Paragraph("VO2 Max 4×4 Progression — do not skip stages", H2))
-    story.append(tbl(
-        [
-            ["Stage",       "Who",                  "Protocol"],
-            ["Stage 1",     "Novice",               "Zone 2 fasted walk/jog only — no 4×4s"],
-            ["Stage 2",     "Intermediate\n(4–8 wk)","2×4 intervals (2 reps instead of 4). Monitor HRV."],
-            ["Stage 3",     "Operator",             "Full 4×4: 4 min max effort → 3 min active recovery → repeat ×4. Proceed only if morning resting HR is stable and 21:00 Ashwagandha is maintained."],
-        ],
-        [0.75*inch, 1.4*inch, 5.45*inch],
-        header_row_style(3) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 12),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,3), (-1,3),  LIGHT),
-        ],
-    ))
+    s.append(Spacer(1, 8))
+    s.append(Paragraph("VO2 Max 4×4 Progression — do not skip stages", H2))
+    s.append(tbl([
+        ["Stage",      "Who",                    "Protocol"],
+        [b("Stage 1"), b("Novice"),               "Zone 2 fasted walk/jog only — no 4×4s"],
+        [b("Stage 2"), b("Intermediate\n(4–8 wk)"),"2×4 intervals (2 reps instead of 4). Monitor HRV."],
+        [b("Stage 3"), b("Operator"),             "Full 4×4: 4 min max effort → 3 min active recovery → repeat ×4. Only proceed if resting HR is stable and 21:00 Ashwagandha is maintained."],
+    ], [0.75*inch, 1.4*inch, 5.45*inch],
+    [("BACKGROUND", (0,3), (-1,3), LIGHT)]))
 
-    # ── PAGE 2: Yoga + Thermal ────────────────────────────────────────────────
-    story.append(PageBreak())
+    s.append(PageBreak())
 
-    story.append(Paragraph("Yoga & Thermal Protocols", TITLE))
-    story.append(Paragraph("Autonomic reset sequences + thermal hormesis methods", SUB))
-    story.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+    s.append(Paragraph("Yoga & Thermal Protocols", TITLE))
+    s.append(Paragraph("Autonomic reset sequences + thermal hormesis methods", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
 
-    story.append(Paragraph("Yoga Sequences — which to use when", H2))
-    story.append(tbl(
-        [
-            ["Sequence",                "When",             "Duration",     "Key moves"],
-            ["Active Morning",          "Replace 06:30 cardio on low-cortisol mornings",
-             "15–20 min", "Child's Pose → Cat-Cow × 10 → Downward Dog → Ragdoll → Sun Salutation A ×3–5 → Warrior II → Hanuman Dand ×10 → Savasana"],
-            ["Restorative\n(Cortisol Day)", "Morning if 'fried' OR 21:00 night infusion window",
-             "15–20 min", "Supported Child's Pose 3–4 min → Supine Spinal Twist 2 min/side → Reclined Bound Angle 3–4 min → LEGS UP THE WALL 5 min → Savasana"],
-            ["Post-Lift Stretch",       "Immediately post-workout or active recovery days",
-             "10–15 min", "Lizard Lunge 2 min/side → Half Pigeon 2 min/side → Thread the Needle 1 min/side → Seated Forward Fold 2 min"],
-        ],
-        [1.25*inch, 1.8*inch, 0.9*inch, 3.65*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 11),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,2), (-1,2),  colors.HexColor("#fff3cd")),
-        ],
-    ))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph(
-        "Restorative breath: inhale 4 sec · exhale 8 sec. Night yoga: sip Tulsi or Saffron during or immediately after. "
-        "Mantra option: 'So' on inhale, 'Hum' on exhale — interrupts anxiety loop in Default Mode Network.", NOTE))
+    s.append(Paragraph("Yoga Sequences — which to use when", H2))
+    s.append(tbl([
+        ["Sequence",                       "When",                                               "Duration",    "Key moves"],
+        [b("Active Morning"),               "Replace 06:30 cardio on low-cortisol mornings",      "15–20 min",  sm("Child's Pose → Cat-Cow ×10 → Downward Dog → Ragdoll → Sun Salutation A ×3–5 → Warrior II → Hanuman Dand ×10 → Savasana")],
+        [b("Restorative\n(Cortisol Day)"),  "Morning if 'fried' OR 21:00 night infusion window", "15–20 min",  sm("Supported Child's Pose 3–4 min → Supine Spinal Twist 2 min/side → Reclined Bound Angle 3–4 min → LEGS UP WALL 5 min → Savasana")],
+        [b("Post-Lift Stretch"),            "Immediately post-workout or active recovery days",   "10–15 min",  sm("Lizard Lunge 2 min/side → Half Pigeon 2 min/side → Thread the Needle 1 min/side → Seated Forward Fold 2 min")],
+    ], [1.25*inch, 1.8*inch, 0.9*inch, 3.65*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph(
+        "Restorative breath: inhale 4 sec · exhale 8 sec. "
+        "Night yoga: sip Tulsi or Saffron during or immediately after. "
+        "Mantra: 'So' on inhale, 'Hum' on exhale — interrupts anxiety loop.", NOTE))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Thermal Hormesis — three methods", H2))
+    s.append(tbl([
+        ["Method",                    "When",          "Protocol",                                  "Rule"],
+        [b("A — Daily\nMaintenance"), "Daily",          "Cold plunge 06:30\n+ Sauna 18:30 (separate)", sm("Re-warm naturally 10–15 min after cold plunge — activates Brown Adipose Tissue")],
+        [b("B — Efficiency\nPump"),   "2–3×/week",     "Sauna 15 min → Cold Plunge 3 min\n(immediate transition)", sm("ALWAYS end on cold. Trains endothelial lining.")],
+        [b("C — Weekly\nVascular Flush"), "1×/week (Sat)", "3 continuous cycles:\nSauna → Cold → Sauna → Cold → Sauna → Cold", sm("ALWAYS end on cold. Wait 15 min before warm hydration.")],
+    ], [1.1*inch, 1.0*inch, 2.7*inch, 2.85*inch],
+    [("BACKGROUND", (0,3), (-1,3), LIGHT)]))
 
-    story.append(Paragraph("Thermal Hormesis — three methods", H2))
-    story.append(tbl(
-        [
-            ["Method",              "When",             "Protocol",                         "Rule"],
-            ["A — Daily Maintenance","Daily",           "Cold plunge 06:30 + Sauna 18:30 (separate, isolated)",
-             "Re-warm naturally 10–15 min after cold plunge — activates Brown Adipose Tissue"],
-            ["B — Efficiency Pump", "2–3×/week",       "Sauna 15 min → Cold Plunge 3 min\n(immediate transition)",
-             "ALWAYS end on cold. Trains endothelial lining."],
-            ["C — Weekly Vascular Flush","1×/week (Sat)","3 continuous cycles:\nSauna → Cold → Sauna → Cold → Sauna → Cold",
-             "ALWAYS end on cold. Wait 15 min before drinking warm hydration. Clears deep-tissue inflammation."],
-        ],
-        [1.1*inch, 1.0*inch, 2.7*inch, 2.85*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 11),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("BACKGROUND", (0,3), (-1,3),  LIGHT),
-        ],
-    ))
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
+    s.append(Paragraph("Targeted Yoga Pairings by Lift Day", H2))
+    s.append(tbl([
+        ["Lift Day",              "Mechanical stress",             "Key pose",              "Why"],
+        [b("Mon — HEAVY LEGS"),   "Hip flexors / glute fatigue",   b("Half Pigeon"),        "Unlocks piriformis + glutes — reduces DOMS"],
+        [b("Tue — PUSH"),         "Internal shoulder rotation",    b("Cobra / Upward Dog"), "Chest opening counteracts pec shortening"],
+        [b("Wed — PULL"),         "Thoracic compression / biceps", b("Thread the Needle"),  "Thoracic rotation + rear delt stretch"],
+        [b("Fri — FULL ROTATOR"), "Systemic CNS load",             b("Legs Up the Wall"),   "Vagal nerve stimulation → fastest HRV recovery"],
+    ], [1.3*inch, 1.8*inch, 1.3*inch, 3.25*inch]))
 
-    story.append(Spacer(1, 10))
-    story.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=10))
-
-    story.append(Paragraph("Targeted Yoga Pairings by Lift Day", H2))
-    story.append(tbl(
-        [
-            ["Lift Day",            "Mechanical stress",            "Key pose",             "Why"],
-            ["Mon — HEAVY LEGS",    "Hip flexors / glute fatigue",  "Half Pigeon",          "Unlocks piriformis + glutes — reduces DOMS and postural tilt"],
-            ["Tue — PUSH",          "Internal shoulder rotation",   "Cobra / Upward Dog",   "Heart/chest opening counteracts pec shortening from pressing"],
-            ["Wed — PULL",          "Thoracic compression / biceps","Thread the Needle",    "Thoracic rotation + rear delt stretch — prevents rounding"],
-            ["Fri — FULL ROTATOR",  "Systemic CNS load",            "Legs Up the Wall",     "Vagal nerve stimulation → fastest HRV recovery tool available"],
-        ],
-        [1.3*inch, 1.8*inch, 1.3*inch, 3.25*inch],
-        header_row_style(4) + [
-            ("FONTSIZE",   (0,1), (-1,-1), 12),
-            ("FONTNAME",   (0,1), (0,-1),  "Helvetica-Bold"),
-            ("FONTNAME",   (2,1), (2,-1),  "Helvetica-Bold"),
-        ],
-    ))
-
-    story.append(Spacer(1, 8))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
-    story.append(Paragraph(
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
         "⚠  Ice bath > cryo chamber. Water is 25× more thermally conductive than air — "
         "core cooling triggers the sustained dopamine/noradrenaline spike and BAT activation. "
         "Cryo creates an insulating skin boundary layer and cannot replicate this.", WARN_S))
 
-    doc.build(story)
-    print("✓ 10-workout.pdf  (page 1 = weekly split, page 2 = yoga + thermal — print duplex)")
+    _build(d, s)
+    print("✓ 10-workout.pdf  (duplex: front=weekly split, back=yoga+thermal)")
 
+# ─────────────────────────────────────────────────────────────────────────────
+# CARD 11 — Chutney Prep & Blanching
+# ─────────────────────────────────────────────────────────────────────────────
+def card_chutney():
+    d = mk_doc("fridge-sheets/11-chutney-prep.pdf")
+    s = []
+    s.append(Paragraph("Chutney Prep & Blanching", TITLE))
+    s.append(Paragraph("3-week batch · Blanch → Blend → Freeze · done in order below", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("① Blanching — Do First (applies to cilantro AND mint)", H2))
+    s.append(tbl([
+        ["Step",  "Action",                                             "Time"],
+        [b("1"),  "Bring pot of water to a rolling boil",               "—"],
+        [b("2"),  w("Submerge cilantro + ALL mint together in boiling water"), w("10–15 sec EXACTLY")],
+        [b("3"),  "Transfer immediately to ice bath (≥1:1 ice:water)","30 sec"],
+        [b("4"),  "Squeeze out excess water thoroughly",               "—"],
+        [b("5"),  "Separate into two piles: cilantro+some mint → chutney / mint only → Jaljeera", "—"],
+    ], [0.4*inch, 4.8*inch, 1.5*inch],
+    [("BACKGROUND", (0,2), (-1,2), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Why blanch: deactivates polyphenol oxidase (PPO) — the browning enzyme. "
+        "10–15 sec deactivates PPO only; chelation compounds and color are preserved.", NOTE))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("② Curry Leaf Tadka — 1 pan, 5 min · makes ~21 cubes", H2))
+    s.append(tbl([
+        ["Ingredient",              "Amount",             "Notes"],
+        [b("Avocado / coconut oil"), b("7 tbsp (~½ cup)"), "The fat carrier — extracts alkaloids"],
+        [b("Mustard seeds"),         b("1 tbsp"),          "Add first — wait for pop (~20 sec)"],
+        [b("Fresh curry leaves"),    b("1 cup packed"),    "Rough-chop into ½\" pieces before pan"],
+        [b("Dried red chili"),       b("1–1½ tsp flakes"), "Break into flakes — distributes across all 21 cubes"],
+        [b("Hing (asafoetida)"),     b("¼ tsp"),           "Add with curry leaves + chili"],
+    ], [2.1*inch, 1.6*inch, 3.85*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Method: heat oil → mustard seeds pop → add curry leaves + chili + hing → "
+        "BLOOM 15–20 SEC (use a timer) → off heat → cool 5 min → stir → pour 1 tsp per mini cube cell.", NOTE))
+    s.append(Paragraph(
+        "⚠  Beyond 30 sec bloom → alkaloids degrade. Do not exceed 20 sec.", WARN_S))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("③ Cilantro Chutney — 1 Vitamix run · ~17–18 cubes", H2))
+    s.append(tbl([
+        ["Ingredient",           "Amount",          "Notes"],
+        [b("Cilantro (blanched)"), b("4 cups packed"), "From blanching step"],
+        [b("Fresh mint (blanched)"),b("2 cups packed"), "Optional — adds brightness"],
+        [b("Frozen avocado"),    b("½ cup"),         "Add to blender first with aquafaba"],
+        [b("Aquafaba"),          b("1 tbsp"),         "Saponins emulsify avocado fat — add BEFORE herbs"],
+        [b("Thai green chilies"), b("4–5"),           ""],
+        [b("Garlic (rested 10 min)"), b("4 cloves"), "Crush and rest 10 min for allicin before blending"],
+        [b("Fresh ginger"),      b("1 inch knob"),   ""],
+        [b("Lemon juice"),       b("4 tbsp"),        "ACID LOCK — critical for color and preservation"],
+        [b("Black salt (kala namak)"), b("1 tsp"),   ""],
+        [b("Roasted cumin powder"), b("1 tsp"),      ""],
+    ], [2.0*inch, 1.4*inch, 4.15*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Blend order: aquafaba + frozen avocado 20 sec → add herbs + everything else → "
+        "blend 60–90 sec. Pour ~2 tbsp per cube. Freeze immediately.", NOTE))
+
+    s.append(PageBreak())
+
+    s.append(Paragraph("Chutney Prep (continued)", TITLE))
+    s.append(Paragraph("Coconut chutney · Jaljeera concentrate", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("④ Coconut Chutney — 2 Vitamix runs · ~48 cubes total", H2))
+    s.append(tbl([
+        ["Ingredient",            "Per Vitamix run", "× 2 runs total"],
+        [b("Fresh grated coconut"), b("4 cups"),       b("8 cups total")],
+        [b("Fresh curry leaves"),   b("3–4 tbsp"),     b("6–8 tbsp")],
+        [b("Green chili"),          b("4–5"),          b("8–10")],
+        [b("Fresh ginger"),         b("2 inch knob"),  b("~180g total")],
+        [b("Roasted cumin powder"), b("2 tsp"),        b("4 tsp")],
+        [b("Lemon juice"),          b("4 tbsp"),       b("8 tbsp")],
+        [b("Water or aquafaba"),    b("½ cup"),        b("1 cup")],
+        [b("Salt"),                 b("1 tsp"),        b("2 tsp")],
+    ], [2.1*inch, 1.8*inch, 2.65*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Blend 90 sec per run until smooth. Pour ~2 tbsp per cube. "
+        "Rinse blender 10 sec between runs. Yield ~24 cubes per run.", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("⑤ Jaljeera Concentrate — 1 Vitamix run · ~21 cubes", H2))
+    s.append(tbl([
+        ["Ingredient",            "Amount for 21 servings",    "Notes"],
+        [b("Mint (blanched)"),     b("~2 cups packed"),         "From blanching step — mint only pile"],
+        [b("Thai green chili"),    b("10–12 chilies"),          ""],
+        [b("Fresh ginger"),        b("7 tbsp (~200g)"),         ""],
+        [b("Lemon juice"),         b("~1¼ cups (~7 cubes)"),    "Or use frozen lemon cubes"],
+        [b("ACV (raw)"),           b("~1¼ cups"),               ""],
+        [b("Avocado oil"),         b("3½ tbsp"),                "Lipid lock — traps volatile menthol"],
+        [b("Hing"),                b("½ tsp"),                  ""],
+    ], [2.0*inch, 2.0*inch, 2.55*inch]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "Blend 60 sec. Taste: sharp, minty, spicy, bright. "
+        "Pour ~2 tbsp per cube. 21 cubes = 3-week supply at 1/day.", NOTE))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "At serving: add fresh black salt + roasted cumin + ACV + cold/sparkling water. "
+        "Never put black salt or cumin in the frozen cube (osmosis bleeds water from paste).", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=8))
+    s.append(Paragraph(
+        "⚠  ACID LOCK IS MANDATORY in cilantro chutney — 4 tbsp lemon juice minimum. "
+        "Skipping causes oxidation and grey-green color within 24h even frozen.", WARN_S))
+
+    s.append(Spacer(1, 8))
+    s.append(Paragraph("Freeze Stability Reference", H2))
+    s.append(tbl([
+        ["Item",                  "Shelf life frozen", "Cube size"],
+        [b("Tadka cubes"),         "4–6 weeks",         "1 tsp (mini tray)"],
+        [b("Jaljeera cubes"),      "3 weeks",           "~2 tbsp (regular tray)"],
+        [b("Cilantro chutney"),    "3 weeks",           "~2 tbsp (regular tray)"],
+        [b("Coconut chutney"),     "3 weeks",           "~2 tbsp (regular tray)"],
+        [b("Mint muddle cubes"),   "4–6 weeks",         "1 tbsp (mini tray)"],
+        [b("Fenugreek paste"),     "4–6 weeks",         "1 tbsp (mini tray)"],
+    ], [2.0*inch, 1.8*inch, 2.75*inch]))
+
+    _build(d, s)
+    print("✓ 11-chutney-prep.pdf")
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CARD 12 — Ginger & Root Long-Term Storage
+# ─────────────────────────────────────────────────────────────────────────────
+def card_ginger_storage():
+    d = mk_doc("fridge-sheets/12-ginger-storage.pdf")
+    s = []
+    s.append(Paragraph("Ginger & Root Storage", TITLE))
+    s.append(Paragraph("Long-term freeze methods · whole knobs + paste cubes", SUB))
+    s.append(HRFlowable(width="100%", thickness=2, color=TEAL, spaceAfter=10))
+
+    s.append(Paragraph("Ginger — Two Storage Formats", H2))
+    s.append(tbl([
+        ["Format",                    "Method",                                            "Shelf life", "When to use"],
+        [b("Whole Knobs\n(3-month day)"), sm("Wash. Do NOT peel. Freeze whole in sealed bag."), b("3 months"), sm("Grate directly from frozen — skin grates off naturally.\nSemi-frozen is easiest to peel if needed.\nBuy ~2 kg on 3-month day.")],
+        [b("Paste Cubes\n(monthly refresh)"), sm("Pull 2–3 knobs from freezer. Rest 5 min (semi-frozen easiest to peel).\nPeel. Blend with 2–3 tbsp cold water in Vitamix 60 sec.\nPortion ~1 tbsp per mini cube cell.\nFreeze overnight → transfer to labeled bag."), b("3 months"), sm("1 cube = ~1 inch knob equivalent.\nDrop from frozen into warm pan or recipes.")],
+    ], [1.4*inch, 3.1*inch, 0.9*inch, 2.2*inch],
+    [("BACKGROUND", (0,1), (-1,1), MINT)]))
+    s.append(Spacer(1, 5))
+    s.append(Paragraph("Label: Ginger — [date] — use by [date +3 months]", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Matcha Hack (morning 09:15 — temperature regulator)", H2))
+    s.append(tbl([
+        ["Step", "Action"],
+        [b("1"),  "Boil water"],
+        [b("2"),  "Drop 1 frozen ginger cube into cup — cube pulls temp down toward 170°F (76°C) naturally"],
+        [b("3"),  "Pour near-boiling water over cube. Let fully melt, stir to incorporate (~30 sec)"],
+        [b("4"),  w("Confirm temp ≤ 170°F — THEN whisk in matcha powder")],
+        [b("5"),  "Rationale: 170°F protects L-theanine + EGCG from heat degradation. Ginger cube = flavor + temperature regulator in one step."],
+    ], [0.4*inch, 7.15*inch],
+    [("BACKGROUND", (0,4), (-1,4), AMBER)]))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Rested Garlic Cubes — monthly · ~14 cubes · shelf life 3 months frozen", H2))
+    s.append(tbl([
+        ["Step", "Action",                                               "Time"],
+        [b("1"),  "Pull ~20 frozen garlic cloves. Thaw 10 min at room temp", "10 min"],
+        [b("2"),  "Smash and mince finely",                             "—"],
+        [b("3"),  w("REST 10 MINUTES — allicin formation window. Set a timer. Non-negotiable."), w("10 min EXACTLY")],
+        [b("4"),  "Add 4–5 drops avocado oil to bind",                  "—"],
+        [b("5"),  "Portion into mini cube tray (~1 tsp per cell). Freeze overnight.", "—"],
+    ], [0.4*inch, 5.4*inch, 1.8*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
+    s.append(Spacer(1, 4))
+    s.append(Paragraph(
+        "⚠  NEVER freeze before the 10-min rest. Ice crystals damage alliinase — "
+        "thawed whole garlic cannot form allicin after freezing. Rest must happen before the freeze.", WARN_S))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Long-Term Freeze: Herbs, Leaves & Coconut", H2))
+    s.append(tbl([
+        ["Ingredient",             "Blanch?",           "Method",                                              "Shelf life"],
+        [b("Cilantro (bunches)"),  b("YES — 10 sec"),   "Wash + dry → blanch 10 sec → ice bath 30 sec → dry → flat bag", "3 months"],
+        [b("Mint (bunches)"),      b("YES — 10 sec"),   "Same as cilantro",                                    "3 months"],
+        [b("Curry leaves"),        b("NO"),             "Wash + dry → spread on tray → freeze 1 hr → airtight bag\nUse frozen directly for tadka — no thawing needed", "3 months"],
+        [b("Fresh coconut (grated)"), b("NO"),          "Spread on tray → freeze 1 hr (prevents clumping) → bag\nMeasure frozen directly into blender for chutney", "3 months"],
+        [b("Chilies (whole)"),     b("NO"),             "Freeze whole in labeled bags by variety",             "3–6 months"],
+    ], [1.5*inch, 1.0*inch, 3.5*inch, 1.0*inch],
+    [
+        ("BACKGROUND", (0,1), (-1,2), MINT),
+        ("BACKGROUND", (0,3), (-1,3), CREAM),
+    ]))
+
+    s.append(Spacer(1, 8))
+    s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
+    s.append(Paragraph(
+        "⚠  Blanching cilantro + mint: 10 seconds only — stops browning (PPO deactivation) "
+        "without cooking the herb. Longer exposure degrades the chelation compounds.", WARN_S))
+
+    _build(d, s)
+    print("✓ 12-ginger-storage.pdf")
 
 # ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
+    os.makedirs("fridge-sheets", exist_ok=True)
     card_produce()
     card_dressing()
     card_salad()
@@ -1115,4 +1060,12 @@ if __name__ == "__main__":
     card_rotations()
     card_skincare()
     card_workout()
-    print("\nAll 10 fridge cards written to fridge-sheets/")
+    card_chutney()
+    card_ginger_storage()
+    print("\nAll 12 fridge cards written to fridge-sheets/")
+
+    # Clean up temp QR file
+    try:
+        os.unlink(_QR_PATH)
+    except OSError:
+        pass
