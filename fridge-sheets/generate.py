@@ -255,7 +255,7 @@ def card_salad():
     s.append(tbl([
         ["Layer",             "What",                              "Amount"],
         [b("① Bitter Green"), "Arugula / Watercress / Kale*",     "2 cups"],
-        [b("② Anchors"),      b("Broccoli Microgreens"),           "1 cup"],
+        [b("② Anchors"),      b("Broccoli Sprouts"),               "1 cup"],
         ["",                  "Fresh Cilantro",                    "¼ cup"],
         [b("③ Probiotic"),    "Sauerkraut or Kimchi (raw/unpast.)","¼ cup"],
         [b("④ Seed"),         "Day's seed (see table below)",      "1 tbsp"],
