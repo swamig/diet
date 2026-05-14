@@ -728,8 +728,19 @@ def card_skincare():
     ]))
     s.append(Spacer(1, 4))
     s.append(Paragraph(
-        "3-month supply: ~65 aloe cubes (5 tray batches, 5 leaves) · "
-        "~26 fenugreek cubes (4 tbsp seeds every 6 weeks).", NOTE))
+        "3-month supply: ~65 aloe cubes (5 tray batches from 5 large leaves) · "
+        "~26 fenugreek cubes (rebatch every 4–6 weeks from 4 tbsp seeds).", NOTE))
+
+    s.append(Spacer(1, 10))
+    s.append(HRFlowable(width="100%", thickness=1, color=GOLD, spaceAfter=8))
+    s.append(Paragraph("Batch Cadence — What's 3-Month vs Monthly", H2))
+    s.append(tbl([
+        ["Item",                            "Batch every",      "Shelf life",         "Notes"],
+        [b("Dry jars — Hair, Face, Body"),   b("3 months"),      b("Shelf-stable"),    "One bulk prep session (~20 min). Refill your small working jar monthly from the bulk jar."],
+        [b("Aloe vera cubes"),               b("3 months"),      b("3–4 months frozen"), "5 large leaves → ~65 cubes. Do on 3-month day alongside dry jars."],
+        [w("Fenugreek paste cubes"),         w("Every 4–6 weeks"), w("4–6 weeks frozen"), "Soak overnight before batching. Mucilage + lecithin don't survive longer freezing."],
+    ], [1.9*inch, 1.3*inch, 1.5*inch, 3.0*inch],
+    [("BACKGROUND", (0,3), (-1,3), AMBER)]))
 
     s.append(Spacer(1, 8))
     s.append(HRFlowable(width="100%", thickness=1.5, color=WARN, spaceAfter=6))
