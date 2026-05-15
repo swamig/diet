@@ -49,8 +49,10 @@ The protocol has two execution paths depending on who is cooking and why:
 
 ### 1. The Anti-Phytic Soak
 1.  Rinse 2-3 cups of dry black beans.
-2.  Submerge in filtered water with 1 tsp sea salt.
-3.  **The Wait:** Soak for 12-16 hours at room temperature to neutralize phytates.
+2.  Submerge in filtered water with 1 tsp sea salt (weekly mode) or baking soda water — ¼ tsp per quart (3-month batch mode, reduces oligosaccharides ~70%).
+3.  **Optional — Kombu strip:** Add a 2–3 inch strip of dried kombu to the soak water. Kombu contains glutamic acid and enzymes that break down raffinose and stachyose (the oligosaccharides that cause gas) — same mechanism as hing, but active during the soak rather than the cook. Remove the strip before cooking and discard with the soak water. Most of the iodine leaches out with the water, so iodine load is low; still avoid daily use if thyroid-sensitive. Complements rather than duplicates the hing in the boil stack.
+4.  **The Wait:** Soak for 12–16 hours at room temperature to neutralize phytates.
+5.  **Drain & Rinse thoroughly.** Always discard soak water — never cook in it (degrades aquafaba emulsifiers and reintroduces leached antinutrients).
 
 ### 2. The Cook & First Chill
 1.  **Drain & Rinse:** Discard the soak water (removing leached antinutrients).
