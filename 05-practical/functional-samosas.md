@@ -1,6 +1,9 @@
 
-## The 3-Option Architecture (Quick Jump)
-To maintain gut resilience and balance your amino acid profile, you must rotate your crusts based on your daily training load:
+## Quick Jump
+
+**Day-of execution:** → [**Day-of Prep (All Variants)**](#day-of-prep-all-variants) · [**Day-of jar quantities**](#day-of-jar-quantities-per-parcel--pre-measure-into-a-labeled-jar-at-batch-time)
+
+**The 3-Option Architecture** — rotate crusts based on daily training load, for gut resilience and amino acid balance:
 *   [**Option 1: The Seitan Hybrid Skin**](#option-1-the-seitan-hybrid-skin-high-protein) — The **"Default."** 50/50 VWG/Besan. Used all 4 samosa days — better amino acid profile and crispier texture than pure VWG (**~70g protein, ~585 kcal** for two).
 *   [**Option 2: The "Daily Bread" Hybrid**](#option-2-the-daily-bread-hybrid-atta--vwg) — **Optional variation** when atta is on hand. 50% Atta / 50% VWG. Nuttier, more traditional flavor (**~68g protein, ~605 kcal** for two).
 *   [**Option 3: The 'Green Crystal' GF Skin**](#option-3-the-green-crystal-gf-skin-rice-tapioca--moringa) — The **"Fiber Sweep."** Tapioca/Rice/Moringa base. Used on T/Th/S (Rest/Cardio days) for GI motility (**~42g protein, ~468 kcal** for two).
@@ -65,7 +68,7 @@ For a 3-month batch, fat-soluble spices (capsaicin, curcumin, tocotrienols [[Agg
 |---|---|
 | Ajwain, nigella, amchur, chaat masala, salt, hing, green chilies, lemon juice, ginger, boiled garlic cloves, carrots, peas, ground coriander, ground cardamom, ground cinnamon, ground cloves, ground star anise, ground black cardamom | Kashmiri chili powder, achiote, cumin, turmeric, smoked paprika/chipotle, black pepper (crack fresh), nutmeg (fresh grate 1/8 tsp) |
 
-**Day-of jar quantities (per parcel — pre-measure into a labeled jar at batch time):**
+### Day-of Jar Quantities (per parcel — pre-measure into a labeled jar at batch time)
 
 | Spice | Per parcel | For 4 parcels (8 cups cooked) | For 52 parcels (full batch) |
 |---|---|---|---|
@@ -155,7 +158,11 @@ Split the 52 parcels across 4 signal variants when forming. Variants A, B, C com
 7. Form into parcels same as above → fridge overnight → label bag **D** → freeze
 7. **Pre-measure day-of jar (Variant D):** Kashmiri chili powder + achiote + cumin + black pepper (crack fresh day-of). Label jar **D**.
 
-**Day-of (all variants):** Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO [[Beauchamp et al., 2005]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
+### Day-of Prep (All Variants)
+
+Take leaf parcel from freezer → thaw in fridge overnight → fold in day-of jar spices with a small drizzle of EVOO [[Beauchamp et al., 2005]](../07-appendices/master-citations.md#10-antioxidants-polyphenols--vascular-signaling) → wrap cold block in fresh skin → air fry at 400°F for 7–8 min → serve open on the leaf.
+
+See the [day-of jar quantities table](#day-of-jar-quantities-per-parcel--pre-measure-into-a-labeled-jar-at-batch-time) above for per-parcel spice amounts.
 
 ---
 
