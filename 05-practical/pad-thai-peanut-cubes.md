@@ -26,6 +26,20 @@ Designed for tofu, rice noodles, cabbage, broccoli, carrots, snap peas, and edam
 | Date paste (2 Medjool blended w/ 1 tbsp warm water) OR maple syrup | 1–2 tbsp | Date paste = protocol default |
 | Hot water | ¼–⅓ cup | Just enough to blend smooth — sacrificed at simmer |
 
+## Recommended Bio-Signal Defaults
+
+**These ship in the cube by default** — added in the blender in Method step 1 (everything except miso, which still goes in off-heat). The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
+
+| Ingredient | Single batch | 4× run | 8× batch | Why |
+|---|---|---|---|---|
+| **Black pepper, coarse-cracked** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Piperine — absorption multiplier |
+| **Thai bird's eye chilies** (frozen, whole) | 4 chilies | 16 chilies | 32 chilies | TRPV1 — Pad Thai background heat layer |
+| **Black garlic powder** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | SAC — heat-stable sulfur |
+| **Smoked paprika** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Capsaicinoid diversity + carotenoids |
+| **Sichuan peppercorn**, toasted + ground | ½ tsp | 2 tsp | 4 tsp (1⅓ tbsp) | KCNK numbing / mala |
+
+> **Thai chilies freeze whole in a labeled bag · 3–6 month stock · use direct from frozen (chop or blend without thawing).** Cross-link [freeze-system.md](./freeze-system.md) (Sheet 12).
+
 ## Method (~20 min)
 
 1. **Blend everything EXCEPT miso** until smooth — add water 1 tbsp at a time, stop when the blender just runs clean.
@@ -36,27 +50,22 @@ Designed for tofu, rice noodles, cabbage, broccoli, carrots, snap peas, and edam
 
 Label: `Peanut Cubes — [date] — use by [date + 3 months]`.
 
-## Optional Bio-Signal Stack
+## Further Bio-Signal Variants (Beyond the Defaults)
 
-All optional — the base sauce works without any of them. Stacking both in-cube and day-of layers gives the protocol-grade meal (see [Master Guide §9](./sauce-cubing-master-guide.md#9-the-bio-signal-stack-pattern-optional)).
+Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-signal-defaults) above. All optional — the base sauce works as-is with the defaults alone. See [Master Guide §9](./sauce-cubing-master-guide.md#9-the-bio-signal-stack-pattern-optional) for the layering pattern.
 
 ### In the cube (added before freezing)
 
 | Add | Per batch | Why |
 |---|---|---|
-| **Black pepper, coarse-cracked** | ½ tsp | Piperine — absorption multiplier · **strongly recommended** if you'll stack this with a turmeric cube (curcumin pairing) |
-| Thai bird's eye chili | 1 chili | TRPV1 — adds the classic Pad Thai background heat |
 | Optional protein layer | 2 tbsp pea protein, hemp hearts, or silken tofu blended in | Boosts satiety · slight texture change toward creamier mouthfeel |
-| Black garlic powder | 1 tsp | SAC — heat-stable sulfur signaling |
-| Smoked paprika | 1 tsp | Capsaicinoid diversity + carotenoids |
-| Sichuan peppercorn (toasted + ground) | ½ tsp | Mala / KCNK numbing |
 
 ### Day-of (at the pan, NOT in the cube)
 
 | Add | Per serving | Why |
 |---|---|---|
 | Toasted sesame oil | 1 tsp | Finishing oil only · off-heat at the pan ([Master Guide §3](./sauce-cubing-master-guide.md#3-what-stays-out-added-at-the-pan-or-plate)) |
-| **Rested garlic cube** ([freeze-system.md](./freeze-system.md)) | 1 cube | Raw allicin pulse — the simmered garlic in the cube doesn't provide this |
+| **Rested garlic cube** ([freeze-system.md](./freeze-system.md)) | 1 cube | Raw allicin pulse — the simmered garlic in the cube doesn't provide this. Pull from freezer 10 min before cooking to partial-thaw — keeps the pan from cooling more than ~5 °F when added off-heat. See [freeze-system.md](./freeze-system.md). |
 | Fresh cilantro + scallion | as garnish | Top-note volatiles · sublime out of the cube |
 | Lime wedge | 1 wedge | Brightens · iron + Vit C synergy with edamame / legumes |
 | Crushed peanut garnish | 1 tbsp | Textural top — optional |
@@ -80,6 +89,11 @@ All optional — the base sauce works without any of them. Stacking both in-cube
 | Fresh ginger | **~3 oz / ~85 g** (4 thumbs) | Rough chop |
 | Date paste (4 Medjool blended w/ 4 tbsp warm water) | **¼–½ cup** | Adjust to taste · sweeter end if PB is unsalted |
 | Hot water | **1–1¼ cups** | Start at 1 cup, add only if blender stalls |
+| **Black pepper, coarse-cracked** (default) | **4 tsp (1⅓ tbsp)** | Piperine multiplier |
+| **Thai bird's eye chilies, frozen whole** (default) | **16 chilies** | TRPV1 — direct from frozen, blend without thawing |
+| **Black garlic powder** (default) | **4 tsp (1⅓ tbsp)** | Heat-stable SAC |
+| **Smoked paprika** (default) | **4 tsp (1⅓ tbsp)** | Capsaicinoid diversity + carotenoids |
+| **Sichuan peppercorn, toasted + ground** (default) | **2 tsp** | KCNK numbing / mala |
 
 **NOT in Vitamix — added off-heat after simmer:**
 - White miso · **¼ cup per run** (½ cup total batch)
@@ -100,6 +114,11 @@ All optional — the base sauce works without any of them. Stacking both in-cube
 | Date paste (8 Medjool dates) | ½–1 cup |
 | Hot water | 2–2½ cups |
 | White miso | ½ cup (off-heat) |
+| **Black pepper, coarse-cracked** (default) | 8 tsp (~2¾ tbsp) |
+| **Thai bird's eye chilies, frozen whole** (default) | 32 chilies |
+| **Black garlic powder** (default) | 8 tsp (~2¾ tbsp) |
+| **Smoked paprika** (default) | 8 tsp (~2¾ tbsp) |
+| **Sichuan peppercorn, toasted + ground** (default) | 4 tsp (1⅓ tbsp) |
 
 ### Method (~1 hour total for full batch)
 
