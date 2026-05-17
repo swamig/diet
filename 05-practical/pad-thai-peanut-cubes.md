@@ -41,6 +41,44 @@ Designed for tofu, rice noodles, cabbage, broccoli, carrots, snap peas, and edam
 
 > **Thai chilies freeze whole in a labeled bag · 3–6 month stock · use direct from frozen (chop or blend without thawing).** Cross-link [freeze-system.md](./freeze-system.md) (Sheet 12).
 
+## Optional · 7-Nut Blend Swap (Costco Multi-Nut Butter)
+
+If you've got Costco's 7-nut butter or similar multi-nut blend in the pantry, it slots in as a partial or full substitute for the natural roasted peanut butter — at a cost of recipe identity but with measurable nutritional upgrades.
+
+| Trade-off | Pure peanut (default) | 7-nut blend swap |
+|---|---|---|
+| **Flavor identity** | Canonical Thai peanut sauce | Mediterranean / European nut-mole profile |
+| **Amino acid diversity** | Single legume profile | 6–7 nut profiles → better protein quality |
+| **Vitamin E (α-tocopherol)** | Low | **High** — almond + hazelnut contribute · adds to the cube's lipid-soluble antioxidant network |
+| **Omega-3 (ALA)** | None | **Walnut contributes** ~0.5 g per tbsp · plant omega-3 |
+| **Selenium** | Trace | Brazil nut adds ~5 µg per cube · safe at cube dose |
+| **Magnesium** | Moderate | Cashew + almond add ~30 % more |
+| **PUFA oxidation rate** | High (~24 g PUFA per ¾ cup peanut) | Slightly lower mix · ~4 month freeze instead of 3 |
+| **Texture** | Silky smooth | Slightly grittier (cashew, almond) — sauce is less smooth |
+| **Cost** | $5–7 / 28 oz | $10–12 / 32 oz · ~2× |
+
+### Three swap paths
+
+| Path | What changes | Best for |
+|---|---|---|
+| **A. Pure peanut** (default) | Nothing | Faithful Thai flavor · most common use |
+| **B. 50/50 blend** | Use ⅜ cup peanut + ⅜ cup 7-nut in the single recipe (same total ¾ cup) | Mostly peanut character with vitamin E + omega-3 + selenium boost · still recognizably Pad Thai |
+| **C. Full 7-nut** | Replace ¾ cup peanut with ¾ cup 7-nut blend | A new cube identity ("Multi-Nut Umami") — pairs with quinoa bowls, roasted veg, buddha bowls — NOT Thai |
+
+### Label check before buying
+
+Most Costco multi-nut butters add **1–2 g cane sugar + a stabilizer oil**. Quick check:
+- **Sugar** at 1–2 g per serving = fine for the cube (already has date paste; reduce dates slightly if going Path C)
+- **Palm oil** stabilizer = neutral, mostly saturated, no freeze issue
+- **Sunflower oil** stabilizer = adds PUFA load · slightly faster oxidation in freezer · downgrade freeze life from 3 months → ~2.5 months
+- **Roasted** > raw — most 7-nut blends are roasted by default
+
+### Recommendation
+
+- **Heavy peanut sauce use (4+×/wk)** → keep pure peanut for cost + identity
+- **Light use (2×/wk or less)** → Path B (50/50 blend) is the upgrade. Same cube, broader nutrition, no recipe rewrite.
+- **Want a separate cube class entirely** → Path C as a new cube line · cleanest if you want both peanut + multi-nut flavors in the freezer
+
 ## Method (~20 min)
 
 1. **Blend everything EXCEPT miso** until smooth — add water 1 tbsp at a time, stop when the blender just runs clean.
