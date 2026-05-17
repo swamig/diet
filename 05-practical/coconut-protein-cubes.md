@@ -25,6 +25,20 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 **Build-your-own spice base (instead of curry paste):** 1 tsp turmeric · 1 tsp ground cumin · 1 tsp ground coriander · ½ tsp ground cardamom · ¼ tsp ground cinnamon · 1 tsp lemongrass paste (optional).
 
+## Recommended Bio-Signal Defaults
+
+**These ship in the cube by default** — added in Method step 1 (or off-heat for miso). The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
+
+| Ingredient | Single batch | 4× run | When |
+|---|---|---|---|
+| **Black pepper, coarse-cracked** | ½ tsp | 2 tsp | In the cube — piperine pairs with the turmeric in the build-your-own spice base |
+| **Thai bird's eye chili** (frozen) | 1 chili — or ½ tsp Kashmiri chili powder for milder | 4 chilies / 2 tsp Kashmiri | In the cube — TRPV1, clean capsaicin layer that fits the curry profile |
+| **Black garlic powder** | 1 tsp | 4 tsp (1⅓ tbsp) | In the cube — heat-stable SAC |
+| **White miso** (off-heat, after simmer) | 1 tbsp | 4 tbsp (¼ cup) | After simmer, before cubing — live LAB + fermented depth |
+| **Pea protein OR hemp hearts** | 2 tbsp | ½ cup (8 tbsp) | In the cube — satiety + protein boost |
+
+> **Thai chilies freeze whole in a labeled bag · 3–6 month stock · use direct from frozen (chop or blend without thawing).** Cross-link [freeze-system.md](./freeze-system.md) (Sheet 12).
+
 ## Method (~25 min)
 
 1. Pour coconut milk + curry paste (or spice base) + tamari + lime + salt + ginger into a saucepan. Whisk to combine.
@@ -35,33 +49,22 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 Label: `Coconut Curry — [date] — use by [date + 3 months]`. Yields ~16 cubes per single batch.
 
-## Optional Bio-Signal Stack (all opt-in)
+## Further Bio-Signal Variants (Beyond the Defaults)
 
-All optional — the base sauce works without any of them. Pick any subset; the "minimum recommended" upgrade is **black pepper + miso off-heat + rested garlic at the pan**.
+Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-signal-defaults) above. All optional — pick any subset based on flavor preference and what other cubes you're stacking that meal.
 
 ### In the cube (added before freezing)
 
 | Add | Per batch | Why |
 |---|---|---|
-| **Black pepper, coarse-cracked** | ½ tsp | Piperine — absorption multiplier, paired with turmeric for curcumin synergy |
-| Thai bird's-eye chili | 1 chili (whole, finely chopped) | TRPV1 — clean capsaicin layer, fits the curry profile better than sriracha |
-| Pea protein isolate | 2 tbsp | **Optional** — boosts satiety, slight texture change (mildly thicker cube) |
-| Hemp hearts (alternative to pea protein) | 2 tbsp | **Optional** — boosts satiety, adds omega-3 and slight nutty note |
-| Black garlic powder | 1 tsp | SAC — heat-stable sulfur signaling |
-| Smoked paprika | ½ tsp | Different capsaicinoid profile + smoky depth |
-
-### Off-heat (after simmer, before cubing)
-
-| Add | Per batch | Why |
-|---|---|---|
-| **White miso** | 1 tbsp | Whisk in **off-heat** — live LAB cultures + fermented depth · LAB dies above 130 °F |
+| Smoked paprika | ½ tsp | Different capsaicinoid profile + smoky depth (use if you want a smokier curry) |
 
 ## Day-of Additions (NOT in the cube)
 
 | Add | Per serving | Why |
 |---|---|---|
 | **Toasted sesame oil** | 1 tsp | Finishing oil only — aromatics smoke off above ~230 °F |
-| **Rested garlic cube** ([Sheet 12](./freeze-system.md)) | 1 cube | Raw allicin pulse — alliinase doesn't survive freezing or sustained heat |
+| **Rested garlic cube** ([Sheet 12](./freeze-system.md)) | 1 cube | Raw allicin pulse — alliinase doesn't survive freezing or sustained heat. Pull from freezer 10 min before cooking to partial-thaw — keeps the pan from cooling more than ~5 °F when added off-heat. See [freeze-system.md](./freeze-system.md). |
 | Fresh cilantro, torn | small handful | Volatile terpenes sublime in the freezer · plate-side only |
 | Lime wedge | 1 wedge | Citrus essential oils degrade > 3 weeks frozen — squeeze at the bowl |
 | Scallion, thin-sliced | as garnish | Allicin / aromatic top note |
@@ -72,17 +75,22 @@ All optional — the base sauce works without any of them. Pick any subset; the 
 
 The full quarterly batch is **8 cans of coconut milk** total, processed as **two Vitamix runs of 4× each**, combined for the simmer reduce.
 
-### Per Vitamix run (4×)
+### Per Vitamix run (4×) · Full 8× batch column
 
-| Ingredient | Per run (4×) | Notes |
-|---|---|---|
-| Full-fat coconut milk | 4 cans (~54 oz / ~1.6 L) | Bulk of the input volume |
-| Red curry paste | ½ cup (8 tbsp) | Or 4× the build-your-own spice base |
-| Tamari / soy sauce | ½ cup (8 tbsp) | — |
-| Lime juice | ½ cup (8 tbsp) | Fresh-squeezed best · bottled OK at this scale |
-| Salt | 2 tsp | Adjust after the combined reduce |
-| Fresh ginger paste | ¼ cup (4 tbsp) | — |
-| Arrowroot slurry | 4 tsp + ½ cup water | Whisked separately; added off-heat at the very end |
+| Ingredient | Per run (4×) | Full batch (8×) | Notes |
+|---|---|---|---|
+| Full-fat coconut milk | 4 cans (~54 oz / ~1.6 L) | 8 cans (~108 oz / ~3.2 L) | Bulk of the input volume |
+| Red curry paste | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Or 4× / 8× the build-your-own spice base |
+| Tamari / soy sauce | ½ cup (8 tbsp) | 1 cup (16 tbsp) | — |
+| Lime juice | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Fresh-squeezed best · bottled OK at this scale |
+| Salt | 2 tsp | 4 tsp | Adjust after the combined reduce |
+| Fresh ginger paste | ¼ cup (4 tbsp) | ½ cup (8 tbsp) | — |
+| Arrowroot slurry | 4 tsp + ½ cup water | 8 tsp + 1 cup water | Whisked separately; added off-heat at the very end |
+| **Black pepper, coarse-cracked** (default) | 2 tsp | 4 tsp (1⅓ tbsp) | Piperine multiplier |
+| **Thai bird's eye chilies, frozen** (default) | 4 chilies (or 2 tsp Kashmiri) | 8 chilies (or 4 tsp Kashmiri) | TRPV1 — direct from frozen, blend without thawing |
+| **Black garlic powder** (default) | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Heat-stable SAC |
+| **White miso** (default, off-heat) | ¼ cup (4 tbsp) | ½ cup (8 tbsp) | After simmer · preserves live LAB |
+| **Pea protein OR hemp hearts** (default) | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Satiety + protein boost |
 
 **Per-run input volume: ~7 cups** — comfortably inside a 64 oz Vitamix (8-cup) container with headroom for blending without splatter. **If your container is closer to 7 cups working capacity, split a single run into two halves and combine in the pot** rather than overfilling.
 
@@ -92,7 +100,7 @@ The full quarterly batch is **8 cans of coconut milk** total, processed as **two
 2. Pour **both runs** (~14 cups total) into a **6-qt pot** for the simmer reduce.
 3. Simmer 25–35 min uncovered — volume drops ~⅓ overall, sauce coats the back of a spoon.
 4. Whisk in the combined arrowroot slurry (8 tsp + 1 cup water). Cook 60–90 sec until glossy.
-5. Off heat. Whisk in 2 tbsp white miso if using. Cool fully.
+5. Off heat. Whisk in ½ cup (8 tbsp) white miso — default bio-signal, preserves live LAB. Cool fully.
 6. Portion ~1 tbsp per cell across mini ice cube trays.
 
 **Yield: ~96 mini cubes** ≈ ~3 months at one cube per curry-bowl meal (~8 meals / week).

@@ -35,6 +35,20 @@ Companion to the [Sesame Tofu Glaze](#sesame-tofu-glaze) protocol below.
 
 Total volume: ~20 tbsp → ~20 mini cubes at 1 tbsp / cell.
 
+## Recommended Bio-Signal Defaults
+
+**These ship in the cube by default** — whisked into the base sauce before freezing. The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
+
+| Ingredient | Single batch | 4× batch | Why |
+|---|---|---|---|
+| **Black pepper, coarse-cracked** | ½ tsp | 2 tsp | Piperine — absorption multiplier for every other bio-active in the meal |
+| **Turmeric, ground** | ¼ tsp | 1 tsp | Curcumin / Nrf2 pulse, paired with the pepper above |
+| **Black mustard seeds**, dry-toasted + ground | ½ tsp | 2 tsp | TRPA1 receptor + sulforaphane precursors |
+| **Sichuan peppercorn**, toasted + ground | ½ tsp | 2 tsp | KCNK channel modulation — mala numbing |
+| **Black garlic powder** | 1 tsp | 4 tsp (1⅓ tbsp) | SAC — heat-stable sulfur signaling |
+
+Add to the whisk in Method step 1 — fully dissolved before cubing.
+
 ## Method
 
 1. Whisk all base-sauce ingredients (and any in-cube optional add-ins) until the honey is fully dissolved.
@@ -42,20 +56,15 @@ Total volume: ~20 tbsp → ~20 mini cubes at 1 tbsp / cell.
 3. Freeze overnight uncovered. Transfer to a labeled bag once solid.
 4. Label: `Sesame Sauce — [date] — use by [date + 3 months]`.
 
-## Optional Bio-Signal Stack
+## Further Bio-Signal Variants (Beyond the Defaults)
 
-All optional — the base sauce works without any of them. Pick any subset; the "minimum recommended" upgrade is **black pepper + turmeric in the cube + rested garlic at the pan**.
+Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-signal-defaults) above. All optional — pick any subset based on flavor preference and what other cubes you're stacking that meal.
 
 ### In the cube (added before freezing)
 
 | Add | Per 4× batch | Why |
 |---|---|---|
-| **Black pepper, coarse-cracked** | 1 tsp | Piperine — absorption multiplier for every other bio-active in the meal. Also TRPV1 synergy with sriracha. |
-| Turmeric | ½ tsp | Curcumin / Nrf2 pulse, paired with the pepper. Doesn't visibly tint the sauce. |
-| Black mustard seeds (dry-toasted + ground) | 1 tsp | TRPA1 receptor + sulforaphane precursors |
-| Sichuan peppercorn (toasted + ground) | 1 tsp | KCNK channel modulation — mala numbing |
-| Black garlic powder | 1 tsp | SAC — heat-stable sulfur signaling |
-| Fresh ginger paste (Sheet 12 cubes) | 2 cubes | Pro-kinetic + warming aromatic |
+| Fresh ginger paste ([Sheet 12](./freeze-system.md) cubes) | 2 cubes | Pro-kinetic + warming aromatic |
 | Mushroom-based "oyster" sauce + 1 tbsp miso | (swap) | Drops the animal product without losing depth |
 
 ### Day-of (at the pan, NOT in the cube)
@@ -92,7 +101,7 @@ The companion recipe to the cubes. Pairs Sheet 07 tofu prep with the new cube. A
 | Clock | Action | Why |
 |---|---|---|
 | 00:00 | Tofu thawed + brined + pressed per [Sheet 07](./protocol-tofu.md). Cube slabs into 1″ pieces. | Extra-firm only · no gums |
-| 00:00 | Crush 2–3 garlic cloves · **rest 10 min** (or pull 1 rested garlic cube from Sheet 12) | Allicin formation — non-negotiable |
+| 00:00 | Crush 2–3 garlic cloves · **rest 10 min** OR pull 1 rested-garlic cube from freezer 10 min before cooking to partial-thaw — keeps the pan from cooling more than ~5 °F when added off-heat. See [freeze-system.md](./freeze-system.md). | Allicin formation — non-negotiable |
 | 00:01 | Air fryer 400 °F · 15–20 min · until crispy edges | OR pan-sear 60–90 sec/side in 2 tbsp avocado oil |
 | 00:15 | Pan on low — drop 2 sauce cubes + 2 tbsp water | Stir until cubes melt and glaze is glossy |
 | 00:17 | Add rested garlic cube · stir 30 sec **off-heat** | Off heat preserves allicin |
