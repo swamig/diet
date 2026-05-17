@@ -33,6 +33,7 @@ Designed for tofu, rice noodles, cabbage, broccoli, carrots, snap peas, and edam
 | Ingredient | Single batch | 4× run | 8× batch | Why |
 |---|---|---|---|---|
 | **Black pepper, coarse-cracked** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Piperine — absorption multiplier |
+| **Turmeric, ground** | ¼ tsp | 1 tsp | 2 tsp | Curcumin — Nrf2 pulse · paired with the pepper above (piperine boosts curcumin bioavailability ~10–20×) |
 | **Thai bird's eye chilies** (frozen, whole) | 4 chilies | 16 chilies | 32 chilies | TRPV1 — Pad Thai background heat layer |
 | **Black garlic powder** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | SAC — heat-stable sulfur |
 | **Smoked paprika** | 1 tsp | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Capsaicinoid diversity + carotenoids |
@@ -90,6 +91,7 @@ Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-s
 | Date paste (4 Medjool blended w/ 4 tbsp warm water) | **¼–½ cup** | Adjust to taste · sweeter end if PB is unsalted |
 | Hot water | **1–1¼ cups** | Start at 1 cup, add only if blender stalls |
 | **Black pepper, coarse-cracked** (default) | **4 tsp (1⅓ tbsp)** | Piperine multiplier |
+| **Turmeric, ground** (default) | **1 tsp** | Curcumin — Nrf2 · paired with pepper for 10–20× bioavailability |
 | **Thai bird's eye chilies, frozen whole** (default) | **16 chilies** | TRPV1 — direct from frozen, blend without thawing |
 | **Black garlic powder** (default) | **4 tsp (1⅓ tbsp)** | Heat-stable SAC |
 | **Smoked paprika** (default) | **4 tsp (1⅓ tbsp)** | Capsaicinoid diversity + carotenoids |
@@ -115,6 +117,7 @@ Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-s
 | Hot water | 2–2½ cups |
 | White miso | ½ cup (off-heat) |
 | **Black pepper, coarse-cracked** (default) | 8 tsp (~2¾ tbsp) |
+| **Turmeric, ground** (default) | 2 tsp |
 | **Thai bird's eye chilies, frozen whole** (default) | 32 chilies |
 | **Black garlic powder** (default) | 8 tsp (~2¾ tbsp) |
 | **Smoked paprika** (default) | 8 tsp (~2¾ tbsp) |

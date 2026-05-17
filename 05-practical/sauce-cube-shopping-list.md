@@ -79,7 +79,7 @@ Organized by pantry category. Each row aggregates across the three cubes; the **
 | Item | Amount | Breakdown |
 |---|---|---|
 | Coarse black pepper (whole peppercorns, crack fresh) | ~2 tsp ground worth | Sesame ½ + Coconut ½ + Peanut 1 — piperine absorption multiplier |
-| Turmeric (ground) | ¼ tsp | Sesame only · paired with the pepper for curcumin synergy |
+| Turmeric (ground) | ½ tsp | Sesame ¼ + Peanut ¼ — paired with black pepper for curcumin × 10–20 bioavailability |
 | Black mustard seeds (whole) | ½ tsp | Sesame only — dry-toast and grind |
 | Sichuan peppercorn (whole) | 1 tsp | Sesame ½ + Peanut ½ — toast and grind yourself |
 | Black garlic powder | 3 tsp | Sesame 1 + Coconut 1 + Peanut 1 — heat-stable SAC sulfur |
@@ -125,7 +125,7 @@ Organized by pantry category. Each row aggregates across the three cubes; the **
 | Arrowroot powder | **~8 tsp** | Coconut |
 | Sea salt | **~4 tbsp** | All three |
 | Coarse black pepper (whole) | **~⅓ cup ground worth** | All three |
-| Turmeric (ground) | **~1 tbsp** | Sesame |
+| Turmeric (ground) | **~3 tbsp** | Sesame ~1 tbsp + Peanut ~2 tsp |
 | Black mustard seeds (whole) | **~1 tbsp** | Sesame |
 | Sichuan peppercorn (whole) | **~1 tbsp** | Sesame + Peanut |
 | Black garlic powder | **~½ cup** | All three |
