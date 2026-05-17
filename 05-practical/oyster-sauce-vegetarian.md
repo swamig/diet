@@ -20,6 +20,7 @@ Drops straight into [Sesame Sauce Cubes](./sesame-sauce-cubes.md) as a 1:1 swap.
 | Soy sauce / tamari | ¼ cup | Tamari = gluten-free |
 | Date paste | 2 Medjool dates blended | Or 2 tbsp brown sugar, or 2 tbsp maple — date paste is the protocol default |
 | Rice vinegar | 1 tbsp | Unseasoned |
+| White or chickpea miso | 1 tbsp | **Off heat — whisk in after reduction** to preserve LAB cultures and fermented depth |
 | Arrowroot slurry | 1 tbsp + 2 tbsp water | Or cornstarch · arrowroot freezes cleaner |
 | Salt | ¼ tsp | Adjust to taste at the end of the reduce |
 
@@ -43,7 +44,6 @@ All optional — recipe works without any of them.
 | Layer | Add | Per batch | Why |
 |---|---|---|---|
 | **Free glutamate** | Strip of dried kombu | 1 × 2-inch strip | Steeped with shiitakes for an extra MSG-like umami punch. Pull before reducing. |
-| Fermented depth | White or chickpea miso | 1 tbsp | Whisk in after reduction (off heat — preserves live cultures) |
 | Piperine | Black pepper, fresh-cracked | ½ tsp | Absorption multiplier for the meal |
 | Star-anise note | Star anise (whole) | 1 point | Steeped with shiitakes · pull before blending |
 | Smoked depth | Black garlic powder | 1 tsp | SAC for heat-stable sulfur signaling |
