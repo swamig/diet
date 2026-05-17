@@ -39,6 +39,40 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 > **Thai chilies freeze whole in a labeled bag · 3–6 month stock · use direct from frozen (chop or blend without thawing).** Cross-link [freeze-system.md](./freeze-system.md) (Sheet 12).
 
+## Caribbean Variant (M/W/F Pulse Only)
+
+A capsaicin-pulse variant for M/W/F lift days. Swaps the Thai/Indian spice profile for Caribbean aromatics (allspice + thyme + nutmeg) and the Thai chili for ½ habanero. The lime **ZEST** is the antioxidant amplifier — adds water-soluble flavonoids (hesperidin, naringin) that recycle the lipid-phase capsaicinoids. Make a small parallel batch (~8 cubes), label distinctly, pull only on lift days.
+
+### Swap table
+
+| Layer | Default (base recipe) | Caribbean swap |
+|---|---|---|
+| Spice base | 2 tbsp red Thai curry paste OR build-your-own (turmeric + cumin + coriander + cardamom + cinnamon) | **Caribbean stack:** 1 tsp ground allspice · ½ tsp dried thyme · ½ tsp fresh-grated nutmeg · ¼ tsp ground cinnamon · ½ tsp ground ginger (in addition to fresh ginger paste) |
+| Chili | 1 Thai bird's eye chili (frozen) | **½ habanero** (fresh, finely minced OR ¼ tsp habanero powder) — ~3–5× Thai's Scoville |
+| Lime | 2 tbsp juice | 2 tbsp juice **+ 1 tsp lime zest** — adds hesperidin/naringin from peel for the water-soluble/lipid-soluble antioxidant network |
+| All else | Coconut milk, tamari, ginger paste, salt, miso, arrowroot, black pepper, black garlic | **Unchanged** |
+
+### Antioxidant amplification
+
+| Pathway | Source | Status |
+|---|---|---|
+| Nrf2 | Black garlic SAC + cinnamon | Strong |
+| TRPV1 / capsanthin lipid-phase | Habanero capsaicinoids | Peak |
+| AMPK | Ginger (2× load: fresh paste + dried) | Real |
+| Water + lipid antioxidant network | Lime peel flavonoids + capsaicinoids | **New amplification** — peel flavonoids recycle the lipid-phase antioxidants |
+| Eugenol antioxidants | Allspice + nutmeg | Moderate |
+
+### Frequency caveat
+
+> **~3–5× the capsaicin load of the default.** Per [Sheet 08's Midday Heat Pulse rule](../07-appendices/daily-timing-cheat-sheet.md#midday-heat-pulse--garlic--capsaicin-cadence-1200), this variant is **M/W/F (lift days) only**, OR Week 3 vascular peak. Default coconut cubes stay daily-eligible — make this as a small parallel batch (~8 cubes), label `Coconut · Caribbean`, and keep the bag visually separate from the daily cube bag.
+
+### Pairings
+
+- Roasted sweet potato + black beans (anthocyanin stacks with lime flavonoids)
+- Cauliflower steaks with chickpeas
+- Coconut rice + black bean cooking liquid (cyanidin-3-glucoside × hesperidin)
+- Plantains
+
 ## Method (~25 min)
 
 1. Pour coconut milk + curry paste (or spice base) + tamari + lime + salt + ginger into a saucepan. Whisk to combine.

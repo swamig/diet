@@ -57,6 +57,7 @@ After brine, press briefly — 5 minutes with a clean towel and a heavy pan on t
 The porous post-freeze, post-brine structure absorbs marinade in **15–20 minutes** (vs. hours for unfreeze tofu). Simple options:
 - **Tamari + ginger cube + ACV** — 2 tbsp tamari, 1 ginger cube (melted), 1 tsp ACV, 15 min
 - **Dry rub** — protocol spice mix (turmeric, cumin, coriander, Kashmiri chili) rubbed directly onto slab before sear — no wait time needed
+- **Miso Glaze** — 1 tbsp white miso + 1 tbsp tamari + 1 tsp ACV + 1 ginger cube (melted), brushed on slabs, marinate 15 min. Miso adds fermented depth and LAB cultures into the brush layer — distinct from the tamari marinade.
 
 ---
 

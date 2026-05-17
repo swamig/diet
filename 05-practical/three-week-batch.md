@@ -143,6 +143,7 @@ The 15–20 second bloom is calibrated to extract the alkaloid fraction into the
 | Lemon juice (**Acid Lock — critical**) | 4 tbsp |
 | Black salt (kala namak) | 1 tsp |
 | Roasted cumin powder | 1 tsp |
+| White miso | 1 tbsp — **add OFF HEAT at end of blending** so LAB cultures survive (Sunday prep never crosses 130°F anyway) |
 
 **Avocado source:** commercially frozen (check label — ascorbic acid or citric acid only; reject if sodium metabisulfite or sulfites present). Alternatively: cube fresh ripe avocado, toss in 1 tsp lemon juice, freeze flat on parchment — no additives.
 
